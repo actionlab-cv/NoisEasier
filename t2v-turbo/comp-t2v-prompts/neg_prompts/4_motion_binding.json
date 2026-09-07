@@ -1,0 +1,3002 @@
+[
+  {
+    "type": "motion_binding",
+    "prompt": "A cat slinking to the left side of a cozy living room",
+    "id": "0001",
+    "negative_prompt": [
+      "A cat slinking to the right side of a cozy living room",
+      "A cat slinking to the front side of a cozy living room",
+      "A cat slinking to the back side of a cozy living room",
+      "A cat slinking to the center of a cozy living room",
+      "A dog slinking to the left side of a cozy living room",
+      "A mouse slinking to the left side of a cozy living room",
+      "A bird slinking to the left side of a cozy living room",
+      "An elephant slinking to the left side of a cozy living room"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A golden retriever scampering leftwards across a garden",
+    "id": "0002",
+    "negative_prompt": [
+      "A golden retriever scampering rightwards across a garden",
+      "A golden retriever scampering upwards across a garden",
+      "A golden retriever scampering downwards across a garden",
+      "A golden retriever scampering forwards across a garden",
+      "A golden retriever scampering backwards across a garden",
+      "A cat scampering leftwards across a garden",
+      "A snake scampering leftwards across a garden",
+      "An elephant scampering leftwards across a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A squirrel darting leftwards in a garden",
+    "id": "0003",
+    "negative_prompt": [
+      "A squirrel darting rightwards in a garden",
+      "A squirrel darting upwards in a garden",
+      "A squirrel darting downwards in a garden",
+      "A squirrel darting backwards in a garden",
+      "A cat darting leftwards in a garden",
+      "A dog darting leftwards in a garden",
+      "A car darting leftwards in a garden",
+      "A building darting leftwards in a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A boat sails to the left on the ocean",
+    "id": "0004",
+    "negative_prompt": [
+      "A boat sails to the right on the ocean",
+      "A boat sails to the north on the ocean",
+      "A boat sails to the east on the ocean",
+      "A boat sails to the south on the ocean",
+      "A car sails to the left on the ocean",
+      "A plane sails to the left on the ocean",
+      "A house sails to the left on the ocean",
+      "A whale sails to the left on the ocean"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A rabbit hops from left to right in a garden",
+    "id": "0005",
+    "negative_prompt": [
+      "A rabbit hops from right to left in a garden",
+      "A squirrel hops from left to right in a garden",
+      "A rabbit hops upwards in a garden",
+      "A frog hops from left to right in a garden",
+      "A rabbit hops backwards in a garden",
+      "A mouse hops from left to right in a garden",
+      "A rabbit hops in a circle in a garden",
+      "A dog hops from left to right in a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A drone flies leftwards while a bird swoops rightwards",
+    "id": "0006",
+    "negative_prompt": [
+      "A drone flies rightwards while a bird swoops rightwards",
+      "A drone flies upwards while a bird swoops rightwards",
+      "A plane flies leftwards while a bird swoops rightwards",
+      "A helicopter flies leftwards while a bird swoops rightwards",
+      "A drone flies leftwards while a bird swoops leftwards",
+      "A drone flies leftwards while a bird swoops downwards",
+      "A drone flies leftwards while a butterfly swoops rightwards",
+      "A drone flies leftwards while an insect swoops rightwards"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A ball rolls left while a puppy dashes right",
+    "id": "0007",
+    "negative_prompt": [
+      "A ball rolls right while a puppy dashes right",
+      "A ball rolls left while a puppy dashes left",
+      "A cube rolls left while a puppy dashes right",
+      "A ball rolls left while a kitten dashes right",
+      "A ball rolls up while a puppy dashes right",
+      "A ball rolls left while a puppy dashes down",
+      "A rock rolls left while a puppy dashes right",
+      "A ball rolls left while a robot dashes right"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cat walks from left to right on a table",
+    "id": "0008",
+    "negative_prompt": [
+      "A cat walks from right to left on a table",
+      "A cat walks from front to back on a table",
+      "A cat walks in circles on a table",
+      "A cat walks diagonally on a table",
+      "A dog walks from left to right on a table",
+      "A chicken walks from left to right on a table",
+      "A squirrel walks from left to right on a table",
+      "A rabbit walks from left to right on a table"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cyclist pedals from the left side to the right side on a street",
+    "id": "0009",
+    "negative_prompt": [
+      "A cyclist pedals from the right side to the left side on a street",
+      "A cyclist pedals from the top side to the bottom side on a street",
+      "A cyclist pedals from the bottom side to the top side on a street",
+      "A cyclist pedals from the front side to the back side on a street",
+      "A cyclist pedals from the left side to the right side on a sidewalk",
+      "A cyclist pedals from the left side to the right side on a path",
+      "A cyclist pedals from the left side to the right side on a bridge",
+      "A cyclist pedals from the left side to the right side on a dirt road"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fish swims across the coral from left to right in the sea",
+    "id": "0010",
+    "negative_prompt": [
+      "A fish swims across the coral from right to left in the sea",
+      "A bird swims across the coral from left to right in the sea",
+      "A fish swims across the coral up and down in the sea",
+      "A boat swims across the coral from left to right in the sea",
+      "A fish swims across the coral in circles in the sea",
+      "A fish swims across the mountain from left to right in the sea",
+      "A fish swims across the coral back and forth in the sea",
+      "A fish swims across the coral from left to right in the sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A kite flies left to right on a windy day",
+    "id": "0011",
+    "negative_prompt": [
+      "A kite flies right to left on a windy day",
+      "A bird flies left to right on a windy day",
+      "A kite flies upwards on a windy day",
+      "A plane flies left to right on a windy day",
+      "A kite flies downwards on a windy day",
+      "A balloon flies left to right on a windy day",
+      "A kite flies in circles on a windy day",
+      "A leaf flies left to right on a windy day"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An elderly man walking slowly to the right in a sunny park",
+    "id": "0012",
+    "negative_prompt": [
+      "A young woman walking slowly to the right in a sunny park",
+      "A child walking slowly to the right in a sunny park",
+      "A group of people walking slowly to the right in a sunny park",
+      "A powerful man walking slowly to the right in a sunny park",
+      "An elderly man walking slowly to the left in a sunny park",
+      "An elderly man walking slowly away from the camera in a sunny park",
+      "An elderly man walking slowly towards the camera in a sunny park",
+      "An elderly man walking slowly backwards in a sunny park"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A soccer ball being kicked hard to the right",
+    "id": "0013",
+    "negative_prompt": [
+      "A soccer ball being kicked hard to the left",
+      "A soccer ball being kicked hard upwards",
+      "A soccer ball being kicked hard downwards",
+      "A soccer ball being kicked hard forwards",
+      "A soccer ball being kicked hard backwards",
+      "A basketball being kicked hard to the right",
+      "A football being kicked hard to the right",
+      "A tennis ball being kicked hard to the right"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A paper airplane gliding to the right across a classroom",
+    "id": "0014",
+    "negative_prompt": [
+      "A paper airplane gliding to the left across a classroom",
+      "A paper airplane gliding upwards across a classroom",
+      "A paper airplane gliding downwards across a classroom",
+      "A paper airplane gliding backwards across a classroom",
+      "A metal airplane gliding to the right across a classroom",
+      "A kite gliding to the right across a classroom",
+      "A frisbee gliding to the right across a classroom",
+      "A drone gliding to the right across a classroom"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A frisbee flying right towards a waiting dog in a park",
+    "id": "0015",
+    "negative_prompt": [
+      "A frisbee flying left towards a waiting dog in a park",
+      "A ball flying right towards a waiting dog in a park",
+      "A frisbee flying away from a waiting dog in a park",
+      "A frisbee flying right towards a waiting cat in a park",
+      "A frisbee flying upwards from a waiting dog in a park",
+      "A stick flying right towards a waiting dog in a park",
+      "A frisbee flying downwards from a waiting dog in a park",
+      "A frisbee flying right towards a waiting person in a park"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A balloon drifts left to right above a statue in a city square",
+    "id": "0016",
+    "negative_prompt": [
+      "A balloon drifts right to left above a statue in a city square",
+      "A balloon drifts upwards above a statue in a city square",
+      "A balloon drifts downwards above a statue in a city square",
+      "A balloon drifts back and forth above a statue in a city square",
+      "A bird drifts left to right above a statue in a city square",
+      "A kite drifts left to right above a statue in a city square",
+      "A drone drifts left to right above a statue in a city square",
+      "A plastic bag drifts left to right above a statue in a city square"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fox sneaks past a sleeping dog from right to the left in the forest",
+    "id": "0017",
+    "negative_prompt": [
+      "A fox sneaks past a sleeping dog from left to the right in the forest",
+      "A fox sneaks past a sleeping dog upwards in the forest",
+      "A fox sneaks past a sleeping dog downwards in the forest",
+      "A rabbit sneaks past a sleeping dog from right to the left in the forest",
+      "A wolf sneaks past a sleeping dog from right to the left in the forest",
+      "A fox sneaks past a sleeping cat from right to the left in the forest",
+      "A fox sneaks past a sleeping bear from right to the left in the forest",
+      "A fox sneaks past a sleeping dog from right to the left in the desert"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A deer runs leftward through the forest, an owl flies rightward above",
+    "id": "0018",
+    "negative_prompt": [
+      "A deer runs rightward through the forest, an owl flies rightward above",
+      "A deer runs leftward through the forest, an owl flies leftward above",
+      "A bear runs leftward through the forest, an owl flies rightward above",
+      "A deer runs leftward through the forest, an eagle flies rightward above",
+      "A deer runs leftward through the desert, an owl flies rightward above",
+      "A deer runs upward through the forest, an owl flies rightward above",
+      "A deer runs leftward through the forest, an owl flies downward above",
+      "A lion runs leftward through the forest, an owl flies rightward above"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A red balloon guadually ascending above a crowded festival",
+    "id": "0019",
+    "negative_prompt": [
+      "A red balloon guadually descending above a crowded festival",
+      "A red balloon guadually falling above a crowded festival",
+      "A red balloon guadually drifting horizontally above a crowded festival",
+      "A red balloon remaining stationary above a crowded festival",
+      "A red stone guadually ascending above a crowded festival",
+      "A red airplane guadually ascending above a crowded festival",
+      "A red cloud guadually ascending above a crowded festival",
+      "A red balloon guadually ascending above a deserted festival"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A drone ascending towards the clouds",
+    "id": "0020",
+    "negative_prompt": [
+      "A drone descending towards the clouds",
+      "A drone hovering towards the clouds",
+      "A drone stalling towards the clouds",
+      "A drone crashing towards the clouds",
+      "An airplane ascending towards the clouds",
+      "A bird ascending towards the clouds",
+      "A helicopter ascending towards the clouds",
+      "A rocket ascending towards the clouds"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A balloon slowly ascending at an outdoor birthday party",
+    "id": "0021",
+    "negative_prompt": [
+      "A balloon slowly descending at an outdoor birthday party",
+      "A balloon slowly falling at an outdoor birthday party",
+      "A balloon slowly floating still at an outdoor birthday party",
+      "A balloon slowly moving horizontally at an outdoor birthday party",
+      "A kite slowly ascending at an outdoor birthday party",
+      "A blimp slowly ascending at an outdoor birthday party",
+      "A drone slowly ascending at an outdoor birthday party",
+      "A lantern slowly ascending at an outdoor birthday party"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A bird flies upwards in a garden",
+    "id": "0022",
+    "negative_prompt": [
+      "A bird flies downwards in a garden",
+      "A bird flies sideways in a garden",
+      "A bird flies forwards in a garden",
+      "A bird flies backwards in a garden",
+      "A cat flies upwards in a garden",
+      "A dog flies upwards in a garden",
+      "A fish flies upwards in a garden",
+      "A plane flies upwards in a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "Wind gust lifts a kite into the sky",
+    "id": "0023",
+    "negative_prompt": [
+      "Wind gust drops a kite from the sky",
+      "Wind gust lifts a rock into the sky",
+      "Wind gust drags a kite along the ground",
+      "Wind gust lifts a boat into the sky",
+      "Wind gust pushes a kite downwards",
+      "Wind gust lifts a tree into the sky",
+      "Wind gust presses a kite to the ground",
+      "Wind gust lifts a house into the sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A butterfly gracefully ascends and a stone is dropped into a tranquil pond",
+    "id": "0024",
+    "negative_prompt": [
+      "A butterfly gracefully descends and a stone is dropped into a tranquil pond",
+      "A butterfly gracefully ascends and a stone is lifted from a tranquil pond",
+      "A moth gracefully ascends and a stone is dropped into a tranquil pond",
+      "A butterfly gracefully ascends and a feather is dropped into a tranquil pond",
+      "A butterfly gracefully ascends and a stone is dropped into a tranquil river",
+      "A butterfly gracefully hovers and a stone is dropped into a tranquil pond",
+      "A bee gracefully ascends and a stone is dropped into a tranquil pond",
+      "A butterfly gracefully ascends and a log is dropped into a tranquil pond"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A squirrel climbs upward on a tree",
+    "id": "0025",
+    "negative_prompt": [
+      "A squirrel climbs downward on a tree",
+      "A squirrel climbs sideward on a tree",
+      "A cat climbs upward on a tree",
+      "A dog climbs upward on a tree",
+      "A bird climbs upward on a tree",
+      "A squirrel climbs upward on a wall",
+      "A squirrel climbs upward on a pole",
+      "A squirrel climbs upward on a ladder"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A skateboard descending a steep ramp at a skate park",
+    "id": "0026",
+    "negative_prompt": [
+      "A skateboard ascending a steep ramp at a skate park",
+      "A skateboard climbing a steep ramp at a skate park",
+      "A skateboard idle on a steep ramp at a skate park",
+      "A skateboard parked on a steep ramp at a skate park",
+      "A bicycle descending a steep ramp at a skate park",
+      "A scooter descending a steep ramp at a skate park",
+      "A car descending a steep ramp at a skate park",
+      "A surfboard descending a steep ramp at a skate park"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A building block slides down from a slope",
+    "id": "0027",
+    "negative_prompt": [
+      "A building block slides up a slope",
+      "A building block slides across a slope",
+      "A building block slides into a slope",
+      "A building block slides away from a slope",
+      "A feather slides down from a slope",
+      "A cloud slides down from a slope",
+      "Water slides down from a slope",
+      "A bird slides down from a slope"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "Sled slides down a snowy hill",
+    "id": "0028",
+    "negative_prompt": [
+      "Car slides down a snowy hill",
+      "Boat slides down a snowy hill",
+      "Bird slides down a snowy hill",
+      "Ball slides down a snowy hill",
+      "Sled slides up a snowy hill",
+      "Sled slides across a snowy hill",
+      "Sled slides around a snowy hill",
+      "Sled slides off a snowy hill"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An apple falling downwards from a tree in an orchard",
+    "id": "0029",
+    "negative_prompt": [
+      "An apple falling upwards from a tree in an orchard",
+      "An apple falling sideways from a tree in an orchard",
+      "An apple falling horizontally from a tree in an orchard",
+      "An apple falling outwards from a tree in an orchard",
+      "An orange falling downwards from a tree in an orchard",
+      "A rock falling downwards from a tree in an orchard",
+      "A leaf falling downwards from a tree in an orchard",
+      "A pear falling downwards from a tree in an orchard"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A penny dropping downwards into a wishing well",
+    "id": "0030",
+    "negative_prompt": [
+      "A penny dropping upwards into a wishing well",
+      "A feather dropping downwards into a wishing well",
+      "A penny dropping sideways into a wishing well",
+      "A penny dropping downwards into a puddle",
+      "A penny dropping forwards into a wishing well",
+      "A dollar bill dropping downwards into a wishing well",
+      "A penny dropping backwards into a wishing well",
+      "A penny dropping downwards into a bucket"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "Book falls off a shelf",
+    "id": "0031",
+    "negative_prompt": [
+      "Book falls on a shelf",
+      "Book falls onto a shelf",
+      "Book falls into a shelf",
+      "Rock falls off a shelf",
+      "Feather falls off a shelf",
+      "Pencil falls off a shelf",
+      "Book falls off a floor",
+      "Book falls off a table"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A leaf gently descending from a tree in autumn",
+    "id": "0032",
+    "negative_prompt": [
+      "A leaf gently ascending from a tree in autumn",
+      "A leaf gently moving sideways from a tree in autumn",
+      "A leaf gently hovering from a tree in autumn",
+      "A stone gently descending from a tree in autumn",
+      "A bird gently descending from a tree in autumn",
+      "A flower gently descending from a tree in autumn",
+      "A fruit gently descending from a tree in autumn",
+      "A branch gently descending from a tree in autumn"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A mouse darts rightward across a kitchen floor beneath a chair",
+    "id": "0033",
+    "negative_prompt": [
+      "A mouse darts leftward across a kitchen floor beneath a chair",
+      "A mouse darts backward across a kitchen floor beneath a chair",
+      "A mouse darts sideways across a kitchen floor beneath a chair",
+      "An elephant darts rightward across a kitchen floor beneath a chair",
+      "A cat darts rightward across a kitchen floor beneath a chair",
+      "A dog darts rightward across a kitchen floor beneath a chair",
+      "A mouse darts rightward across a kitchen floor beneath a table",
+      "A mouse darts rightward across a kitchen floor beneath a bed"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A submarine descends into the ocean",
+    "id": "0034",
+    "negative_prompt": [
+      "A submarine ascends into the ocean",
+      "A submarine rises into the ocean",
+      "A submarine floats into the ocean",
+      "A submarine surfaces into the ocean",
+      "A boat descends into the ocean",
+      "A ship descends into the ocean",
+      "A whale descends into the ocean",
+      "A fish descends into the ocean"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cat slinking to the right side of a living room",
+    "id": "0035",
+    "negative_prompt": [
+      "A cat slinking to the left side of a living room",
+      "A cat slinking to the front side of a living room",
+      "A cat slinking to the back side of a living room",
+      "A cat slinking to the center of a living room",
+      "A dog slinking to the right side of a living room",
+      "A bird slinking to the right side of a living room",
+      "A snake slinking to the right side of a living room",
+      "A rabbit slinking to the right side of a living room"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A golden retriever scampering rightwards across a garden",
+    "id": "0036",
+    "negative_prompt": [
+      "A golden retriever scampering leftwards across a garden",
+      "A golden retriever scampering upwards across a garden",
+      "A golden retriever scampering downwards across a garden",
+      "A golden retriever scampering backwards across a garden",
+      "A cat scampering rightwards across a garden",
+      "A rabbit scampering rightwards across a garden",
+      "A squirrel scampering rightwards across a garden",
+      "A fox scampering rightwards across a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A squirrel darting rightwards in a garden",
+    "id": "0037",
+    "negative_prompt": [
+      "A squirrel darting leftwards in a garden",
+      "A cat darting rightwards in a garden",
+      "A squirrel darting upwards in a garden",
+      "A bird darting rightwards in a garden",
+      "A squirrel darting downwards in a garden",
+      "A rabbit darting rightwards in a garden",
+      "A squirrel darting backwards in a garden",
+      "A mouse darting rightwards in a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A boat sails to the right on the ocean",
+    "id": "0038",
+    "negative_prompt": [
+      "A boat sails to the left on the ocean",
+      "A boat sails backwards on the ocean",
+      "A boat sails upwards on the ocean",
+      "A boat sails downwards on the ocean",
+      "A car sails to the right on the ocean",
+      "A plane sails to the right on the ocean",
+      "A bicycle sails to the right on the ocean",
+      "A rock sails to the right on the ocean"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A rabbit hops from right to left in a garden",
+    "id": "0039",
+    "negative_prompt": [
+      "A rabbit hops from left to right in a garden",
+      "A frog hops from right to left in a garden",
+      "A squirrel hops from right to left in a garden",
+      "A kangaroo hops from right to left in a garden",
+      "A bird hops from right to left in a garden",
+      "A cat hops from right to left in a garden",
+      "A dog hops from right to left in a garden",
+      "A grasshopper hops from right to left in a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A drone flies rightwards in the sky",
+    "id": "0040",
+    "negative_prompt": [
+      "A drone flies leftwards in the sky",
+      "An airplane flies rightwards in the sky",
+      "A drone flies upwards in the sky",
+      "A bird flies rightwards in the sky",
+      "A drone flies downwards in the sky",
+      "A helicopter flies rightwards in the sky",
+      "A drone flies backwards in the sky",
+      "A rocket flies rightwards in the sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A ball rolls right while a puppy dashes left",
+    "id": "0041",
+    "negative_prompt": [
+      "A rock rolls right while a puppy dashes left",
+      "A ball rolls up while a puppy dashes left",
+      "A ball rolls right while a cat dashes left",
+      "A ball rolls right while a puppy dashes right",
+      "A car rolls right while a puppy dashes left",
+      "A ball rolls down while a puppy dashes left",
+      "A ball rolls right while a bird dashes left",
+      "A ball rolls right while a puppy dashes up"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cat walks from right to left on a table",
+    "id": "0042",
+    "negative_prompt": [
+      "A cat walks from left to right on a table",
+      "A cat walks upwards on a table",
+      "A cat walks downwards on a table",
+      "A dog walks from right to left on a table",
+      "A bird walks from right to left on a table",
+      "A mouse walks from right to left on a table",
+      "A cat walks from right to left on a chair",
+      "A cat walks from right to left on a floor"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cyclist pedals from the right side to the left side on a street",
+    "id": "0043",
+    "negative_prompt": [
+      "A cyclist pedals from the left side to the right side on a street",
+      "A cyclist pedals from the top side to the bottom side on a street",
+      "A cyclist pedals from the back to the front on a street",
+      "A car pedals from the right side to the left side on a street",
+      "A dog pedals from the right side to the left side on a street",
+      "A motorcycle pedals from the right side to the left side on a street",
+      "A child pedals from the right side to the left side on a street",
+      "An elderly person pedals from the right side to the left side on a street"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fish swims from right to left in the sea",
+    "id": "0044",
+    "negative_prompt": [
+      "A fish swims from left to right in the sea",
+      "A fish swims upwards in the sea",
+      "A fish swims downwards in the sea",
+      "A fish swims in circles in the sea",
+      "A fish swims away from the viewer in the sea",
+      "A jellyfish swims from right to left in the sea",
+      "A squid swims from right to left in the sea",
+      "A crab swims from right to left in the sea"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A robot vacuum is sweeping the floor from left to right",
+    "id": "0045",
+    "negative_prompt": [
+      "A robot vacuum is sweeping the floor from right to left",
+      "A robot vacuum is sweeping the floor from top to bottom",
+      "A robot vacuum is sweeping the floor in circles",
+      "A robot vacuum is sweeping the floor randomly",
+      "A broom is sweeping the floor from left to right",
+      "A mop is sweeping the floor from left to right",
+      "A leaf blower is sweeping the floor from left to right",
+      "A dog is sweeping the floor from left to right"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A robot vacuum is sweeping the floor from right to left",
+    "id": "0046",
+    "negative_prompt": [
+      "A robot vacuum is sweeping the floor from left to right",
+      "A robot vacuum is sweeping the floor upwards",
+      "A robot vacuum is sweeping the floor downwards",
+      "A robot vacuum is sweeping the floor in circles",
+      "A robot vacuum is sweeping the floor backwards",
+      "A robot vacuum is sweeping the floor straight ahead",
+      "A broom is sweeping the floor from right to left",
+      "A vacuum cleaner is sweeping the floor from right to left"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A drone is gradually descending to the ground in a park",
+    "id": "0047",
+    "negative_prompt": [
+      "A drone is gradually ascending to the ground in a park",
+      "A drone is gradually rising to the ground in a park",
+      "A drone is gradually hovering to the ground in a park",
+      "A drone is gradually climbing to the ground in a park",
+      "A kite is gradually descending to the ground in a park",
+      "A bird is gradually descending to the ground in a park",
+      "A plane is gradually descending to the ground in a park",
+      "A hot air balloon is gradually descending to the ground in a park"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A kite flies right to left on a windy day",
+    "id": "0048",
+    "negative_prompt": [
+      "A plane flies right to left on a windy day",
+      "A bird flies right to left on a windy day",
+      "A drone flies right to left on a windy day",
+      "A leaf flies right to left on a windy day",
+      "A kite flies left to right on a windy day",
+      "A kite flies upwards on a windy day",
+      "A kite flies downwards on a windy day",
+      "A kite flies in circles on a windy day"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An elderly man walking slowly to the left in a sunny park",
+    "id": "0049",
+    "negative_prompt": [
+      "A young woman walking slowly to the left in a sunny park",
+      "A child walking slowly to the left in a sunny park",
+      "A group of people walking slowly to the left in a sunny park",
+      "A young man walking slowly to the left in a sunny park",
+      "An elderly man walking slowly to the right in a sunny park",
+      "An elderly man walking slowly forward in a sunny park",
+      "An elderly man walking slowly backward in a sunny park",
+      "An elderly man walking slowly away from the viewer in a sunny park"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A soccer ball being kicked hard to the left",
+    "id": "0050",
+    "negative_prompt": [
+      "A soccer ball being kicked hard to the right",
+      "A basketball being kicked hard to the left",
+      "A soccer ball being kicked hard upwards",
+      "A tennis ball being kicked hard to the left",
+      "A soccer ball being kicked hard downwards",
+      "A football being kicked hard to the left",
+      "A soccer ball being kicked hard forwards",
+      "A golf ball being kicked hard to the left"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A paper airplane gliding to the left across a classroom",
+    "id": "0051",
+    "negative_prompt": [
+      "A paper airplane gliding to the right across a classroom",
+      "A paper airplane gliding upwards across a classroom",
+      "A paper airplane gliding downwards across a classroom",
+      "A paper airplane gliding straight across a classroom",
+      "A brick gliding to the left across a classroom",
+      "A feather gliding to the left across a classroom",
+      "A car gliding to the left across a classroom",
+      "A bird gliding to the left across a classroom"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A frisbee flying left towards a waiting dog in a park",
+    "id": "0052",
+    "negative_prompt": [
+      "A frisbee flying right towards a waiting dog in a park",
+      "A frisbee flying up towards a waiting dog in a park",
+      "A frisbee flying away from a waiting dog in a park",
+      "A frisbee flying down towards a waiting dog in a park",
+      "A ball flying left towards a waiting dog in a park",
+      "A stick flying left towards a waiting dog in a park",
+      "A frisbee flying left towards a waiting cat in a park",
+      "A frisbee flying left towards a waiting person in a park"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A balloon drifts right to left above a statue in a city square",
+    "id": "0053",
+    "negative_prompt": [
+      "A balloon drifts left to right above a statue in a city square",
+      "A balloon drifts upwards above a statue in a city square",
+      "A balloon drifts downwards above a statue in a city square",
+      "A rock drifts right to left above a statue in a city square",
+      "A plane drifts right to left above a statue in a city square",
+      "A car drifts right to left above a statue in a city square",
+      "A balloon drifts right to left above a tree in a city square",
+      "A balloon drifts right to left above a fountain in a city square"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A deer runs rightwards through the forest, an owl flies leftwards above",
+    "id": "0054",
+    "negative_prompt": [
+      "A deer runs leftwards through the forest, an owl flies leftwards above",
+      "A deer runs rightwards through the forest, an owl flies rightwards above",
+      "A bear runs rightwards through the forest, an owl flies leftwards above",
+      "A deer runs rightwards through the forest, a hawk flies leftwards above",
+      "A deer runs rightwards through the desert, an owl flies leftwards above",
+      "A deer runs backwards through the forest, an owl flies leftwards above",
+      "A deer runs rightwards through the forest, an owl flies downwards above",
+      "A rabbit runs rightwards through the forest, an owl flies leftwards above"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A firefly moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end",
+    "id": "0055",
+    "negative_prompt": [
+      "A firefly moving smoothly from the left side of the screen to the right side, disappearing upon reaching the left end",
+      "A firefly moving smoothly from the bottom side of the screen to the top side, disappearing upon reaching the left end",
+      "A firefly moving smoothly diagonally from the bottom left side of the screen to the top right side, disappearing upon reaching the left end",
+      "A firefly moving smoothly from the top side of the screen to the bottom side, disappearing upon reaching the left end",
+      "A brick moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end",
+      "An airplane moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end",
+      "A whale moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end",
+      "A cloud moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A firefly moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end",
+    "id": "0056",
+    "negative_prompt": [
+      "A firefly moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end",
+      "A firefly moving smoothly from the top side of the screen to the bottom side, disappearing upon reaching the bottom end",
+      "A firefly moving smoothly from the bottom side of the screen to the top side, disappearing upon reaching the top end",
+      "A firefly moving smoothly in a circular path in the center of the screen, not disappearing",
+      "A bus moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end",
+      "A spaceship moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end",
+      "A penguin moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end",
+      "A rock moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car driving left to right on the moon",
+    "id": "0057",
+    "negative_prompt": [
+      "A car driving right to left on the moon",
+      "A bicycle driving left to right on the moon",
+      "A car driving up to down on the moon",
+      "A truck driving left to right on the moon",
+      "A car driving down to up on the moon",
+      "A motorcycle driving left to right on the moon",
+      "A car driving in circles on the moon",
+      "A scooter driving left to right on the moon"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car driving right to left on the moon",
+    "id": "0058",
+    "negative_prompt": [
+      "A car driving left to right on the moon",
+      "A bicycle driving right to left on the moon",
+      "A car driving top to bottom on the moon",
+      "A truck driving right to left on the moon",
+      "A car driving bottom to top on the moon",
+      "A motorcycle driving right to left on the moon",
+      "A car driving backward on the moon",
+      "A tank driving right to left on the moon"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A robot walking from left to right in a factory",
+    "id": "0059",
+    "negative_prompt": [
+      "A robot walking from right to left in a factory",
+      "A dog walking from left to right in a factory",
+      "A robot walking backwards in a factory",
+      "A car walking from left to right in a factory",
+      "A robot walking in a circle in a factory",
+      "A tree walking from left to right in a factory",
+      "A robot walking upwards in a factory",
+      "A cloud walking from left to right in a factory"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A robot walking from right to left in a factory",
+    "id": "0060",
+    "negative_prompt": [
+      "A robot walking from left to right in a factory",
+      "A robot standing still in a factory",
+      "A robot walking forwards in a factory",
+      "A robot walking backwards in a factory",
+      "A human walking from right to left in a factory",
+      "A dog walking from right to left in a factory",
+      "A car driving from right to left in a factory",
+      "A crane moving from right to left in a factory"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A flower floats left to right by the flowing stream",
+    "id": "0061",
+    "negative_prompt": [
+      "A flower floats right to left by the flowing stream",
+      "A rock floats left to right by the flowing stream",
+      "A flower floats up to down by the flowing stream",
+      "A flower floats left to right by the flowing ocean",
+      "A flower floats down to up by the flowing stream",
+      "A coin floats left to right by the flowing stream",
+      "A flower floats in place by the flowing stream",
+      "A flower floats left to right by the flowing puddle"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A flower floats right to left by the flowing stream",
+    "id": "0062",
+    "negative_prompt": [
+      "A flower floats left to right by the flowing stream",
+      "A flower floats up to down by the flowing stream",
+      "A flower floats motionlessly by the flowing stream",
+      "A flower floats statically by the flowing stream",
+      "A rock floats right to left by the flowing stream",
+      "A leaf floats right to left by the flowing stream",
+      "A stick floats right to left by the flowing stream",
+      "A boat floats right to left by the flowing stream"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A football rolling from the left to the right on the grass",
+    "id": "0063",
+    "negative_prompt": [
+      "A football rolling from the right to the left on the grass",
+      "A football rolling towards the camera on the grass",
+      "A football rolling away from the camera on the grass",
+      "A football rolling in a circle on the grass",
+      "A basketball rolling from the left to the right on the grass",
+      "A bowling ball rolling from the left to the right on the grass",
+      "A can rolling from the left to the right on the grass",
+      "A log rolling from the left to the right on the grass"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A football rolling from the right to the left on the grass",
+    "id": "0064",
+    "negative_prompt": [
+      "A football rolling from the left to the right on the grass",
+      "A basketball rolling from the right to the left on the grass",
+      "A football rolling from the top to the bottom on the grass",
+      "A volleyball rolling from the right to the left on the grass",
+      "A football rolling from the bottom to the top on the grass",
+      "A tennis ball rolling from the right to the left on the grass",
+      "A football rolling from the back to the front on the grass",
+      "A golf ball rolling from the right to the left on the grass"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A sailboat sails from right to left across the blue waters",
+    "id": "0065",
+    "negative_prompt": [
+      "A sailboat sails from left to right across the blue waters",
+      "A sailboat sails upwards across the blue waters",
+      "A sailboat sails downwards across the blue waters",
+      "A sailboat sails in circles across the blue waters",
+      "A powerboat sails from right to left across the blue waters",
+      "A canoe sails from right to left across the blue waters",
+      "A submarine sails from right to left across the blue waters",
+      "A rowboat sails from right to left across the blue waters"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A sailboat sails from left to right across the blue waters",
+    "id": "0066",
+    "negative_prompt": [
+      "A sailboat sails from right to left across the blue waters",
+      "A sailboat sails upwards across the blue waters",
+      "A sailboat sails downwards across the blue waters",
+      "A sailboat sails in circles across the blue waters",
+      "A powerboat sails from left to right across the blue waters",
+      "A submarine sails from left to right across the blue waters",
+      "A paddleboat sails from left to right across the blue waters",
+      "A jet ski sails from left to right across the blue waters"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An egg rolling from the left to right on the table",
+    "id": "0067",
+    "negative_prompt": [
+      "An egg rolling from the right to left on the table",
+      "An egg rolling backwards on the table",
+      "An egg rolling in circles on the table",
+      "An egg rolling from top to bottom on the table",
+      "A rock rolling from the left to right on the table",
+      "A cube rolling from the left to right on the table",
+      "A block rolling from the left to right on the table",
+      "A bottle rolling from the left to right on the table"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An egg rolling from the right to left on the table",
+    "id": "0068",
+    "negative_prompt": [
+      "An egg rolling from the left to right on the table",
+      "A ball rolling from the right to left on the table",
+      "An egg rolling from the up to down on the table",
+      "A cube rolling from the right to left on the table",
+      "An egg rolling from the down to up on the table",
+      "A rock rolling from the right to left on the table",
+      "An egg rolling in circles on the table",
+      "A bottle rolling from the right to left on the table"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A basketball is thrown from left to the right",
+    "id": "0069",
+    "negative_prompt": [
+      "A basketball is thrown from right to the left",
+      "A basketball is thrown from top to the bottom",
+      "A basketball is thrown from bottom to the top",
+      "A basketball is thrown upwards",
+      "A basketball is thrown downwards",
+      "A basketball is thrown backwards",
+      "A basketball is thrown in a loop",
+      "A basketball is thrown diagonally"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A basketball is thrown from right to the left",
+    "id": "0070",
+    "negative_prompt": [
+      "A basketball is thrown from left to the right",
+      "A basketball is thrown from top to the bottom",
+      "A basketball is thrown from bottom to the top",
+      "A basketball is thrown from front to the back",
+      "A football is thrown from right to the left",
+      "A tennis ball is thrown from right to the left",
+      "A soccer ball is thrown from right to the left",
+      "A bowling ball is thrown from right to the left"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A robot walking from right to left across the moon with a car driving left to right in the background",
+    "id": "0071",
+    "negative_prompt": [
+      "A alien walking from right to left across the moon with a car driving left to right in the background",
+      "A robot walking from right to left across the moon with a bicycle driving left to right in the background",
+      "A robot walking from right to left across the earth with a car driving left to right in the background",
+      "A robot walking from right to left across the moon with a car driving left to right in the foreground",
+      "A robot walking from left to right across the moon with a car driving left to right in the background",
+      "A robot walking from right to left across the moon with a car driving right to left in the background",
+      "A monster walking from right to left across the moon with a car driving left to right in the background",
+      "A robot walking from right to left across the moon with a train driving left to right in the background"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A robot walking from left to right across the moon with a car driving right to left in the background",
+    "id": "0072",
+    "negative_prompt": [
+      "A robot walking from right to left across the moon with a car driving right to left in the background",
+      "A dog walking from left to right across the moon with a car driving right to left in the background",
+      "A robot walking from left to right across the moon with a car driving left to right in the background",
+      "A robot walking from left to right across the moon with a truck driving right to left in the background",
+      "A robot walking vertically across the moon with a car driving right to left in the background",
+      "A robot walking from left to right across the sun with a car driving right to left in the background",
+      "A robot walking from left to right across the moon with a car driving diagonally in the background",
+      "A human walking from left to right across the moon with a car driving right to left in the background"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A red balloon guadually descending in the sky",
+    "id": "0073",
+    "negative_prompt": [
+      "A red balloon guadually ascending in the sky",
+      "A red balloon guadually rising in the sky",
+      "A red balloon guadually moving horizontally in the sky",
+      "A red balloon guadually stationary in the sky",
+      "A red kite guadually descending in the sky",
+      "A red airplane guadually descending in the sky",
+      "A red bird guadually descending in the sky",
+      "A red cloud guadually descending in the sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The parachute gradually descends onto the beach",
+    "id": "0074",
+    "negative_prompt": [
+      "The parachute gradually ascends onto the beach",
+      "The parachute gradually rises onto the beach",
+      "The parachute gradually climbs onto the beach",
+      "The parachute gradually lifts onto the beach",
+      "The kite gradually descends onto the beach",
+      "The balloon gradually descends onto the beach",
+      "The parachute gradually descends onto the mountain",
+      "The parachute gradually descends onto the forest"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A squirrel climbs downwards from a tree",
+    "id": "0075",
+    "negative_prompt": [
+      "A squirrel climbs upwards from a tree",
+      "A cat climbs downwards from a tree",
+      "A squirrel climbs downwards from a pole",
+      "A squirrel climbs sideways from a tree",
+      "A dog climbs downwards from a tree",
+      "A squirrel climbs downwards from a wall",
+      "A bird climbs downwards from a tree",
+      "A squirrel climbs downwards from a ladder"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A child climbs down the slide",
+    "id": "0076",
+    "negative_prompt": [
+      "A child climbs up the slide",
+      "A child climbs across the slide",
+      "A child climbs down the ladder",
+      "A child climbs down the tree",
+      "A child climbs down the wall",
+      "An adult climbs down the slide",
+      "A man climbs down the slide",
+      "A woman climbs down the slide"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A man tumbling down a steep hill",
+    "id": "0077",
+    "negative_prompt": [
+      "A woman tumbling down a steep hill",
+      "A child tumbling down a steep hill",
+      "A man tumbling down a steep staircase",
+      "A man tumbling down a steep cliff",
+      "A man climbing up a steep hill",
+      "A man running across a steep hill",
+      "A man standing on a steep hill",
+      "A man flying over a steep hill"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The sun begins its descent, gradually sinking below the horizon",
+    "id": "0078",
+    "negative_prompt": [
+      "The sun begins its ascent, gradually rising above the horizon",
+      "The sun begins its rise, gradually emerging from the horizon",
+      "The sun begins its climb, gradually ascending from the horizon",
+      "The sun begins its elevation, gradually lifting above the horizon",
+      "The moon begins its descent, gradually sinking below the horizon",
+      "The comet begins its descent, gradually sinking below the horizon",
+      "The planet Venus begins its descent, gradually sinking below the horizon",
+      "The distant star begins its descent, gradually sinking below the horizon"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A kite gracefully floating downwards",
+    "id": "0079",
+    "negative_prompt": [
+      "A rock gracefully floating downwards",
+      "A kite gracefully floating upwards",
+      "A feather gracefully floating downwards",
+      "A kite gracefully floating sideways",
+      "A boat gracefully floating downwards",
+      "A kite gracefully floating horizontally",
+      "A balloon gracefully floating downwards",
+      "A kite gracefully floating randomly"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A paper airplane slowly descending, gracefully landing on the grass.",
+    "id": "0080",
+    "negative_prompt": [
+      "A paper airplane slowly ascending, gracefully taking off from the grass.",
+      "A metal airplane slowly descending, gracefully landing on the grass.",
+      "A paper airplane slowly hovering, gracefully floating above the grass.",
+      "A paper airplane slowly descending, gracefully landing on the water.",
+      "A paper airplane slowly soaring upwards, gracefully flying high above the grass.",
+      "A fabric kite slowly descending, gracefully landing on the grass.",
+      "A paper airplane slowly moving horizontally, gracefully gliding across the grass.",
+      "A paper airplane slowly descending, gracefully landing on the concrete."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A feather gracefully gliding down to the desk",
+    "id": "0081",
+    "negative_prompt": [
+      "A feather gracefully gliding up to the desk",
+      "A feather gracefully gliding across to the desk",
+      "A feather gracefully gliding away from the desk",
+      "A feather gracefully gliding around the desk",
+      "A brick gracefully gliding down to the desk",
+      "A rock gracefully gliding down to the desk",
+      "A hammer gracefully gliding down to the desk",
+      "A book gracefully gliding down to the desk"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A snowflake falling softly from the sky",
+    "id": "0082",
+    "negative_prompt": [
+      "A rock falling softly from the sky",
+      "A leaf falling softly from the sky",
+      "A feather falling softly from the sky",
+      "A pebble falling softly from the sky",
+      "A snowflake rising swiftly from the sky",
+      "A snowflake dropping violently from the sky",
+      "A snowflake soaring powerfully from the sky",
+      "A snowflake shooting upwards from the sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A helicopter gracefully descending to land",
+    "id": "0083",
+    "negative_prompt": [
+      "A car gracefully descending to land",
+      "A boat gracefully descending to land",
+      "A plane gracefully descending to land",
+      "A train gracefully descending to land",
+      "A helicopter gracefully ascending into the sky",
+      "A helicopter gracefully taking off from the ground",
+      "A helicopter gracefully hovering stationary in the air",
+      "A helicopter gracefully flying at high altitude"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A spider gracefully lowering itself down from its web",
+    "id": "0084",
+    "negative_prompt": [
+      "A spider gracefully raising itself up from its web",
+      "A spider gracefully climbing up from its web",
+      "A spider gracefully moving horizontally from its web",
+      "A spider gracefully suspending itself motionless from its web",
+      "A butterfly gracefully lowering itself down from its web",
+      "A ladybug gracefully lowering itself down from its web",
+      "A spider gracefully lowering itself down from its leaf",
+      "A spider gracefully lowering itself down from its flower"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A toy car drives from left to right, passing miniature buildings and trees",
+    "id": "0085",
+    "negative_prompt": [
+      "A toy car drives from right to left, passing miniature buildings and trees",
+      "A toy car drives from top to bottom, passing miniature buildings and trees",
+      "A toy car drives from bottom to top, passing miniature buildings and trees",
+      "A toy car drives in circles, passing miniature buildings and trees",
+      "A toy plane drives from left to right, passing miniature buildings and trees",
+      "A small robot drives from left to right, passing miniature buildings and trees",
+      "A rolling ball drives from left to right, passing miniature buildings and trees",
+      "A miniature boat drives from left to right, passing miniature buildings and trees"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fish dives downward in the deep sea",
+    "id": "0086",
+    "negative_prompt": [
+      "A fish dives upward in the deep sea",
+      "A shark dives downward in the deep sea",
+      "A fish dives sideways in the deep sea",
+      "An octopus dives downward in the deep sea",
+      "A fish dives forward in the deep sea",
+      "A jellyfish dives downward in the deep sea",
+      "A fish dives backward in the deep sea",
+      "A sea turtle dives downward in the deep sea"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A mouse darts leftwards across a kitchen floor beneath a chair",
+    "id": "0087",
+    "negative_prompt": [
+      "A mouse darts rightwards across a kitchen floor beneath a chair",
+      "A mouse darts upwards across a kitchen floor beneath a chair",
+      "A mouse darts downwards across a kitchen floor beneath a chair",
+      "A mouse darts backwards across a kitchen floor beneath a chair",
+      "An elephant darts leftwards across a kitchen floor beneath a chair",
+      "A cat darts leftwards across a kitchen floor beneath a chair",
+      "A spider darts leftwards across a kitchen floor beneath a chair",
+      "A person darts leftwards across a kitchen floor beneath a chair"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fluffy teddy bear tumbles down from the wall and gently lands on a cozy bed in a bedroom",
+    "id": "0088",
+    "negative_prompt": [
+      "A fluffy teddy bear tumbles up to the wall and gently lands on a cozy bed in a bedroom",
+      "A fluffy teddy bear tumbles along the wall and gently lands on a cozy bed in a bedroom",
+      "A fluffy metal robot tumbles down from the wall and gently lands on a cozy bed in a bedroom",
+      "A fluffy teddy bear tumbles down from the table and gently lands on a cozy bed in a bedroom",
+      "A fluffy teddy bear tumbles down from the wall and gently lands on a cozy hard floor in a bedroom",
+      "A fluffy teddy bear tumbles down from the wall and gently lands on a cozy bed in a kitchen",
+      "A fluffy teddy bear tumbles away from the wall and gently lands on a cozy bed in a bedroom",
+      "A fluffy sharp knife tumbles down from the wall and gently lands on a cozy bed in a bedroom"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A submarine ascends from the ocean",
+    "id": "0089",
+    "negative_prompt": [
+      "A submarine descends from the ocean",
+      "A boat ascends from the ocean",
+      "A submarine sinks from the ocean",
+      "A plane ascends from the ocean",
+      "A submarine dives from the ocean",
+      "A car ascends from the ocean",
+      "A submarine submerges from the ocean",
+      "A fish ascends from the ocean"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cyberpunk chibi cat riding in rocket upwards",
+    "id": "0090",
+    "negative_prompt": [
+      "A cyberpunk chibi cat riding in rocket downwards",
+      "A cyberpunk chibi dog riding in rocket upwards",
+      "A cyberpunk chibi cat riding in rocket sideways",
+      "A cyberpunk chibi cat riding in car upwards",
+      "A cyberpunk chibi cat riding in rocket forwards",
+      "A cyberpunk chibi mouse riding in rocket upwards",
+      "A cyberpunk chibi cat riding in rocket stationary",
+      "A cyberpunk chibi cat riding in boat upwards"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The sun rises, moving upwards behind stationary buildings",
+    "id": "0091",
+    "negative_prompt": [
+      "The sun rises, moving downwards behind stationary buildings",
+      "The sun rises, moving horizontally behind stationary buildings",
+      "The sun rises, moving diagonally behind stationary buildings",
+      "The moon rises, moving upwards behind stationary buildings",
+      "The stars rise, moving upwards behind stationary buildings",
+      "The sun rises, moving upwards behind stationary trees",
+      "The sun rises, moving upwards behind stationary mountains",
+      "The sun rises, moving upwards behind stationary ocean"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A bird flies upwards in a garden",
+    "id": "0092",
+    "negative_prompt": [
+      "A bird flies downwards in a garden",
+      "A bird flies sideways in a garden",
+      "A bird flies forwards in a garden",
+      "A bird flies backwards in a garden",
+      "A cat flies upwards in a garden",
+      "A fish flies upwards in a garden",
+      "A snake flies upwards in a garden",
+      "A rabbit flies upwards in a garden"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A child climbs up the slide",
+    "id": "0093",
+    "negative_prompt": [
+      "An adult climbs up the slide",
+      "A dog climbs up the slide",
+      "A child climbs down the slide",
+      "A child climbs around the slide",
+      "A child climbs over the slide",
+      "A child climbs up the ladder",
+      "A child climbs up the tree",
+      "A child climbs up the wall"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A gift box falls from the top to the bottom of the screen, set against a white background",
+    "id": "0094",
+    "negative_prompt": [
+      "A gift box rises from the bottom to the top of the screen, set against a white background",
+      "A gift box moves from left to right of the screen, set against a white background",
+      "A gift box moves from right to left of the screen, set against a white background",
+      "A gift box is still in the center of the screen, set against a white background",
+      "A book falls from the top to the bottom of the screen, set against a white background",
+      "A ball falls from the top to the bottom of the screen, set against a white background",
+      "A car falls from the top to the bottom of the screen, set against a white background",
+      "A flower falls from the top to the bottom of the screen, set against a white background"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A pink star rises from the bottom to the top of the screen, set against a blue background",
+    "id": "0095",
+    "negative_prompt": [
+      "A pink star falls from the top to the bottom of the screen, set against a blue background",
+      "A pink star moves from left to right on the screen, set against a blue background",
+      "A pink star moves from right to left on the screen, set against a blue background",
+      "A pink star stays still on the screen, set against a blue background",
+      "A pink circle rises from the bottom to the top of the screen, set against a blue background",
+      "A pink square rises from the bottom to the top of the screen, set against a blue background",
+      "A pink triangle rises from the bottom to the top of the screen, set against a blue background",
+      "A pink heart rises from the bottom to the top of the screen, set against a blue background"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A lantern rise into the night sky",
+    "id": "0096",
+    "negative_prompt": [
+      "A stone rise into the night sky",
+      "A tree rise into the night sky",
+      "A mountain rise into the night sky",
+      "A whale rise into the night sky",
+      "A lantern fall from the night sky",
+      "A lantern descend from the night sky",
+      "A lantern sink from the night sky",
+      "A lantern drop from the night sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A butterfly flying upwards towards a blue and bright sky",
+    "id": "0097",
+    "negative_prompt": [
+      "A butterfly flying downwards towards a blue and bright sky",
+      "A butterfly flying sideways towards a blue and bright sky",
+      "A butterfly flying horizontally towards a blue and bright sky",
+      "A butterfly flying backwards towards a blue and bright sky",
+      "An eagle flying upwards towards a blue and bright sky",
+      "A dragonfly flying upwards towards a blue and bright sky",
+      "A hummingbird flying upwards towards a blue and bright sky",
+      "A kite flying upwards towards a blue and bright sky"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A purple heart floating upward in a white background",
+    "id": "0098",
+    "negative_prompt": [
+      "A purple heart floating downward in a white background",
+      "A purple heart floating motionless in a white background",
+      "A purple heart floating leftward in a white background",
+      "A purple heart floating rightward in a white background",
+      "A purple star floating upward in a white background",
+      "A purple circle floating upward in a white background",
+      "A purple square floating upward in a white background",
+      "A purple cloud floating upward in a white background"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A bubble floats upwards, shimmering and reflecting the sunlight",
+    "id": "0099",
+    "negative_prompt": [
+      "A bubble floats downwards, shimmering and reflecting the sunlight",
+      "A bubble floats sideways, shimmering and reflecting the sunlight",
+      "A bubble floats stagnant, shimmering and reflecting the sunlight",
+      "A bubble floats randomly, shimmering and reflecting the sunlight",
+      "A rock floats upwards, shimmering and reflecting the sunlight",
+      "A brick floats upwards, shimmering and reflecting the sunlight",
+      "A feather floats upwards, shimmering and reflecting the sunlight",
+      "A log floats upwards, shimmering and reflecting the sunlight"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A cat climbing up a tall christmas tree",
+    "id": "0100",
+    "negative_prompt": [
+      "A cat climbing down a tall christmas tree",
+      "A cat jumping over a tall christmas tree",
+      "A cat running around a tall christmas tree",
+      "A cat sitting under a tall christmas tree",
+      "A dog climbing up a tall christmas tree",
+      "A bird climbing up a tall christmas tree",
+      "A cat climbing up a tall palm tree",
+      "A cat climbing up a tall ladder"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car speeds left, tires squealing as it cuts across the intersection.",
+    "id": "0101",
+    "negative_prompt": [
+      "A car speeds right, tires squealing as it cuts across the intersection.",
+      "A car speeds up, tires squealing as it cuts across the intersection.",
+      "A car speeds down, tires squealing as it cuts across the intersection.",
+      "A car speeds forward, tires squealing as it cuts across the intersection.",
+      "A bicycle speeds left, tires squealing as it cuts across the intersection.",
+      "A truck speeds left, tires squealing as it cuts across the intersection.",
+      "A motorcycle speeds left, tires squealing as it cuts across the intersection.",
+      "A bus speeds left, tires squealing as it cuts across the intersection."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A horse gallops left across the meadow, mane flying in the wind.",
+    "id": "0102",
+    "negative_prompt": [
+      "A horse gallops right across the meadow, mane flying in the wind.",
+      "A dog gallops left across the meadow, mane flying in the wind.",
+      "A horse gallops forward across the meadow, mane flying in the wind.",
+      "A cow gallops left across the meadow, mane flying in the wind.",
+      "A horse gallops backward across the meadow, mane flying in the wind.",
+      "A cat gallops left across the meadow, mane flying in the wind.",
+      "A horse gallops upward across the meadow, mane flying in the wind.",
+      "A squirrel gallops left across the meadow, mane flying in the wind."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fresh orange rolls left across the countertop, leaving a faint citrus scent.",
+    "id": "0103",
+    "negative_prompt": [
+      "A fresh orange rolls right across the countertop, leaving a faint citrus scent.",
+      "A fresh apple rolls left across the countertop, leaving a faint citrus scent.",
+      "A fresh orange rolls forward across the countertop, leaving a faint citrus scent.",
+      "A fresh lemon rolls left across the countertop, leaving a faint citrus scent.",
+      "A fresh orange rolls backward across the countertop, leaving a faint citrus scent.",
+      "A fresh rock rolls left across the countertop, leaving a faint citrus scent.",
+      "A fresh orange rolls down across the countertop, leaving a faint citrus scent.",
+      "A fresh potato rolls left across the countertop, leaving a faint citrus scent."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A vibrant bird flutters leftwards, wings catching the morning light.",
+    "id": "0104",
+    "negative_prompt": [
+      "A vibrant bird flutters rightwards, wings catching the morning light.",
+      "A vibrant bird flutters upwards, wings catching the morning light.",
+      "A vibrant bird flutters downwards, wings catching the morning light.",
+      "A vibrant bird flutters backwards, wings catching the morning light.",
+      "A vibrant fish flutters leftwards, wings catching the morning light.",
+      "A vibrant plane flutters leftwards, wings catching the morning light.",
+      "A vibrant butterfly flutters leftwards, wings catching the morning light.",
+      "A vibrant dragonfly flutters leftwards, wings catching the morning light."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A chair is dragged left across the wooden floor, legs screeching softly.",
+    "id": "0105",
+    "negative_prompt": [
+      "A chair is dragged right across the wooden floor, legs screeching softly.",
+      "A table is dragged left across the wooden floor, legs screeching softly.",
+      "A chair is dragged forward across the wooden floor, legs screeching softly.",
+      "A sofa is dragged left across the wooden floor, legs screeching softly.",
+      "A chair is dragged backward across the wooden floor, legs screeching softly.",
+      "A bed is dragged left across the wooden floor, legs screeching softly.",
+      "A desk is dragged left across the wooden floor, legs screeching softly.",
+      "A stool is dragged left across the wooden floor, legs screeching softly."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A shiny bottle rolls leftwards on the picnic table",
+    "id": "0106",
+    "negative_prompt": [
+      "A shiny bottle rolls rightwards on the picnic table",
+      "A shiny cup rolls leftwards on the picnic table",
+      "A shiny bottle rolls upwards on the picnic table",
+      "A shiny jar rolls leftwards on the picnic table",
+      "A shiny bottle rolls downwards on the picnic table",
+      "A shiny can rolls leftwards on the picnic table",
+      "A shiny bottle rolls backwards on the picnic table",
+      "A shiny plate rolls leftwards on the picnic table"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A sleek motorcycle cruises left along the highway, engine roaring.",
+    "id": "0107",
+    "negative_prompt": [
+      "A sleek motorcycle cruises right along the highway, engine roaring.",
+      "A sleek motorcycle cruises backward along the highway, engine roaring.",
+      "A sleek motorcycle cruises vertically along the highway, engine roaring.",
+      "A sleek motorcycle cruises circularly along the highway, engine roaring.",
+      "A sleek motorcycle cruises stationarily along the highway, engine roaring.",
+      "A sleek bicycle cruises left along the highway, engine roaring.",
+      "A sleek car cruises left along the highway, engine roaring.",
+      "A sleek bus cruises left along the highway, engine roaring."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fluffy sheep trots left through the lush green field, its wool bouncing gently with each step.",
+    "id": "0108",
+    "negative_prompt": [
+      "A fluffy sheep trots right through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy sheep trots forward through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy sheep trots backward through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy sheep trots sideways through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy dog trots left through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy horse trots left through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy cow trots left through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy goat trots left through the lush green field, its wool bouncing gently with each step."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A strong camel strides left across the golden desert",
+    "id": "0109",
+    "negative_prompt": [
+      "A strong camel strides right across the golden desert",
+      "A strong camel strides backward across the golden desert",
+      "A strong camel strides upward across the golden desert",
+      "A strong camel strides downward across the golden desert",
+      "A strong polar bear strides left across the golden desert",
+      "A strong dolphin strides left across the golden desert",
+      "A strong spider strides left across the golden desert",
+      "A strong hummingbird strides left across the golden desert"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A bright lantern floats left down the river, its warm glow reflecting off the gentle ripples.",
+    "id": "0110",
+    "negative_prompt": [
+      "A bright lantern floats right up the river, its warm glow reflecting off the gentle ripples.",
+      "A bright lantern floats still in the river, its warm glow reflecting off the gentle ripples.",
+      "A bright lantern floats rapidly up the river, its warm glow reflecting off the gentle ripples.",
+      "A bright lantern floats back and forth in the river, its warm glow reflecting off the gentle ripples.",
+      "A bright glow stick floats left down the river, its warm glow reflecting off the gentle ripples.",
+      "A bright flashlight floats left down the river, its warm glow reflecting off the gentle ripples.",
+      "A bright ember floats left down the river, its warm glow reflecting off the gentle ripples.",
+      "A bright floating candle floats left down the river, its warm glow reflecting off the gentle ripples."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A penguin waddles left, leaving a trail of tiny footprints in the pristine snow.",
+    "id": "0111",
+    "negative_prompt": [
+      "A penguin waddles right, leaving a trail of tiny footprints in the pristine snow.",
+      "A penguin waddles forward, leaving a trail of tiny footprints in the pristine snow.",
+      "A penguin waddles backward, leaving a trail of tiny footprints in the pristine snow.",
+      "A penguin waddles down, leaving a trail of tiny footprints in the pristine snow.",
+      "A cat waddles left, leaving a trail of tiny footprints in the pristine snow.",
+      "A dog waddles left, leaving a trail of tiny footprints in the pristine snow.",
+      "A snake waddles left, leaving a trail of tiny footprints in the pristine snow.",
+      "A fox waddles left, leaving a trail of tiny footprints in the pristine snow."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A gentle swan glides left over the lake, its feathers creating small, graceful ripples in the water.",
+    "id": "0112",
+    "negative_prompt": [
+      "A gentle swan glides right over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides up over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides down over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides backwards over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides still over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle duck glides left over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle goose glides left over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle pelican glides left over the lake, its feathers creating small, graceful ripples in the water."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A suitcase rolls left, its wheels spinning smoothly as it moves across the polished floor.",
+    "id": "0113",
+    "negative_prompt": [
+      "A suitcase rolls right, its wheels spinning smoothly as it moves across the polished floor.",
+      "A suitcase rolls forward, its wheels spinning smoothly as it moves across the polished floor.",
+      "A suitcase rolls backward, its wheels spinning smoothly as it moves across the polished floor.",
+      "A suitcase rolls up, its wheels spinning smoothly as it moves across the polished floor.",
+      "A backpack rolls left, its wheels spinning smoothly as it moves across the polished floor.",
+      "A rock rolls left, its wheels spinning smoothly as it moves across the polished floor.",
+      "A book rolls left, its wheels spinning smoothly as it moves across the polished floor.",
+      "A basket rolls left, its wheels spinning smoothly as it moves across the polished floor."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A helmet is pushed left across the table, its visor reflecting the bright overhead light.",
+    "id": "0114",
+    "negative_prompt": [
+      "A helmet is pushed right across the table, its visor reflecting the bright overhead light.",
+      "A helmet is pushed forward across the table, its visor reflecting the bright overhead light.",
+      "A helmet is pushed backward across the table, its visor reflecting the bright overhead light.",
+      "A helmet is pushed up across the table, its visor reflecting the bright overhead light.",
+      "A welding mask is pushed left across the table, its visor reflecting the bright overhead light.",
+      "A face shield is pushed left across the table, its visor reflecting the bright overhead light.",
+      "A diving mask is pushed left across the table, its visor reflecting the bright overhead light.",
+      "An astronaut helmet is pushed left across the table, its visor reflecting the bright overhead light."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A tractor moves left across the field, its large tires leaving deep defined tracks in the soil.",
+    "id": "0115",
+    "negative_prompt": [
+      "A tractor moves right across the field, its large tires leaving deep defined tracks in the soil.",
+      "A tractor moves forward across the field, its large tires leaving deep defined tracks in the soil.",
+      "A tractor moves backward across the field, its large tires leaving deep defined tracks in the soil.",
+      "A tractor stands still across the field, its large tires leaving deep defined tracks in the soil.",
+      "A bicycle moves left across the field, its large tires leaving deep defined tracks in the soil.",
+      "A person moves left across the field, its large tires leaving deep defined tracks in the soil.",
+      "A bird moves left across the field, its large tires leaving deep defined tracks in the soil.",
+      "A boat moves left across the field, its large tires leaving deep defined tracks in the soil."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A pumpkin rolls left off the haystack, its round body bouncing gently on the ground.",
+    "id": "0116",
+    "negative_prompt": [
+      "A pumpkin rolls right off the haystack, its round body bouncing gently on the ground.",
+      "A stone rolls left off the haystack, its round body bouncing gently on the ground.",
+      "A pumpkin rolls forward off the haystack, its round body bouncing gently on the ground.",
+      "An apple rolls left off the haystack, its round body bouncing gently on the ground.",
+      "A pumpkin rolls backward off the haystack, its round body bouncing gently on the ground.",
+      "A box rolls left off the haystack, its round body bouncing gently on the ground.",
+      "A pumpkin rolls away off the haystack, its round body bouncing gently on the ground.",
+      "A ball rolls left off the haystack, its round body bouncing gently on the ground."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A spaceship accelerates left through the starry void, its metallic exterior shimmering under distant starlight.",
+    "id": "0117",
+    "negative_prompt": [
+      "A spaceship accelerates right through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A satellite accelerates left through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A spaceship accelerates up through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A probe accelerates left through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A spaceship accelerates down through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A space freighter accelerates left through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A spaceship accelerates forward through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A colony ship accelerates left through the starry void, its metallic exterior shimmering under distant starlight."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A watermelon rolls left across the picnic blanket",
+    "id": "0118",
+    "negative_prompt": [
+      "A watermelon rolls right across the picnic blanket",
+      "A rock rolls left across the picnic blanket",
+      "A watermelon rolls left across the road",
+      "A watermelon rolls forward across the picnic blanket",
+      "A soccer ball rolls left across the picnic blanket",
+      "A watermelon rolls left across the table",
+      "A watermelon rolls down across the picnic blanket",
+      "A can rolls left across the picnic blanket"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A skateboard glides left along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+    "id": "0119",
+    "negative_prompt": [
+      "A skateboard glides right along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides statically along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A car glides left along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A boat glides left along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A sled glides left along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides left along the ceiling, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides left along the water, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides left along the pavement, its runners spinning rapidly beneath a vibrant deck."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A large cake is pushed left across the counter",
+    "id": "0120",
+    "negative_prompt": [
+      "A large cake is pushed right across the counter",
+      "A large cake is pushed up across the counter",
+      "A large cake is pushed down across the counter",
+      "A large cake is pushed forward across the counter",
+      "A large cake is pushed backward across the counter",
+      "A large book is pushed left across the counter",
+      "A large box is pushed left across the counter",
+      "A large plant is pushed left across the counter"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car speeds right, tires squealing as it cuts across the intersection.",
+    "id": "0121",
+    "negative_prompt": [
+      "A car speeds left, tires squealing as it cuts across the intersection.",
+      "A bicycle speeds right, tires squealing as it cuts across the intersection.",
+      "A car speeds backwards, tires squealing as it cuts across the intersection.",
+      "A truck speeds right, tires squealing as it cuts across the intersection.",
+      "A car speeds sideways, tires squealing as it cuts across the intersection.",
+      "A motorcycle speeds right, tires squealing as it cuts across the intersection.",
+      "A car speeds up, tires squealing as it cuts across the intersection.",
+      "A bus speeds right, tires squealing as it cuts across the intersection."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A horse gallops right across the meadow, mane flying in the wind.",
+    "id": "0122",
+    "negative_prompt": [
+      "A horse gallops left across the meadow, mane flying in the wind.",
+      "A horse gallops forward across the meadow, mane flying in the wind.",
+      "A horse gallops up across the meadow, mane flying in the wind.",
+      "A horse gallops down across the meadow, mane flying in the wind.",
+      "A zebra gallops right across the meadow, mane flying in the wind.",
+      "A lion gallops right across the meadow, mane flying in the wind.",
+      "A donkey gallops right across the meadow, mane flying in the wind.",
+      "A unicorn gallops right across the meadow, mane flying in the wind."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fresh orange rolls right across the countertop, leaving a faint citrus scent.",
+    "id": "0123",
+    "negative_prompt": [
+      "A fresh orange rolls off the countertop, leaving a faint citrus scent.",
+      "A fresh apple rolls right across the countertop, leaving a faint citrus scent.",
+      "A fresh orange rolls underneath the countertop, leaving a faint citrus scent.",
+      "A fresh banana rolls right across the countertop, leaving a faint citrus scent.",
+      "A fresh orange rolls towards the edge of the countertop, leaving a faint citrus scent.",
+      "A fresh bottle rolls right across the countertop, leaving a faint citrus scent.",
+      "A fresh orange rolls back across the countertop, leaving a faint citrus scent.",
+      "A fresh rock rolls right across the countertop, leaving a faint citrus scent."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A chair is dragged right across the wooden floor, legs screeching softly.",
+    "id": "0124",
+    "negative_prompt": [
+      "A chair is dragged left across the wooden floor, legs screeching softly.",
+      "A chair is dragged forward across the wooden floor, legs screeching softly.",
+      "A chair is dragged backward across the wooden floor, legs screeching softly.",
+      "A table is dragged right across the wooden floor, legs screeching softly.",
+      "A desk is dragged right across the wooden floor, legs screeching softly.",
+      "A sofa is dragged right across the wooden floor, legs screeching softly.",
+      "A stool is dragged right across the wooden floor, legs screeching softly.",
+      "A cabinet is dragged right across the wooden floor, legs screeching softly."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A sleek motorcycle cruises right along the highway, engine roaring.",
+    "id": "0125",
+    "negative_prompt": [
+      "A sleek motorcycle cruises left along the highway, engine roaring.",
+      "A sleek motorcycle cruises backwards along the highway, engine roaring.",
+      "A sleek motorcycle cruises upwards along the highway, engine roaring.",
+      "A sleek motorcycle cruises downwards along the highway, engine roaring.",
+      "A sleek bicycle cruises right along the highway, engine roaring.",
+      "A sleek car cruises right along the highway, engine roaring.",
+      "A sleek truck cruises right along the highway, engine roaring.",
+      "A sleek train cruises right along the highway, engine roaring."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fluffy sheep trots right through the lush green field, its wool bouncing gently with each step.",
+    "id": "0126",
+    "negative_prompt": [
+      "A fluffy sheep trots left through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy wolf trots right through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy sheep trots backward through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy cow trots right through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy sheep trots forward through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy bear trots right through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy sheep trots sideways through the lush green field, its wool bouncing gently with each step.",
+      "A fluffy horse trots right through the lush green field, its wool bouncing gently with each step."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A strong camel strides right across the golden desert",
+    "id": "0127",
+    "negative_prompt": [
+      "A strong camel strides left across the golden desert",
+      "A strong camel strides forward across the golden desert",
+      "A strong camel strides backward across the golden desert",
+      "A strong camel strides upward across the golden desert",
+      "A strong horse strides right across the golden desert",
+      "A strong elephant strides right across the golden desert",
+      "A strong tiger strides right across the golden desert",
+      "A strong bear strides right across the golden desert"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A bright lantern floats right down the river, its warm glow reflecting off the gentle ripples.",
+    "id": "0128",
+    "negative_prompt": [
+      "A bright lantern floats right up the river, its warm glow reflecting off the gentle ripples.",
+      "A bright lantern floats right across the river, its warm glow reflecting off the gentle ripples.",
+      "A bright lantern floats right over the river, its warm glow reflecting off the gentle ripples.",
+      "A bright lantern floats right back up the river, its warm glow reflecting off the gentle ripples.",
+      "A bright candle floats right down the river, its warm glow reflecting off the gentle ripples.",
+      "A bright torch floats right down the river, its warm glow reflecting off the gentle ripples.",
+      "A bright fire floats right down the river, its warm glow reflecting off the gentle ripples.",
+      "A bright orb floats right down the river, its warm glow reflecting off the gentle ripples."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A gentle swan glides right over the lake, its feathers creating small, graceful ripples in the water.",
+    "id": "0129",
+    "negative_prompt": [
+      "A gentle swan glides left over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides up over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides down over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle swan glides away over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle duck glides right over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle seagull glides right over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle frog glides right over the lake, its feathers creating small, graceful ripples in the water.",
+      "A gentle fish glides right over the lake, its feathers creating small, graceful ripples in the water."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A suitcase rolls right, its wheels spinning smoothly as it moves across the polished floor.",
+    "id": "0130",
+    "negative_prompt": [
+      "A suitcase rolls left, its wheels spinning smoothly as it moves across the polished floor.",
+      "A suitcase rolls down, its wheels spinning smoothly as it moves across the polished floor.",
+      "A suitcase rolls backwards, its wheels spinning smoothly as it moves across the polished floor.",
+      "A suitcase rolls nowhere, its wheels spinning smoothly as it moves across the polished floor.",
+      "A car rolls right, its wheels spinning smoothly as it moves across the polished floor.",
+      "A rock rolls right, its wheels spinning smoothly as it moves across the polished floor.",
+      "A box rolls right, its wheels spinning smoothly as it moves across the polished floor.",
+      "A tree trunk rolls right, its wheels spinning smoothly as it moves across the polished floor."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A tractor moves right across the field, its large tires leaving deep defined tracks in the soil.",
+    "id": "0131",
+    "negative_prompt": [
+      "A tractor moves left across the field, its large tires leaving deep defined tracks in the soil.",
+      "A tractor moves upward across the field, its large tires leaving deep defined tracks in the soil.",
+      "A tractor moves downward across the field, its large tires leaving deep defined tracks in the soil.",
+      "A tractor moves backward across the field, its large tires leaving deep defined tracks in the soil.",
+      "A combine harvester moves right across the field, its large tires leaving deep defined tracks in the soil.",
+      "An excavator moves right across the field, its large tires leaving deep defined tracks in the soil.",
+      "A truck moves right across the field, its large tires leaving deep defined tracks in the soil.",
+      "A quad bike moves right across the field, its large tires leaving deep defined tracks in the soil."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A spaceship accelerates right through the starry void, its metallic exterior shimmering under distant starlight.",
+    "id": "0132",
+    "negative_prompt": [
+      "A spaceship accelerates left through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A satellite accelerates right through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A spaceship accelerates up through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A probe accelerates right through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A spaceship accelerates down through the starry void, its metallic exterior shimmering under distant starlight.",
+      "An asteroid accelerates right through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A spaceship accelerates forward through the starry void, its metallic exterior shimmering under distant starlight.",
+      "A drone accelerates right through the starry void, its metallic exterior shimmering under distant starlight."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A watermelon rolls right across the picnic blanket",
+    "id": "0133",
+    "negative_prompt": [
+      "A watermelon rolls left across the picnic blanket",
+      "A watermelon rolls up across the picnic blanket",
+      "A watermelon rolls down across the picnic blanket",
+      "A watermelon rolls backwards across the picnic blanket",
+      "A soccer ball rolls right across the picnic blanket",
+      "A basketball rolls right across the picnic blanket",
+      "A rock rolls right across the picnic blanket",
+      "A watermelon rolls right across the wooden floor"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A skateboard glides right along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+    "id": "0134",
+    "negative_prompt": [
+      "A skateboard glides left along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides up along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides down along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides backward along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A bicycle glides right along the pavement, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides right along the grass, its wheels spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides right along the pavement, its runners spinning rapidly beneath a vibrant deck.",
+      "A skateboard glides right along the pavement, its wheels spinning rapidly beneath a vibrant hull."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The spaceship launches upward into the sky, trailing a brilliant glow.",
+    "id": "0135",
+    "negative_prompt": [
+      "The spaceship launches downward into the sky, trailing a brilliant glow.",
+      "The submarine launches upward into the sky, trailing a brilliant glow.",
+      "The spaceship launches backward into the sky, trailing a brilliant glow.",
+      "The car launches upward into the sky, trailing a brilliant glow.",
+      "The spaceship launches sideways into the sky, trailing a brilliant glow.",
+      "The boat launches upward into the sky, trailing a brilliant glow.",
+      "The spaceship launches in place into the sky, trailing a brilliant glow.",
+      "The train launches upward into the sky, trailing a brilliant glow."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fluffy pillow is tossed upward into the air, feathers fluffing out as it rises.",
+    "id": "0136",
+    "negative_prompt": [
+      "A fluffy pillow is tossed downward into the air, feathers fluffing out as it rises.",
+      "A fluffy brick is tossed upward into the air, feathers fluffing out as it rises.",
+      "A fluffy pillow is tossed sideways into the air, feathers fluffing out as it rises.",
+      "A fluffy rock is tossed upward into the air, feathers fluffing out as it rises.",
+      "A fluffy pillow is tossed backward into the air, feathers fluffing out as it rises.",
+      "A fluffy key is tossed upward into the air, feathers fluffing out as it rises.",
+      "A fluffy pillow is tossed inward into the air, feathers fluffing out as it rises.",
+      "A fluffy stone is tossed upward into the air, feathers fluffing out as it rises."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A helicopter ascends upward from the helipad, blades spinning furiously.",
+    "id": "0137",
+    "negative_prompt": [
+      "A helicopter descends downward from the helipad, blades spinning furiously.",
+      "A helicopter hovers stationary from the helipad, blades spinning furiously.",
+      "A helicopter lands from the helipad, blades spinning furiously.",
+      "A car ascends upward from the helipad, blades spinning furiously.",
+      "A boat ascends upward from the helipad, blades spinning furiously.",
+      "A helicopter ascends upward from the runway, blades spinning furiously.",
+      "A helicopter ascends upward from the road, blades spinning furiously.",
+      "A helicopter ascends upward from the ocean, blades spinning furiously."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A large flag is hoisted upward on the flagpole, unfurling and catching the breeze as it rises.",
+    "id": "0138",
+    "negative_prompt": [
+      "A large flag is hoisted downward on the flagpole, unfurling and catching the breeze as it falls.",
+      "A large flag is hoisted downward on the flagpole, unfurling and catching the breeze as it descends.",
+      "A large flag is hoisted statically on the flagpole, unfurling and catching the breeze as it remains.",
+      "A large flag is hoisted in place on the flagpole, unfurling and catching the breeze as it is still.",
+      "A large banner is hoisted upward on the flagpole, unfurling and catching the breeze as it rises.",
+      "A large sheet is hoisted upward on the flagpole, unfurling and catching the breeze as it rises.",
+      "A large flag is hoisted upward on the mast, unfurling and catching the breeze as it rises.",
+      "A large flag is hoisted upward on the pillar, unfurling and catching the breeze as it rises."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A hot air balloon ascends upward, with majestic mountains stretching across the backdrop.",
+    "id": "0139",
+    "negative_prompt": [
+      "A hot air balloon descends downward, with majestic mountains stretching across the backdrop.",
+      "A hot air balloon hovers stationary, with majestic mountains stretching across the backdrop.",
+      "A hot air balloon moves sideways, with majestic mountains stretching across the backdrop.",
+      "A submarine ascends upward, with majestic mountains stretching across the backdrop.",
+      "A car ascends upward, with majestic mountains stretching across the backdrop.",
+      "A bicycle ascends upward, with majestic mountains stretching across the backdrop.",
+      "A hot air balloon ascends upward, with flat plains stretching across the backdrop.",
+      "A hot air balloon ascends upward, with calm ocean stretching across the backdrop."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A tennis ball is tossed upward into the air, bouncing higher with each spin.",
+    "id": "0140",
+    "negative_prompt": [
+      "A tennis ball is tossed downward into the air, bouncing higher with each spin.",
+      "A basketball is tossed upward into the air, bouncing higher with each spin.",
+      "A tennis ball is tossed upward into the air, bouncing lower with each spin.",
+      "A baseball is tossed upward into the air, bouncing higher with each spin.",
+      "A tennis ball is tossed horizontally into the air, bouncing higher with each spin.",
+      "A volleyball is tossed upward into the air, bouncing higher with each spin.",
+      "A tennis ball is tossed sideways into the air, bouncing higher with each spin.",
+      "A bowling ball is tossed upward into the air, bouncing higher with each spin."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A soccer ball is kicked upward into the air, spinning rapidly as it soars over the green field",
+    "id": "0141",
+    "negative_prompt": [
+      "A soccer ball is kicked horizontally into the air, spinning rapidly as it soars over the green field",
+      "A soccer ball is kicked upward into the air, spinning rapidly as it plummets onto the green field",
+      "A soccer ball is kicked upward into the air, tumbling slowly as it soars over the green field",
+      "A basketball is kicked upward into the air, spinning rapidly as it soars over the green field",
+      "A bowling ball is kicked upward into the air, spinning rapidly as it soars over the green field",
+      "A feather is kicked upward into the air, spinning rapidly as it soars over the green field",
+      "A brick is kicked upward into the air, spinning rapidly as it soars over the green field",
+      "A frisbee is kicked upward into the air, spinning rapidly as it soars over the green field"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A basketball arcs upward from a jump shot, heading toward the hoop.",
+    "id": "0142",
+    "negative_prompt": [
+      "A soccer ball arcs upward from a jump shot, heading toward the hoop.",
+      "A bowling ball arcs upward from a jump shot, heading toward the hoop.",
+      "A frisbee arcs upward from a jump shot, heading toward the hoop.",
+      "A basketball arcs upward from a jump shot, heading toward the net.",
+      "A basketball arcs upward from a jump shot, heading toward the wall.",
+      "A basketball arcs downward from a jump shot, heading toward the hoop.",
+      "A basketball arcs sideways from a jump shot, heading toward the hoop.",
+      "A basketball arcs upward from a jump shot, heading away from the hoop."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An apple is tossed upward from a basket.",
+    "id": "0143",
+    "negative_prompt": [
+      "An apple is tossed downward from a basket.",
+      "An apple is tossed sideways from a basket.",
+      "An apple is tossed forward from a basket.",
+      "An orange is tossed upward from a basket.",
+      "A rock is tossed upward from a basket.",
+      "A lemon is tossed upward from a basket.",
+      "An apple is tossed upward from a box.",
+      "An apple is tossed upward from a bowl."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An orange is thrown upward into the air in the kitchen.",
+    "id": "0144",
+    "negative_prompt": [
+      "An orange is thrown downward into the air in the kitchen.",
+      "An apple is thrown upward into the air in the kitchen.",
+      "An orange is thrown forward into the air in the kitchen.",
+      "A banana is thrown upward into the air in the kitchen.",
+      "An orange is thrown backward into the air in the kitchen.",
+      "A stone is thrown upward into the air in the kitchen.",
+      "An orange is thrown sideward into the air in the kitchen.",
+      "A ball is thrown upward into the air in the kitchen."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A golden leaf is lifted upward by a playful gust of wind, spinning and twirling through the air.",
+    "id": "0145",
+    "negative_prompt": [
+      "A golden leaf is lifted downward by a playful gust of wind, spinning and twirling through the air.",
+      "A golden leaf is lifted horizontally by a playful gust of wind, spinning and twirling through the air.",
+      "A golden leaf is lifted backwards by a playful gust of wind, spinning and twirling through the air.",
+      "A golden leaf is lifted stationarily by a playful gust of wind, spinning and twirling through the air.",
+      "A golden stone is lifted upward by a playful gust of wind, spinning and twirling through the air.",
+      "A golden branch is lifted upward by a playful gust of wind, spinning and twirling through the air.",
+      "A golden statue is lifted upward by a playful gust of wind, spinning and twirling through the air.",
+      "A golden cloud is lifted upward by a playful gust of wind, spinning and twirling through the air."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A parrot flies upward from a roof.",
+    "id": "0146",
+    "negative_prompt": [
+      "A parrot flies downward from a roof.",
+      "A parrot flies sideways from a roof.",
+      "A parrot flies backward from a roof.",
+      "A parrot flies forward from a roof.",
+      "An eagle flies upward from a roof.",
+      "A dove flies upward from a roof.",
+      "An airplane flies upward from a roof.",
+      "A parrot flies upward from the ground."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A statue is raised upward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+    "id": "0147",
+    "negative_prompt": [
+      "A statue is raised downward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A statue is raised sideways onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A statue is raised forward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A statue is raised backward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A car is raised upward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A tree is raised upward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A building is raised upward onto a plinth by a crane, standing tall against the city skyline as it takes its place.",
+      "A boat is raised upward onto a plinth by a crane, standing tall against the city skyline as it takes its place."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A rubber ball is thrown upward, soaring high above the playground.",
+    "id": "0148",
+    "negative_prompt": [
+      "A rubber ball is thrown downward, falling low towards the playground.",
+      "A rubber ball is thrown sideways, moving along the playground.",
+      "A rubber ball is thrown forward, speeding across the playground.",
+      "A rubber ball is thrown backward, receding from the playground.",
+      "A heavy rock is thrown upward, soaring high above the playground.",
+      "A light feather is thrown upward, soaring high above the playground.",
+      "A metal cube is thrown upward, soaring high above the playground.",
+      "A fragile glass is thrown upward, soaring high above the playground."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A ceramic vase is lifted upward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+    "id": "0149",
+    "negative_prompt": [
+      "A ceramic vase is lifted downward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A wooden sculpture is lifted upward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A ceramic vase is lifted sideward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A glass bottle is lifted upward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A ceramic vase is lifted inward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A metal plate is lifted upward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A ceramic vase is lifted outward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.",
+      "A cloth curtain is lifted upward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A balloon is released upward at a wedding, the surface shimmering in the sunlight as it drifts higher.",
+    "id": "0150",
+    "negative_prompt": [
+      "A balloon is released downward at a wedding, the surface shimmering in the sunlight as it drifts lower.",
+      "A rock is released upward at a wedding, the surface shimmering in the sunlight as it drifts higher.",
+      "A balloon is released sideways at a wedding, the surface shimmering in the sunlight as it drifts sideways.",
+      "An anchor is released upward at a wedding, the surface shimmering in the sunlight as it drifts higher.",
+      "A balloon is released horizontally at a wedding, the surface shimmering in the sunlight as it drifts horizontally.",
+      "A brick is released upward at a wedding, the surface shimmering in the sunlight as it drifts higher.",
+      "A balloon is released inward at a wedding, the surface shimmering in the sunlight as it drifts lower.",
+      "A lead weight is released upward at a wedding, the surface shimmering in the sunlight as it drifts higher."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A paper airplane soars upward, catching the wind and gliding above the playground.",
+    "id": "0151",
+    "negative_prompt": [
+      "A paper airplane soars downward, catching the wind and gliding above the playground.",
+      "A paper airplane soars upward, catching the wind and gliding below the playground.",
+      "A paper airplane sinks slowly, catching the wind and gliding above the playground.",
+      "A paper airplane soars upward, catching the wind and hitting the playground.",
+      "A wooden boat soars upward, catching the wind and gliding above the playground.",
+      "A metal car soars upward, catching the wind and gliding above the playground.",
+      "A paper airplane soars upward, catching the wind and gliding above the city street.",
+      "A paper airplane soars upward, catching the wind and gliding above the dense forest."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An airplane lifts upward from the runway, engines roaring as it ascends into the clouds.",
+    "id": "0152",
+    "negative_prompt": [
+      "An airplane descends downward from the runway, engines roaring as it descends from the clouds.",
+      "An airplane lands on the runway, engines roaring as it stays below the clouds.",
+      "An airplane crashes into the runway, engines roaring as it falls from the clouds.",
+      "An airplane moves horizontally across the runway, engines roaring as it moves parallel to the clouds.",
+      "A train lifts upward from the runway, engines roaring as it ascends into the clouds.",
+      "An airplane lifts upward from the ocean, engines roaring as it ascends into the clouds.",
+      "An airplane lifts upward from the runway, engines roaring as it ascends into the ground.",
+      "An airplane lifts upward from the runway, wings roaring as it ascends into the clouds."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A white dove flaps its wings and rises upward, soaring gracefully into the sky above the old chapel.",
+    "id": "0153",
+    "negative_prompt": [
+      "A white dove flaps its wings and moves horizontally, soaring gracefully into the sky above the old chapel.",
+      "A white dove flaps its wings and descends downward, soaring gracefully into the sky above the old chapel.",
+      "A white dove flaps its wings and falls to the ground, soaring gracefully into the sky above the old chapel.",
+      "A white dove flaps its wings and remains stationary, soaring gracefully into the sky above the old chapel.",
+      "A black crow flaps its wings and rises upward, soaring gracefully into the sky above the old chapel.",
+      "A brown sparrow flaps its wings and rises upward, soaring gracefully into the sky above the old chapel.",
+      "A golden eagle flaps its wings and rises upward, soaring gracefully into the sky above the old chapel.",
+      "A colorful parrot flaps its wings and rises upward, soaring gracefully into the sky above the old chapel."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A sofa is carried upward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+    "id": "0154",
+    "negative_prompt": [
+      "A rock is carried upward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A car is carried upward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A flower is carried upward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A house is carried upward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A sofa is carried downward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A sofa is carried horizontally by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A sofa is carried backward by a giant helium balloon, floating lazily into the sky above a summer festival.",
+      "A sofa is carried sideways by a giant helium balloon, floating lazily into the sky above a summer festival."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A pair of sunglasses float upward on a subtle air cushion, lenses reflecting a beach scene.",
+    "id": "0155",
+    "negative_prompt": [
+      "A pair of sunglasses float downward on a subtle air cushion, lenses reflecting a beach scene.",
+      "A pair of sunglasses float sideways on a subtle air cushion, lenses reflecting a beach scene.",
+      "A pair of sunglasses float forward on a subtle air cushion, lenses reflecting a beach scene.",
+      "A pair of sunglasses float backward on a subtle air cushion, lenses reflecting a beach scene.",
+      "A pair of sunglasses float upward on a subtle air cushion, lenses reflecting a mountain scene.",
+      "A pair of sunglasses float upward on a subtle air cushion, lenses reflecting a cityscape.",
+      "A pair of sunglasses float upward on a subtle wooden plank, lenses reflecting a beach scene.",
+      "A pair of sunglasses float upward on a subtle solid ice block, lenses reflecting a beach scene."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car is lifted upward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+    "id": "0156",
+    "negative_prompt": [
+      "A car is lifted downward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A motorcycle is lifted upward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A car is lifted sideways on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A truck is lifted upward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A car is lifted backward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A bicycle is lifted upward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A car is lifted forward on a platform, wheels spinning as bright showroom lights showcase glossy detail.",
+      "A boat is lifted upward on a platform, wheels spinning as bright showroom lights showcase glossy detail."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A luxury handbag is hoisted upward by delicate gold chains.",
+    "id": "0157",
+    "negative_prompt": [
+      "A luxury handbag is hoisted downward by delicate gold chains.",
+      "A luxury handbag is hoisted sideways by delicate gold chains.",
+      "A luxury handbag is hoisted forward by delicate gold chains.",
+      "A plastic grocery bag is hoisted upward by delicate gold chains.",
+      "A worn briefcase is hoisted upward by delicate gold chains.",
+      "A heavy toolbox is hoisted upward by delicate gold chains.",
+      "A luxury handbag is hoisted upward by thick steel ropes.",
+      "A luxury handbag is hoisted upward by frayed cotton threads."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The spaceship descends slowly toward the landing pad, landing gears extending beneath it.",
+    "id": "0158",
+    "negative_prompt": [
+      "The spaceship ascends rapidly toward the landing pad, landing gears extending beneath it.",
+      "The spaceship hovers motionlessly toward the landing pad, landing gears extending beneath it.",
+      "The spaceship descends slowly away from the landing pad, landing gears extending beneath it.",
+      "The spaceship descends slowly above the landing pad, landing gears extending beneath it.",
+      "The submarine descends slowly toward the landing pad, landing gears extending beneath it.",
+      "The spaceship descends slowly toward the ocean surface, landing gears extending beneath it.",
+      "The spaceship descends slowly toward the landing pad, missile launchers extending beneath it.",
+      "The helicopter descends slowly toward the landing pad, landing gears extending beneath it."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fluffy pillow drops downward onto the bed, sinking softly into the duvet.",
+    "id": "0159",
+    "negative_prompt": [
+      "A fluffy pillow drops upward onto the bed, sinking softly into the duvet.",
+      "A fluffy pillow drops sideways onto the bed, sinking softly into the duvet.",
+      "A fluffy pillow drops forward onto the bed, sinking softly into the duvet.",
+      "A fluffy pillow drops backward onto the bed, sinking softly into the duvet.",
+      "A fluffy rock drops downward onto the bed, sinking softly into the duvet.",
+      "A fluffy knife drops downward onto the bed, sinking softly into the duvet.",
+      "A fluffy pillow drops downward onto the road, sinking softly into the duvet.",
+      "A fluffy pillow drops downward onto the bed, sinking softly into the concrete."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A helicopter descends downward, landing skids meeting the ground with precision.",
+    "id": "0160",
+    "negative_prompt": [
+      "A helicopter ascends upward, landing skids meeting the ground with precision.",
+      "A helicopter hovers motionless, landing skids meeting the ground with precision.",
+      "A helicopter moves sideways, landing skids meeting the ground with precision.",
+      "A helicopter moves forward, landing skids meeting the ground with precision.",
+      "An airplane descends downward, landing skids meeting the ground with precision.",
+      "A drone descends downward, landing skids meeting the ground with precision.",
+      "A car descends downward, landing skids meeting the ground with precision.",
+      "A balloon descends downward, landing skids meeting the ground with precision."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A large flag is lowered downward along a flagpole.",
+    "id": "0161",
+    "negative_prompt": [
+      "A large flag is lowered upward along a flagpole.",
+      "A large banner is lowered downward along a flagpole.",
+      "A large curtain is lowered downward along a flagpole.",
+      "A large sail is lowered downward along a flagpole.",
+      "A large flag is lowered downward along a mast.",
+      "A large flag is lowered downward along a rope.",
+      "A large flag is lowered downward along a wall.",
+      "A large tapestry is lowered downward along a flagpole."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A hot air balloon floats downward, it gently approaches the grassy field.",
+    "id": "0162",
+    "negative_prompt": [
+      "A hot air balloon floats upward, it gently approaches the grassy field.",
+      "A hot air balloon floats sideways, it gently approaches the grassy field.",
+      "A hot air balloon floats downward, it gently departs from the grassy field.",
+      "A hot air balloon floats downward, it gently recedes from the grassy field.",
+      "A submarine floats downward, it gently approaches the grassy field.",
+      "A train floats downward, it gently approaches the grassy field.",
+      "A hot air balloon floats downward, it gently approaches the rocky mountain.",
+      "A hot air balloon floats downward, it gently approaches the frozen lake."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A tennis ball drops downward, landing back onto the clay court.",
+    "id": "0163",
+    "negative_prompt": [
+      "A tennis ball drops upward, landing back onto the clay court.",
+      "A tennis ball drops sideways, landing back onto the clay court.",
+      "A tennis ball drops horizontally, landing back onto the clay court.",
+      "A tennis ball drops forward, landing back onto the clay court.",
+      "A basketball drops downward, landing back onto the clay court.",
+      "A soccer ball drops downward, landing back onto the clay court.",
+      "A golf ball drops downward, landing back onto the clay court.",
+      "A bowling ball drops downward, landing back onto the clay court."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A soccer ball falls downward, descending toward the grass.",
+    "id": "0164",
+    "negative_prompt": [
+      "A soccer ball flies upward, ascending toward the grass.",
+      "A soccer ball moves sideways, traversing toward the grass.",
+      "A soccer ball shoots forward, advancing toward the grass.",
+      "A soccer ball backs backward, retreating toward the grass.",
+      "A basketball falls downward, descending toward the grass.",
+      "A bowling ball falls downward, descending toward the grass.",
+      "An apple falls downward, descending toward the grass.",
+      "A soccer ball falls downward, descending toward the concrete."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A basketball drops downward, falling back to the court.",
+    "id": "0165",
+    "negative_prompt": [
+      "A basketball drops upward, falling back to the court.",
+      "A basketball drops sideways, falling back to the court.",
+      "A basketball drops forward, falling back to the court.",
+      "A basketball drops backward, falling back to the court.",
+      "A soccer ball drops downward, falling back to the court.",
+      "A football drops downward, falling back to the court.",
+      "A baseball drops downward, falling back to the court.",
+      "A golf ball drops downward, falling back to the court."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An apple falling downward, gently landing in a basket.",
+    "id": "0166",
+    "negative_prompt": [
+      "An apple falling upward, gently landing in a basket.",
+      "An apple falling sideways, gently landing in a basket.",
+      "An apple falling outward, gently landing in a basket.",
+      "An apple falling around, gently landing in a basket.",
+      "An orange falling downward, gently landing in a basket.",
+      "An egg falling downward, gently landing in a basket.",
+      "An apple falling downward, gently landing in a box.",
+      "An apple falling downward, gently landing in a net."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An orange falls downward, landing into the outstretched hands of a farmer.",
+    "id": "0167",
+    "negative_prompt": [
+      "An orange falls upward, landing into the outstretched hands of a farmer.",
+      "An orange falls sideways, landing into the outstretched hands of a farmer.",
+      "An orange falls backward, landing into the outstretched hands of a farmer.",
+      "An apple falls downward, landing into the outstretched hands of a farmer.",
+      "A rock falls downward, landing into the outstretched hands of a farmer.",
+      "A leaf falls downward, landing into the outstretched hands of a farmer.",
+      "An orange falls downward, landing into the outstretched hands of a child.",
+      "An orange falls downward, landing into the outstretched hands of a doctor."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A golden leaf flutters downward, settling quietly onto a table.",
+    "id": "0168",
+    "negative_prompt": [
+      "A golden leaf flutters upward, settling quietly onto a table.",
+      "A golden leaf flutters sideways, settling quietly onto a table.",
+      "A golden rock flutters downward, settling quietly onto a table.",
+      "A golden coin flutters downward, settling quietly onto a table.",
+      "A golden feather flutters downward, settling quietly onto a table.",
+      "A golden leaf flutters downward, settling quietly onto a floor.",
+      "A golden leaf flutters downward, settling quietly onto a shelf.",
+      "A golden leaf flutters downward, settling quietly onto a chair."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A parrot swoops downward, landing gracefully on a nearby branch.",
+    "id": "0169",
+    "negative_prompt": [
+      "A parrot swoops upward, landing gracefully on a nearby branch.",
+      "A parrot swoops horizontally, landing gracefully on a nearby branch.",
+      "A parrot swoops inward, landing gracefully on a nearby branch.",
+      "A parrot swoops outward, landing gracefully on a nearby branch.",
+      "An eagle swoops downward, landing gracefully on a nearby branch.",
+      "A pigeon swoops downward, landing gracefully on a nearby branch.",
+      "A parrot swoops downward, landing gracefully on a nearby rock.",
+      "A parrot swoops downward, landing gracefully on a nearby nest."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A statue is lowered downward by a crane from the pedestal.",
+    "id": "0170",
+    "negative_prompt": [
+      "A statue is lowered upward by a crane from the pedestal.",
+      "A car is lowered downward by a crane from the pedestal.",
+      "A statue is lowered sideways by a crane from the pedestal.",
+      "A statue is lowered downward by a forklift from the pedestal.",
+      "A statue is lowered outward by a crane from the pedestal.",
+      "A statue is lowered downward by a crane from the ground.",
+      "A boulder is lowered downward by a crane from the pedestal.",
+      "A statue is lowered downward by a robot arm from the pedestal."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A rubber ball falling downward to the pavement on a street.",
+    "id": "0171",
+    "negative_prompt": [
+      "A rubber ball falling upward to the pavement on a street.",
+      "A rubber ball falling sideways to the pavement on a street.",
+      "A rubber ball falling backward to the pavement on a street.",
+      "A rubber ball falling forward to the pavement on a street.",
+      "A metal cube falling downward to the pavement on a street.",
+      "A wooden pyramid falling downward to the pavement on a street.",
+      "A glass sphere falling downward to the pavement on a street.",
+      "A stone cylinder falling downward to the pavement on a street."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A ceramic vase is lowered downward onto a marble tabletop from the mid-air.",
+    "id": "0172",
+    "negative_prompt": [
+      "A ceramic vase is lowered upward onto a marble tabletop from the mid-air.",
+      "A ceramic vase is lowered sideward onto a marble tabletop from the mid-air.",
+      "A ceramic vase is lowered forward onto a marble tabletop from the mid-air.",
+      "A ceramic vase is lowered backward onto a marble tabletop from the mid-air.",
+      "A glass bowl is lowered downward onto a marble tabletop from the mid-air.",
+      "A metal bucket is lowered downward onto a marble tabletop from the mid-air.",
+      "A ceramic vase is lowered downward onto a wooden floor from the mid-air.",
+      "A ceramic vase is lowered downward onto a fabric cloth from the mid-air."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A balloon descends downward from the mid-air, leaving it to rest on the sandy beach.",
+    "id": "0173",
+    "negative_prompt": [
+      "A balloon ascends upward from the mid-air, leaving it to rest on the sandy beach.",
+      "A balloon moves horizontally from the mid-air, leaving it to rest on the sandy beach.",
+      "A balloon hovers motionless from the mid-air, leaving it to rest on the sandy beach.",
+      "A rock descends downward from the mid-air, leaving it to rest on the sandy beach.",
+      "A boat descends downward from the mid-air, leaving it to rest on the sandy beach.",
+      "A kite descends downward from the mid-air, leaving it to rest on the sandy beach.",
+      "A balloon descends downward from the mid-air, leaving it to rest on the rocky mountain.",
+      "A balloon descends downward from the mid-air, leaving it to rest on the dense forest."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A dog sprints leftward across the park, while a cat slinks rightward.",
+    "id": "0174",
+    "negative_prompt": [
+      "A dog sprints rightward across the park, while a cat slinks rightward.",
+      "A dog sprints upward across the park, while a cat slinks rightward.",
+      "A dog sprints leftward across the park, while a cat slinks leftward.",
+      "A dog sprints leftward across the park, while a cat slinks downward.",
+      "A bird sprints leftward across the park, while a cat slinks rightward.",
+      "A fish sprints leftward across the park, while a cat slinks rightward.",
+      "A dog sprints leftward across the park, while a rabbit slinks rightward.",
+      "A dog sprints leftward across the ocean, while a cat slinks rightward."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A dog sprints rightward across the park, while a cat slinks leftward.",
+    "id": "0175",
+    "negative_prompt": [
+      "A bird sprints rightward across the park, while a cat slinks leftward.",
+      "A dog sprints rightward across the park, while a fish slinks leftward.",
+      "A dog sprints leftward across the park, while a cat slinks leftward.",
+      "A dog sprints rightward across the park, while a cat slinks rightward.",
+      "An elephant sprints rightward across the park, while a cat slinks leftward.",
+      "A dog sprints rightward across the park, while a snake slinks leftward.",
+      "A dog sprints upward across the park, while a cat slinks leftward.",
+      "A dog sprints rightward across the park, while a cat slinks downward."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car speeds leftward down the busy street, while a motorcycle roars rightward.",
+    "id": "0176",
+    "negative_prompt": [
+      "A bus speeds leftward down the busy street, while a motorcycle roars rightward.",
+      "A bicycle speeds leftward down the busy street, while a motorcycle roars rightward.",
+      "A car speeds leftward down the busy street, while a scooter roars rightward.",
+      "A car speeds leftward down the busy street, while a truck roars rightward.",
+      "A car speeds rightward down the busy street, while a motorcycle roars rightward.",
+      "A car speeds upward down the busy street, while a motorcycle roars rightward.",
+      "A car speeds leftward down the busy street, while a motorcycle roars leftward.",
+      "A car speeds leftward down the busy street, while a motorcycle roars downward."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A car speeds rightward down the busy street, while a motorcycle roars leftward.",
+    "id": "0177",
+    "negative_prompt": [
+      "A truck speeds rightward down the busy street, while a motorcycle roars leftward.",
+      "A car speeds rightward down the busy street, while a bicycle roars leftward.",
+      "A car speeds leftward down the busy street, while a motorcycle roars leftward.",
+      "A car speeds rightward down the busy street, while a motorcycle roars rightward.",
+      "A bus speeds rightward down the busy street, while a motorcycle roars leftward.",
+      "A car speeds rightward down the busy street, while a scooter roars leftward.",
+      "A car speeds backward down the busy street, while a motorcycle roars leftward.",
+      "A car speeds rightward down the busy street, while a motorcycle roars forward."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A white swan glides leftward across the lake, while a duck paddles rightward",
+    "id": "0178",
+    "negative_prompt": [
+      "A white swan glides rightward across the lake, while a duck paddles rightward",
+      "A white swan glides leftward across the lake, while a duck paddles leftward",
+      "A white swan glides backward across the lake, while a duck paddles rightward",
+      "A white swan glides leftward across the lake, while a duck paddles backward",
+      "A white goose glides leftward across the lake, while a duck paddles rightward",
+      "A white swan glides leftward across the lake, while a goose paddles rightward",
+      "A white pelican glides leftward across the lake, while a duck paddles rightward",
+      "A white swan glides leftward across the lake, while a pelican paddles rightward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A white swan glides rightward across the lake, while a duck paddles leftward",
+    "id": "0179",
+    "negative_prompt": [
+      "A white swan glides leftward across the lake, while a duck paddles leftward",
+      "A white swan glides rightward across the lake, while a duck paddles rightward",
+      "A white goose glides rightward across the lake, while a duck paddles leftward",
+      "A white swan glides rightward across the lake, while a chicken paddles leftward",
+      "A white pelican glides rightward across the lake, while a duck paddles leftward",
+      "A white swan glides rightward across the lake, while an eagle paddles leftward",
+      "A white swan glides backward across the lake, while a duck paddles leftward",
+      "A white swan glides rightward across the lake, while a duck paddles forward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A watermelon rolls right across the picnic blanket, while an orange rolls left",
+    "id": "0180",
+    "negative_prompt": [
+      "A watermelon rolls up across the picnic blanket, while an orange rolls left",
+      "A watermelon rolls down across the picnic blanket, while an orange rolls left",
+      "A watermelon rolls right across the picnic blanket, while an orange rolls up",
+      "A watermelon rolls right across the picnic blanket, while an orange rolls down",
+      "A grape rolls right across the picnic blanket, while an orange rolls left",
+      "A boulder rolls right across the picnic blanket, while an orange rolls left",
+      "A watermelon rolls right across the picnic blanket, while an apple rolls left",
+      "A watermelon rolls right across the picnic blanket, while a stone rolls left"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A watermelon rolls left across the picnic blanket, while an orange rolls right",
+    "id": "0181",
+    "negative_prompt": [
+      "A watermelon rolls right across the picnic blanket, while an orange rolls right",
+      "A watermelon rolls left across the picnic blanket, while an orange rolls left",
+      "A watermelon rolls upward across the picnic blanket, while an orange rolls right",
+      "A watermelon rolls left across the picnic blanket, while an orange rolls downward",
+      "A grape rolls left across the picnic blanket, while an orange rolls right",
+      "A watermelon rolls left across the picnic blanket, while an apple rolls right",
+      "A pumpkin rolls left across the picnic blanket, while an orange rolls right",
+      "A watermelon rolls left across the picnic blanket, while a lemon rolls right"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A kite rises upward, while an apple falls downward",
+    "id": "0182",
+    "negative_prompt": [
+      "A kite rises downward, while an apple falls downward",
+      "A kite rises horizontally, while an apple falls downward",
+      "A kite rises upward, while an apple falls upward",
+      "A kite rises upward, while an apple falls stably",
+      "A stone rises upward, while an apple falls downward",
+      "A car rises upward, while an apple falls downward",
+      "A kite rises upward, while a balloon falls downward",
+      "A kite rises upward, while a cloud falls downward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An apple rises upward, while a kite falls downward",
+    "id": "0183",
+    "negative_prompt": [
+      "An apple falls downward, while a kite falls downward",
+      "An apple drifts sideways, while a kite falls downward",
+      "An apple rises upward, while a kite rises upward",
+      "An apple rises upward, while a kite moves sideways",
+      "An orange rises upward, while a kite falls downward",
+      "A banana rises upward, while a kite falls downward",
+      "An apple rises upward, while a balloon falls downward",
+      "An apple rises upward, while a plane falls downward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A tennis ball is tossed upward into the air, while a soccer ball falls downward, descending toward the grass.",
+    "id": "0184",
+    "negative_prompt": [
+      "A basketball is tossed upward into the air, while a soccer ball falls downward, descending toward the grass.",
+      "A tennis ball is tossed upward into the air, while a golf ball falls downward, descending toward the grass.",
+      "A tennis ball is tossed downward into the air, while a soccer ball falls downward, descending toward the grass.",
+      "A tennis ball is tossed upward into the air, while a soccer ball falls upward, descending toward the grass.",
+      "A tennis ball is tossed upward into the air, while a soccer ball falls downward, ascending toward the grass.",
+      "A baseball is tossed upward into the air, while a soccer ball falls downward, descending toward the grass.",
+      "A tennis ball is tossed upward into the air, while a volleyball falls downward, descending toward the grass.",
+      "A tennis ball is tossed horizontally into the air, while a soccer ball falls downward, descending toward the grass."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A soccer ball is tossed upward into the air, while a tennis ball falls downward, descending toward the grass.",
+    "id": "0185",
+    "negative_prompt": [
+      "A basketball is tossed upward into the air, while a tennis ball falls downward, descending toward the grass.",
+      "A soccer ball is tossed downward into the air, while a tennis ball falls downward, descending toward the grass.",
+      "A soccer ball is tossed upward into the air, while a golf ball falls downward, descending toward the grass.",
+      "A soccer ball is tossed upward into the air, while a tennis ball falls upward, descending toward the grass.",
+      "A football is tossed upward into the air, while a tennis ball falls downward, descending toward the grass.",
+      "A soccer ball is tossed horizontally into the air, while a tennis ball falls downward, descending toward the grass.",
+      "A soccer ball is tossed upward into the air, while a baseball falls downward, descending toward the grass.",
+      "A soccer ball is tossed upward into the air, while a tennis ball falls statically, descending toward the grass."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An apple is tossed upward from a basket, while an orange falling downward, gently landing in a basket.",
+    "id": "0186",
+    "negative_prompt": [
+      "An apple is tossed horizontally from a basket, while an orange falling downward, gently landing in a basket.",
+      "An apple is tossed upward from a basket, while an orange falling upward, gently landing in a basket.",
+      "An pear is tossed upward from a basket, while an orange falling downward, gently landing in a basket.",
+      "An apple is tossed upward from a basket, while an grape falling downward, gently landing in a basket.",
+      "An apple is tossed upward from a table, while an orange falling downward, gently landing in a basket.",
+      "An apple is tossed upward from a basket, while an orange falling downward, gently landing in a box.",
+      "An stone is tossed upward from a basket, while an orange falling downward, gently landing in a basket.",
+      "An apple is tossed upward from a basket, while an lemon falling downward, gently landing in a basket."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "An orange is tossed upward from a basket, while an apple falling downward, gently landing in a basket.",
+    "id": "0187",
+    "negative_prompt": [
+      "An orange is tossed downward from a basket, while an apple falling downward, gently landing in a basket.",
+      "An orange is tossed horizontally from a basket, while an apple falling downward, gently landing in a basket.",
+      "An orange is tossed upward from a basket, while an apple falling upward, gently landing in a basket.",
+      "An orange is tossed upward from a basket, while an apple falling horizontally, gently landing in a basket.",
+      "A banana is tossed upward from a basket, while an apple falling downward, gently landing in a basket.",
+      "An orange is tossed upward from a basket, while a stone falling downward, gently landing in a basket.",
+      "An orange is tossed upward from a box, while an apple falling downward, gently landing in a basket.",
+      "An orange is tossed upward from a basket, while an apple falling downward, gently landing on the ground."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A hot air balloon rises upward into the morning sky, while a bird swoops downward, diving gracefully toward the treetops.",
+    "id": "0188",
+    "negative_prompt": [
+      "A submarine rises upward into the morning sky, while a bird swoops downward, diving gracefully toward the treetops.",
+      "A building rises upward into the morning sky, while a bird swoops downward, diving gracefully toward the treetops.",
+      "A hot air balloon rises upward into the morning sky, while an elephant swoops downward, diving gracefully toward the treetops.",
+      "A hot air balloon rises upward into the morning sky, while a rock swoops downward, diving gracefully toward the treetops.",
+      "A hot air balloon rises downward into the morning sky, while a bird swoops downward, diving gracefully toward the treetops.",
+      "A hot air balloon rises sideways into the morning sky, while a bird swoops downward, diving gracefully toward the treetops.",
+      "A hot air balloon rises upward into the morning sky, while a bird swoops upward, diving gracefully toward the treetops.",
+      "A hot air balloon rises upward into the morning sky, while a bird swoops sideways, diving gracefully toward the treetops."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A yellow balloon floats upward into the sky, while a dry autumn leaf falls downward to the ground.",
+    "id": "0189",
+    "negative_prompt": [
+      "A yellow balloon floats downward into the sky, while a dry autumn leaf falls downward to the ground.",
+      "A yellow balloon floats upward into the sky, while a dry autumn leaf falls upward to the ground.",
+      "A blue kite floats upward into the sky, while a dry autumn leaf falls downward to the ground.",
+      "A yellow balloon floats upward into the sky, while a wet spring flower falls downward to the ground.",
+      "A yellow balloon floats sideways into the sky, while a dry autumn leaf falls downward to the ground.",
+      "A yellow balloon floats upward into the sky, while a dry autumn leaf floats sideways to the ground.",
+      "A red bird floats upward into the sky, while a dry autumn leaf falls downward to the ground.",
+      "A yellow balloon floats upward into the sky, while a plastic toy falls downward to the ground."
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A golden leaf flutters upward and a parrot swoops downward",
+    "id": "0190",
+    "negative_prompt": [
+      "A golden leaf flutters downward and a parrot swoops downward",
+      "A golden leaf flutters sideways and a parrot swoops downward",
+      "A golden leaf flutters upward and a parrot swoops upward",
+      "A golden leaf flutters upward and a parrot swoops horizontally",
+      "A golden brick flutters upward and a parrot swoops downward",
+      "A golden cloud flutters upward and a parrot swoops downward",
+      "A golden leaf flutters upward and a cat swoops downward",
+      "A golden leaf flutters upward and a whale swoops downward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A golden leaf flutters downward and a parrot swoops upward",
+    "id": "0191",
+    "negative_prompt": [
+      "A golden leaf flutters upward and a parrot swoops upward",
+      "A golden leaf flutters downward and a parrot swoops downward",
+      "A golden leaf flutters sideways and a parrot swoops upward",
+      "A golden leaf flutters downward and a parrot swoops still",
+      "A golden rock flutters downward and a parrot swoops upward",
+      "A golden leaf flutters downward and a mouse swoops upward",
+      "A golden brick flutters downward and a parrot swoops upward",
+      "A golden leaf flutters downward and an elephant swoops upward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A rubber ball falling downward and a balloon is released upward",
+    "id": "0192",
+    "negative_prompt": [
+      "A rubber ball falling upward and a balloon is released upward",
+      "A rubber ball falling downward and a balloon is released downward",
+      "A rubber ball falling sideways and a balloon is released upward",
+      "A rubber ball falling downward and a balloon is released sideways",
+      "A feather falling downward and a balloon is released upward",
+      "A rubber ball falling downward and a stone is released upward",
+      "A brick falling downward and a balloon is released upward",
+      "A rubber ball falling downward and a lead weight is released upward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A balloon falling downward and a rubber ball is thrown upward",
+    "id": "0193",
+    "negative_prompt": [
+      "A balloon rising upward and a rubber ball is thrown upward",
+      "A balloon falling downward and a rubber ball is thrown downward",
+      "A rock falling downward and a rubber ball is thrown upward",
+      "A balloon falling downward and a metal sphere is thrown upward",
+      "A balloon floating upward and a rubber ball is thrown upward",
+      "A balloon falling downward and a glass sculpture is thrown upward",
+      "A brick falling downward and a rubber ball is thrown upward",
+      "A balloon falling downward and a pile of leaves is thrown upward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A statue is lowered downward by a crane from the pedestal and a ceramic vase is lifted upwards",
+    "id": "0194",
+    "negative_prompt": [
+      "A statue is lowered upward by a crane from the pedestal and a ceramic vase is lifted upwards",
+      "A statue is lowered downward by a crane from the pedestal and a ceramic vase is lifted downwards",
+      "A painting is lowered downward by a crane from the pedestal and a ceramic vase is lifted upwards",
+      "A statue is lowered downward by a hand from the pedestal and a ceramic vase is lifted upwards",
+      "A statue is lowered downward by a crane from the shelf and a ceramic vase is lifted upwards",
+      "A statue is lowered downward by a crane from the pedestal and a metal box is lifted upwards",
+      "A statue is lowered forward by a crane from the pedestal and a ceramic vase is lifted upwards",
+      "A statue is lowered downward by a crane from the pedestal and a ceramic vase is lifted backwards"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A ceramic vase is lowered downward by a crane and a statue is lifed upwards from the pedestal",
+    "id": "0195",
+    "negative_prompt": [
+      "A ceramic vase is lowered upward by a crane and a statue is lifed upwards from the pedestal",
+      "A ceramic vase is lowered downward by a crane and a statue is lifed downwards from the pedestal",
+      "A ceramic bowl is lowered downward by a crane and a statue is lifed upwards from the pedestal",
+      "A ceramic vase is lowered downward by a forklift and a statue is lifed upwards from the pedestal",
+      "A ceramic vase is lowered downward by a crane and a painting is lifed upwards from the pedestal",
+      "A ceramic vase is lowered downward by a crane and a statue is lifed upwards from the shelf",
+      "A ceramic jug is lowered downward by a crane and a statue is lifed upwards from the pedestal",
+      "A ceramic vase is lowered downward by a hoist and a statue is lifed upwards from the pedestal"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The spaceship descends slowly toward the landing pad, while a helicopter ascends upward",
+    "id": "0196",
+    "negative_prompt": [
+      "The submarine descends slowly toward the landing pad, while a helicopter ascends upward",
+      "The train descends slowly toward the landing pad, while a helicopter ascends upward",
+      "The spaceship descends slowly toward the landing pad, while a boat ascends upward",
+      "The spaceship descends slowly toward the landing pad, while a car ascends upward",
+      "The spaceship ascends quickly toward the landing pad, while a helicopter ascends upward",
+      "The spaceship descends slowly toward the landing pad, while a helicopter descends downward",
+      "The spaceship hovers motionless toward the landing pad, while a helicopter ascends upward",
+      "The spaceship descends slowly toward the landing pad, while a helicopter falls rapidly"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "The spaceship launches upward into the sky, while a helicopter descends downward",
+    "id": "0197",
+    "negative_prompt": [
+      "The spaceship launches downward into the sky, while a helicopter descends downward",
+      "The spaceship launches upward into the sky, while a helicopter descends upward",
+      "The airplane launches upward into the sky, while a helicopter descends downward",
+      "The spaceship launches upward into the sky, while a jet descends downward",
+      "The spaceship launches sideways into the sky, while a helicopter descends downward",
+      "The spaceship launches upward into the sky, while a helicopter descends horizontally",
+      "The drone launches upward into the sky, while a helicopter descends downward",
+      "The spaceship launches upward into the sky, while a blimp descends downward"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A fluffy pillow drops downward onto the bed, while a teddy bear rises upwards to the mid-air",
+    "id": "0198",
+    "negative_prompt": [
+      "A fluffy pillow drops upward onto the bed, while a teddy bear rises upwards to the mid-air",
+      "A fluffy pillow drops downward onto the bed, while a teddy bear rises downward to the mid-air",
+      "A fluffy rock drops downward onto the bed, while a teddy bear rises upwards to the mid-air",
+      "A fluffy pillow drops downward onto the bed, while a knife rises upwards to the mid-air",
+      "A fluffy pillow drops sideways onto the bed, while a teddy bear rises upwards to the mid-air",
+      "A fluffy pillow drops downward onto the bed, while a teddy bear rises horizontally to the mid-air",
+      "A fluffy stone drops downward onto the bed, while a teddy bear rises upwards to the mid-air",
+      "A fluffy pillow drops downward onto the bed, while a chain rises upwards to the mid-air"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A teddy bear drops downward onto the bed, while a fluffy pillow rises upwards to the mid-air",
+    "id": "0199",
+    "negative_prompt": [
+      "A teddy bear drops upward onto the bed, while a fluffy pillow rises upwards to the mid-air",
+      "A teddy bear drops downward onto the bed, while a fluffy pillow rises downward to the mid-air",
+      "A rock drops downward onto the bed, while a fluffy pillow rises upwards to the mid-air",
+      "A teddy bear drops downward onto the bed, while a metal block rises upwards to the mid-air",
+      "A teddy bear drops forward onto the bed, while a fluffy pillow rises upwards to the mid-air",
+      "A teddy bear drops downward onto the bed, while a fluffy pillow rises backward to the mid-air",
+      "A brick drops downward onto the bed, while a fluffy pillow rises upwards to the mid-air",
+      "A teddy bear drops downward onto the bed, while a wooden box rises upwards to the mid-air"
+    ]
+  },
+  {
+    "type": "motion_binding",
+    "prompt": "A large flag is hoisted upward on the flagpole, while a bird flying downwards from the flagpole to the ground",
+    "id": "0200",
+    "negative_prompt": [
+      "A large flag is hoisted downward on the flagpole, while a bird flying downwards from the flagpole to the ground",
+      "A large flag is hoisted upward on the flagpole, while a bird flying upwards from the flagpole to the ground",
+      "A large banner is hoisted upward on the flagpole, while a bird flying downwards from the flagpole to the ground",
+      "A large flag is hoisted upward on the flagpole, while a drone flying downwards from the flagpole to the ground",
+      "A large flag is hoisted upward on the mast, while a bird flying downwards from the flagpole to the ground",
+      "A large flag is hoisted upward on the flagpole, while a bird flying downwards from the tower to the ground",
+      "A large flag is hoisted sideways on the flagpole, while a bird flying downwards from the flagpole to the ground",
+      "A large curtain is hoisted upward on the flagpole, while a bird flying downwards from the flagpole to the ground"
+    ]
+  }
+]

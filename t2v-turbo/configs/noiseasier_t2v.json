@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "description": "NoisEasier settings for T2V-Turbo and AnimateLCM.",
+  "common": {
+    "use_dno": true,
+    "num_inference_steps": 4,
+    "dno_steps": 25,
+    "lr": 0.01,
+    "max_grad_norm": 0.1,
+    "noise_optimization": "full",
+    "reward_fns": ["hpsv2", "img_reward", "motion", "viclip"],
+    "reward_weights": [2.0, 1.0, 1.0, 2.0],
+    "reward_precision": "fp16"
+  },
+  "reward_calibration": {
+    "hps_margin": 0.02,
+    "hps_tau": 0.01,
+    "viclip_margin": 0.05,
+    "viclip_tau": 0.05,
+    "motion_dynamic_weight": 1.0,
+    "motion_smooth_weight": 0.5
+  },
+  "benchmarks": {
+    "ms_vbench": {
+      "runner": "run_ms.py",
+      "run_vbench": true,
+      "prompts_dir": "vbench_prompts/neg_prompts",
+      "seed_file": "vbench_prompts/vbench_seed.txt",
+      "use_neg_prompt": true
+    },
+    "ms_compbench": {
+      "runner": "run_ms.py",
+      "run_compbench": true,
+      "prompts_dir": "comp-t2v-prompts/neg_prompts",
+      "seed_file": "comp-t2v-prompts/compbench_seed.txt",
+      "use_neg_prompt": true
+    },
+    "vc2_vbench": {
+      "runner": "run_vc2.py",
+      "run_vbench": true,
+      "prompts_dir": "vbench_prompts/neg_prompts",
+      "seed_file": "vbench_prompts/vbench_seed.txt",
+      "use_neg_prompt": true,
+      "reward_override": {
+        "hps_margin": 0.02,
+        "hps_tau": 0.01,
+        "viclip_margin": 0.02,
+        "viclip_tau": 0.01,
+        "motion_dynamic_weight": 0.6,
+        "motion_smooth_weight": 0.5
+      }
+    },
+    "vc2_compbench": {
+      "runner": "run_vc2.py",
+      "run_compbench": true,
+      "prompts_dir": "comp-t2v-prompts/neg_prompts",
+      "seed_file": "comp-t2v-prompts/compbench_seed.txt",
+      "use_neg_prompt": true,
+      "reward_override": {
+        "hps_margin": 0.05,
+        "hps_tau": 0.05,
+        "viclip_margin": 0.05,
+        "viclip_tau": 0.05,
+        "motion_dynamic_weight": 0.6,
+        "motion_smooth_weight": 0.5
+      }
+    },
+    "animatelcm_vbench": {
+      "runner": "run_animatelcm.py",
+      "run_vbench": true,
+      "prompts_dir": "vbench_prompts/neg_prompts",
+      "seed_file": "vbench_prompts/vbench_seed.txt",
+      "use_neg_prompt": false
+    },
+    "animatelcm_compbench": {
+      "runner": "run_animatelcm.py",
+      "run_compbench": true,
+      "prompts_dir": "comp-t2v-prompts/neg_prompts",
+      "seed_file": "comp-t2v-prompts/compbench_seed.txt",
+      "use_neg_prompt": false
+    }
+  }
+}

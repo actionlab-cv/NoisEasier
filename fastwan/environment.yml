@@ -1,0 +1,12 @@
+name: noiseasier-fastwan
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - cmake
+  - ffmpeg
+  - ninja
+  - pip
+  - setuptools<81
+  - pip:
+      - uv==0.8.14

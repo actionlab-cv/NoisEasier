@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "runner": "run_noiseasier.py",
+  "benchmark": "FastWan VBench",
+  "args": {
+    "run_vbench": true,
+    "use_dno": true,
+    "noise_optimization": "full",
+    "dno_steps": 25,
+    "lr": 0.001,
+    "max_grad_norm": 0.1,
+    "reward_fns": ["viclip", "img_reward"],
+    "reward_weights": [2.0, 1.0],
+    "reward_precision": "amp",
+    "reward_decoder": "lighttaew2_1",
+    "num_frames": 81,
+    "height": 480,
+    "width": 848,
+    "guidance_scale": 3.0,
+    "vsa_sparsity": 0.8,
+    "use_neg_prompt": false,
+    "prompts_dir": "vbench_prompts/neg_prompts",
+    "seed_file": "vbench_prompts/vbench_seed.txt",
+    "vbench_dimensions": ["color", "overall_consistency", "multiple_objects"]
+  }
+}

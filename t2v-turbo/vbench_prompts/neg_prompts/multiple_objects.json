@@ -1,0 +1,822 @@
+{
+  "a bird and a cat": [
+    "a fish and a cat",
+    "a bird and a dog",
+    "a rabbit and a cat",
+    "a bird and a mouse",
+    "a bird and a rabbit",
+    "a turtle and a cat",
+    "a bird and a horse",
+    "a bird and a lizard"
+  ],
+  "a cat and a dog": [
+    "a bird and a dog",
+    "a cat and a rabbit",
+    "a dog and a turtle",
+    "a fish and a dog",
+    "an elephant and a dog",
+    "a cat and a horse",
+    "a cat and a giraffe",
+    "a lion and a dog"
+  ],
+  "a dog and a horse": [
+    "a cat and a horse",
+    "a dog and a goat",
+    "a bird and a horse",
+    "a dog and a cow",
+    "a horse and a rabbit",
+    "a fox and a horse",
+    "a dog and a sheep",
+    "a dog and a fish"
+  ],
+  "a horse and a sheep": [
+    "a cow and a sheep",
+    "a horse and a goat",
+    "a chicken and a sheep",
+    "a horse and a pig",
+    "a donkey and a sheep",
+    "a horse and a rabbit",
+    "a horse and a deer",
+    "a cat and a sheep"
+  ],
+  "a sheep and a cow": [
+    "a goat and a cow",
+    "a sheep and a horse",
+    "a lamb and a cow",
+    "a sheep and a pig",
+    "an elephant and a cow",
+    "a sheep and a chicken",
+    "a sheep and a buffalo",
+    "a deer and a cow"
+  ],
+  "a cow and an elephant": [
+    "a horse and an elephant",
+    "a cow and a tiger",
+    "a goat and an elephant",
+    "a cow and a giraffe",
+    "a cow and a dolphin",
+    "a cat and an elephant",
+    "a cow and a chicken",
+    "a pig and an elephant"
+  ],
+  "an elephant and a bear": [
+    "a tiger and a bear",
+    "an elephant and a lion",
+    "a giraffe and a bear",
+    "an elephant and a rabbit",
+    "a zebra and a bear",
+    "a bear and a wolf",
+    "an elephant and a fox",
+    "a bear and a deer"
+  ],
+  "a bear and a zebra": [
+    "a lion and a zebra",
+    "a bear and a giraffe",
+    "a wolf and a zebra",
+    "a bear and a tiger",
+    "a bear and an antelope",
+    "a rabbit and a zebra",
+    "a bear and a horse",
+    "a bear and a parrot"
+  ],
+  "a zebra and a giraffe": [
+    "a zebra and an elephant",
+    "a lion and a giraffe",
+    "a zebra and a lion",
+    "a horse and a giraffe",
+    "a zebra and a cheetah",
+    "a giraffe and a tortoise",
+    "a zebra and a rabbit",
+    "a monkey and a giraffe"
+  ],
+  "a giraffe and a bird": [
+    "a lion and a bird",
+    "a giraffe and a fish",
+    "a zebra and a bird",
+    "a giraffe and an elephant",
+    "a giraffe and a cat",
+    "a tiger and a bird",
+    "a giraffe and a lizard",
+    "a giraffe and a squirrel"
+  ],
+  "a chair and a couch": [
+    "a table and a couch",
+    "a chair and a bed",
+    "a sofa and a couch",
+    "a chair and a bench",
+    "a chair and a loveseat",
+    "a chair and a recliner",
+    "a chair and an ottoman",
+    "a futon and a couch"
+  ],
+  "a couch and a potted plant": [
+    "a chair and a potted plant",
+    "a couch and a vase of flowers",
+    "a sofa and a potted tree",
+    "a bench and a potted cactus",
+    "a couch and a hanging plant",
+    "a recliner and a potted herb",
+    "a loveseat and a potted flower",
+    "a couch and an indoor garden"
+  ],
+  "a potted plant and a tv": [
+    "a potted plant and a radio",
+    "a tree and a tv",
+    "a potted cactus and a tv",
+    "a potted plant and a computer",
+    "a potted plant and a projector",
+    "a potted plant and a smartphone",
+    "a potted plant and a console",
+    "a flower and a tv"
+  ],
+  "a tv and a laptop": [
+    "a fridge and a laptop",
+    "a tv and a smartphone",
+    "a radio and a laptop",
+    "a tv and a desktop",
+    "a tablet and a laptop",
+    "a tv and a camera",
+    "a laptop and a printer",
+    "a tv and a console"
+  ],
+  "a laptop and a remote": [
+    "a tablet and a remote",
+    "a laptop and a phone",
+    "a computer and a remote",
+    "a laptop and a game controller",
+    "a laptop and a camera",
+    "a desktop and a remote",
+    "a laptop and a switch",
+    "a laptop and a speaker"
+  ],
+  "a remote and a keyboard": [
+    "a mouse and a keyboard",
+    "a remote and a monitor",
+    "a controller and a keyboard",
+    "a remote and a laptop",
+    "a remote and a mouse pad",
+    "a tablet and a keyboard",
+    "a remote and a desktop",
+    "a joystick and a keyboard"
+  ],
+  "a keyboard and a cell phone": [
+    "a mouse and a tablet",
+    "a keyboard and a laptop",
+    "a monitor and a cell phone",
+    "a keyboard and a smartwatch",
+    "a joystick and a cell phone",
+    "a printer and a cell phone",
+    "a keyboard and a camera",
+    "a keyboard and a remote control"
+  ],
+  "a cell phone and a book": [
+    "a laptop and a book",
+    "a cell phone and a magazine",
+    "a tablet and a book",
+    "a cell phone and a notebook",
+    "a cell phone and a pen",
+    "a drone and a book",
+    "a cell phone and a newspaper",
+    "a computer and a book"
+  ],
+  "a book and a clock": [
+    "a pen and a clock",
+    "a book and a watch",
+    "a book and a lamp",
+    "a chair and a clock",
+    "a book and a painting",
+    "a book and a computer",
+    "a magazine and a clock",
+    "a notebook and a clock"
+  ],
+  "a clock and a backpack": [
+    "a clock and a suitcase",
+    "a watch and a backpack",
+    "a clock and a briefcase",
+    "a calendar and a backpack",
+    "a clock and a bagel",
+    "a clock and a bicycle",
+    "a painting and a backpack",
+    "a clock and a purse"
+  ],
+  "a backpack and an umbrella": [
+    "a suitcase and an umbrella",
+    "a backpack and a hat",
+    "a duffel bag and an umbrella",
+    "a backpack and a raincoat",
+    "a backpack and a bicycle",
+    "a backpack and a pair of shoes",
+    "a briefcase and an umbrella",
+    "a backpack and a towel"
+  ],
+  "an umbrella and a handbag": [
+    "a umbrella and a backpack",
+    "a raincoat and a handbag",
+    "an umbrella and a suitcase",
+    "a hat and a handbag",
+    "an umbrella and a wallet",
+    "a tent and a handbag",
+    "a parasol and a purse",
+    "an umbrella and a briefcase"
+  ],
+  "a handbag and a tie": [
+    "a briefcase and a tie",
+    "a handbag and a belt",
+    "a backpack and a tie",
+    "a handbag and a scarf",
+    "a handbag and a bowtie",
+    "a wallet and a tie",
+    "a handbag and a watch",
+    "a suitcase and a tie"
+  ],
+  "a tie and a suitcase": [
+    "a tie and a backpack",
+    "a watch and a suitcase",
+    "a tie and a briefcase",
+    "a scarf and a suitcase",
+    "a tie and a bag",
+    "a tie and a guitar",
+    "a belt and a suitcase",
+    "a tie and a basket"
+  ],
+  "a suitcase and a vase": [
+    "a backpack and a vase",
+    "a suitcase and a bottle",
+    "a suitcase and a painting",
+    "a briefcase and a vase",
+    "a suitcase and a bowl",
+    "a suitcase and a sculpture",
+    "a suitcase and a jug",
+    "a guitar and a vase"
+  ],
+  "a vase and scissors": [
+    "a table and scissors",
+    "a vase and tape",
+    "a chair and scissors",
+    "a vase and a pen",
+    "a vase and knives",
+    "a notebook and scissors",
+    "a vase and a ruler",
+    "a flower and scissors"
+  ],
+  "scissors and a teddy bear": [
+    "scissors and a rubber ball",
+    "a toy car and a teddy bear",
+    "a teddy bear and a paperclip",
+    "a teddy bear and a pair of pliers",
+    "a dinosaur and a teddy bear",
+    "scissors and a doll",
+    "scissors and a football",
+    "a dog and a teddy bear"
+  ],
+  "a teddy bear and a frisbee": [
+    "a robot and a frisbee",
+    "a teddy bear and a soccer ball",
+    "a stuffed lion and a frisbee",
+    "a teddy bear and a kite",
+    "a teddy bear and a basketball",
+    "a giraffe and a frisbee",
+    "a teddy bear and a beach ball",
+    "a teddy bear and a paper plane"
+  ],
+  "a frisbee and skis": [
+    "a ball and skis",
+    "a frisbee and a snowboard",
+    "a kite and skis",
+    "a frisbee and sleds",
+    "a frisbee and a surfboard",
+    "a frisbee and poles",
+    "a frisbee and a bicycle",
+    "a frisbee and ice skates"
+  ],
+  "skis and a snowboard": [
+    "bikes and a snowboard",
+    "skis and a surfboard",
+    "skates and a snowboard",
+    "skis and a paddleboard",
+    "skis and a kite",
+    "skis and a scooter",
+    "snowshoes and a snowboard",
+    "skis and a wakeboard"
+  ],
+  "a snowboard and a sports ball": [
+    "a skateboard and a sports ball",
+    "a snowboard and a basketball",
+    "a surfboard and a sports ball",
+    "a snowboard and a soccer ball",
+    "a snowboard and a tennis racket",
+    "a sled and a sports ball",
+    "a snowboard and a frisbee",
+    "a snowboard and a golf club"
+  ],
+  "a sports ball and a kite": [
+    "a sports ball and a bicycle",
+    "a tennis racket and a kite",
+    "a sports ball and a drone",
+    "a football and a kite",
+    "a sports car and a kite",
+    "a sports ball and a parachute",
+    "a sports ball and a flag",
+    "a basketball and a kite"
+  ],
+  "a kite and a baseball bat": [
+    "a kite and a tennis racket",
+    "a balloon and a baseball bat",
+    "a kite and a soccer ball",
+    "a plane and a baseball bat",
+    "a kite and a cricket bat",
+    "a kite and a paddle",
+    "a dolphin and a baseball bat",
+    "a kite and a football"
+  ],
+  "a baseball bat and a baseball glove": [
+    "a basketball and a baseball glove",
+    "a baseball bat and a tennis racket",
+    "a football and a baseball glove",
+    "a baseball bat and a soccer ball",
+    "a baseball bat and a cricket bat",
+    "a baseball hoverboard and a baseball glove",
+    "a baseball bat and a table tennis paddle",
+    "a baseball bat and a flying disc"
+  ],
+  "a baseball glove and a skateboard": [
+    "a tennis racket and a skateboard",
+    "a baseball glove and a bicycle",
+    "a baseball bat and a skateboard",
+    "a baseball glove and a scooter",
+    "a baseball glove and a surfboard",
+    "a football and a skateboard",
+    "a baseball glove and a rollerblade",
+    "a baseball glove and a kite"
+  ],
+  "a skateboard and a surfboard": [
+    "a bicycle and a surfboard",
+    "a skateboard and a bicycle",
+    "a scooter and a surfboard",
+    "a skateboard and a kayak",
+    "a skateboard and a tennis racket",
+    "a snowboard and a surfboard",
+    "a skateboard and a paddleboard",
+    "a rollerblade and a surfboard"
+  ],
+  "a surfboard and a tennis racket": [
+    "a surfboard and a basketball",
+    "a kite and a tennis racket",
+    "a surfboard and a golf club",
+    "a surfboard and a soccer ball",
+    "a surfboard and a badminton racket",
+    "a lutecia and a tennis racket",
+    "a surfboard and a volleyball",
+    "a surfboard and a baseball bat"
+  ],
+  "a tennis racket and a bottle": [
+    "a soccer ball and a bottle",
+    "a tennis racket and a cup",
+    "a baseball bat and a bottle",
+    "a tennis racket and a glass",
+    "a tennis racket and a canister",
+    "a tennis racket and a jar",
+    "a frisbee and a bottle",
+    "a tennis racket and a vessel"
+  ],
+  "a bottle and a chair": [
+    "a bottle and a table",
+    "a glass and a chair",
+    "a bottle and a sofa",
+    "a bottle and a desk",
+    "a cat and a chair",
+    "a bottle and a person",
+    "a bird and a chair",
+    "a bottle and a bench"
+  ],
+  "an airplane and a train": [
+    "a bicycle and a train",
+    "an airplane and a boat",
+    "a car and a train",
+    "an airplane and a bicycle",
+    "a helicopter and a train",
+    "an airplane and a bus",
+    "a train and a bicycle",
+    "a train and a boat"
+  ],
+  "a train and a boat": [
+    "a car and a boat",
+    "a train and a bicycle",
+    "a bus and a boat",
+    "a train and an airplane",
+    "a train and a submarine",
+    "a bike and a boat",
+    "a train and a helicopter",
+    "a train and a yacht"
+  ],
+  "a boat and an airplane": [
+    "a car and an airplane",
+    "a boat and a bicycle",
+    "a yacht and an airplane",
+    "a boat and a helicopter",
+    "a boat and a train",
+    "a boat and a drone",
+    "a boat and a rocket",
+    "a boat and a ferry"
+  ],
+  "a bicycle and a car": [
+    "a skateboard and a car",
+    "a bicycle and a truck",
+    "a bicycle and a bus",
+    "a scooter and a car",
+    "a bicycle and a van",
+    "a bicycle and a motorcycle",
+    "a bicycle and an airplane",
+    "a bicycle and a train"
+  ],
+  "a car and a motorcycle": [
+    "a bike and a motorcycle",
+    "a car and a bicycle",
+    "a truck and a motorcycle",
+    "a car and a scooter",
+    "a car and a bus",
+    "a bicycle and a scooter",
+    "a motorcycle and a van",
+    "a car and a skateboard"
+  ],
+  "a motorcycle and a bus": [
+    "a bicycle and a bus",
+    "a motorcycle and a train",
+    "a scooter and a bus",
+    "a motorcycle and an airplane",
+    "a motorcycle and a truck",
+    "a bus and a car",
+    "a motorcycle and a bicycle",
+    "a yacht and a bus"
+  ],
+  "a bus and a traffic light": [
+    "a train and a traffic light",
+    "a bus and a stop sign",
+    "a bicycle and a traffic light",
+    "a bus and a streetlamp",
+    "an airplane and a traffic light",
+    "a bus and a billboard",
+    "a bus and a pedestrian",
+    "a car and a traffic light"
+  ],
+  "a traffic light and a fire hydrant": [
+    "a traffic light and a mailbox",
+    "a bicycle and a fire hydrant",
+    "a traffic cone and a fire hydrant",
+    "a traffic light and a tree",
+    "a traffic light and a fountain",
+    "a pedestrian and a fire hydrant",
+    "a traffic light and a trash can",
+    "a stop sign and a fire hydrant"
+  ],
+  "a fire hydrant and a stop sign": [
+    "a mailbox and a stop sign",
+    "a fire hydrant and a traffic light",
+    "a bench and a stop sign",
+    "a fire hydrant and a yield sign",
+    "a dumpster and a stop sign",
+    "a fire hydrant and a bus shelter",
+    "a fire hydrant and a speed limit sign",
+    "a fire extinguisher and a stop sign"
+  ],
+  "a stop sign and a parking meter": [
+    "a traffic light and a parking meter",
+    "a stop sign and a traffic cone",
+    "a stop sign and a bicycle rack",
+    "a yield sign and a parking meter",
+    "a stop sign and a mailbox",
+    "a stop sign and a streetlamp",
+    "a fire hydrant and a parking meter",
+    "a stop sign and a bus stop"
+  ],
+  "a parking meter and a truck": [
+    "a parking meter and a bicycle",
+    "a stop sign and a truck",
+    "a parking meter and a bus",
+    "a parking meter and a van",
+    "a traffic light and a truck",
+    "a parking meter and a motorcycle",
+    "a parking meter and a delivery van",
+    "a parking meter and a sedan"
+  ],
+  "a truck and a bicycle": [
+    "a car and a bicycle",
+    "a truck and a scooter",
+    "a van and a bicycle",
+    "a truck and a skateboard",
+    "a truck and a tricycle",
+    "a motorcycle and a bicycle",
+    "a truck and a unicycle",
+    "a bicycle and a bicycle"
+  ],
+  "a toilet and a hair drier": [
+    "a sink and a hair curler",
+    "a bathtub and a hair drier",
+    "a toilet and a fan",
+    "a toilet and a hair straightener",
+    "a shower and a hair drier",
+    "a toilet and a brush",
+    "a toilet and a blow dryer",
+    "a toilet and a hair clipper"
+  ],
+  "a hair drier and a toothbrush": [
+    "a hair straightener and a toothbrush",
+    "a hair drier and a comb",
+    "a vacuum cleaner and a toothbrush",
+    "a hair drier and a toothpaste",
+    "a hair drier and a razor",
+    "a fan and a toothbrush",
+    "a hair drier and a mirror",
+    "a hair drier and a soap dispenser"
+  ],
+  "a toothbrush and a sink": [
+    "a comb and a sink",
+    "a toothbrush and a bathtub",
+    "a razor and a sink",
+    "a toothbrush and a mirror",
+    "a toothbrush and a faucet",
+    "a sponge and a sink",
+    "a toothbrush and a countertop",
+    "a toothbrush and a dish"
+  ],
+  "a sink and a toilet": [
+    "a bathtub and a toilet",
+    "a sink and a shower",
+    "a sink and a bidet",
+    "a sink and a urinal",
+    "a sink and a countertop",
+    "a washing machine and a toilet",
+    "an oven and a toilet",
+    "a sink and a dishwasher"
+  ],
+  "a wine glass and a chair": [
+    "a water bottle and a chair",
+    "a wine glass and a table",
+    "a vase and a chair",
+    "a wine glass and a sofa",
+    "a coffee cup and a chair",
+    "a wine glass and a bench",
+    "a wine glass and a desk",
+    "a juice box and a chair"
+  ],
+  "a cup and a couch": [
+    "a plate and a couch",
+    "a cup and a chair",
+    "a mug and a couch",
+    "a cup and a sofa",
+    "a cup and a table",
+    "a glass and a couch",
+    "a cup and a bench",
+    "a cup and a loveseat"
+  ],
+  "a fork and a potted plant": [
+    "a knife and a potted flower",
+    "a spoon and a hanging plant",
+    "a fork and a plastic tree",
+    "a spatula and a table plant",
+    "a fork and a vase of flowers",
+    "a fork and a bonsai tree",
+    "a fork and a succulent plant",
+    "a whisk and a garden plant"
+  ],
+  "a knife and a tv": [
+    "a fork and a tv",
+    "a knife and a radio",
+    "a spoon and a tv",
+    "a knife and a computer",
+    "a knife and a movie",
+    "a knife and a laptop",
+    "a knife and a tablet",
+    "a blender and a tv"
+  ],
+  "a spoon and a laptop": [
+    "a fork and a desktop",
+    "a spoon and a tablet",
+    "a knife and a laptop",
+    "a bowl and a laptop",
+    "a spoon and a smartphone",
+    "a spoon and a television",
+    "a spoon and a printer",
+    "a cup and a laptop"
+  ],
+  "a bowl and a remote": [
+    "a cup and a remote",
+    "a bowl and a phone",
+    "a plate and a remote",
+    "a bowl and a controller",
+    "a bowl and some keys",
+    "a vase and a remote",
+    "a bowl and a tablet",
+    "a dish and a remote"
+  ],
+  "a banana and a keyboard": [
+    "an apple and a keyboard",
+    "a banana and a mouse",
+    "a peach and a keyboard",
+    "a banana and a monitor",
+    "a gorilla and a keyboard",
+    "a banana and a guitar",
+    "a banana and a paperclip",
+    "a pineapple and a keyboard"
+  ],
+  "an apple and a cell phone": [
+    "an orange and a cell phone",
+    "an apple and a laptop",
+    "a pear and a cell phone",
+    "an apple and a tablet",
+    "a banana and a cell phone",
+    "an apple and a smartwatch",
+    "an apple and a computer",
+    "a cherry and a cell phone"
+  ],
+  "a sandwich and a book": [
+    "a sandwich and a pen",
+    "a pizza and a book",
+    "a sandwich and a notebook",
+    "a sandwich and a journal",
+    "a burger and a book",
+    "a sandwich and an article",
+    "a sandwich and a novel",
+    "a salad and a book"
+  ],
+  "an orange and a clock": [
+    "a banana and a clock",
+    "an orange and a watch",
+    "a pineapple and a clock",
+    "an orange and a timer",
+    "a car and a clock",
+    "a bicycle and a clock",
+    "an orange and a painting",
+    "a truck and a clock"
+  ],
+  "broccoli and a backpack": [
+    "carrots and a suitcase",
+    "broccoli and a handbag",
+    "spinach and a backpack",
+    "broccoli and a briefcase",
+    "cauliflower and a backpack",
+    "broccoli and a duffel bag",
+    "broccoli and a purse",
+    "broccoli and a tote"
+  ],
+  "a carrot and an umbrella": [
+    "a bicycle and an umbrella",
+    "a carrot and a hat",
+    "a potato and an umbrella",
+    "a carrot and a raincoat",
+    "an apple and an umbrella",
+    "a carrot and a backpack",
+    "a carrot and a skateboard",
+    "a frog and an umbrella"
+  ],
+  "a hot dog and a handbag": [
+    "a cat and a handbag",
+    "a hot dog and a bicycle",
+    "a hot cat and a handbag",
+    "a hot dog and a backpack",
+    "a cold dog and a handbag",
+    "a hot dog and a purse",
+    "a hot dog and a jacket",
+    "a sandwich and a handbag"
+  ],
+  "a pizza and a tie": [
+    "a burger and a tie",
+    "a pizza and a belt",
+    "a pasta and a tie",
+    "a pizza and a scarf",
+    "a pizza and a jacket",
+    "a cupcake and a tie",
+    "a pizza and a hat",
+    "a pizza and a bowtie"
+  ],
+  "a donut and a suitcase": [
+    "a bagel and a suitcase",
+    "a donut and a backpack",
+    "a muffin and a suitcase",
+    "a donut and a briefcase",
+    "a croissant and a suitcase",
+    "a donut and a duffel bag",
+    "a donut and a tote",
+    "a biscuit and a suitcase"
+  ],
+  "a cake and a vase": [
+    "a cookie and a vase",
+    "a cake and a bowl",
+    "a pie and a vase",
+    "a cake and a bottle",
+    "an ice cream and a vase",
+    "a cake and a statue",
+    "a cake and a flowerpot",
+    "a cake and a cup"
+  ],
+  "an oven and scissors": [
+    "a toaster and scissors",
+    "an oven and a knife",
+    "a stove and scissors",
+    "an oven and a fork",
+    "a microwave and scissors",
+    "a blender and scissors",
+    "an oven and tape",
+    "an oven and a ruler"
+  ],
+  "a toaster and a teddy bear": [
+    "a blender and a teddy bear",
+    "a toaster and a doll",
+    "a microwave and a teddy bear",
+    "a toaster and a stuffed rabbit",
+    "a toaster and a toy truck",
+    "a kettle and a teddy bear",
+    "a toaster and a stuffed dinosaur",
+    "a toaster and a plush giraffe"
+  ],
+  "a microwave and a frisbee": [
+    "a toaster and a frisbee",
+    "a microwave and a basketball",
+    "a blender and a frisbee",
+    "a microwave and a kite",
+    "a microwave and a soccer ball",
+    "a sandwich and a frisbee",
+    "a microwave and a drone",
+    "a microwave and a tennis ball"
+  ],
+  "a refrigerator and skis": [
+    "a blender and skis",
+    "a refrigerator and a snowboard",
+    "a refrigerator and a pair of rollerblades",
+    "a stove and skis",
+    "a car and skis",
+    "a refrigerator and a bicycle",
+    "a table and skis",
+    "a refrigerator and snowshoes"
+  ],
+  "a bicycle and an airplane": [
+    "a skateboard and an airplane",
+    "a bicycle and a helicopter",
+    "a car and an airplane",
+    "a bicycle and a boat",
+    "a bicycle and a drone",
+    "a bicycle and a train",
+    "a bicycle and a spaceship",
+    "a bicycle and a blimp"
+  ],
+  "a car and a train": [
+    "a bike and a train",
+    "a car and a boat",
+    "a truck and a train",
+    "a car and a plane",
+    "a car and a bicycle",
+    "a cat and a train",
+    "a car and a horse",
+    "a car and a bus"
+  ],
+  "a motorcycle and a boat": [
+    "a car and a boat",
+    "a motorcycle and a bicycle",
+    "a scooter and a boat",
+    "a motorcycle and a ship",
+    "a motorcycle and a yacht",
+    "a truck and a boat",
+    "a motorcycle and an airplane",
+    "a motorcycle and a kayak"
+  ],
+  "a person and a toilet": [
+    "a cat and a toilet",
+    "a person and a sink",
+    "an athlete and a toilet",
+    "a person and a urinal",
+    "a dog and a toilet",
+    "a person and a bathtub",
+    "a woman and a toilet",
+    "a person and a shower"
+  ],
+  "a person and a hair drier": [
+    "a cat and a hair drier",
+    "a person and a toaster",
+    "a dog and a hair drier",
+    "a person and a blender",
+    "a child and a hair drier",
+    "a person and a vacuum cleaner",
+    "a teacher and a hair drier",
+    "a person and a microwave"
+  ],
+  "a person and a toothbrush": [
+    "a cat and a toothbrush",
+    "a person and a pen",
+    "a woman and a toothbrush",
+    "a person and a phone",
+    "a dog and a toothbrush",
+    "a person and a hairbrush",
+    "a child and a toothbrush",
+    "a person and a razor"
+  ],
+  "a person and a sink": [
+    "a cat and a sink",
+    "a person and a table",
+    "a child and a sink",
+    "a person and a bathtub",
+    "a dog and a sink",
+    "a person and a fridge",
+    "an animal and a sink",
+    "a person and a stove"
+  ]
+}

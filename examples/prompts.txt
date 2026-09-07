@@ -1,0 +1,4 @@
+# One UTF-8 prompt per line. Blank lines and comments are ignored.
+A red panda walks through a bamboo forest in gentle rain.
+A small sailboat crosses a calm lake at sunrise.
+A ceramic robot waves while standing beside a yellow bicycle.

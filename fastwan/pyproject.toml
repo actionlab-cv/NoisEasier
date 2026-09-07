@@ -1,0 +1,67 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "noiseasier-fastwan"
+version = "0.1.0"
+description = "NoisEasier inference for FastWan2.1-T2V-1.3B"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = [
+    "torch==2.11.0",
+    "torchvision",
+    "transformers==4.57.3",
+    "tokenizers>=0.20.1",
+    "sentencepiece==0.2.0",
+    "diffusers>=0.33.1",
+    "accelerate==1.0.1",
+    "safetensors",
+    "huggingface_hub",
+    "numpy>=1.26",
+    "scipy==1.14.1",
+    "pillow>=10.3.0",
+    "imageio==2.36.0",
+    "imageio-ffmpeg==0.5.1",
+    "av",
+    "einops",
+    "tqdm",
+    "requests>=2.32.2",
+    "PyYAML==6.0.1",
+    "cloudpickle",
+    "filelock",
+    "packaging",
+    "psutil",
+    "timm==1.0.11",
+    "fvcore",
+    "ftfy==6.3.1",
+    "regex",
+    "fastvideo-kernel==0.2.6",
+]
+
+[tool.uv]
+prerelease = "allow"
+
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cpu", marker = "sys_platform != 'linux'" },
+  { index = "pytorch-cu128", marker = "sys_platform == 'linux'" },
+]
+torchvision = [
+  { index = "pytorch-cpu", marker = "sys_platform != 'linux'" },
+  { index = "pytorch-cu128", marker = "sys_platform == 'linux'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[tool.setuptools.packages.find]
+include = ["fastvideo*", "reward_fn*", "viclip*"]

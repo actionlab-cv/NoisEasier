@@ -1,0 +1,932 @@
+{
+  "Close up of grapes on a rotating table.": [
+    "Close up of apples on a stationary chair.",
+    "Far shot of bananas on a spinning shelf.",
+    "Close up of oranges on a tilted countertop.",
+    "Medium shot of cherries on a fixed platform.",
+    "Close up of berries on a moving desk.",
+    "Close up of lemons on a circular mat.",
+    "Close up of peaches on a revolving board.",
+    "Close up of pears on a sliding tray."
+  ],
+  "Turtle swimming in ocean.": [
+    "Rabbit hopping on land.",
+    "Shark gliding through water.",
+    "Bird flying above mountains.",
+    "Snake slithering in desert.",
+    "Frog leaping across a pond.",
+    "Fish floating in a river.",
+    "Octopus crawling on the beach.",
+    "Crab digging in the sand."
+  ],
+  "A storm trooper vacuuming the beach.": [
+    "A pirate cleaning the desert.",
+    "A robot mopping the mountains.",
+    "A soldier sweeping the forest.",
+    "A wizard dusting the city.",
+    "An astronaut raking the garden.",
+    "A knight polishing the road.",
+    "A ninja organizing the warehouse.",
+    "A vampire scrubbing the lake."
+  ],
+  "A panda standing on a surfboard in the ocean in sunset.": [
+    "A elephant lying on a skateboard in the desert at sunrise.",
+    "A koala sitting on a paddleboard in a lake at midnight.",
+    "A zebra balancing on a surfboard in a river during midday.",
+    "A lion crouching on a boogie board in a pool at dusk.",
+    "A bear jumping on a surfboard in the sea at dawn.",
+    "A tiger resting on a kayak in the mountains in noon.",
+    "A rabbit perched on a surfboard in a pond at twilight.",
+    "A fox standing on a jet ski in the beach at noon."
+  ],
+  "An astronaut feeding ducks on a sunny afternoon, reflection from the water.": [
+    "A robot herding cats on a cloudy morning, shadow on the ground.",
+    "An astronaut painting murals on a foggy dusk, glimmer from the sand.",
+    "A scientist watering flowers on a rainy evening, sparkles in the air.",
+    "An explorer chasing rabbits on a windy night, echo in the forest.",
+    "A firefighter rescuing birds on a snowy day, shimmer from the ice.",
+    "A gardener trimming hedges on a stormy afternoon, light from the sky.",
+    "A pilot training falcons on a bright twilight, silhouette of the mountains.",
+    "A teacher instructing dolphins on a warm midnight, glow from the stars."
+  ],
+  "Two pandas discussing an academic paper.": [
+    "Three squirrels debating a science project.",
+    "One panda analyzing a novel.",
+    "Two lions arguing over a research study.",
+    "Four rabbits reviewing a biology journal.",
+    "Two pandas presenting a lecture.",
+    "Two giraffes discussing a historical document.",
+    "Five foxes critiquing a thesis.",
+    "Two pandas ignoring a technical report."
+  ],
+  "Sunset time lapse at the beach with moving clouds and colors in the sky.": [
+    "Midday still shot in the mountains with static fog and monochrome in the air.",
+    "Dawn time lapse in a forest with stationary trees and dark shadows on the ground.",
+    "Nighttime still image at a lake with still water and no lights in the sky.",
+    "Noon time lapse on a city street with bustling traffic and gray skies above.",
+    "Dusk time lapse on a riverside with scattered rain and vibrant hues all around.",
+    "Sunrise panorama on a desert with drifting sand and bright sun overhead.",
+    "Evening time lapse at a park with flying birds and pastel colors in the dusk.",
+    "Afternoon still scene at a garden with frozen flowers and dull tones in the backdrop."
+  ],
+  "A fat rabbit wearing a purple robe walking through a fantasy landscape.": [
+    "A thin turtle wearing a green cape running across a futuristic city.",
+    "A small fox wearing a blue dress flying over a desert scenery.",
+    "A plump cat wearing a yellow jacket jogging in a urban environment.",
+    "A slender dog wearing a red tunic hopping along a beach setting.",
+    "A chubby owl wearing an orange scarf crawling under a snowy terrain.",
+    "A large deer wearing a black cloak swimming in a tropical jungle.",
+    "A stout squirrel wearing a white shirt climbing inside a haunted house.",
+    "A hefty mouse wearing a pink gown leaping through an alien planet."
+  ],
+  "A koala bear playing piano in the forest.": [
+    "A penguin singing opera on a mountain.",
+    "A tiger dancing ballet in the desert.",
+    "A rabbit playing guitar in a city.",
+    "A giraffe painting a mural by the river.",
+    "An elephant cooking in a garden.",
+    "A lion playing drums in a jungle.",
+    "A cat reciting poetry on a beach.",
+    "A horse playing flute in a cave."
+  ],
+  "An astronaut flying in space.": [
+    "A robot swimming in the ocean.",
+    "A bird soaring in the sky.",
+    "A diver exploring a coral reef.",
+    "An alien walking on Mars.",
+    "A scientist floating in zero gravity.",
+    "A pilot navigating through clouds.",
+    "A human running on a treadmill.",
+    "A spaceship landing on Earth."
+  ],
+  "Fireworks.": [
+    "Thunderstorm",
+    "Balloons",
+    "Fountains",
+    "Firecrackers",
+    "Lanterns",
+    "Sparklers",
+    "Confetti",
+    "Candles"
+  ],
+  "An animated painting of fluffy white clouds moving in sky.": [
+    "A still sculpture of sharp black mountains standing in desert.",
+    "A static drawing of smooth red waves crashing on beach.",
+    "A digital illustration of jagged gray rocks floating in ocean.",
+    "A lively mural of thin green trees swaying in forest.",
+    "A textured collage of heavy blue boulders lying in valley.",
+    "A watercolor artwork of flat yellow fields stretching in plains.",
+    "A vibrant print of light purple fog rolling in canyon.",
+    "A dynamic sketch of rounded pink snowflakes falling in tundra."
+  ],
+  "Flying through fantasy landscapes.": [
+    "Diving into urban jungles.",
+    "Walking across barren deserts.",
+    "Soaring above coastal cities.",
+    "Drifting through surreal forests.",
+    "Gliding over snowy mountains.",
+    "Racing through ancient ruins.",
+    "Hovering above serene lakes.",
+    "Exploring vibrant marketplaces."
+  ],
+  "A bigfoot walking in the snowstorm.": [
+    "A unicorn running in the desert.",
+    "A bigfoot sitting under the sunny sky.",
+    "A bigfoot dancing in the rain.",
+    "A bigfoot jumping in the dry leaves.",
+    "A smallfoot walking in the snowstorm.",
+    "A bigfoot flying in the clear blue sky.",
+    "A bigfoot hiding in the forest.",
+    "A bigfoot walking in the fog."
+  ],
+  "A squirrel eating a burger.": [
+    "A rabbit eating a salad.",
+    "A fox playing with a burger.",
+    "A squirrel climbing a tree.",
+    "A squirrel eating a sandwich.",
+    "A squirrel drinking a soda.",
+    "A bear eating a burger.",
+    "A squirrel in a park.",
+    "A squirrel chasing a bird."
+  ],
+  "A cat wearing sunglasses and working as a lifeguard at a pool.": [
+    "A dog wearing a hat and working as a chef in a restaurant.",
+    "A hamster without glasses and relaxing as a lifeguard on a beach.",
+    "A rabbit wearing goggles and serving as a lifeguard at a lake.",
+    "A parrot wearing sunglasses and working as a lifeguard at a beach.",
+    "A cat wearing a snorkel and working as a lifeguard at a river.",
+    "A turtle wearing sunglasses and lounging as a lifeguard at an aquarium.",
+    "A cat wearing sunglasses and working as a lifeguard at a fountain.",
+    "A fox wearing sunglasses and managing as a lifeguard at a water park."
+  ],
+  "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.": [
+    "Foggy sandy hills valleys. fog covered sandy hills encircle and illuminate shallow valleys. the valleys curve and weave between the low sunken hilltops.",
+    "Misty flat plains cliffs gorge. mist shrouded flat plains encase and highlight narrow gorges. the gorges stretch and fold across the wide open cliffs.",
+    "Sunny grassy hills ravine. sunny lush hills embrace and contrast jagged ravines. the ravines spiral and connect among the steep rocky slopes.",
+    "Dry barren hills slopes creek. dry desolate hills surround and obscure winding creeks. the creeks flow and meander down the low sloping hillsides.",
+    "Rainy green valleys ridges gorge. rainy fertile valleys border and obscure narrow gorges. the gorges dip and rise across the rolling green ridges.",
+    "Stormy wet cliffs valley. stormy drenched cliffs overshadow and frame shallow valleys. the valleys funnel and drop through the steep towering cliffs.",
+    "Clear blue beaches dunes valley. clear sunny beaches frame and illuminate wide valleys. the valleys flatten and stretch into the gentle sandy dunes.",
+    "Windy dark forests hills cape. windy shadowy forests encroach and cloak expansive capes. the capes rise and fall with the rugged forested hills."
+  ],
+  "Splash of turquoise water in extreme slow motion, alpha channel included.": [
+    "Drip of crimson oil in rapid fast motion, alpha channel omitted.",
+    "Pour of emerald liquid in moderate speed, no alpha channel included.",
+    "Flow of golden sand in gentle breeze, alpha channel included.",
+    "Surge of violet paint in standard speed, alpha channel not included.",
+    "Jet of azure ink in high-speed action, alpha channel included.",
+    "Cascade of obsidian coffee in slow motion, alpha channel removed.",
+    "Stream of chartreuse slime in slow motion, alpha channel subtracted.",
+    "Trickle of bright orange juice in extreme fast motion, alpha channel excluded."
+  ],
+  "an ice cream is melting on the table.": [
+    "a chocolate cake is burning on the floor.",
+    "a sandwich is sliding off the counter.",
+    "a cupcake is freezing in the refrigerator.",
+    "a pie is overflowing on the shelf.",
+    "a fruit salad is spoiling on the chair.",
+    "a milkshake is spilling on the ground.",
+    "a donut is hardening in the oven.",
+    "a popsicle is dissolving in the sink."
+  ],
+  "a drone flying over a snowy forest.": [
+    "a helicopter hovering above a sandy desert.",
+    "a bird soaring across a rainy cityscape.",
+    "a kite drifting over a rocky beach.",
+    "a balloon rising over a green meadow.",
+    "a plane zooming over a dry savanna.",
+    "a blimp gliding through a foggy valley.",
+    "a spaceship traveling across a bustling village.",
+    "a paraglider descending into a vibrant park."
+  ],
+  "a shark is swimming in the ocean.": [
+    "a dolphin is flying in the sky.",
+    "a kitten is playing in the garden.",
+    "a whale is diving in the lake.",
+    "a fish is floating in the river.",
+    "a seal is running on the beach.",
+    "a bird is swimming in the ocean.",
+    "a shark is swimming in the desert.",
+    "a shark is sitting on the sand."
+  ],
+  "Aerial panoramic video from a drone of a fantasy land.": [
+    "Ground-level static photo of a real cityscape.",
+    "Underwater close-up footage of a tropical reef.",
+    "Vertical timelapse video from a helicopter of a futuristic metropolis.",
+    "Wide-angle still image from a camera of a desert landscape.",
+    "360-degree interactive tour inside an ancient castle.",
+    "Side view live stream from a blimp of a snowy mountain range.",
+    "Mobile video clip on the street of a bustling market.",
+    "Nighttime drone shot of a serene ocean view."
+  ],
+  "a teddy bear is swimming in the ocean.": [
+    "a rubber duck is flying in the sky.",
+    "a stuffed lion is dancing on the land.",
+    "a plush rabbit is floating in the desert.",
+    "a soft doll is running through the forest.",
+    "a toy dog is diving in the lake.",
+    "a cardboard cat is sitting on the beach.",
+    "a beanie monkey is walking in the mountains.",
+    "a plush elephant is jumping in the river."
+  ],
+  "time lapse of sunrise on mars.": [
+    "time lapse of sunset on venus.",
+    "slow motion of twilight on earth.",
+    "time lapse of moonrise on jupiter.",
+    "fast forward of dawn on saturn.",
+    "time lapse of mid-day on neptune.",
+    "time lapse of sunset on pluto.",
+    "time lapse of sunrise on mercury.",
+    "time lapse of sunrise on the moon."
+  ],
+  "golden fish swimming in the ocean.": [
+    "purple bird flying in the forest.",
+    "black cat hiding in the grass.",
+    "silver turtle crawling on the beach.",
+    "blue whale leaping above the river.",
+    "red frog jumping through the desert.",
+    "green lizard resting on the mountain.",
+    "white rabbit burrowing in the snow.",
+    "pink elephant marching through the city."
+  ],
+  "An artist brush painting on a canvas close up.": [
+    "A chef knife slicing on a cutting board far away.",
+    "A sculptor chisel carving on a marble block top down.",
+    "A calligrapher pen writing on a parchment sheet sideways.",
+    "A crayon drawing on a notebook open.",
+    "A paint roller coating on a wall from a distance.",
+    "A marker sketching on a board at an angle.",
+    "A fountain pen doodling on a diary cover from a close angle.",
+    "A pastel stick smudging on a paper sheet tilted."
+  ],
+  "A drone view of celebration with Christmas tree and fireworks, starry sky - background.": [
+    "A ground view of disturbance with palm tree and smoke, cloudy sky - backdrop.",
+    "A drone view of gathering with oak tree and sparklers, clear sky - setting.",
+    "A bird's-eye view of festival with birthday cake and confetti, overcast sky - scenery.",
+    "An aerial perspective of ceremony with pine tree and lanterns, foggy sky - scene.",
+    "A drone perspective of party with willow tree and balloons, blue sky - horizon.",
+    "A sky view of protest with cactus and flares, sunset sky - tableau.",
+    "A high-altitude view of banquet with hedge and candles, twilight sky - view.",
+    "A drone overview of occasion with cherry blossom and streamers, rainy sky - milieu."
+  ],
+  "happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background": [
+    "sad cat wearing a blue hoodie, outdoor, landscape, looking away, bright background",
+    "excited rabbit wearing a green scarf, living room, candid, jumping, light background",
+    "playful bird wearing a red cape, park, action shot, perched on branch, blurred background",
+    "calm turtle wearing an orange vest, garden, close-up, hiding in shell, natural background",
+    "angry cat wearing a purple sweater, office, headshot, turned sideways, white background",
+    "curious ferret wearing a black beanie, bedroom, full body, lounging, colorful background",
+    "bored fish wearing a pink tutu, aquarium, aerial view, swimming downwards, dark water",
+    "surprised goat wearing a checkered shirt, barn, group photo, standing on hind legs, muddy background"
+  ],
+  "Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.": [
+    "Clay figures in blue plastic, 2D image, on black background, outdoor shot, performing ballet.",
+    "Paper sculptures in green fabric, 3D render, on grey background, gallery shot, performing folk dance.",
+    "Wooden puppets in yellow cardboard, 3D model, on red background, workshop shot, dancing hip-hop.",
+    "Metal robots in orange silk, 3D animation, on clear background, indoor shot, performing jazz dance.",
+    "Origami animals in purple paper, 2D illustration, in colorful background, street shot, dancing tango.",
+    "Fabric dolls in pink wool, 2D collage, on brown background, nature shot, performing salsa.",
+    "Plastic figures in black leather, 3D design, on blue background, stage shot, dancing contemporary.",
+    "Origami dancers in grey paper, 3D render, on green background, office shot, performing traditional dance."
+  ],
+  "Campfire at night in a snowy forest with starry sky in the background.": [
+    "Bonfire during the day in a sandy desert with cloudy sky in the distance.",
+    "Campfire at dawn in a tropical beach with clear ocean in the background.",
+    "Fire pit at dusk in a rocky mountain with stormy clouds in the sky.",
+    "Campground at midday in a verdant meadow with bright sun in the background.",
+    "Barbecue at sunset in an urban park with skyscrapers in the skyline.",
+    "Campfire at twilight in a barren wasteland with lightning in the atmosphere.",
+    "Campfire at night in a dry savanna with a full moon in the background.",
+    "Portable stove at night in a bustling city with neon lights around."
+  ],
+  "a fantasy landscape": [
+    "a futuristic cityscape",
+    "an urban street scene",
+    "a mythical forest",
+    "a desert oasis",
+    "a tropical beach",
+    "an arctic tundra",
+    "a historical battlefield",
+    "a rural countryside"
+  ],
+  "A 3D model of a 1800s victorian house.": [
+    "A 2D illustration of a modern minimalist apartment.",
+    "A 3D sculpture of a 1700s colonial castle.",
+    "A 3D rendering of a 1900s art deco building.",
+    "A 3D model of a futuristic eco-friendly dome.",
+    "A 3D model of a 1800s rustic farmhouse.",
+    "A 3D diagram of a medieval fortress.",
+    "A 3D blueprint of a 2020s contemporary skyscraper.",
+    "A 3D image of a 1800s Gothic cathedral."
+  ],
+  "this is how I do makeup in the morning.": [
+    "this is how I cook dinner in the evening.",
+    "this is how I style my hair at night.",
+    "this is how I clean the house in the afternoon.",
+    "this is how I bake cookies on the weekend.",
+    "this is how I plan my day at noon.",
+    "this is how I do yoga in the park.",
+    "this is how I draw comics in the basement.",
+    "this is how I practice music before bed."
+  ],
+  "A raccoon that looks like a turtle, digital art.": [
+    "A fox that resembles a frog, digital artwork.",
+    "A cat that appears like a fish, digital illustration.",
+    "An owl that looks like a snail, digital graphics.",
+    "A bear that mimics a lizard, digital painting.",
+    "A rabbit that resembles an octopus, digital design.",
+    "A raccoon that looks like a bicycle, digital art.",
+    "A raccoon that resembles a pink cloud, digital art.",
+    "An alien that looks like a mushroom, digital art."
+  ],
+  "Robot dancing in Times Square.": [
+    "Alien walking in Central Park.",
+    "Human juggling at Grand Central Station.",
+    "Dinosaur prancing on the Golden Gate Bridge.",
+    "Cat running in Tokyo.",
+    "A car spinning in the Sahara Desert.",
+    "Dog sleeping at the Eiffel Tower.",
+    "Fish swimming in the Louvre.",
+    "Tree swaying in the Amazon Rainforest."
+  ],
+  "Busy freeway at night.": [
+    "Quiet dirt road in the morning.",
+    "Crowded alley during the day.",
+    "Empty parking lot at sunset.",
+    "Lively street market at dawn.",
+    "Isolated path in the fog.",
+    "Vibrant boardwalk at twilight.",
+    "Hectic interchange at noon.",
+    "Calm lakeside at midnight."
+  ],
+  "Balloon full of water exploding in extreme slow motion.": [
+    "Balloon filled with air bursting in rapid motion.",
+    "Balloon empty of water imploding in accelerated motion.",
+    "Balloon with glitter exploding in normal speed.",
+    "Balloon loaded with sand popping in fast motion.",
+    "Balloon half full of water shattering in quick motion.",
+    "Balloon submerged in oil bursting in slow motion.",
+    "Balloon filled with confetti exploding in slow motion.",
+    "Balloon devoid of liquid splitting in extreme fast motion."
+  ],
+  "An astronaut is riding a horse in the space in a photorealistic style.": [
+    "A robot is flying a drone on the moon in an impressionistic style.",
+    "An alien is swimming with dolphins in the ocean in a surrealistic style.",
+    "A scientist is driving a car on Earth in a cartoonish style.",
+    "A pilot is walking a dog in a forest in a minimalist style.",
+    "An engineer is jogging in a desert in a hyper-realistic style.",
+    "A mermaid is fishing in a lake in a whimsical style.",
+    "A wizard is climbing a tree on another planet in an abstract style.",
+    "A soldier is dancing on a rooftop in a vintage style."
+  ],
+  "Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.": [
+    "Wide angle. Fast motion full shot of raw tea leaves scattering across a filled cup.",
+    "Micro freeze-frame. Rapid movement distant view of whole hazelnuts bouncing onto a tiled surface.",
+    "Normal speed. Static mid-shot of ground spices pouring into a metal container.",
+    "Extreme closeup. Slow motion overhead view of dried herbs cascading into a wooden jar.",
+    "Bird's-eye view. Steady pace zoomed shot of unroasted peanuts rolling into an open basket.",
+    "Tilted angle. Quick shot wide view of brewed coffee drizzling down onto a ceramic plate.",
+    "Panned shot. Accelerated motion distant perspective of chocolate chips landing on a paper towel.",
+    "Close cropping. Sluggish zoom shot of sugar crystals drifting into a clear glass."
+  ],
+  "Sewing machine, old sewing machine working.": [
+    "Blender, new blender mixing.",
+    "Sewing machine, modern sewing machine idle.",
+    "Toaster, vintage toaster heating.",
+    "Sewing tool, antique sewing tool malfunctioning.",
+    "Knitting machine, electronic knitting machine operating.",
+    "Sewing machine, rusty sewing machine breaking.",
+    "Sewing device, old sewing device repairing.",
+    "Embroidery machine, old embroidery machine paused."
+  ],
+  "Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.": [
+    "Solid shape fall in oil, paint flowing in oil, monochrome paint in oil, realism dull nightmare fog of paint.",
+    "Still object rise in air, powder scattering in air, vibrant powder in air, minimalism boring reality mist of powder.",
+    "Static hue blend on surface, dye mixing on surface, muted dye on surface, impressionism bland anxiety fog of dye.",
+    "Dynamic shade dive in sand, gel dripping in sand, pastel gel in sand, surrealism chaotic memory cloud of gel.",
+    "Fixed color sink into snow, liquid swirling in snow, dull liquid in snow, abstract tranquil reality mist of liquid.",
+    "Movement glow splash on ground, solution streaking on ground, bright solution on ground, expressionism stark moment cloud of solution.",
+    "Fluid tint fall upon grass, essence churning on grass, subtle essence on grass, conceptual vivid dream fog of essence.",
+    "Constant pigment burst in stone, powder dispersing in stone, dark powder in stone, futuristic sterile vision cloud of powder."
+  ],
+  "Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.": [
+    "Many small green apples spinning on the countertop. dust particles settle on the surface during spinning. placed against a black backdrop. distant shot. panoramic.",
+    "Some tall yellow bananas twisting on the platter. oil stains form on the peel during twisting. set in a colorful background. mid-shot. standard.",
+    "Several tiny orange oranges moving on the rotating dish. mud splatters show on the rind during moving. surrounded by a gray environment. far shot. wide-angle.",
+    "A couple of flat red strawberries gliding on the table. fingerprints develop on the surface during gliding. contrasted with a dark background. extreme close-up. detail.",
+    "Few large blue grapes rolling on the marble. scratches appear on the skin during rolling. showcased in a natural setting. zoomed out. full-body.",
+    "Many small black cherries fluctuating on the plate. blemishes develop on the skin during fluctuating. outlined with a beige backdrop. medium shot. bird-eye.",
+    "Some long white cucumbers oscillating on the stand. cracks appear on the surface during oscillation. against a vibrant background. close-up. detail.",
+    "Several wide pink peaches turning on the display. powder forms on the surface during turning. set against a blue background. close-up. generic."
+  ],
+  "Vampire makeup face of beautiful girl, red contact lenses.": [
+    "Zombie makeup face of handsome boy, blue contact lenses.",
+    "Werewolf makeup face of rugged man, green contact lenses.",
+    "Alien makeup face of stunning woman, yellow contact lenses.",
+    "Witch makeup face of elegant lady, purple contact lenses.",
+    "Monster makeup face of cute child, orange contact lenses.",
+    "Ghost makeup face of charming teen, black contact lenses.",
+    "Demons makeup face of fierce warrior, pink contact lenses.",
+    "Mummy makeup face of graceful dancer, white contact lenses."
+  ],
+  "Ashtray full of butts on table, smoke flowing on black background, close-up": [
+    "Cup empty of pencils on countertop, mist rising on white background, distant view",
+    "Vase filled with flowers on floor, light shining on green background, close-up",
+    "Bowl empty of fruit on shelf, steam rising on blue background, wide-angle",
+    "Plate scattered with crumbs on counter, fog drifting on red background, medium shot",
+    "Basket overflowing with laundry on chair, dust swirling on yellow background, zoomed-in",
+    "Tin can half full of sand on desk, vapor curling on grey background, panoramic",
+    "Container filled with stones on ground, smoke billowing on purple background, close focus",
+    "Jar loaded with buttons on mantle, haze moving on orange background, extreme close-up"
+  ],
+  "Pacific coast, carmel by the sea ocean and waves.": [
+    "Atlantic shore, pebble beach sea and storms.",
+    "Gulf coast, sandy beach lagoon and clouds.",
+    "Mediterranean coast, rocky shore harbor and currents.",
+    "Indian Ocean, seaside cliff ocean and tides.",
+    "Northern coast, secluded bay sea and breezes.",
+    "Western shore, salt marsh lake and ripples.",
+    "Southern coastline, turquoise inlet sea and swells.",
+    "Tropical beach, coral reef lagoon and tides."
+  ],
+  "A teddy bear is playing drum kit in NYC Times Square.": [
+    "A robot is playing guitar in LA Hollywood Boulevard.",
+    "A lion is playing violin in Chicago Millennium Park.",
+    "A stuffed rabbit is playing piano in London Trafalgar Square.",
+    "A dinosaur is playing flute in Tokyo Shibuya Crossing.",
+    "An elephant is dancing on stage in Sydney Opera House.",
+    "A cat is playing saxophone in Paris Eiffel Tower.",
+    "A fox is beating tambourine in Toronto CN Tower.",
+    "A gorilla is playing maracas in Singapore Gardens by the Bay."
+  ],
+  "A corgi is playing drum kit.": [
+    "A cat is playing violin.",
+    "A dachshund is playing trumpet.",
+    "A bunny is playing piano.",
+    "A corgi is practicing on a guitar.",
+    "A parrot is drumming on a table.",
+    "A hamster is playing cymbals.",
+    "A dog is playing a xylophone.",
+    "A fox is performing on a marimba."
+  ],
+  "An Iron man is playing the electronic guitar, high electronic guitar.": [
+    "A Wooden boy is playing the acoustic piano, low acoustic piano.",
+    "A Bronze robot is strumming the electric violin, medium electric violin.",
+    "A Steel figure is hitting the classic saxophone, soft classic saxophone.",
+    "A Silver warrior is plucking the digital harp, loud digital harp.",
+    "A Copper person is strumming the analog cello, silent analog cello.",
+    "A Gold machine is playing the synthetic drum, deep synthetic drum.",
+    "A Plastic creature is using the wireless flute, distant wireless flute.",
+    "An Aluminum android is performing on the vintage trombone, fast vintage trombone."
+  ],
+  "A raccoon is playing the electronic guitar.": [
+    "A cat is playing the acoustic piano.",
+    "A squirrel is painting the wooden canvas.",
+    "A dog is playing the classical violin.",
+    "An owl is strumming the electric bass.",
+    "A fox is drumming on the metal drums.",
+    "A rabbit is dancing with the acoustic guitar.",
+    "A turtle is playing the digital keyboard.",
+    "A goat is singing into the microphone."
+  ],
+  "A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh": [
+    "A train racing quickly through the Thames River with the Big Ben in background by Claude Monet",
+    "A car driving fast across the Amazon River with the Christ the Redeemer in background by Pablo Picasso",
+    "A bicycle parked silently beside the Danube River with the Colosseum in background by Gustav Klimt",
+    "A plane flying swiftly over the Yangtze River with the Sydney Opera House in background by Henri Matisse",
+    "A kayak paddling urgently on the Nile River with the Tower of London in background by Edvard Munch",
+    "A ship drifting aimlessly on the Mississippi River with the Statue of Liberty in background by Georgia O'Keeffe",
+    "A yacht anchored calmly off the coast of the Hudson River with the Golden Gate Bridge in background by Frida Kahlo",
+    "A jet ski zipping across the Ganges River with the Burj Khalifa in background by Salvador Dalí"
+  ],
+  "A corgi's head depicted as an explosion of a nebula": [
+    "A bulldog's tail depicted as the collapse of a black hole",
+    "A poodle's ear depicted as a swirling storm cloud",
+    "A dachshund's body depicted as a burst of fireworks",
+    "A golden retriever's paw depicted as a cascade of shooting stars",
+    "A beagle's nose depicted as a transformation of a supernova",
+    "A chihuahua's eyes depicted as the formation of a galaxy",
+    "A pug's face depicted as a whirlpool of bright flames",
+    "A terrier's tongue depicted as a fusion of icy crystals"
+  ],
+  "A fantasy landscape": [
+    "A sci-fi cityscape",
+    "A surreal desert",
+    "A gothic cavern",
+    "A realistic urban jungle",
+    "A mystical ocean view",
+    "A vibrant mountain range",
+    "A barren wasteland",
+    "A whimsical winter wonderland"
+  ],
+  "A future where humans have achieved teleportation technology": [
+    "A past where robots have developed time travel technology",
+    "A future where animals have discovered flight capabilities",
+    "A present where humans have embraced virtual reality systems",
+    "A future where aliens have conquered space travel advancements",
+    "A future where humans have mastered underwater living",
+    "A future where plants have evolved sentience abilities",
+    "A dystopia where humans are limited to traditional travel methods",
+    "A future where machines have taken over all physical labor tasks"
+  ],
+  "A jellyfish floating through the ocean, with bioluminescent tentacles": [
+    "A starfish sinking to the sea floor, with colorful spines",
+    "A whale swimming in a lake, with iridescent fins",
+    "A crab scuttling across the beach, with glowing eyes",
+    "An octopus drifting above the coral reef, with opaque arms",
+    "An eel slithering along the riverbed, with vibrant scales",
+    "A dolphin leaping out of a puddle, with shimmering stripes",
+    "A sea turtle gliding through the sky, with reflective shells",
+    "A fish darting beneath the ice, with transparent fins"
+  ],
+  "A Mars rover moving on Mars": [
+    "A Venus rover floating in Venus",
+    "An Earth rover crawling through Earth",
+    "A Jupiter rover jumping across Jupiter",
+    "A Mars satellite hovering above Mars",
+    "A Mars plane flying over Mars",
+    "A Mars rover rolling on the Moon",
+    "A Mars rover moving on a comet",
+    "A Saturn rover driving over Saturn"
+  ],
+  "A panda drinking coffee in a cafe in Paris": [
+    "A koala drinking tea in a restaurant in Tokyo",
+    "An elephant drinking soda at a bakery in London",
+    "A penguin eating ice cream in a bar in New York",
+    "A tiger sipping juice in a diner in Berlin",
+    "A giraffe reading a book in a lounge in Sydney",
+    "A rabbit drinking wine in a pizzeria in Rome",
+    "A bear enjoying a smoothie at a food truck in Sydney",
+    "A squirrel nibbling on snacks in a bistro in Melbourne"
+  ],
+  "A space shuttle launching into orbit, with flames and smoke billowing out from the engines": [
+    "A cargo ship launching into the atmosphere, with mist and dust swirling around the hull",
+    "A satellite descending towards land, with sparks and debris spewing from the thrusters",
+    "A racing car speeding down the track, with colorful lights and exhaust fumes trailing behind",
+    "A hot air balloon floating above the ground, with vibrant banners and ribbons dancing in the wind",
+    "A drone hovering over the city, with shadows and reflections flickering across the buildings",
+    "A jet airplane landing on the runway, with clouds and rain pouring down on the wings",
+    "A rocket landing on Mars, with rocks and dust scattering across the surface",
+    "A bird taking off from a branch, with feathers and leaves rustling in the breeze"
+  ],
+  "A steam train moving on a mountainside": [
+    "A electric tram traveling through a desert",
+    "A diesel train parked in a city square",
+    "A bullet train speeding across a plain",
+    "A cargo ship sailing in a river",
+    "A motorcycle racing along a coastline",
+    "A bicycle riding uphill in a forest",
+    "A subway train operating underground in a tunnel",
+    "A hot air balloon drifting over a valley"
+  ],
+  "A super cool giant robot in Cyberpunk Beijing": [
+    "A small vintage robot in Medieval Paris",
+    "A futuristic tiny android in Fantasy Tokyo",
+    "An outdated colossal machine in Rustic London",
+    "A sleek robot in Post-apocalyptic New York",
+    "A rusted massive automaton in Modern Berlin",
+    "A quirky giant cyborg in Dystopian Mumbai",
+    "An elaborate miniature drone in Steampunk Mexico City",
+    "A mundane robot in Ancient Rome"
+  ],
+  "A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground": [
+    "A snowy mountain at sunset, with bare trees and murky water in the background",
+    "A rocky desert at noon, with cacti and muddy water in the foreground",
+    "A bustling cityscape at midnight, with skyscrapers and foggy streets in the foreground",
+    "A serene lake at dusk, with willow trees and opaque water in the foreground",
+    "An urban park at noon, with cherry blossoms and stagnant water in the foreground",
+    "A windy hillside at dawn, with oaks and turbulent water in the foreground",
+    "A misty forest at sunrise, with pines and dark water in the background",
+    "A lively farm at noon, with barns and unclear wetlands in the background"
+  ],
+  "Cinematic shot of Van Gogh's selfie, Van Gogh style": [
+    "Cinematic shot of Picasso's portrait, Picasso style",
+    "Dramatic shot of Munch's landscape, Munch style",
+    "Candid shot of Monet's garden, Impressionist style",
+    "Close-up shot of Rembrandt's self-portrait, Baroque style",
+    "Wide-angle shot of Dali's sculpture, Surrealist style",
+    "Artistic shot of Da Vinci's fresco, Renaissance style",
+    "Portrait shot of Rothko's abstract, Modernist style",
+    "Panoramic shot of Warhol's pop art, Contemporary style"
+  ],
+  "Gwen Stacy reading a book": [
+    "Peter Parker playing a guitar",
+    "Mary Jane Watson sketching a painting",
+    "Harry Osborn writing a letter",
+    "Felicia Hardy watching a movie",
+    "Norman Osborn driving a car",
+    "Miles Morales drawing in a notebook",
+    "Kitty Pryde solving a puzzle",
+    "Venom lifting a dumbbell"
+  ],
+  "Iron Man flying in the sky": [
+    "Iron Man swimming in the ocean",
+    "Hulk running on the ground",
+    "Iron Man hovering above the mountains",
+    "Spider-Man swinging through the city",
+    "Iron Man diving under the water",
+    "Captain America walking on the sidewalk",
+    "Iron Man floating above the forest",
+    "Thor riding a horse in the meadow"
+  ],
+  "The bund Shanghai, oil painting": [
+    "The Eiffel Tower Paris, watercolor",
+    "The Great Wall Beijing, acrylic",
+    "The Grand Canyon Arizona, ink drawing",
+    "The Sydney Opera House Australia, charcoal sketch",
+    "The Pyramids Cairo, digital art",
+    "The Colosseum Rome, pastel painting",
+    "The Taj Mahal Agra, mixed media",
+    "The Statue of Liberty New York, gouache painting"
+  ],
+  "Yoda playing guitar on the stage": [
+    "Darth Vader playing piano in the forest",
+    "Luke Skywalker singing on the rooftop",
+    "Yoda dancing with a microphone on the beach",
+    "Chewbacca playing drums in the garage",
+    "Leia orchestrating a symphony in the library",
+    "Yoda playing violin at the concert hall",
+    "Boba Fett riding a unicycle on the street",
+    "Obi-Wan Kenobi painting on the sidewalk"
+  ],
+  "A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo": [
+    "A stormy mountain landscape in winter, rivers crashing on rocks by Hokusai, in the style of Impressionism",
+    "A vibrant desert oasis in autumn, winds swirling through dunes by Hokusai, in the style of Surrealism",
+    "A serene forest glade in summer, rain falling on leaves by Hokusai, in the style of Cubism",
+    "A bustling urban street in fall, cars honking on pavement by Hokusai, in the style of Realism",
+    "A quaint lakeside cabin in winter, ice forming on water by Hokusai, in the style of Abstract",
+    "A tranquil riverbank in spring, frogs croaking on mud by Hokusai, in the style of Neoclassicism",
+    "A crowded market square in summer, people chatting on cobblestones by Hokusai, in the style of Pop Art",
+    "A remote hilly countryside in autumn, sheep grazing on grass by Hokusai, in the style of Minimalism"
+  ],
+  "A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh": [
+    "A dull desert landscape in winter, snow falling on rocks by Claude Monet",
+    "An ugly mountainous terrain in autumn, rain pouring on gravel by Pablo Picasso",
+    "An expansive rocky shoreline in summer, wind howling through grass by Jackson Pollock",
+    "A vibrant forest clearing in fall, leaves drifting on water by Georgia O'Keeffe",
+    "A serene riverbank in summer, pebbles rolling by the shore by Henri Matisse",
+    "A bustling city street in spring, cars racing on asphalt by Edward Hopper",
+    "A tranquil lake setting in winter, ice skating on frozen water by Gustav Klimt",
+    "A lively urban park in autumn, children playing on grass by Frida Kahlo"
+  ],
+  "A boat sailing leisurely along the Seine River with the Eiffel Tower in background": [
+    "A car parked hurriedly beside the Seine River with a lighthouse in background",
+    "A plane flying rapidly above the Seine River with a castle in background",
+    "A bicycle racing furiously down the Seine River with a statue in background",
+    "A kayak drifting swiftly through the Seine River with a bridge in background",
+    "A train moving quickly past the Seine River with a skyscraper in background",
+    "A hot air balloon floating gently over the Seine River with a mountain in background",
+    "A jet ski speeding briskly across the Seine River with a windmill in background",
+    "A yacht anchored still on the Seine River with a cathedral in background"
+  ],
+  "A car moving slowly on an empty street, rainy evening": [
+    "A bicycle parked swiftly on a crowded plaza, sunny afternoon",
+    "A truck speeding rapidly on a bustling highway, clear morning",
+    "A scooter drifting quietly on a deserted alley, snowy night",
+    "A train halting abruptly at a busy station, foggy dusk",
+    "A boat cruising gently on a filled river, windy noon",
+    "A plane ascending sharply over a vast desert, stormy midnight",
+    "A van creeping stealthily through a lively market, cloudy twilight",
+    "A motorcycle revving loudly on an occupied road, bright day"
+  ],
+  "A cat eating food out of a bowl": [
+    "A dog drinking water from a cup",
+    "A bird eating seeds from a feeder",
+    "A rabbit nibbling carrots on the floor",
+    "A fish swimming in a tank filled with pebbles",
+    "A lizard basking on a rock under the sun",
+    "A turtle munching lettuce in a garden",
+    "A hamster running on a wheel in a cage",
+    "A mouse searching for crumbs on a countertop"
+  ],
+  "A cat wearing sunglasses at a pool": [
+    "A dog wearing a hat on a beach",
+    "A rabbit wearing goggles beside a lake",
+    "A bird holding an umbrella in a garden",
+    "A monkey wearing shoes on a rooftop",
+    "A fish wearing a scarf in an aquarium",
+    "A turtle sporting earmuffs at a pond",
+    "A hamster with a backpack in a field",
+    "A lizard wearing a helmet on a cliff"
+  ],
+  "A confused panda in calculus class": [
+    "A delighted elephant in chemistry lab",
+    "A curious turtle in history seminar",
+    "A frustrated giraffe in physics workshop",
+    "A surprised koala in art studio",
+    "A bored rabbit in biology lecture",
+    "A tired fox in literature discussion",
+    "A puzzled lion in geography classroom",
+    "An excited monkey in computer science course"
+  ],
+  "A cute fluffy panda eating Chinese food in a restaurant": [
+    "A large sleek tiger drinking Italian coffee in a cafe",
+    "An adorable spiky hedgehog cooking Indian curry at home",
+    "A small agile squirrel nibbling on Mexican tacos in a park",
+    "A funny hairless cat sharing sushi with friends in a food truck",
+    "A beautiful colorful parrot eating French pastries in a bakery",
+    "A mischievous fluffy rabbit enjoying Middle Eastern falafel in a garden",
+    "An elegant silky swan munching on Greek salad by a pond",
+    "A shy fluffy koala tasting American burgers in a backyard"
+  ],
+  "A cute happy Corgi playing in park, sunset": [
+    "A fierce sad Rottweiler sleeping in a forest, dawn",
+    "An elegant joyful Labrador running on the beach, midday",
+    "A silly angry Beagle digging in the garden, noon",
+    "A small grumpy Boxer resting in a city square, twilight",
+    "A playful bored Dachshund barking in the meadow, afternoon",
+    "A large calm Golden Retriever swimming in a lake, sunrise",
+    "A fluffy excited Poodle chasing a squirrel in a playground, night",
+    "A tiny anxious Chihuahua hiding in the house, evening"
+  ],
+  "A cute raccoon playing guitar in a boat on the ocean": [
+    "A cute rabbit playing piano in a car on the desert",
+    "A fierce fox playing drums in a canoe on the lake",
+    "A funny hedgehog singing opera in a ship on the river",
+    "A fluffy squirrel dancing ballet in a plane over the mountains",
+    "A quirky otter strumming ukulele in a bathtub on the beach",
+    "A mischievous bear playing keyboard in a kayak in the forest",
+    "A small weasel playing flute in a yacht on the iceberg",
+    "A playful chipmunk performing magic in a truck in the park"
+  ],
+  "A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background": [
+    "A sad sleek fox playing piano far from a bonfire, desert dune in the foreground",
+    "An excited fluffy rabbit singing by a fireplace, green hill in the distance",
+    "A joyful smooth bear strumming ukulele next to a bonfire, rocky cliff in the background",
+    "A bored spiky porcupine playing drums beside an oven, urban skyline in the background",
+    "A cheerful soft koala playing flute under a tree, ocean waves in the horizon",
+    "A grumpy hairy sheep dancing at a bonfire, flat plain in the background",
+    "A playful scaly lizard juggling balls away from a campfire, forest in the background",
+    "A relaxed fuzzy squirrel reading near a lantern, small lake in the distance"
+  ],
+  "A lightning striking atop of eiffel tower, dark clouds in the sky": [
+    "A rainbow appearing above a pyramidal structure, clear skies all around",
+    "A comet soaring past a windmill, bright sun in the atmosphere",
+    "A thunderstorm hitting a skyscraper, white clouds in the sky",
+    "A meteor falling near a castle, stormy weather on the horizon",
+    "A fireball landing on a bridge, blue skies overhead",
+    "A hailstorm hitting a hilltop, orange clouds in the air",
+    "A tornado forming near a lighthouse, sunny skies present",
+    "A blizzard sweeping across a mountain, cloudy skies above"
+  ],
+  "A modern art museum, with colorful paintings": [
+    "A classical art museum, with monochromatic sculptures",
+    "An ancient history museum, with vibrant murals",
+    "A contemporary gallery, with dull sketches",
+    "A natural history museum, with black-and-white photos",
+    "A digital art exhibition, featuring abstract designs",
+    "A science museum, filled with pastel drawings",
+    "A fine arts gallery, showcasing dimly lit installations",
+    "A children's museum, with realistic portraits"
+  ],
+  "A panda cooking in the kitchen": [
+    "A tiger baking in the garage",
+    "A panda painting in the living room",
+    "A bear cooking in the forest",
+    "A panda dancing in the kitchen",
+    "A panda cooking outside in the garden",
+    "A panda chopping vegetables in the dining room",
+    "A rabbit cooking in the kitchen",
+    "A panda cooking on the balcony"
+  ],
+  "A panda playing on a swing set": [
+    "A zebra lounging on a seesaw",
+    "A turtle sliding down a slide",
+    "A kangaroo jumping on a trampoline",
+    "A bear swinging from a tree branch",
+    "A rabbit climbing on a jungle gym",
+    "A lion resting on a picnic table",
+    "A monkey hanging from a tire swing",
+    "A fox running around a sandbox"
+  ],
+  "A polar bear is playing guitar": [
+    "A grizzly bear is painting a canvas",
+    "A penguin is playing drums",
+    "A walrus is singing opera",
+    "A seal is dancing ballet",
+    "A polar bear is playing piano",
+    "A lion is strumming a harp",
+    "A tiger is juggling balls",
+    "A dolphin is composing music"
+  ],
+  "A raccoon dressed in suit playing the trumpet, stage background": [
+    "A squirrel wearing pajamas singing the guitar, park background",
+    "An owl clad in a tuxedo playing the violin, concert hall background",
+    "A fox in a dress performing on the piano, rooftop background",
+    "A rabbit wearing a hat dancing with maracas, beach background",
+    "A badger dressed in armor blowing the saxophone, forest background",
+    "A ferret in a costume reciting poetry, classroom background",
+    "A turtle adorned in robes juggling balls, office background",
+    "A deer in a blouse drumming on the table, cafe background"
+  ],
+  "A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy": [
+    "A humanoid chef is chopping vegetables, in bright sunshine vintage paris garden retro day, drama, romance",
+    "A cat painter is creating a mural, on a clear sunny ancient rome street historical afternoon, adventure, comedy",
+    "A human artist is sculpting clay, in light snow modern new york gallery minimalist evening, horror, thriller",
+    "A dog musician is strumming a guitar, on a foggy moody london park rustic twilight, biography, documentary",
+    "A fish dancer is performing ballet, under a starry desert oasis tropical dawn, mystery, detective",
+    "A parrot conductor is leading an orchestra, in strong winds rural countryside barn peaceful dusk, fantasy, fairy tale",
+    "A rabbit poet is reciting verses, in a cool breeze urban tokyo alleyway contemporary morning, historical, folklore",
+    "A dragon pilot is flying an aircraft, during a thunderstorm enchanted forest cliff magical midnight, adventure, myth"
+  ],
+  "A shark swimming in clear Caribbean ocean": [
+    "A dolphin leaping in murky Pacific sea",
+    "A whale gliding in rough Arctic waters",
+    "A goldfish floating in shallow Atlantic bay",
+    "A turtle crawling in dark Mediterranean lagoon",
+    "A seal diving in turbulent South China Sea",
+    "A piranha drifting in polluted Amazon River",
+    "A catfish lurking in still urban pond",
+    "A squid moving in cloudy Indian Ocean"
+  ],
+  "A super robot protecting city": [
+    "A small robot attacking village",
+    "An old robot neglecting town",
+    "A giant robot demolishing suburb",
+    "A sleek robot invading forest",
+    "A futuristic robot assisting desert",
+    "A bulky robot threatening countryside",
+    "A ferocious robot patrolling ocean",
+    "A colorful robot rebuilding skyscraper"
+  ],
+  "A teddy bear washing the dishes": [
+    "A rubber duck drying the clothes",
+    "A dinosaur cleaning the car",
+    "A robot peeling an apple",
+    "A cat sweeping the floor",
+    "A giraffe cooking in the kitchen",
+    "A rabbit stacking the books",
+    "A monkey painting the fence",
+    "A puppy playing with the toys"
+  ],
+  "An epic tornado attacking above a glowing city at night, the tornado is made of smoke": [
+    "A massive hurricane approaching over a dark forest during dawn, the hurricane is created from water",
+    "A fierce blizzard swirling around a vibrant desert at midday, the blizzard consists of sand",
+    "A colossal whirlwind raging beneath a bright mountain during twilight, the whirlwind is composed of dust",
+    "A strong cyclone hovering near a bustling beach at sunset, the cyclone is formed from debris",
+    "A violent dust storm sweeping across an ancient ruin at dusk, the dust storm is made of gravel",
+    "A powerful gale striking over a dimly lit village at noon, the gale is made of ash",
+    "A raging typhoon crashing down on a lifeless wasteland at midnight, the typhoon is formed from mist",
+    "An intense squall sweeping through a serene lake at dawn, the squall is made of ice"
+  ],
+  "An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas": [
+    "A watercolor painting of a pair in casual summer clothes walking to a cafe caught in a light drizzle without umbrellas",
+    "An acrylic painting of a group of friends in informal beach attire heading to a party caught in a gentle snowfall with no coats",
+    "A pastel drawing of a family in relaxed daytime clothes returning to a park caught in a fierce hailstorm with only a tarp",
+    "A charcoal sketch of two individuals in rugged outdoor gear wandering toward a cabin caught in a bright sunshine without hats",
+    "A pencil illustration of a duo in business suits leaving an office caught in a slight breeze with oversized sun hats",
+    "A digital artwork of a trio in vibrant festival outfits heading to a concert caught in a mild heatwave while wearing sunglasses",
+    "A collage of two figures in traditional cultural dresses traveling to a market caught in lingering fog during dawn without bags",
+    "An ink drawing of a married couple in vintage clothing strolling through a city caught in a strong wind with no footwear"
+  ],
+  "Clown fish swimming through the coral reef": [
+    "Shark gliding above the sandy ocean floor",
+    "Tropical fish darting among the seaweed",
+    "Jellyfish floating near the rocky cliff",
+    "Octopus crawling across the flat seabed",
+    "Dolphin leaping above the tranquil lagoon",
+    "Starfish resting on the vibrant coral outcrop",
+    "Sea turtle gliding through the murky waters",
+    "Anglerfish hiding in the dark abyss"
+  ],
+  "Hyper-realistic spaceship landing on Mars": [
+    "Abstract spaceship taking off from Venus",
+    "Minimalist airplane departing Earth",
+    "Cartoonish rocket crashing into Pluto",
+    "Futuristic submarine arriving at Jupiter",
+    "Surreal helicopter hovering above Saturn",
+    "Realistic drone landing on the Moon",
+    "Vintage aircraft flying over Neptune",
+    "Stylized spacecraft launching towards the Sun"
+  ],
+  "The bund Shanghai, vibrant color": [
+    "The pyramid Cairo, dull shade",
+    "The bridge Paris, pastel hue",
+    "The canal Venice, muted tone",
+    "The skyline New York, dark palette",
+    "The square Tokyo, bright tint",
+    "The port Sydney, faded color",
+    "The tower London, monotone shade",
+    "The waterfront Istanbul, rich gradient"
+  ],
+  "Vincent van Gogh is painting in the room": [
+    "Pablo Picasso is sculpting in the garden",
+    "Claude Monet is drawing in the studio",
+    "Georgia O'Keeffe is designing in the hallway",
+    "Michelangelo is carving in the park",
+    "Frida Kahlo is illustrating in the kitchen",
+    "Henri Matisse is crafting in the library",
+    "Andy Warhol is collaging in the attic",
+    "Mark Rothko is sketching in the basement"
+  ],
+  "Yellow flowers swing in the wind": [
+    "Blue leaves hang in the rain",
+    "Red trees sway in the storm",
+    "Green petals dance in the breeze",
+    "Purple vines curl in the fog",
+    "Orange fruits bounce in the sunlight",
+    "White grass flows in the current",
+    "Black stems tremble in the heat",
+    "Gray buds shift in the darkness"
+  ]
+}

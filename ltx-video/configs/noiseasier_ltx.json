@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "runner": "run_noiseasier.py",
+  "benchmark": "LTX-Video T2V-CompBench",
+  "args": {
+    "run_compbench": true,
+    "use_dno": true,
+    "noise_optimization": "initial",
+    "dno_steps": 25,
+    "lr": 0.001,
+    "max_grad_norm": 0.1,
+    "reward_fns": ["img_reward", "viclip"],
+    "reward_weights": [1.0, 1.0],
+    "reward_precision": "amp",
+    "num_frames": 121,
+    "height": 320,
+    "width": 512,
+    "use_neg_prompt": false,
+    "prompts_dir": "comp-t2v-prompts",
+    "seed_file": "comp-t2v-prompts/compbench_seed.txt"
+  }
+}

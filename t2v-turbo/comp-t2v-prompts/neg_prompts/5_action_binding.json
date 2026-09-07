@@ -1,0 +1,3002 @@
+[
+  {
+    "type": "action_binding",
+    "prompt": "A dog runs through a field while a cat climbs a tree",
+    "id": "0001",
+    "negative_prompt": [
+      "A cat runs through a field while a dog climbs a tree",
+      "A dog walks through a field while a cat climbs a tree",
+      "A dog runs through a field while a cat descends a tree",
+      "A dog sits in a field while a cat climbs a tree",
+      "A wolf runs through a field while a cat climbs a tree",
+      "A dog runs through a forest while a cat climbs a tree",
+      "A dog runs through a field while a sheep climbs a tree",
+      "A dog runs through a field while a cat climbs a wall"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fish swims gracefully in a tank as a horse gallops outside",
+    "id": "0002",
+    "negative_prompt": [
+      "A horse swims gracefully in a tank as a fish gallops outside",
+      "A fish flies gracefully in a tank as a horse gallops outside",
+      "A fish swims gracefully in a tank as a horse stands still outside",
+      "A bird swims gracefully in a tank as a horse gallops outside",
+      "A fish swims gracefully in the sky as a horse gallops outside",
+      "A fish swims gracefully in a tank as a car gallops outside",
+      "A fish hops gracefully in a tank as a horse gallops outside",
+      "A fish swims gracefully in a tank as a horse gallops inside"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "An elephant sprays water with its trunk, a lion sitting nearby",
+    "id": "0003",
+    "negative_prompt": [
+      "A lion sprays water with its trunk, an elephant sitting nearby",
+      "An elephant drinks water with its trunk, a lion sitting nearby",
+      "A rhinoceros sprays water with its trunk, a lion sitting nearby",
+      "An elephant sprays water with its trunk, a lion running nearby",
+      "An elephant sprays water with its trunk, a zebra sitting nearby",
+      "An elephant dries its trunk, a lion sitting nearby",
+      "A giraffe sprays water with its trunk, a lion sitting nearby",
+      "An elephant sprays water with its trunk, a lion sleeping nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A panda eats bamboo while a monkey swings from branch to branch",
+    "id": "0004",
+    "negative_prompt": [
+      "A monkey eats bamboo while a panda swings from branch to branch",
+      "A panda avoids bamboo while a monkey swings from branch to branch",
+      "A panda eats bamboo while a monkey jumps from branch to branch",
+      "A panda eats berries while a monkey swings from branch to branch",
+      "A panda eats bamboo while a monkey swings from tree to tree",
+      "A panda sleeps on bamboo while a monkey swings from branch to branch",
+      "A panda eats rocks while a monkey swings from branch to branch",
+      "A panda eats bamboo while a monkey falls from branch to branch"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A deer grazes in the meadow as a rabbit hops by",
+    "id": "0005",
+    "negative_prompt": [
+      "A rabbit grazes in the meadow as a deer hops by",
+      "A bear grazes in the meadow as a rabbit hops by",
+      "A horse grazes in the meadow as a rabbit hops by",
+      "A deer grazes in the meadow as a squirrel hops by",
+      "A deer grazes in the meadow as a fox hops by",
+      "A deer grazes in the forest as a rabbit hops by",
+      "A deer sleeps in the meadow as a rabbit hops by",
+      "A deer grazes in the meadow as a rabbit runs by"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kangaroo bounds across the plain and a cow grazes",
+    "id": "0006",
+    "negative_prompt": [
+      "A cow bounds across the plain and a kangaroo grazes",
+      "A whale bounds across the plain and a cow grazes",
+      "A car bounds across the plain and a cow grazes",
+      "A kangaroo crawls across the plain and a cow grazes",
+      "A kangaroo stands still across the plain and a cow grazes",
+      "A kangaroo bounds across the plain and a lion grazes",
+      "A kangaroo bounds across the plain and a fish grazes",
+      "A kangaroo bounds across the plain and a cow hunts"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A chicken pecks at the ground, a bee flies overhead",
+    "id": "0007",
+    "negative_prompt": [
+      "A dog pecks at the ground, a bee flies overhead",
+      "A chicken pecks at the ground, a whale flies overhead",
+      "A chicken swims at the ground, a bee flies overhead",
+      "A chicken pecks at the ground, a bee walks overhead",
+      "A bee pecks at the ground, a chicken flies overhead",
+      "A car pecks at the ground, a bee flies overhead",
+      "A chicken pecks at the ground, a mountain flies overhead",
+      "A chicken floats at the ground, a bee flies overhead"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A snail crosses the path as a butterfly flutters above",
+    "id": "0008",
+    "negative_prompt": [
+      "A butterfly crosses the path as a snail flutters above",
+      "A car crosses the path as a butterfly flutters above",
+      "A snail crosses the path as a stone flutters above",
+      "A snail crosses the river as a butterfly flutters above",
+      "A snail rests on the path as a butterfly flutters above",
+      "A snail crosses the path as a butterfly lands above",
+      "A snail crosses the path as a butterfly flutters below",
+      "A person crosses the path as a butterfly flutters above"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A penguin waddles on the ice, a camel treks by",
+    "id": "0009",
+    "negative_prompt": [
+      "A camel waddles on the ice, a penguin treks by",
+      "A eagle waddles on the ice, a camel treks by",
+      "A penguin waddles on the ice, a fish treks by",
+      "A penguin waddles on the desert, a camel treks by",
+      "A penguin flies on the ice, a camel treks by",
+      "A penguin waddles on the ice, a camel swims by",
+      "A snake waddles on the ice, a camel treks by",
+      "A penguin waddles on the ice, a bird treks by"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A squirrel scurries up a tree as a bat flies out from the leaves",
+    "id": "0010",
+    "negative_prompt": [
+      "A bat scurries up a tree as a squirrel flies out from the leaves",
+      "A fish scurries up a tree as a bat flies out from the leaves",
+      "A squirrel rests on a tree as a bat flies out from the leaves",
+      "A squirrel scurries up a river as a bat flies out from the leaves",
+      "A squirrel scurries up a tree as a dog flies out from the leaves",
+      "A squirrel scurries up a tree as a bat crawls into the leaves",
+      "A squirrel scurries up a tree as a bat flies out from the ground",
+      "A squirrel sleeps under a tree as a bat flies out from the leaves"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A frog jumps from lily to lily, a swan swims nearby",
+    "id": "0011",
+    "negative_prompt": [
+      "A swan jumps from lily to lily, a frog swims nearby",
+      "A squirrel jumps from lily to lily, a swan swims nearby",
+      "A frog falls from lily to lily, a swan swims nearby",
+      "A frog jumps from log to log, a swan swims nearby",
+      "A frog jumps from lily to lily, a turtle swims nearby",
+      "A frog jumps from lily to lily, a swan flies nearby",
+      "A rabbit jumps from lily to lily, a swan swims nearby",
+      "A frog sits from lily to lily, a swan swims nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cat sits on a windowsill and a dog plays in the yard",
+    "id": "0012",
+    "negative_prompt": [
+      "A dog sits on a windowsill and a cat plays in the yard",
+      "A cat stands on a windowsill and a dog plays in the yard",
+      "A cat sits on a windowsill and a dog sleeps in the yard",
+      "A bird sits on a windowsill and a dog plays in the yard",
+      "A cat sits on a table and a dog plays in the yard",
+      "A cat sits on a windowsill and a fish plays in the yard",
+      "A cat sits on a windowsill and a dog plays in the house",
+      "A cat jumps on a windowsill and a dog plays in the yard"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A horse walks in the field and a rabbit nibbles on grass",
+    "id": "0013",
+    "negative_prompt": [
+      "A rabbit walks in the field and a horse nibbles on grass",
+      "A cow walks in the field and a rabbit nibbles on grass",
+      "A horse walks in the forest and a rabbit nibbles on grass",
+      "A horse walks in the field and a squirrel nibbles on grass",
+      "A horse walks in the field and a rabbit nibbles on leaves",
+      "A horse runs in the field and a rabbit nibbles on grass",
+      "A horse walks in the field and a rabbit ignores grass",
+      "A donkey walks in the field and a rabbit nibbles on grass"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A monkey plays with fruit, a deer grazes nearby",
+    "id": "0014",
+    "negative_prompt": [
+      "A deer plays with fruit, a monkey grazes nearby",
+      "A monkey hides from fruit, a deer grazes nearby",
+      "A monkey eats fruit, a deer grazes nearby",
+      "A monkey plays with fruit, a deer sleeps nearby",
+      "A monkey plays with fruit, a deer runs nearby",
+      "A monkey plays with a ball, a deer grazes nearby",
+      "A monkey plays with a stick, a deer grazes nearby",
+      "A monkey plays with a rock, a deer grazes nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit digs a hole, a kangaroo bounds nearby",
+    "id": "0015",
+    "negative_prompt": [
+      "A kangaroo digs a hole, a rabbit bounds nearby",
+      "A fox digs a hole, a kangaroo bounds nearby",
+      "A rabbit fills a hole, a kangaroo bounds nearby",
+      "A rabbit digs a mound, a kangaroo bounds nearby",
+      "A rabbit digs a hole, a lion bounds nearby",
+      "A rabbit digs a hole, a kangaroo flies nearby",
+      "A badger digs a hole, a kangaroo bounds nearby",
+      "A rabbit covers a hole, a kangaroo bounds nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bee lands on a flower and a butterfly dances around the petals",
+    "id": "0016",
+    "negative_prompt": [
+      "A bee flies over a flower and a butterfly dances around the petals",
+      "A bee lands on a flower and a butterfly rests on the petals",
+      "A bee lands on a rock and a butterfly dances around the petals",
+      "A bee lands on a flower and a butterfly dances around the stem",
+      "A butterfly lands on a flower and a bee dances around the petals",
+      "A bee destroys a flower and a butterfly dances around the petals",
+      "A bee lands on a spiderweb and a butterfly dances around the petals",
+      "A bee lands on a flower and a butterfly crashes into the petals"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A butterfly flies from flower to flower, a bird flies from above",
+    "id": "0017",
+    "negative_prompt": [
+      "A rock flies from flower to flower, a bird flies from above",
+      "A butterfly flies from rock to rock, a bird flies from above",
+      "A butterfly flies from flower to flower, a fish flies from above",
+      "A butterfly crawls from flower to flower, a bird crawls from above",
+      "A bird flies from flower to flower, a butterfly flies from above",
+      "An airplane flies from flower to flower, a bird flies from above",
+      "A butterfly flies from flower to flower, an elephant flies from above",
+      "A butterfly sinks from flower to flower, a bird sinks from above"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A penguin dives into cold waters and a seal surfaces",
+    "id": "0018",
+    "negative_prompt": [
+      "A seal dives into cold waters and a penguin surfaces",
+      "A whale dives into cold waters and a seal surfaces",
+      "A penguin dives into cold waters and an octopus surfaces",
+      "A penguin dives into warm sand and a seal surfaces",
+      "A penguin climbs out of cold waters and a seal surfaces",
+      "A penguin dives into cold waters and a seal submerges",
+      "A fish dives into cold waters and a seal surfaces",
+      "A penguin dives into cold waters and a crab surfaces"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A squirrel gathers nuts and a bat hangs from a tree branch",
+    "id": "0019",
+    "negative_prompt": [
+      "A bat gathers nuts and a squirrel hangs from a tree branch",
+      "A squirrel scatters nuts and a bat hangs from a tree branch",
+      "A squirrel gathers nuts and a bat flies above a tree branch",
+      "A rabbit gathers nuts and a bat hangs from a tree branch",
+      "A squirrel gathers berries and a bat hangs from a tree branch",
+      "A squirrel gathers nuts and a monkey hangs from a tree branch",
+      "A squirrel gathers nuts and a bat hangs from a lamp post",
+      "A squirrel eats nuts and a bat hangs from a tree branch"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dolphin jumps while a shark lurks beneath the waves",
+    "id": "0020",
+    "negative_prompt": [
+      "A shark jumps while a dolphin lurks beneath the waves",
+      "A whale jumps while a shark lurks beneath the waves",
+      "A seal jumps while a shark lurks beneath the waves",
+      "A dolphin jumps while a fish lurks beneath the waves",
+      "A dolphin jumps while a crab lurks beneath the waves",
+      "A dolphin dives while a shark lurks beneath the waves",
+      "A dolphin floats while a shark lurks beneath the waves",
+      "A dolphin jumps while a shark swims openly beneath the waves"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A mouse sneaks cheese from the kitchen, a cat lies in wait",
+    "id": "0021",
+    "negative_prompt": [
+      "A cat sneaks cheese from the kitchen, a mouse lies in wait",
+      "A mouse openly grabs cheese from the kitchen, a cat lies in wait",
+      "A mouse leaves cheese from the kitchen, a cat lies in wait",
+      "A mouse drops cheese from the kitchen, a cat lies in wait",
+      "A mouse sneaks cheese from the kitchen, a cat is fast asleep",
+      "A mouse sneaks cheese from the kitchen, a cat is actively chasing",
+      "A mouse sneaks fruit from the kitchen, a cat lies in wait",
+      "A mouse sneaks a broom from the kitchen, a cat lies in wait"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A duck swims in the pond and a frog hops onto a lily pad",
+    "id": "0022",
+    "negative_prompt": [
+      "A frog swims in the pond and a duck hops onto a lily pad",
+      "A duck flies in the pond and a frog hops onto a lily pad",
+      "A duck swims in the pond and a frog crawls onto a lily pad",
+      "A cat swims in the pond and a frog hops onto a lily pad",
+      "A duck swims in the desert and a frog hops onto a lily pad",
+      "A duck swims in the pond and a snake hops onto a lily pad",
+      "A duck swims in the pond and a frog hops onto a rock",
+      "A duck sinks in the pond and a frog hops onto a lily pad"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dog plays guitar while a cat takes a selfie",
+    "id": "0023",
+    "negative_prompt": [
+      "A cat plays guitar while a dog takes a selfie",
+      "A dog destroys guitar while a cat takes a selfie",
+      "A dog cleans guitar while a cat takes a selfie",
+      "A dog plays guitar while a cat deletes a selfie",
+      "A dog plays guitar while a cat uploads a selfie",
+      "A dog plays drums while a cat takes a selfie",
+      "A dog plays guitar while a cat takes a group photo",
+      "A dog plays guitar while a cat ignores a selfie"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A horse listens to music with headphones and a cow eats pizza",
+    "id": "0024",
+    "negative_prompt": [
+      "A cow listens to music with headphones and a horse eats pizza",
+      "A dog listens to music with headphones and a cow eats pizza",
+      "A horse stares at a wall with headphones and a cow eats pizza",
+      "A horse listens to silence with headphones and a cow eats pizza",
+      "A horse listens to music with earplugs and a cow eats pizza",
+      "A horse listens to music with headphones and a pig eats pizza",
+      "A horse listens to music with headphones and a cow bakes pizza",
+      "A horse listens to music with headphones and a cow eats hay"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "An elephant lifts weights while a lion wears VR goggles",
+    "id": "0025",
+    "negative_prompt": [
+      "A lion lifts weights while an elephant wears VR goggles",
+      "An elephant eats fruit while a lion wears VR goggles",
+      "An elephant dances ballet while a lion wears VR goggles",
+      "An elephant lifts weights while a lion reads a book",
+      "An elephant lifts feathers while a lion wears VR goggles",
+      "An elephant lifts a laptop while a lion wears VR goggles",
+      "An elephant lifts weights while a lion wears sunglasses",
+      "An elephant lifts weights while a lion wears a top hat"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kangaroo boxes in a ring while a sheep jumps rope",
+    "id": "0026",
+    "negative_prompt": [
+      "A sheep boxes in a ring while a kangaroo jumps rope",
+      "A kangaroo dances in a ring while a sheep jumps rope",
+      "A kangaroo eats in a ring while a sheep jumps rope",
+      "A kangaroo boxes in a forest while a sheep jumps rope",
+      "A kangaroo boxes on a cloud while a sheep jumps rope",
+      "A kangaroo boxes in a ring while a sheep meditates calmly",
+      "A kangaroo boxes in a ring while a sheep paints a picture",
+      "A kangaroo boxes in a ring while a sheep jumps a hurdle"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A pig cooks in a chef's hat and a chicken tastes the sauce",
+    "id": "0027",
+    "negative_prompt": [
+      "A chicken cooks in a chef's hat and a pig tastes the sauce",
+      "A cow cooks in a chef's hat and a chicken tastes the sauce",
+      "A pig cooks in a baseball cap and a chicken tastes the sauce",
+      "A pig cooks in a chef's hat and a duck tastes the sauce",
+      "A pig cooks in a chef's hat and a chicken tastes the poison",
+      "A pig sleeps in a chef's hat and a chicken tastes the sauce",
+      "A pig cooks in a chef's hat and a chicken smells the sauce",
+      "A dog cooks in a chef's hat and a chicken tastes the sauce"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A snail races slowly in a miniature car, a butterfly flies alongside",
+    "id": "0028",
+    "negative_prompt": [
+      "A butterfly races slowly in a miniature car, a snail flies alongside",
+      "An elephant races slowly in a miniature car, a butterfly flies alongside",
+      "A snail races slowly in a large truck, a butterfly flies alongside",
+      "A snail races slowly in a miniature car, a bear flies alongside",
+      "A snail rests motionless in a miniature car, a butterfly flies alongside",
+      "A snail races slowly in a miniature car, a butterfly walks behind",
+      "A snail crawls quickly in a miniature car, a butterfly flies alongside",
+      "A snail races slowly in a hot air balloon, a butterfly flies alongside"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A penguin slides down a snowy slope and a seal claps",
+    "id": "0029",
+    "negative_prompt": [
+      "A seal slides down a snowy slope and a penguin claps",
+      "A fish slides down a snowy slope and a seal claps",
+      "A penguin slides down a snowy slope and a cow claps",
+      "A penguin slides down a sandy beach and a seal claps",
+      "A penguin climbs up a snowy slope and a seal claps",
+      "A penguin slides down a snowy slope and a seal roars",
+      "A rock slides down a snowy slope and a seal claps",
+      "A penguin dances on a snowy slope and a seal claps"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A wolf howls into a microphone and a fox plays the drums",
+    "id": "0030",
+    "negative_prompt": [
+      "A fox howls into a microphone and a wolf plays the drums",
+      "A wolf stares into a microphone and a fox plays the drums",
+      "A wolf snores into a microphone and a fox plays the drums",
+      "A wolf howls into a microphone and a fox destroys the drums",
+      "A wolf howls into a microphone and a fox cleans the drums",
+      "A wolf howls into a speaker and a fox plays the drums",
+      "A wolf howls into a flower and a fox plays the drums",
+      "A wolf howls into a microphone and a fox plays the piano"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A squirrel types on a laptop and a bat hangs from a charging cable",
+    "id": "0031",
+    "negative_prompt": [
+      "A bat types on a laptop and a squirrel hangs from a charging cable",
+      "A squirrel sleeps on a laptop and a bat hangs from a charging cable",
+      "A cat types on a laptop and a bat hangs from a charging cable",
+      "A squirrel types on a desk and a bat hangs from a charging cable",
+      "A squirrel types on a laptop and a bat flies from a charging cable",
+      "A squirrel types on a laptop and a bird hangs from a charging cable",
+      "A squirrel types on a laptop and a bat hangs from a tree branch",
+      "A squirrel types on a laptop and a bat sits on a charging cable"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dolphin paints underwater on canvas and a shark swims nearby",
+    "id": "0032",
+    "negative_prompt": [
+      "A dolphin destroys underwater on canvas and a shark swims nearby",
+      "A dolphin sculpts underwater on canvas and a shark swims nearby",
+      "A dolphin erases underwater on canvas and a shark swims nearby",
+      "A dolphin paints underwater on canvas and a shark sleeps nearby",
+      "A dolphin paints underwater on canvas and a shark flies nearby",
+      "A dolphin paints underwater on a wall and a shark swims nearby",
+      "A dolphin paints underwater on a rock and a shark swims nearby",
+      "A shark paints underwater on canvas and a dolphin swims nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A parrot hosts a talk show and a duck claps",
+    "id": "0033",
+    "negative_prompt": [
+      "A duck hosts a talk show and a parrot claps",
+      "A rock hosts a talk show and a duck claps",
+      "A parrot hosts a talk show and a tree claps",
+      "A parrot hosts a cooking competition and a duck claps",
+      "A parrot paints a picture and a duck claps",
+      "A parrot hosts a talk show and a duck sleeps",
+      "A book hosts a talk show and a duck claps",
+      "A parrot watches a talk show and a duck claps"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cat DJ at a party, a dog dances with glow sticks",
+    "id": "0034",
+    "negative_prompt": [
+      "A dog DJ at a party, a cat dances with glow sticks",
+      "A cat sleeps at a party, a dog dances with glow sticks",
+      "A cat reads a book at a party, a dog dances with glow sticks",
+      "A cat DJ at a party, a dog stands still with glow sticks",
+      "A cat DJ at a party, a dog sits quietly with glow sticks",
+      "A cat DJ at a funeral, a dog dances with glow sticks",
+      "A cat DJ at a classroom, a dog dances with glow sticks",
+      "A cat DJ at a party, a dog dances with candles"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit hosts a magic show and a kangaroo watches in awe",
+    "id": "0035",
+    "negative_prompt": [
+      "A kangaroo hosts a magic show and a rabbit watches in awe",
+      "A wolf hosts a magic show and a kangaroo watches in awe",
+      "A rabbit hosts a magic show and a dog watches in awe",
+      "A rabbit hosts a cooking class and a kangaroo watches in awe",
+      "A rabbit destroys a magic show and a kangaroo watches in awe",
+      "A rabbit hosts a magic show and a kangaroo leaves in disgust",
+      "A rabbit attends a magic show and a kangaroo watches in awe",
+      "A rabbit hosts a magic show and a kangaroo ignores it completely"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A sheep knits a sweater and a chicken models the outfit",
+    "id": "0036",
+    "negative_prompt": [
+      "A chicken knits a sweater and a sheep models the outfit",
+      "A sheep unravels a sweater and a chicken models the outfit",
+      "A sheep washes a sweater and a chicken models the outfit",
+      "A sheep knits a sweater and a chicken hides the outfit",
+      "A sheep knits a sweater and a chicken sells the outfit",
+      "A sheep knits a scarf and a chicken models the scarf",
+      "A sheep knits socks and a chicken models them",
+      "A sheep knits a blanket and a chicken models the blanket"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bee conducts an orchestra of flowers and a butterfly flutters to the beat",
+    "id": "0037",
+    "negative_prompt": [
+      "A butterfly conducts an orchestra of flowers and a bee flutters to the beat",
+      "A bee destroys an orchestra of flowers and a butterfly flutters to the beat",
+      "A bee conducts an orchestra of flowers and a butterfly crawls to the beat",
+      "A spider conducts an orchestra of flowers and a butterfly flutters to the beat",
+      "A bee conducts a silent collection of rocks and a butterfly flutters to the beat",
+      "A bee conducts an orchestra of flowers and a statue flutters to the beat",
+      "A bee ignores an orchestra of flowers and a butterfly flutters to the beat",
+      "A bee conducts an orchestra of flowers and a butterfly sinks to the beat"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A squirrel is cooking and a bat tastes the dishes",
+    "id": "0038",
+    "negative_prompt": [
+      "A bat is cooking and a squirrel tastes the dishes",
+      "A snake is cooking and a bat tastes the dishes",
+      "A squirrel is cooking and a fish tastes the dishes",
+      "A squirrel is cleaning and a bat tastes the dishes",
+      "A squirrel is cooking and a bat throws the dishes",
+      "A human is cooking and a bat tastes the dishes",
+      "A squirrel is cooking and a cat tastes the dishes",
+      "A squirrel is sleeping and a bat tastes the dishes"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A frog plays drums on lily pads, a snail sways along with the beats",
+    "id": "0039",
+    "negative_prompt": [
+      "A snail plays drums on lily pads, a frog sways along with the beats",
+      "A frog sleeps soundly on lily pads, a snail sways along with the beats",
+      "A frog jumps erratically on lily pads, a snail sways along with the beats",
+      "A frog plays drums on lily pads, a snail races past",
+      "A frog plays a tiny flute on lily pads, a snail sways along with the beats",
+      "A frog plays drums on a floating log, a snail sways along with the beats",
+      "A frog plays drums on lily pads, a snail sways along with the wind",
+      "A frog plays drums on lily pads, a snail hides under a leaf"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A crow writes a novel and a parrot reads a book",
+    "id": "0040",
+    "negative_prompt": [
+      "A parrot writes a novel and a crow reads a book",
+      "A crow erases a novel and a parrot reads a book",
+      "A crow writes a grocery list and a parrot reads a book",
+      "A crow writes a novel and a parrot burns a book",
+      "A crow writes a novel and a parrot reads a tablet",
+      "A crow illustrates a novel and a parrot reads a book",
+      "A crow writes a poem and a parrot reads a book",
+      "A crow writes a novel and a parrot ignores a book"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A parrot rides a skateboard and a duck takes a photo",
+    "id": "0041",
+    "negative_prompt": [
+      "A parrot pushes a skateboard and a duck takes a photo",
+      "A parrot rides a bicycle and a duck takes a photo",
+      "A cat rides a skateboard and a duck takes a photo",
+      "A parrot rides a skateboard and a duck draws a picture",
+      "A parrot rides a skateboard and a duck takes a video",
+      "A parrot rides a skateboard and a dog takes a photo",
+      "A duck rides a skateboard and a parrot takes a photo",
+      "A parrot watches a skateboard and a duck takes a photo"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A monkey juggles bananas, a teddy bear is surprised",
+    "id": "0042",
+    "negative_prompt": [
+      "A teddy bear juggles bananas, a monkey is surprised",
+      "A monkey eats bananas, a teddy bear is surprised",
+      "A monkey juggles rocks, a teddy bear is surprised",
+      "A monkey juggles bananas, a teddy bear is bored",
+      "A dog juggles bananas, a teddy bear is surprised",
+      "A monkey juggles bananas, a robot is surprised",
+      "A monkey ignores bananas, a teddy bear is surprised",
+      "A monkey juggles flowers, a teddy bear is surprised"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A teddy bear plays a guitar and a kangaroo hops in rhythm",
+    "id": "0043",
+    "negative_prompt": [
+      "A kangaroo plays a guitar and a teddy bear hops in rhythm",
+      "A teddy bear sleeps soundly and a kangaroo hops in rhythm",
+      "A teddy bear plays a guitar and a kangaroo stands motionless",
+      "A cat plays a guitar and a kangaroo hops in rhythm",
+      "A teddy bear plays a guitar and a rabbit hops in rhythm",
+      "A teddy bear plays a piano and a kangaroo hops in rhythm",
+      "A teddy bear eats a sandwich and a kangaroo hops in rhythm",
+      "A teddy bear plays a guitar and a kangaroo swims gracefully"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A monkey in a pilot jacket and a parrot with aviator goggles ready for flight",
+    "id": "0044",
+    "negative_prompt": [
+      "A parrot in a pilot jacket and a monkey with aviator goggles ready for flight",
+      "A monkey in a pilot jacket and a parrot with aviator goggles grounded",
+      "A monkey in a pilot jacket and a parrot with aviator goggles ready for landing",
+      "A monkey in a chef jacket and a parrot with aviator goggles ready for flight",
+      "A monkey in a pilot jacket and a parrot with swimming goggles ready for flight",
+      "A monkey in a diving suit and a parrot with aviator goggles ready for flight",
+      "A monkey in a pilot jacket and a parrot with reading glasses ready for flight",
+      "A monkey in a pilot jacket and a parrot with aviator goggles sleeping"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A horse dons a top hat and a cow wears a bow tie at a barn dance",
+    "id": "0045",
+    "negative_prompt": [
+      "A cow dons a top hat and a horse wears a bow tie at a barn dance",
+      "A zebra dons a top hat and a cow wears a bow tie at a barn dance",
+      "A horse dons a baseball cap and a cow wears a bow tie at a barn dance",
+      "A horse dons a top hat and a sheep wears a bow tie at a barn dance",
+      "A horse dons a top hat and a cow wears a necklace at a barn dance",
+      "A horse dons a top hat and a cow wears a bow tie at a city park",
+      "A horse drops a top hat and a cow wears a bow tie at a barn dance",
+      "A horse dons a top hat and a cow chews a bow tie at a barn dance"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man jogs through the park and a dog fetches a stick",
+    "id": "0046",
+    "negative_prompt": [
+      "A man sleeps through the park and a dog fetches a stick",
+      "A man jogs through the park and a dog hides a stick",
+      "A man jogs through the desert and a dog fetches a stick",
+      "A man jogs through the park and a dog fetches a ball",
+      "A woman jogs through the park and a dog fetches a stick",
+      "A man sprints through the park and a dog fetches a stick",
+      "A man jogs through the mountains and a dog fetches a stick",
+      "A dog jogs through the park and a man fetches a stick"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman reads a book and a cat naps on the sofa",
+    "id": "0047",
+    "negative_prompt": [
+      "A man reads a book and a cat naps on the sofa",
+      "A woman writes a book and a cat naps on the sofa",
+      "A woman reads a book and a cat plays on the sofa",
+      "A woman reads a newspaper and a cat naps on the sofa",
+      "A woman reads a book and a cat naps on the floor",
+      "A child reads a book and a cat naps on the sofa",
+      "A woman eats a book and a cat naps on the sofa",
+      "A cat reads a book and a woman naps on the sofa"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child blows bubbles and a fish swims around in a bowl",
+    "id": "0048",
+    "negative_prompt": [
+      "A fish blows bubbles and a child swims around in a bowl",
+      "A child kicks a ball and a fish swims around in a bowl",
+      "A child blows bubbles and a fish jumps out of a bowl",
+      "A child blows smoke and a fish swims around in a bowl",
+      "A child blows bubbles and a fish swims around in a puddle",
+      "An infant blows bubbles and a fish swims around in a bowl",
+      "A child paints a picture and a fish swims around in a bowl",
+      "A child blows bubbles and a fish sleeps soundly in a bowl"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kid climbs a tree, a horse grazes nearby",
+    "id": "0049",
+    "negative_prompt": [
+      "A horse climbs a tree, a kid grazes nearby",
+      "A kid falls from a tree, a horse grazes nearby",
+      "A kid climbs a tree, a horse gallops away nearby",
+      "A kid climbs a wall, a horse grazes nearby",
+      "A kid climbs a tree, a dog grazes nearby",
+      "An adult climbs a tree, a horse grazes nearby",
+      "A kid sits under a tree, a horse grazes nearby",
+      "A kid climbs a bush, a horse grazes nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person is painting and an elephant waves its trunk",
+    "id": "0050",
+    "negative_prompt": [
+      "An elephant is painting and a person waves its trunk",
+      "A robot is painting and an elephant waves its trunk",
+      "A person is sleeping and an elephant waves its trunk",
+      "A person is painting and a mouse waves its trunk",
+      "A person is painting and an elephant eats a banana",
+      "A ghost is painting and an elephant waves its trunk",
+      "A person is dancing and an elephant waves its trunk",
+      "A person is painting and an elephant sprays water"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man cooks dinner and a dog lounges in the sun",
+    "id": "0051",
+    "negative_prompt": [
+      "A dog cooks dinner and a man lounges in the sun",
+      "A woman cooks dinner and a dog lounges in the sun",
+      "An alien cooks dinner and a dog lounges in the sun",
+      "A man eats dinner and a dog lounges in the sun",
+      "A man cooks dinner and a dog works in the sun",
+      "A man cooks breakfast and a dog lounges in the sun",
+      "A man cooks dessert and a dog lounges in the sun",
+      "A man cooks dinner and a dog lounges in the shade"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman gardens and a panda munches on bamboo",
+    "id": "0052",
+    "negative_prompt": [
+      "A panda gardens and a woman munches on bamboo",
+      "A man gardens and a panda munches on bamboo",
+      "A woman gardens and a tiger munches on bamboo",
+      "A woman cooks and a panda munches on bamboo",
+      "A woman gardens and a panda sleeps by bamboo",
+      "A woman gardens and a panda munches on meat",
+      "A child gardens and a panda munches on bamboo",
+      "A woman gardens and a bear munches on bamboo"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child plays on a swing, a monkey dangles from branches",
+    "id": "0053",
+    "negative_prompt": [
+      "A monkey plays on a swing, a child dangles from branches",
+      "An adult plays on a swing, a monkey dangles from branches",
+      "A child rests on a swing, a monkey dangles from branches",
+      "A child plays on a swing, a monkey climbs from branches",
+      "A child plays on a slide, a monkey dangles from branches",
+      "A child plays on a swing, a monkey dangles from a rope",
+      "A child plays on a swing, a bird dangles from branches",
+      "An elderly person plays on a swing, a monkey dangles from branches"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person rides a bicycle, a rabbit hops alongside the path",
+    "id": "0054",
+    "negative_prompt": [
+      "A rabbit rides a bicycle, a person hops alongside the path",
+      "A robot rides a bicycle, a rabbit hops alongside the path",
+      "A person pushes a bicycle, a rabbit hops alongside the path",
+      "A person rides a car, a rabbit hops alongside the path",
+      "A person rides a bicycle, a rabbit sleeps alongside the path",
+      "An alien rides a bicycle, a rabbit hops alongside the path",
+      "A person watches a bicycle, a rabbit hops alongside the path",
+      "A person rides a skateboard, a rabbit hops alongside the path"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman walks and a cow is chewing grass",
+    "id": "0055",
+    "negative_prompt": [
+      "A cow walks and a woman is chewing grass",
+      "A man walks and a cow is chewing grass",
+      "A child walks and a cow is chewing grass",
+      "A woman walks and a sheep is chewing grass",
+      "A woman walks and a horse is chewing grass",
+      "A woman runs and a cow is chewing grass",
+      "A woman walks and a cow is sleeping",
+      "A woman walks and a cow is drinking water"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kid flies a kite and a sheep grazes under the sky",
+    "id": "0056",
+    "negative_prompt": [
+      "An elderly man flies a kite and a sheep grazes under the sky",
+      "A kid watches a kite and a sheep grazes under the sky",
+      "A kid flies a plane and a sheep grazes under the sky",
+      "A kid flies a kite and a dog grazes under the sky",
+      "A kid flies a kite and a sheep sleeps under the sky",
+      "A sheep flies a kite and a kid grazes under the sky",
+      "A woman flies a kite and a sheep grazes under the sky",
+      "A kid flies a balloon and a sheep grazes under the sky"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person sketches in a park and a chicken lays an egg",
+    "id": "0057",
+    "negative_prompt": [
+      "A robot sketches in a park and a chicken lays an egg",
+      "A person paints in a park and a chicken lays an egg",
+      "A person sketches in a park and a chicken hatches an egg",
+      "A person sketches in a park and a dog lays an egg",
+      "A person sketches in a park and a chicken lays a rock",
+      "A chicken sketches in a park and a person lays an egg",
+      "An alien sketches in a park and a chicken lays an egg",
+      "A person reads in a park and a chicken lays an egg"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman waters plants and a snail crawls along the pot",
+    "id": "0058",
+    "negative_prompt": [
+      "A man waters plants and a snail crawls along the pot",
+      "A child waters plants and a snail crawls along the pot",
+      "A woman prunes plants and a snail crawls along the pot",
+      "A woman waters plants and a snail glides along the pot",
+      "A woman waters stones and a snail crawls along the pot",
+      "A woman waters plants and a beetle crawls along the pot",
+      "A woman waters plants and a snail crawls along the wall",
+      "A snail waters plants and a woman crawls along the pot"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kid and a penguin watch a movie in the cinema",
+    "id": "0059",
+    "negative_prompt": [
+      "A penguin and a kid watch a movie in the cinema",
+      "An elderly person and a penguin watch a movie in the cinema",
+      "A kid and a dog watch a movie in the cinema",
+      "A kid and a penguin watch a play in the cinema",
+      "A kid and a penguin discuss a movie in the cinema",
+      "A teenager and a penguin watch a movie in the cinema",
+      "A kid and a statue watch a movie in the cinema",
+      "A kid and a penguin watch an advertisement in the cinema"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person makes coffee and a camel stands outside the window",
+    "id": "0060",
+    "negative_prompt": [
+      "A camel makes coffee and a person stands outside the window",
+      "A robot makes coffee and a camel stands outside the window",
+      "A person destroys coffee and a camel stands outside the window",
+      "A person drinks coffee and a camel stands outside the window",
+      "A person makes coffee and a camel sits inside the window",
+      "A person makes tea and a camel stands outside the window",
+      "A person makes coffee and a lion stands outside the window",
+      "A person makes coffee and a camel stands outside the door"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man takes photos and a boy dances on the street",
+    "id": "0061",
+    "negative_prompt": [
+      "A boy takes photos and a man dances on the street",
+      "A woman takes photos and a boy dances on the street",
+      "A man takes photos and a girl dances on the street",
+      "A man paints a picture and a boy dances on the street",
+      "A man writes a letter and a boy dances on the street",
+      "A man takes photos and a boy sings on the street",
+      "A man takes photos and a boy stands still on the street",
+      "A man takes videos and a boy dances on the street"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child picks apples and a squirrel gathers nuts in the orchard",
+    "id": "0062",
+    "negative_prompt": [
+      "A squirrel picks apples and a child gathers nuts in the orchard",
+      "An adult picks apples and a squirrel gathers nuts in the orchard",
+      "A child drops apples and a squirrel gathers nuts in the orchard",
+      "A child picks apples and a squirrel scatters nuts in the orchard",
+      "A child picks stones and a squirrel gathers nuts in the orchard",
+      "A child picks apples and a squirrel gathers leaves in the orchard",
+      "A teenager picks apples and a squirrel gathers nuts in the orchard",
+      "A child washes apples and a squirrel gathers nuts in the orchard"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kid plays piano and a bat hangs from the ceiling",
+    "id": "0063",
+    "negative_prompt": [
+      "A bat plays piano and a kid hangs from the ceiling",
+      "An adult plays piano and a bat hangs from the ceiling",
+      "A robot plays piano and a bat hangs from the ceiling",
+      "A kid destroys a piano and a bat hangs from the ceiling",
+      "A kid plays piano and a bat flies in the sky",
+      "A kid plays piano and a bat sits on the floor",
+      "A kid plays guitar and a bat hangs from the ceiling",
+      "A kid plays piano and a bird hangs from the ceiling"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person swims in a lake, a dolphin jumps nearby",
+    "id": "0064",
+    "negative_prompt": [
+      "A dolphin swims in a lake, a person jumps nearby",
+      "A person walks in a lake, a dolphin jumps nearby",
+      "A person swims in a lake, a dolphin flies nearby",
+      "A person swims in a desert, a dolphin jumps nearby",
+      "A robot swims in a lake, a dolphin jumps nearby",
+      "A person stands in a lake, a dolphin jumps nearby",
+      "A person swims in a lake, a dolphin sinks nearby",
+      "A person swims in the sky, a dolphin jumps nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man teaches math and a mouse scurries around the classroom",
+    "id": "0065",
+    "negative_prompt": [
+      "A woman teaches math and a mouse scurries around the classroom",
+      "A man learns math and a mouse scurries around the classroom",
+      "A man teaches math and a cat scurries around the classroom",
+      "A man teaches math and a mouse sleeps around the classroom",
+      "A mouse teaches math and a man scurries around the classroom",
+      "A child teaches math and a mouse scurries around the classroom",
+      "A man forgets math and a mouse scurries around the classroom",
+      "A man teaches math and an elephant scurries around the classroom"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman bakes cookies and a frog hops on the kitchen window",
+    "id": "0066",
+    "negative_prompt": [
+      "A man bakes cookies and a frog hops on the kitchen window",
+      "A woman eats cookies and a frog hops on the kitchen window",
+      "A woman bakes bread and a frog hops on the kitchen window",
+      "A woman bakes cookies and a bird hops on the kitchen window",
+      "A woman bakes cookies and a frog sleeps on the kitchen window",
+      "A woman bakes cookies and a frog hops on the living room table",
+      "A frog bakes cookies and a woman hops on the kitchen window",
+      "A child bakes cookies and a frog hops on the kitchen window"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person rows a boat, a duck swims alongside",
+    "id": "0067",
+    "negative_prompt": [
+      "A duck rows a boat, a person swims alongside",
+      "A robot rows a boat, a duck swims alongside",
+      "A person sinks a boat, a duck swims alongside",
+      "A person docks a boat, a duck swims alongside",
+      "A person rows a boat, a duck flies alongside",
+      "A person rows a boat, a duck walks alongside",
+      "A person rows a car, a duck swims alongside",
+      "A person rows a plane, a duck swims alongside"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man fixes a bike, a dog sits beside",
+    "id": "0068",
+    "negative_prompt": [
+      "A dog fixes a bike, a man sits beside",
+      "A man breaks a bike, a dog sits beside",
+      "A man rides a bike, a dog sits beside",
+      "A man fixes a bike, a dog stands beside",
+      "A man fixes a bike, a dog runs beside",
+      "A man fixes a car, a dog sits beside",
+      "A man fixes a house, a dog sits beside",
+      "A woman fixes a bike, a dog sits beside"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman knits a sweater and a cat plays with the yarn",
+    "id": "0069",
+    "negative_prompt": [
+      "A cat knits a sweater and a woman plays with the yarn",
+      "A man knits a sweater and a cat plays with the yarn",
+      "A woman unravels a sweater and a cat plays with the yarn",
+      "A woman knits a hat and a cat plays with the yarn",
+      "A woman knits a sweater and a cat ignores the yarn",
+      "A woman knits a sweater and a cat plays with the string",
+      "A child knits a sweater and a cat plays with the yarn",
+      "A woman dyes a sweater and a cat plays with the yarn"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child throws a frisbee and a fish splashes in a nearby pond",
+    "id": "0070",
+    "negative_prompt": [
+      "A fish throws a frisbee and a child splashes in a nearby pond",
+      "An adult throws a frisbee and a fish splashes in a nearby pond",
+      "A child catches a frisbee and a fish splashes in a nearby pond",
+      "A child throws a ball and a fish splashes in a nearby pond",
+      "A child throws a frisbee and a fish swims in a nearby pond",
+      "A child throws a frisbee and a fish splashes in a nearby desert",
+      "An old woman throws a frisbee and a fish splashes in a nearby pond",
+      "A child drops a frisbee and a fish splashes in a nearby pond"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man sets up a telescope and a lion rests under the stars",
+    "id": "0071",
+    "negative_prompt": [
+      "A lion sets up a telescope and a man rests under the stars",
+      "A woman sets up a telescope and a lion rests under the stars",
+      "A child sets up a telescope and a lion rests under the stars",
+      "A man dismantles a telescope and a lion rests under the stars",
+      "A man sets up a telescope and a lion runs under the stars",
+      "A man sets up a tent and a lion rests under the stars",
+      "A man sets up a telescope and a lion rests under the sun",
+      "A man sets up a telescope and a lion hunts under the stars"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman practices yoga and a panda relaxes under a tree",
+    "id": "0072",
+    "negative_prompt": [
+      "A panda practices yoga and a woman relaxes under a tree",
+      "A man practices yoga and a panda relaxes under a tree",
+      "A robot practices yoga and a panda relaxes under a tree",
+      "A woman runs a marathon and a panda relaxes under a tree",
+      "A woman practices yoga and a panda climbs a tree",
+      "A woman practices yoga and a panda hunts under a tree",
+      "A woman practices yoga and a panda relaxes under a bridge",
+      "A woman practices yoga and a panda relaxes on a mountain"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man jogs and a car drives on the road",
+    "id": "0073",
+    "negative_prompt": [
+      "A car jogs and a man drives on the road",
+      "A woman jogs and a car drives on the road",
+      "A man walks and a car drives on the road",
+      "A man jogs and a car parks on the road",
+      "A man jogs and a truck drives on the road",
+      "A man jogs and a car drives on the beach",
+      "A child jogs and a car drives on the road",
+      "A man stands and a car drives on the road"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman rides a bicycle and a drone hovers above capturing the scene",
+    "id": "0074",
+    "negative_prompt": [
+      "A drone rides a bicycle and a woman hovers above capturing the scene",
+      "A man rides a bicycle and a drone hovers above capturing the scene",
+      "A child rides a bicycle and a drone hovers above capturing the scene",
+      "A woman rides a motorcycle and a drone hovers above capturing the scene",
+      "A woman rides a bicycle and a plane hovers above capturing the scene",
+      "A woman walks next to a bicycle and a drone hovers above capturing the scene",
+      "A woman rides a bicycle and a drone lands above capturing the scene",
+      "A woman rides a bicycle and a drone hovers above ignoring the scene"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dog chases after a balloon drifting in the wind",
+    "id": "0075",
+    "negative_prompt": [
+      "A balloon chases after a dog drifting in the wind",
+      "A cat chases after a balloon drifting in the wind",
+      "A dog chases after a boulder drifting in the wind",
+      "A dog chases after a balloon drifting in the water",
+      "A dog ignores a balloon drifting in the wind",
+      "A dog guards a balloon drifting in the wind",
+      "A dog chases after a balloon falling in the wind",
+      "A dog chases after a balloon exploding in the wind"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cat skates on a skateboard, chasing a rolling ball",
+    "id": "0076",
+    "negative_prompt": [
+      "A rolling ball skates on a skateboard, chasing a cat",
+      "A cat walks on a skateboard, chasing a rolling ball",
+      "A cat skates on a skateboard, fleeing a rolling ball",
+      "A cat skates on a skateboard, chasing a stationary ball",
+      "A dog skates on a skateboard, chasing a rolling ball",
+      "A cat skates on roller skates, chasing a rolling ball",
+      "A cat skates on a skateboard, chasing a rolling cube",
+      "A cat sleeps on a skateboard, chasing a rolling ball"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fish swims in a tank and a model boat floats above",
+    "id": "0077",
+    "negative_prompt": [
+      "A fish flies in a tank and a model boat floats above",
+      "A fish swims in a tank and a model boat stands above",
+      "A bird swims in a tank and a model boat floats above",
+      "A fish swims in a field and a model boat floats above",
+      "A fish swims in a tank and a tree floats above",
+      "A fish walks in a tank and a model boat floats above",
+      "A fish swims in a tank and a model boat rests above",
+      "A model boat swims in a tank and a fish floats above"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A horse races alongside a moving train",
+    "id": "0078",
+    "negative_prompt": [
+      "A train races alongside a moving horse",
+      "A horse rests alongside a moving train",
+      "A horse stops alongside a moving train",
+      "A horse watches alongside a moving train",
+      "A cow races alongside a moving train",
+      "A snail races alongside a moving train",
+      "A horse races alongside a moving boat",
+      "A horse races alongside a moving bicycle"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A deer grazes as a motorcycle speeds along a nearby road",
+    "id": "0079",
+    "negative_prompt": [
+      "A motorcycle grazes as a deer speeds along a nearby road",
+      "An elk grazes as a motorcycle speeds along a nearby road",
+      "A sheep grazes as a motorcycle speeds along a nearby road",
+      "A deer grazes as a car speeds along a nearby road",
+      "A deer grazes as a truck speeds along a nearby road",
+      "A deer grazes as a motorcycle speeds along a nearby highway",
+      "A deer sleeps as a motorcycle speeds along a nearby road",
+      "A deer grazes as a motorcycle stops on a nearby road"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit hops near a rotating windmill",
+    "id": "0080",
+    "negative_prompt": [
+      "A cat hops near a rotating windmill",
+      "A rabbit sits near a rotating windmill",
+      "A rabbit hops near a rotating tree",
+      "A rabbit hops near a still windmill",
+      "A dog hops near a rotating windmill",
+      "A rabbit runs near a rotating windmill",
+      "A rabbit hops near a rotating lighthouse",
+      "A windmill hops near a rotating rabbit"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kangaroo bounds alongside a moving bus",
+    "id": "0081",
+    "negative_prompt": [
+      "A bus bounds alongside a moving kangaroo",
+      "A kangaroo stands alongside a moving bus",
+      "A kangaroo crawls alongside a moving bus",
+      "A kangaroo sleeps alongside a moving bus",
+      "A lion bounds alongside a moving bus",
+      "A bird bounds alongside a moving bus",
+      "A kangaroo bounds alongside a moving train",
+      "A kangaroo bounds alongside a moving bicycle"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "The sun rises above the horizon and a ship sails across the sea",
+    "id": "0082",
+    "negative_prompt": [
+      "The ship rises above the horizon and a sun sails across the sea",
+      "The moon rises above the horizon and a ship sails across the sea",
+      "The sun rises above the horizon and a car sails across the sea",
+      "The sun rises above the mountain and a ship sails across the sea",
+      "The sun rises above the horizon and a ship sails across the desert",
+      "The cloud rises above the horizon and a ship sails across the sea",
+      "The sun sets above the horizon and a ship sails across the sea",
+      "The sun rises above the horizon and a ship crashes across the sea"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A sheep walks on the grass as a hot air balloon floats overhead",
+    "id": "0083",
+    "negative_prompt": [
+      "A hot air balloon walks on the grass as a sheep floats overhead",
+      "A sheep sleeps on the grass as a hot air balloon floats overhead",
+      "A sheep walks on the grass as a hot air balloon crashes overhead",
+      "A cow walks on the grass as a hot air balloon floats overhead",
+      "A sheep walks on the road as a hot air balloon floats overhead",
+      "A sheep walks on the grass as a kite floats overhead",
+      "A sheep walks on the grass as a hot air balloon floats on the ground",
+      "A sheep jumps on the grass as a hot air balloon floats overhead"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A penguin waddles as a ship cruises in the distance",
+    "id": "0084",
+    "negative_prompt": [
+      "A ship waddles as a penguin cruises in the distance",
+      "An eagle waddles as a ship cruises in the distance",
+      "A penguin waddles as a car cruises in the distance",
+      "A penguin flies as a ship cruises in the distance",
+      "A penguin waddles as a ship sinks in the distance",
+      "A whale waddles as a ship cruises in the distance",
+      "A penguin waddles as a plane cruises in the distance",
+      "A penguin leaps as a ship cruises in the distance"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A camel walks through the desert, a car drives in the background",
+    "id": "0085",
+    "negative_prompt": [
+      "A car walks through the desert, a camel drives in the background",
+      "A penguin walks through the desert, a car drives in the background",
+      "A camel flies through the desert, a car drives in the background",
+      "A camel walks through the jungle, a car drives in the background",
+      "A camel walks through the desert, a motorcycle drives in the background",
+      "A camel walks through the desert, a car sinks in the background",
+      "A camel walks through the city, a car drives in the background",
+      "A camel swims through the desert, a car drives in the background"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bat flies out of a cave as a helicopter flies overhead",
+    "id": "0086",
+    "negative_prompt": [
+      "A helicopter flies out of a cave as a bat flies overhead",
+      "A fish flies out of a cave as a helicopter flies overhead",
+      "A bat flies out of a building as a helicopter flies overhead",
+      "A bat flies out of a cave as a boat flies overhead",
+      "A rock flies out of a cave as a helicopter flies overhead",
+      "A bat crawls out of a cave as a helicopter flies overhead",
+      "A bat flies out of a cave as a helicopter drives overhead",
+      "A bat swims out of a cave as a helicopter flies overhead"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dolphin jumps next to a speeding boat",
+    "id": "0087",
+    "negative_prompt": [
+      "A dolphin sinks next to a speeding boat",
+      "A dolphin dives next to a speeding boat",
+      "A dolphin rests next to a speeding boat",
+      "A shark jumps next to a speeding boat",
+      "A seal jumps next to a speeding boat",
+      "A dolphin jumps next to a speeding ship",
+      "A dolphin jumps next to a speeding submarine",
+      "A boat jumps next to a speeding dolphin"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A frog jumps onto a lily pad, a toy boat passes by",
+    "id": "0088",
+    "negative_prompt": [
+      "A toy boat jumps onto a lily pad, a frog passes by",
+      "A frog sits onto a lily pad, a toy boat passes by",
+      "A frog jumps onto a lily pad, a toy boat stops at",
+      "A cat jumps onto a lily pad, a toy boat passes by",
+      "A frog jumps onto a rock, a toy boat passes by",
+      "A frog jumps onto a lily pad, a real boat passes by",
+      "A frog glides onto a lily pad, a toy boat passes by",
+      "A snake jumps onto a lily pad, a toy boat passes by"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A duck swims in a pond and a model ship floats nearby",
+    "id": "0089",
+    "negative_prompt": [
+      "A model ship swims in a pond and a duck floats nearby",
+      "An elephant swims in a pond and a model ship floats nearby",
+      "A duck swims in a pond and a submarine floats nearby",
+      "A duck swims in a desert and a model ship floats nearby",
+      "A duck flies in a pond and a model ship floats nearby",
+      "A duck swims in a pond and a model ship sinks nearby",
+      "A fish swims in a pond and a model ship floats nearby",
+      "A duck swims in a pond and a kayak floats nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child plays toys, a robot walks around",
+    "id": "0090",
+    "negative_prompt": [
+      "A robot plays toys, a child walks around",
+      "A grown-up plays toys, a robot walks around",
+      "A child watches toys, a robot walks around",
+      "A child plays with food, a robot walks around",
+      "A child plays toys, an animal walks around",
+      "A child plays toys, a robot stands still",
+      "An elderly person plays toys, a robot walks around",
+      "A child destroys toys, a robot walks around"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kid throws stones and a ferris wheel slowly rotates",
+    "id": "0091",
+    "negative_prompt": [
+      "A ferris wheel throws stones and a kid slowly rotates",
+      "An adult throws stones and a ferris wheel slowly rotates",
+      "A kid catches stones and a ferris wheel slowly rotates",
+      "A kid throws feathers and a ferris wheel slowly rotates",
+      "A kid throws stones and a swing slowly rotates",
+      "A kid throws stones and a ferris wheel stands still",
+      "A kid places stones and a ferris wheel slowly rotates",
+      "An elder throws stones and a ferris wheel slowly rotates"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A person rows a boat and a duck paddles alongside",
+    "id": "0092",
+    "negative_prompt": [
+      "A duck rows a boat and a person paddles alongside",
+      "A robot rows a boat and a duck paddles alongside",
+      "A dog rows a boat and a duck paddles alongside",
+      "A person pushes a boat and a duck paddles alongside",
+      "A person sinks a boat and a duck paddles alongside",
+      "A person rows a car and a duck paddles alongside",
+      "A person rows a log and a duck paddles alongside",
+      "A person rows a boat and a duck flies alongside"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bird sits on a branch while a squirrel climbs the tree",
+    "id": "0093",
+    "negative_prompt": [
+      "A squirrel sits on a branch while a bird climbs the tree",
+      "A frog sits on a branch while a squirrel climbs the tree",
+      "A bird stands on a branch while a squirrel climbs the tree",
+      "A bird sits on a rock while a squirrel climbs the tree",
+      "A bird sits on a branch while a fish climbs the tree",
+      "A bird sits on a branch while a squirrel descends the tree",
+      "A bird sits on a branch while a squirrel climbs the wall",
+      "A bird eats on a branch while a squirrel climbs the tree"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dolphin leaps out of the water as a shark glides beneath the waves",
+    "id": "0094",
+    "negative_prompt": [
+      "A shark leaps out of the water as a dolphin glides beneath the waves",
+      "A whale leaps out of the water as a shark glides beneath the waves",
+      "A dolphin leaps out of the water as a jellyfish glides beneath the waves",
+      "A dolphin sinks into the water as a shark glides beneath the waves",
+      "A dolphin leaps out of the water as a shark struggles beneath the waves",
+      "A seal leaps out of the water as a shark glides beneath the waves",
+      "A dolphin leaps out of the water as a tuna glides beneath the waves",
+      "A dolphin floats on the water as a shark glides beneath the waves"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A boy plays basketball and a girl jumps rope",
+    "id": "0095",
+    "negative_prompt": [
+      "A girl plays basketball and a boy jumps rope",
+      "A man plays basketball and a girl jumps rope",
+      "A boy plays basketball and a woman jumps rope",
+      "A toddler plays basketball and a girl jumps rope",
+      "A boy reads book and a girl jumps rope",
+      "A boy plays basketball and a girl sings song",
+      "A boy paints canvas and a girl jumps rope",
+      "A boy plays basketball and a girl jumps hurdles"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A peacock fans its feathers while a rabbit nibbles on clover",
+    "id": "0096",
+    "negative_prompt": [
+      "A rabbit fans its feathers while a peacock nibbles on clover",
+      "A peacock folds its feathers while a rabbit nibbles on clover",
+      "A peacock fans its feathers while a rabbit ignores clover",
+      "A lion fans its feathers while a rabbit nibbles on clover",
+      "A peacock fans its fur while a rabbit nibbles on clover",
+      "A peacock fans its feathers while a bear nibbles on clover",
+      "A peacock fans its feathers while a rabbit nibbles on dirt",
+      "An elephant fans its feathers while a rabbit nibbles on clover"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A penguin slides on the ice while a seal lounges nearby",
+    "id": "0097",
+    "negative_prompt": [
+      "A seal slides on the ice while a penguin lounges nearby",
+      "A chicken slides on the ice while a seal lounges nearby",
+      "A penguin slides on the ice while a lion lounges nearby",
+      "A penguin stands on the ice while a seal lounges nearby",
+      "A penguin runs on the ice while a seal lounges nearby",
+      "A penguin slides on the ice while a seal swims nearby",
+      "A penguin slides on the ice while a seal hunts nearby",
+      "A penguin walks on the ice while a seal lounges nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cow grazes in a pasture while a dog herds sheep nearby",
+    "id": "0098",
+    "negative_prompt": [
+      "A dog grazes in a pasture while a cow herds sheep nearby",
+      "A lion grazes in a pasture while a dog herds sheep nearby",
+      "A cow grazes in a pasture while a cat herds sheep nearby",
+      "A cow grazes in a pasture while a dog herds wolves nearby",
+      "A cow hunts in a pasture while a dog herds sheep nearby",
+      "A cow grazes in a pasture while a dog attacks sheep nearby",
+      "A cow grazes in a desert while a dog herds sheep nearby",
+      "A cow grazes in a city street while a dog herds sheep nearby"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A flamingo balances on one leg and a woman takes photos",
+    "id": "0099",
+    "negative_prompt": [
+      "A flamingo stands on two legs and a woman takes photos",
+      "A flamingo balances on one leg and a woman reads a book",
+      "A penguin balances on one leg and a woman takes photos",
+      "A flamingo balances on one leg and a man takes photos",
+      "A flamingo flies and a woman takes photos",
+      "A flamingo balances on one leg and a woman watches TV",
+      "A dog balances on one leg and a woman takes photos",
+      "A woman balances on one leg and a flamingo takes photos"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kangaroo hops across the plain while an emu strides beside it",
+    "id": "0100",
+    "negative_prompt": [
+      "An emu hops across the plain while a kangaroo strides beside it",
+      "A whale hops across the plain while an emu strides beside it",
+      "A kangaroo hops across the plain while a snake strides beside it",
+      "A kangaroo hops across the mountain while an emu strides beside it",
+      "A kangaroo glides across the plain while an emu strides beside it",
+      "A kangaroo hops across the plain while an emu crawls beside it",
+      "A kangaroo swims across the plain while an emu strides beside it",
+      "A kangaroo hops across the plain while an emu flies beside it"
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A car is driving down the street while a dog is barking at a passerby.",
+    "id": "0101",
+    "negative_prompt": [
+      "A bicycle is driving down the street while a dog is barking at a passerby.",
+      "A car is driving down the street while a cat is barking at a passerby.",
+      "A car is parking down the street while a dog is barking at a passerby.",
+      "A car is driving down the street while a dog is sleeping at a passerby.",
+      "A car is driving down the street while a dog is barking at a statue.",
+      "A dog is driving down the street while a car is barking at a passerby.",
+      "An airplane is driving down the street while a dog is barking at a passerby.",
+      "A car is flying down the street while a dog is barking at a passerby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A robot is fixing a malfunctioning light while a dog is chasing its tail in the backyard.",
+    "id": "0102",
+    "negative_prompt": [
+      "A mountain is fixing a malfunctioning light while a dog is chasing its tail in the backyard.",
+      "A robot is breaking a malfunctioning light while a dog is chasing its tail in the backyard.",
+      "A robot is fixing a sleeping child while a dog is chasing its tail in the backyard.",
+      "A robot is fixing a malfunctioning light while a bird is chasing its tail in the backyard.",
+      "A robot is fixing a malfunctioning light while a dog is sleeping on its tail in the backyard.",
+      "A robot is fixing a malfunctioning light while a dog is chasing a frisbee in the backyard.",
+      "A dog is fixing a malfunctioning light while a robot is chasing its tail in the backyard.",
+      "A robot is fixing a perfectly working light while a dog is chasing its tail in the backyard."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A tree is swaying in the wind while a fish is swimming in a pond below.",
+    "id": "0103",
+    "negative_prompt": [
+      "A fish is swaying in the wind while a tree is swimming in a pond below.",
+      "A rock is swaying in the wind while a fish is swimming in a pond below.",
+      "A tree is swaying in the wind while a bird is swimming in a pond below.",
+      "A tree is swaying in the still air while a fish is swimming in a pond below.",
+      "A tree is swaying in the wind while a fish is swimming in a desert below.",
+      "A tree is standing still in the wind while a fish is swimming in a pond below.",
+      "A tree is swaying in the wind while a fish is flying in a pond below.",
+      "A tree is swaying in the wind while a fish is swimming in a road below."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A spaceship is launching into the sky while a deer is grazing in the meadow below.",
+    "id": "0104",
+    "negative_prompt": [
+      "A deer is launching into the sky while a spaceship is grazing in the meadow below.",
+      "An airplane is launching into the sky while a deer is grazing in the meadow below.",
+      "A spaceship is landing into the sky while a deer is grazing in the meadow below.",
+      "A spaceship is launching into the sky while a cow is grazing in the meadow below.",
+      "A spaceship is launching into the sky while a deer is sleeping in the meadow below.",
+      "A hot air balloon is launching into the sky while a deer is grazing in the meadow below.",
+      "A spaceship is descending into the sky while a deer is grazing in the meadow below.",
+      "A spaceship is launching into the sky while a wolf is grazing in the meadow below."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bike is racing down the street as a butterfly is fluttering above the flowers.",
+    "id": "0105",
+    "negative_prompt": [
+      "A car is racing down the street as a butterfly is fluttering above the flowers.",
+      "A bike is racing down the street as a bee is fluttering above the flowers.",
+      "A bike is racing down the street as a butterfly is fluttering above the weeds.",
+      "A bike is parked down the street as a butterfly is fluttering above the flowers.",
+      "A bike is racing down the street as a butterfly is resting above the flowers.",
+      "A butterfly is racing down the street as a bike is fluttering above the flowers.",
+      "A bike is racing down the dirt road as a butterfly is fluttering above the flowers.",
+      "A bike is stalled down the street as a butterfly is fluttering above the flowers."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rock is rolling down a hill as a panda is climbing a bamboo tree.",
+    "id": "0106",
+    "negative_prompt": [
+      "A panda is rolling down a hill as a rock is climbing a bamboo tree.",
+      "A rock is floating down a hill as a panda is climbing a bamboo tree.",
+      "A rock is rolling down a hill as a panda is falling from a bamboo tree.",
+      "A balloon is rolling down a hill as a panda is climbing a bamboo tree.",
+      "A rock is rolling down a flat plain as a panda is climbing a bamboo tree.",
+      "A rock is rolling down a hill as a cat is climbing a bamboo tree.",
+      "A rock is rolling down a hill as a panda is climbing a lamp post.",
+      "A rock is rolling down a hill as a panda is climbing a swimming pool."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bed is covered in a soft blanket while a puppy is playing with a toy on the floor.",
+    "id": "0107",
+    "negative_prompt": [
+      "A puppy is covered in a soft blanket while a bed is playing with a toy on the floor.",
+      "A table is covered in a soft blanket while a puppy is playing with a toy on the floor.",
+      "A bed is covered in a soft tarp while a puppy is playing with a toy on the floor.",
+      "A bed is covered in a soft blanket while a kitten is playing with a toy on the floor.",
+      "A bed is covered in a soft blanket while a puppy is playing with food on the floor.",
+      "A bed is covered in a soft blanket while a puppy is playing with a toy on the shelf.",
+      "A bed is bare while a puppy is playing with a toy on the floor.",
+      "A bed is covered in a soft blanket while a puppy is sleeping with a toy on the floor."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A football is being kicked across the field while a sparrow is pecking at seeds.",
+    "id": "0108",
+    "negative_prompt": [
+      "A sparrow is being kicked across the field while a football is pecking at seeds.",
+      "A basketball is being kicked across the field while a sparrow is pecking at seeds.",
+      "A football is being kicked across the field while a cat is pecking at seeds.",
+      "A football is being kicked across the field while a sparrow is pecking at dirt.",
+      "A football is being thrown across the field while a sparrow is pecking at seeds.",
+      "A football is being kicked across the field while a sparrow is flying at seeds.",
+      "A golf ball is being kicked across the field while a sparrow is pecking at seeds.",
+      "A football is being kicked across the field while a sparrow is ignoring the seeds."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A frog is hopping through the marsh while a kite is soaring above the fields.",
+    "id": "0109",
+    "negative_prompt": [
+      "A kite is hopping through the marsh while a frog is soaring above the fields.",
+      "A rock is hopping through the marsh while a kite is soaring above the fields.",
+      "A fish is hopping through the marsh while a kite is soaring above the fields.",
+      "A frog is sleeping through the marsh while a kite is soaring above the fields.",
+      "A frog is standing through the marsh while a kite is soaring above the fields.",
+      "A frog is hopping through the marsh while a submarine is soaring above the fields.",
+      "A frog is hopping through the marsh while a kite is sinking above the fields.",
+      "A frog is hopping through the marsh while a kite is burning above the fields."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fireplace is crackling with flames while a motorcycle is racing down the highway.",
+    "id": "0110",
+    "negative_prompt": [
+      "A motorcycle is crackling with flames while a fireplace is racing down the highway.",
+      "A bathtub is crackling with flames while a motorcycle is racing down the highway.",
+      "A fireplace is crackling with flames while a train is racing down the highway.",
+      "A fireplace is crackling with water while a motorcycle is racing down the highway.",
+      "A fireplace is crackling with flames while a motorcycle is racing down the ocean.",
+      "A fireplace is frozen solid while a motorcycle is racing down the highway.",
+      "A fireplace is crackling with flames while a motorcycle is floating motionless on the highway.",
+      "A fireplace is crackling with flames while a motorcycle is slowly reversing up the highway."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A squirrel is climbing a tree as a swan is floating on the pond nearby.",
+    "id": "0111",
+    "negative_prompt": [
+      "A swan is climbing a tree as a squirrel is floating on the pond nearby.",
+      "A wolf is climbing a tree as a swan is floating on the pond nearby.",
+      "A squirrel is digging into a tree as a swan is floating on the pond nearby.",
+      "A squirrel is climbing a wall as a swan is floating on the pond nearby.",
+      "A squirrel is climbing a tree as a fish is floating on the pond nearby.",
+      "A squirrel is climbing a tree as a swan is sinking in the pond nearby.",
+      "A squirrel is climbing a tree as a swan is floating on the road nearby.",
+      "A squirrel is falling from a tree as a swan is floating on the pond nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A canoe is drifting down the river as a toddler is running in the park.",
+    "id": "0112",
+    "negative_prompt": [
+      "A ship is drifting down the river as a toddler is running in the park.",
+      "A canoe is sinking down the river as a toddler is running in the park.",
+      "A canoe is drifting down the road as a toddler is running in the park.",
+      "A canoe is drifting down the river as an elderly person is running in the park.",
+      "A canoe is drifting down the river as a toddler is standing still in the park.",
+      "A canoe is drifting down the river as a toddler is running in the desert.",
+      "A toddler is drifting down the river as a canoe is running in the park.",
+      "A canoe is drifting down the river as a toddler is running in the water."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A robot is painting a mural on a brick wall, while a cat is leaping onto a nearby ledge.",
+    "id": "0113",
+    "negative_prompt": [
+      "A cat is painting a mural on a brick wall, while a robot is leaping onto a nearby ledge.",
+      "A robot is erasing a mural on a brick wall, while a cat is leaping onto a nearby ledge.",
+      "A robot is observing a mural on a brick wall, while a cat is leaping onto a nearby ledge.",
+      "A robot is painting a mural on a brick wall, while a cat is crawling onto a nearby ledge.",
+      "A person is painting a mural on a brick wall, while a cat is leaping onto a nearby ledge.",
+      "A robot is painting a blank space on a brick wall, while a cat is leaping onto a nearby ledge.",
+      "A robot is painting a mural on a wooden fence, while a cat is leaping onto a nearby ledge.",
+      "A robot is painting a mural on a brick wall, while a mouse is leaping onto a nearby ledge."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kite is soaring high in the sky, while a dog is chasing after a ball on the grassy field below.",
+    "id": "0114",
+    "negative_prompt": [
+      "A dog is soaring high in the sky, while a kite is chasing after a ball on the grassy field below.",
+      "A kite is falling low in the sky, while a dog is chasing after a ball on the grassy field below.",
+      "A kite is soaring high in the sky, while a dog is ignoring a ball on the grassy field below.",
+      "A rock is soaring high in the sky, while a dog is chasing after a ball on the grassy field below.",
+      "A kite is soaring high in the sky, while a fish is chasing after a ball on the grassy field below.",
+      "A kite is soaring high in the sky, while a dog is chasing after a car on the grassy field below.",
+      "A kite is soaring high in the ocean, while a dog is chasing after a ball on the grassy field below.",
+      "A kite is soaring high in the sky, while a dog is chasing after a ball on the sandy desert below."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A ship is sailing through the waves, while a seagull is gliding above the deck.",
+    "id": "0115",
+    "negative_prompt": [
+      "A seagull is sailing through the waves, while a ship is gliding above the deck.",
+      "A car is sailing through the waves, while a seagull is gliding above the deck.",
+      "A ship is sailing through the sand, while a seagull is gliding above the deck.",
+      "A ship is sailing through the waves, while a dog is gliding above the deck.",
+      "A ship is sailing through the waves, while a seagull is gliding above the tree.",
+      "A ship is sinking through the waves, while a seagull is gliding above the deck.",
+      "A ship is sailing through the waves, while a seagull is swimming above the deck.",
+      "An airplane is sailing through the waves, while a seagull is gliding above the deck."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bicycle is cruising down a street, while a squirrel is scampering up a tree trunk.",
+    "id": "0116",
+    "negative_prompt": [
+      "A squirrel is cruising down a street, while a bicycle is scampering up a tree trunk.",
+      "A car is cruising down a street, while a squirrel is scampering up a tree trunk.",
+      "A bicycle is cruising down a river, while a squirrel is scampering up a tree trunk.",
+      "A bicycle is cruising down a street, while a bird is scampering up a tree trunk.",
+      "A bicycle is cruising down a street, while a squirrel is scampering up a wall.",
+      "A bicycle is standing down a street, while a squirrel is scampering up a tree trunk.",
+      "A bicycle is cruising down a street, while a squirrel is sleeping up a tree trunk.",
+      "A bicycle is cruising down a street, while a fox is scampering up a tree trunk."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dolphin is leaping out of the water, while a boat is gliding through the waves.",
+    "id": "0117",
+    "negative_prompt": [
+      "A boat is leaping out of the water, while a dolphin is gliding through the waves.",
+      "A shark is leaping out of the water, while a boat is gliding through the waves.",
+      "A killer whale is leaping out of the water, while a boat is gliding through the waves.",
+      "A dolphin is leaping out of the water, while a submarine is gliding through the waves.",
+      "A dolphin is leaping out of the water, while a raft is gliding through the waves.",
+      "A dolphin is swimming under the water, while a boat is gliding through the waves.",
+      "A dolphin is floating on the water, while a boat is gliding through the waves.",
+      "A dolphin is leaping out of the water, while a boat is crashing into the waves."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit is hopping across the meadow, while a butterfly is dancing above a patch of blooming daisies.",
+    "id": "0118",
+    "negative_prompt": [
+      "A butterfly is hopping across the meadow, while a rabbit is dancing above a patch of blooming daisies.",
+      "A fox is hopping across the meadow, while a butterfly is dancing above a patch of blooming daisies.",
+      "A rabbit is hopping across the desert, while a butterfly is dancing above a patch of blooming daisies.",
+      "A rabbit is flying across the meadow, while a butterfly is dancing above a patch of blooming daisies.",
+      "A rabbit is hopping across the meadow, while a wasp is dancing above a patch of blooming daisies.",
+      "A rabbit is hopping across the meadow, while a butterfly is resting above a patch of blooming daisies.",
+      "A rabbit is hopping across the meadow, while a butterfly is dancing above a patch of blooming thorns.",
+      "A rabbit is hopping across the city street, while a butterfly is dancing above a patch of blooming daisies."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A truck is rumbling along the road, while a sheep is grazing in a nearby field.",
+    "id": "0119",
+    "negative_prompt": [
+      "A sheep is rumbling along the road, while a truck is grazing in a nearby field.",
+      "A bicycle is rumbling along the road, while a sheep is grazing in a nearby field.",
+      "A truck is rumbling along the road, while a wolf is grazing in a nearby field.",
+      "A truck is rumbling along the river, while a sheep is grazing in a nearby field.",
+      "A truck is rumbling along the road, while a sheep is grazing in a nearby desert.",
+      "A truck is flying along the road, while a sheep is grazing in a nearby field.",
+      "A truck is rumbling along the road, while a sheep is hunting in a nearby field.",
+      "A truck is rumbling along the road, while a sheep is swimming in a nearby field."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A baby is giggling, while a puppy is wagging its tail.",
+    "id": "0120",
+    "negative_prompt": [
+      "A puppy is giggling, while a baby is wagging its tail.",
+      "An adult is giggling, while a puppy is wagging its tail.",
+      "A baby is crying, while a puppy is wagging its tail.",
+      "A baby is giggling, while a cat is wagging its tail.",
+      "A baby is giggling, while a puppy is sleeping.",
+      "An old man is giggling, while a puppy is wagging its tail.",
+      "A baby is screaming, while a puppy is wagging its tail.",
+      "A baby is giggling, while a robot is wagging its tail."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A penguin is sliding on its belly across the ice, while a polar bear is lumbering along the snowy shore.",
+    "id": "0121",
+    "negative_prompt": [
+      "A polar bear is sliding on its belly across the ice, while a penguin is lumbering along the snowy shore.",
+      "An elephant is sliding on its belly across the ice, while a polar bear is lumbering along the snowy shore.",
+      "A penguin is sliding on its belly across the ice, while a kangaroo is lumbering along the snowy shore.",
+      "A penguin is sliding on its belly across the asphalt, while a polar bear is lumbering along the snowy shore.",
+      "A penguin is sliding on its belly across the ice, while a polar bear is lumbering along the desert dunes.",
+      "A penguin is floating on its belly across the ice, while a polar bear is lumbering along the snowy shore.",
+      "A penguin is sliding on its belly across the ice, while a polar bear is dashing along the snowy shore.",
+      "A penguin is bouncing on its belly across the ice, while a polar bear is lumbering along the snowy shore."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cat is stretching on a sunlit windowsill, while a dog is digging in the garden.",
+    "id": "0122",
+    "negative_prompt": [
+      "A dog is stretching on a sunlit windowsill, while a cat is digging in the garden.",
+      "A mouse is stretching on a sunlit windowsill, while a dog is digging in the garden.",
+      "A cat is stretching on a sunlit windowsill, while a rabbit is digging in the garden.",
+      "A cat is sleeping on a sunlit windowsill, while a dog is digging in the garden.",
+      "A cat is stretching on a sunlit windowsill, while a dog is napping in the garden.",
+      "A cat is stretching on a sunlit floor, while a dog is digging in the garden.",
+      "A cat is stretching on a sunlit windowsill, while a dog is digging in the sandpit.",
+      "A parrot is stretching on a sunlit windowsill, while a dog is digging in the garden."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A spaceship is ascending into the sky, while a meteor is streaking across the heavens.",
+    "id": "0123",
+    "negative_prompt": [
+      "A meteor is ascending into the sky, while a spaceship is streaking across the heavens.",
+      "A submarine is ascending into the sky, while a meteor is streaking across the heavens.",
+      "A spaceship is ascending into the sky, while a star is streaking across the heavens.",
+      "A spaceship is ascending into the ocean, while a meteor is streaking across the heavens.",
+      "A spaceship is ascending into the sky, while a meteor is streaking across the sea.",
+      "A spaceship is descending into the sky, while a meteor is streaking across the heavens.",
+      "A spaceship is ascending into the sky, while a meteor is hovering across the heavens.",
+      "A spaceship is ascending into the sky, while a meteor is motionless across the heavens."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A crane is lifting heavy beams at the construction site, while a pigeon is strutting along the sidewalk.",
+    "id": "0124",
+    "negative_prompt": [
+      "A bulldozer is lifting heavy beams at the construction site, while a pigeon is strutting along the sidewalk.",
+      "A crane is demolishing heavy beams at the construction site, while a pigeon is strutting along the sidewalk.",
+      "A crane is lifting light feathers at the construction site, while a pigeon is strutting along the sidewalk.",
+      "A crane is lifting heavy beams at the construction site, while an eagle is strutting along the sidewalk.",
+      "A crane is lifting heavy beams at the construction site, while a pigeon is flying along the sidewalk.",
+      "A pigeon is lifting heavy beams at the construction site, while a crane is strutting along the sidewalk.",
+      "A crane is lifting fragile glass at the construction site, while a pigeon is strutting along the sidewalk.",
+      "A crane is lifting heavy beams at the construction site, while a pigeon is sleeping along the sidewalk."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cowboy is riding his horse across the open plain, while a bird is circling overhead.",
+    "id": "0125",
+    "negative_prompt": [
+      "A bird is riding its horse across the open plain, while a cowboy is circling overhead.",
+      "An astronaut is riding his horse across the open plain, while a bird is circling overhead.",
+      "A cowboy is walking his horse across the open plain, while a bird is circling overhead.",
+      "A cowboy is riding his horse across the open plain, while a bird is perching overhead.",
+      "A cowboy is riding his motorcycle across the open plain, while a bird is circling overhead.",
+      "A cowboy is riding his horse across the open mountain, while a bird is circling overhead.",
+      "A cowboy is riding his horse across the open plain, while a plane is circling overhead.",
+      "A chef is riding his horse across the open plain, while a bird is circling overhead."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A plane is soaring high above the clouds, while a parachutist is descending slowly with a colorful canopy.",
+    "id": "0126",
+    "negative_prompt": [
+      "A parachutist is soaring high above the clouds, while a plane is descending slowly with a colorful canopy.",
+      "A plane is crashing low beneath the clouds, while a parachutist is descending slowly with a colorful canopy.",
+      "A plane is soaring high above the clouds, while a parachutist is ascending quickly with a colorful canopy.",
+      "A car is soaring high above the clouds, while a parachutist is descending slowly with a colorful canopy.",
+      "A plane is soaring high above the clouds, while a parachutist is descending slowly with a monochrome canopy.",
+      "A plane is soaring high above the clouds, while a diver is descending slowly with a colorful canopy.",
+      "A plane is idling on the runway, while a parachutist is descending slowly with a colorful canopy.",
+      "A plane is soaring high above the ocean, while a parachutist is descending slowly with a colorful canopy."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A musician is strumming a guitar on stage, while a dancer is twirling gracefully under the spotlight.",
+    "id": "0127",
+    "negative_prompt": [
+      "A dancer is strumming a guitar on stage, while a musician is twirling gracefully under the spotlight.",
+      "A chef is strumming a guitar on stage, while a dancer is twirling gracefully under the spotlight.",
+      "A musician is strumming a guitar on stage, while a scientist is twirling gracefully under the spotlight.",
+      "A musician is smashing a guitar on stage, while a dancer is twirling gracefully under the spotlight.",
+      "A musician is strumming a guitar on stage, while a dancer is standing still gracefully under the spotlight.",
+      "A musician is strumming a violin on stage, while a dancer is twirling gracefully under the spotlight.",
+      "A musician is strumming a guitar in a kitchen, while a dancer is twirling gracefully under the spotlight.",
+      "A musician is strumming a guitar on stage, while a dancer is twirling gracefully under the moonlight."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A runner is sprinting down the track, while a coach is yelling encouragement from the sidelines.",
+    "id": "0128",
+    "negative_prompt": [
+      "A coach is sprinting down the track, while a runner is yelling encouragement from the sidelines.",
+      "A runner is walking down the track, while a coach is yelling encouragement from the sidelines.",
+      "A runner is sprinting down the road, while a coach is yelling encouragement from the sidelines.",
+      "A cyclist is sprinting down the track, while a coach is yelling encouragement from the sidelines.",
+      "A runner is sprinting down the track, while a coach is whispering complaints from the sidelines.",
+      "A runner is sprinting down the track, while a coach is yelling encouragement from the stands.",
+      "A runner is sprinting down the track, while a spectator is yelling encouragement from the sidelines.",
+      "A runner is limping down the track, while a coach is yelling encouragement from the sidelines."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "An orange is rolling off the kitchen counter, while a knife is lying on the cutting board.",
+    "id": "0129",
+    "negative_prompt": [
+      "A knife is rolling off the kitchen counter, while an orange is lying on the cutting board.",
+      "An apple is rolling off the kitchen counter, while a knife is lying on the cutting board.",
+      "An orange is rolling off the floor, while a knife is lying on the cutting board.",
+      "An orange is rolling off the kitchen counter, while a spoon is lying on the cutting board.",
+      "An orange is rolling off the kitchen counter, while a knife is lying on the sink.",
+      "An orange is bouncing off the kitchen counter, while a knife is lying on the cutting board.",
+      "An orange is rolling off the kitchen counter, while a knife is standing on the cutting board.",
+      "A brick is rolling off the kitchen counter, while a knife is lying on the cutting board."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fish is swimming in the water, while a frog is hopping onto a lily pad.",
+    "id": "0130",
+    "negative_prompt": [
+      "A frog is swimming in the water, while a fish is hopping onto a lily pad.",
+      "A fish is flying in the water, while a frog is hopping onto a lily pad.",
+      "A fish is swimming in the water, while a frog is crawling onto a lily pad.",
+      "A bird is swimming in the water, while a frog is hopping onto a lily pad.",
+      "A fish is swimming in the sky, while a frog is hopping onto a lily pad.",
+      "A fish is swimming in the water, while a snake is hopping onto a lily pad.",
+      "A fish is swimming in the water, while a frog is hopping onto a tree branch.",
+      "A fish is sinking in the water, while a frog is hopping onto a lily pad."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A train is chugging through the valley, while a cow is grazing peacefully in the meadow.",
+    "id": "0131",
+    "negative_prompt": [
+      "A train is stationary through the valley, while a cow is grazing peacefully in the meadow.",
+      "A train is chugging through the valley, while a cow is sleeping peacefully in the meadow.",
+      "A car is chugging through the valley, while a cow is grazing peacefully in the meadow.",
+      "A train is chugging through the valley, while a horse is grazing peacefully in the meadow.",
+      "A train is chugging through the desert, while a cow is grazing peacefully in the meadow.",
+      "A train is chugging through the valley, while a cow is grazing peacefully in the lake.",
+      "A cow is chugging through the valley, while a train is grazing peacefully in the meadow.",
+      "A train is flying through the valley, while a cow is grazing peacefully in the meadow."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A boat is floating quietly on the lake, while a duck is wading along the shore.",
+    "id": "0132",
+    "negative_prompt": [
+      "A rock is floating quietly on the lake, while a duck is wading along the shore.",
+      "A boat is sinking slowly on the lake, while a duck is wading along the shore.",
+      "A boat is floating quietly on the mountain, while a duck is wading along the shore.",
+      "A boat is floating quietly on the lake, while a fish is wading along the shore.",
+      "A boat is floating quietly on the lake, while a duck is flying along the shore.",
+      "A boat is floating quietly on the lake, while a duck is wading along the ceiling.",
+      "A duck is floating quietly on the lake, while a boat is wading along the shore.",
+      "A boat is floating loudly on the lake, while a duck is wading along the shore."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bottle is rolling across the picnic table, while an ant is crawling toward the food.",
+    "id": "0133",
+    "negative_prompt": [
+      "An ant is rolling across the picnic table, while a bottle is crawling toward the food.",
+      "A rock is rolling across the picnic table, while an ant is crawling toward the food.",
+      "A bottle is rolling across the ceiling, while an ant is crawling toward the food.",
+      "A bottle is rolling across the picnic table, while a beetle is crawling toward the food.",
+      "A bottle is rolling across the picnic table, while an ant is crawling toward a predator.",
+      "A bottle is floating across the picnic table, while an ant is crawling toward the food.",
+      "A bottle is rolling across the picnic table, while an ant is jumping toward the food.",
+      "A bottle is rolling across the desert, while an ant is crawling toward the food."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "An apple is falling from the tree, while a monkey is climbing up the tree.",
+    "id": "0134",
+    "negative_prompt": [
+      "A monkey is falling from the tree, while an apple is climbing up the tree.",
+      "A banana is falling from the tree, while a monkey is climbing up the tree.",
+      "An apple is falling from the tree, while a cat is climbing up the tree.",
+      "An apple is falling from the bush, while a monkey is climbing up the tree.",
+      "An apple is falling from the tree, while a monkey is climbing up the building.",
+      "An apple is rising from the tree, while a monkey is climbing up the tree.",
+      "An apple is falling from the tree, while a monkey is descending from the tree.",
+      "A rock is falling from the tree, while a monkey is climbing up the tree."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rocket is blasting off into space, while an astronaut is waving from the launch platform.",
+    "id": "0135",
+    "negative_prompt": [
+      "A rocket is landing from space, while an astronaut is waving from the launch platform.",
+      "A rocket is blasting off into space, while an astronaut is sleeping on the launch platform.",
+      "A train is blasting off into space, while an astronaut is waving from the launch platform.",
+      "A rocket is blasting off into the desert, while an astronaut is waving from the launch platform.",
+      "A rocket is blasting off into space, while an astronaut is waving from the tree.",
+      "A rocket is blasting off into space, while a gardener is waving from the launch platform.",
+      "An astronaut is blasting off into space, while a rocket is waving from the launch platform.",
+      "A boat is blasting off into space, while an astronaut is waving from the launch platform."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "An umbrella is fluttering in the strong wind, while a bus is waiting at the crowded bus stop.",
+    "id": "0136",
+    "negative_prompt": [
+      "A bus is fluttering in the strong wind, while an umbrella is waiting at the crowded bus stop.",
+      "A building is fluttering in the strong wind, while a bus is waiting at the crowded bus stop.",
+      "An umbrella is fluttering in the strong wind, while a train is waiting at the crowded bus stop.",
+      "An umbrella is fluttering in the strong wind, while a bus is waiting at the crowded train station.",
+      "An umbrella is standing still in the strong wind, while a bus is waiting at the crowded bus stop.",
+      "An umbrella is fluttering in the strong wind, while a bus is departing at the crowded bus stop.",
+      "A rock is fluttering in the strong wind, while a bus is waiting at the crowded bus stop.",
+      "An umbrella is fluttering in the strong wind, while a bicycle is waiting at the crowded bus stop."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A flag is fluttering in the strong wind, while a leaf is twisting and turning in the breeze.",
+    "id": "0137",
+    "negative_prompt": [
+      "A stone is fluttering in the strong wind, while a leaf is twisting and turning in the breeze.",
+      "A flag is hanging still in the strong wind, while a leaf is twisting and turning in the breeze.",
+      "A flag is fluttering in the strong wind, while a book is twisting and turning in the breeze.",
+      "A flag is fluttering in the strong wind, while a leaf is falling straight in the breeze.",
+      "A leaf is fluttering in the strong wind, while a flag is twisting and turning in the breeze.",
+      "A building is fluttering in the strong wind, while a leaf is twisting and turning in the breeze.",
+      "A flag is ripping in the strong wind, while a leaf is twisting and turning in the breeze.",
+      "A flag is fluttering in the strong wind, while a rock is twisting and turning in the breeze."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bus is crossing the bridge, while a boat is floating in the river below.",
+    "id": "0138",
+    "negative_prompt": [
+      "A boat is crossing the bridge, while a bus is floating in the river below.",
+      "A bus is parking on the bridge, while a boat is floating in the river below.",
+      "A bus is crossing the bridge, while a boat is sinking in the river below.",
+      "A bus is falling from the bridge, while a boat is floating in the river below.",
+      "A car is crossing the bridge, while a boat is floating in the river below.",
+      "A bus is crossing the road, while a boat is floating in the river below.",
+      "A bus is crossing the bridge, while a plane is floating in the river below.",
+      "A bus is crossing the bridge, while a boat is floating in the desert below."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bottle is floating down the river, while a fish is jumping out of the water.",
+    "id": "0139",
+    "negative_prompt": [
+      "A rock is floating down the river, while a fish is jumping out of the water.",
+      "A bottle is sinking down the river, while a fish is jumping out of the water.",
+      "A bottle is floating down the river, while a cat is jumping out of the water.",
+      "A bottle is floating down the river, while a fish is diving into the water.",
+      "A brick is floating down the river, while a fish is jumping out of the water.",
+      "A bottle is submerged down the river, while a fish is jumping out of the water.",
+      "A bottle is floating down the river, while a bird is jumping out of the water.",
+      "A fish is floating down the river, while a bottle is jumping out of the water."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A snowboarder is sliding down the snowy slope, while a bear is walking through the forest nearby.",
+    "id": "0140",
+    "negative_prompt": [
+      "A bear is sliding down the snowy slope, while a snowboarder is walking through the forest nearby.",
+      "A snowboarder is climbing up the snowy slope, while a bear is walking through the forest nearby.",
+      "A snowboarder is sliding down the snowy slope, while a bear is running away from the forest nearby.",
+      "A skier is sliding down the snowy slope, while a bear is walking through the forest nearby.",
+      "A snowboarder is sliding down the snowy slope, while a wolf is walking through the forest nearby.",
+      "A snowboarder is sliding down the sandy beach, while a bear is walking through the forest nearby.",
+      "A snowboarder is sliding down the snowy slope, while a bear is walking through the desert nearby.",
+      "A snowboarder is standing still on the snowy slope, while a bear is walking through the forest nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cow is chewing on grass in the field, while a tractor is plowing the soil nearby.",
+    "id": "0141",
+    "negative_prompt": [
+      "A tractor is chewing on grass in the field, while a cow is plowing the soil nearby.",
+      "A lion is chewing on grass in the field, while a tractor is plowing the soil nearby.",
+      "A cow is chewing on metal in the field, while a tractor is plowing the soil nearby.",
+      "A cow is chewing on grass in the field, while a car is plowing the soil nearby.",
+      "A cow is chewing on grass in the field, while a tractor is plowing the water nearby.",
+      "A cow is sleeping on grass in the field, while a tractor is plowing the soil nearby.",
+      "A cow is chewing on grass in the field, while a tractor is harvesting the soil nearby.",
+      "A cow is chewing on grass in the ocean, while a tractor is plowing the soil nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A jellyfish is drifting gracefully through the water, while a shark is gliding silently below.",
+    "id": "0142",
+    "negative_prompt": [
+      "A shark is drifting gracefully through the water, while a jellyfish is gliding silently below.",
+      "An octopus is drifting gracefully through the water, while a shark is gliding silently below.",
+      "A whale is drifting gracefully through the water, while a shark is gliding silently below.",
+      "A jellyfish is drifting gracefully through the water, while a dolphin is gliding silently below.",
+      "A jellyfish is drifting gracefully through the water, while a manatee is gliding silently below.",
+      "A jellyfish is sprinting erratically through the water, while a shark is gliding silently below.",
+      "A jellyfish is struggling violently through the water, while a shark is gliding silently below.",
+      "A jellyfish is drifting gracefully through the water, while a shark is thrashing loudly below."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A vase is holding fresh-cut flowers, while a bee is buzzing nearby.",
+    "id": "0143",
+    "negative_prompt": [
+      "A vase is dropping fresh-cut flowers, while a bee is buzzing nearby.",
+      "A vase is holding fresh-cut flowers, while a bee is sleeping nearby.",
+      "A bowl is holding fresh-cut flowers, while a bee is buzzing nearby.",
+      "A vase is holding fresh-cut weeds, while a bee is buzzing nearby.",
+      "A vase is holding fresh-cut flowers, while a spider is buzzing nearby.",
+      "A bee is holding fresh-cut flowers, while a vase is buzzing nearby.",
+      "A vase is holding fresh-cut branches, while a bee is buzzing nearby.",
+      "A vase is spilling fresh-cut flowers, while a bee is buzzing nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A seagull is swooping low over the water, while a surfboard is carving through the waves.",
+    "id": "0144",
+    "negative_prompt": [
+      "A surfboard is swooping low over the water, while a seagull is carving through the waves.",
+      "A penguin is swooping low over the water, while a surfboard is carving through the waves.",
+      "A seagull is floating still over the water, while a surfboard is carving through the waves.",
+      "A seagull is swooping low over the desert, while a surfboard is carving through the waves.",
+      "A seagull is swooping low over the water, while a kayak is carving through the waves.",
+      "A seagull is swooping low over the water, while a surfboard is crashing against the waves.",
+      "A seagull is swooping low over the water, while a surfboard is carving through the river.",
+      "A seagull is swooping high over the water, while a surfboard is carving through the waves."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A girl is running along the sidewalk, while a butterfly is fluttering.",
+    "id": "0145",
+    "negative_prompt": [
+      "A butterfly is running along the sidewalk, while a girl is fluttering.",
+      "A girl is walking along the sidewalk, while a butterfly is fluttering.",
+      "A girl is running along the sidewalk, while a butterfly is perching.",
+      "A girl is running along the street, while a butterfly is fluttering.",
+      "A girl is running along the sidewalk, while a bird is fluttering.",
+      "A boy is running along the sidewalk, while a butterfly is fluttering.",
+      "A girl is standing along the sidewalk, while a butterfly is fluttering.",
+      "A girl is running along the grass, while a butterfly is fluttering."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman is watering her garden with a hose, while a cat is walking nearby.",
+    "id": "0146",
+    "negative_prompt": [
+      "A cat is watering her garden with a hose, while a woman is walking nearby.",
+      "A man is watering his garden with a hose, while a cat is walking nearby.",
+      "A woman is drying her garden with a hose, while a cat is walking nearby.",
+      "A woman is watering her garden with a hose, while a cat is sleeping nearby.",
+      "A woman is watering her garden with a bucket, while a cat is walking nearby.",
+      "A woman is watering her street with a hose, while a cat is walking nearby.",
+      "A woman is destroying her garden with a hose, while a cat is walking nearby.",
+      "A child is watering their garden with a hose, while a cat is walking nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man is reading a newspaper on a park bench, while a squirrel is climbing a tree.",
+    "id": "0147",
+    "negative_prompt": [
+      "A squirrel is reading a newspaper on a park bench, while a man is climbing a tree.",
+      "A man is writing a newspaper on a park bench, while a squirrel is climbing a tree.",
+      "A man is reading a newspaper on a park bench, while a squirrel is descending a tree.",
+      "A man is eating a newspaper on a park bench, while a squirrel is climbing a tree.",
+      "A man is reading a newspaper on a park bench, while a squirrel is jumping off a tree.",
+      "A man is reading a menu on a park bench, while a squirrel is climbing a tree.",
+      "A man is reading a newspaper on a rock, while a squirrel is climbing a tree.",
+      "A man is reading a newspaper on a park bench, while a squirrel is climbing a wall."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman is walking with a briefcase in hand, while a car is passing by on the busy street.",
+    "id": "0148",
+    "negative_prompt": [
+      "A car is walking with a briefcase in hand, while a woman is passing by on the busy street.",
+      "A man is walking with a briefcase in hand, while a car is passing by on the busy street.",
+      "A woman is running with a briefcase in hand, while a car is passing by on the busy street.",
+      "A woman is walking with a backpack in hand, while a car is passing by on the busy street.",
+      "A woman is walking with a briefcase in hand, while a truck is passing by on the busy street.",
+      "A woman is walking with a briefcase in hand, while a car is stopped on the busy street.",
+      "A child is walking with a briefcase in hand, while a car is passing by on the busy street.",
+      "A woman is walking with a grocery bag in hand, while a car is passing by on the busy street."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A girl is playing the piano in the living room, while a boy is playing the guitar.",
+    "id": "0149",
+    "negative_prompt": [
+      "A boy is playing the piano in the living room, while a girl is playing the guitar.",
+      "A woman is playing the piano in the living room, while a boy is playing the guitar.",
+      "A girl is playing the piano in the living room, while a man is playing the guitar.",
+      "A girl is singing at the piano in the living room, while a boy is playing the guitar.",
+      "A girl is playing the piano in the living room, while a boy is repairing the guitar.",
+      "A girl is playing the violin in the living room, while a boy is playing the guitar.",
+      "A girl is playing the piano in the living room, while a boy is playing the drum.",
+      "A girl is playing the piano in the kitchen, while a boy is playing the guitar."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A boy is climbing a tree in the yard, while a cat is drinking water from a bowl.",
+    "id": "0150",
+    "negative_prompt": [
+      "A cat is climbing a tree in the yard, while a boy is drinking water from a bowl.",
+      "A girl is climbing a tree in the yard, while a cat is drinking water from a bowl.",
+      "A man is climbing a tree in the yard, while a cat is drinking water from a bowl.",
+      "A boy is falling from a tree in the yard, while a cat is drinking water from a bowl.",
+      "A boy is standing next to a tree in the yard, while a cat is drinking water from a bowl.",
+      "A boy is climbing a fence in the yard, while a cat is drinking water from a bowl.",
+      "A boy is climbing a tree in the yard, while a cat is drinking water from a puddle.",
+      "A boy is climbing a tree in the yard, while a cat is sleeping beside water from a bowl."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man is fishing by the lake, while a duck is paddling past him on the water.",
+    "id": "0151",
+    "negative_prompt": [
+      "A robot is fishing by the lake, while a duck is paddling past it on the water.",
+      "A man is hunting by the lake, while a duck is paddling past him on the water.",
+      "A man is fishing by the lake, while a duck is diving past him on the water.",
+      "A man is fishing by the sea, while a duck is paddling past him on the water.",
+      "A man is fishing by the lake, while a swan is paddling past him on the water.",
+      "A man is sleeping by the lake, while a duck is paddling past him on the water.",
+      "A man is fishing by the swimming pool, while a duck is paddling past him on the water.",
+      "A duck is fishing by the lake, while a man is paddling past it on the water."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A girl is blowing bubbles in the yard, while a puppy is jumping.",
+    "id": "0152",
+    "negative_prompt": [
+      "A boy is blowing bubbles in the yard, while a puppy is jumping.",
+      "A girl is catching bubbles in the yard, while a puppy is jumping.",
+      "A girl is blowing a whistle in the yard, while a puppy is jumping.",
+      "A girl is blowing bubbles in the kitchen, while a puppy is jumping.",
+      "A girl is blowing bubbles in the yard, while a cat is jumping.",
+      "A girl is blowing bubbles in the yard, while a puppy is sleeping.",
+      "A puppy is blowing bubbles in the yard, while a girl is jumping.",
+      "A girl is eating bubbles in the yard, while a puppy is jumping."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A boy is skateboarding down the street, while a man is jogging nearby.",
+    "id": "0153",
+    "negative_prompt": [
+      "A man is skateboarding down the street, while a boy is jogging nearby.",
+      "A girl is skateboarding down the street, while a man is jogging nearby.",
+      "A boy is skateboarding down the street, while a woman is jogging nearby.",
+      "A boy is cycling down the street, while a man is jogging nearby.",
+      "A boy is sitting down the street, while a man is jogging nearby.",
+      "A boy is skateboarding down the street, while a man is sleeping nearby.",
+      "A boy is skateboarding down the street, while a man is walking nearby.",
+      "A boy is skateboarding on a ramp, while a man is jogging nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man is rowing a canoe across the lake, while a boy is waving from the dock.",
+    "id": "0154",
+    "negative_prompt": [
+      "A boy is rowing a canoe across the lake, while a man is waving from the dock.",
+      "A woman is rowing a canoe across the lake, while a boy is waving from the dock.",
+      "A man is rowing a canoe across the lake, while a girl is waving from the dock.",
+      "A man is dragging a canoe across the lake, while a boy is waving from the dock.",
+      "A man is rowing a canoe across the lake, while a boy is running from the dock.",
+      "A man is rowing a rowboat across the lake, while a boy is waving from the dock.",
+      "A man is rowing a canoe across the river, while a boy is waving from the dock.",
+      "A man is rowing a canoe across the lake, while a boy is waving from the shore."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A girl is feeding ducks at the pond, while a mother is holding her baby.",
+    "id": "0155",
+    "negative_prompt": [
+      "A mother is feeding ducks at the pond, while a girl is holding her baby.",
+      "A boy is feeding ducks at the pond, while a mother is holding her baby.",
+      "A girl is feeding ducks at the pond, while a father is holding her baby.",
+      "A girl is scaring ducks at the pond, while a mother is holding her baby.",
+      "A girl is feeding ducks at the pond, while a mother is dropping her baby.",
+      "A girl is feeding swans at the pond, while a mother is holding her baby.",
+      "A girl is feeding ducks at the river, while a mother is holding her baby.",
+      "A girl is feeding ducks at the pond, while a mother is holding her doll."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A boy is riding his scooter down the sidewalk, while a mailman is delivering letters to nearby houses.",
+    "id": "0156",
+    "negative_prompt": [
+      "A girl is riding his scooter down the sidewalk, while a mailman is delivering letters to nearby houses.",
+      "A boy is riding his scooter down the sidewalk, while a police officer is delivering letters to nearby houses.",
+      "A boy is walking his scooter down the sidewalk, while a mailman is delivering letters to nearby houses.",
+      "A boy is riding his scooter down the sidewalk, while a mailman is collecting letters to nearby houses.",
+      "A boy is riding his bicycle down the sidewalk, while a mailman is delivering letters to nearby houses.",
+      "A boy is riding his scooter down the sidewalk, while a mailman is delivering packages to nearby houses.",
+      "A boy is riding his scooter down the sidewalk, while a mailman is delivering letters to tall buildings.",
+      "A mailman is riding his scooter down the sidewalk, while a boy is delivering letters to nearby houses."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A baby is crawling across the living room floor, while a kitten is jumping up.",
+    "id": "0157",
+    "negative_prompt": [
+      "An adult is crawling across the living room floor, while a kitten is jumping up.",
+      "A baby is crawling across the living room floor, while a dog is jumping up.",
+      "A baby is standing across the living room floor, while a kitten is jumping up.",
+      "A baby is crawling across the living room floor, while a kitten is sleeping.",
+      "A kitten is crawling across the living room floor, while a baby is jumping up.",
+      "An elderly person is crawling across the living room floor, while a kitten is jumping up.",
+      "A baby is crawling across the living room floor, while a snake is jumping up.",
+      "A baby is sitting across the living room floor, while a kitten is jumping up."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A pirate is digging for treasure on the beach, while a parrot is perched on a tree.",
+    "id": "0158",
+    "negative_prompt": [
+      "A parrot is digging for treasure on the beach, while a pirate is perched on a tree.",
+      "A sailor is digging for treasure on the beach, while a parrot is perched on a tree.",
+      "A pirate is digging for garbage on the beach, while a parrot is perched on a tree.",
+      "A pirate is digging for treasure on the desert, while a parrot is perched on a tree.",
+      "A pirate is digging for treasure on the beach, while a cat is perched on a tree.",
+      "A pirate is digging for treasure on the beach, while a parrot is perched on a rock.",
+      "A pirate is hiding treasure on the beach, while a parrot is perched on a tree.",
+      "A pirate is digging for treasure on the beach, while a parrot is eating on a tree."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A prince is riding through the forest on his horse, while a eagle is soaring above.",
+    "id": "0159",
+    "negative_prompt": [
+      "An eagle is riding through the forest on its horse, while a prince is soaring above.",
+      "A pauper is riding through the forest on his horse, while a eagle is soaring above.",
+      "A villain is riding through the forest on his horse, while a eagle is soaring above.",
+      "A prince is riding through the forest on his donkey, while a eagle is soaring above.",
+      "A prince is riding through the forest on his bicycle, while a eagle is soaring above.",
+      "A prince is riding through the forest on his horse, while a chicken is soaring above.",
+      "A prince is sleeping through the forest on his horse, while a eagle is soaring above.",
+      "A prince is riding through the forest on his horse, while a eagle is perching above."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A toddler is playing with building blocks on the living room floor, while a dog is napping in the sunbeam.",
+    "id": "0160",
+    "negative_prompt": [
+      "An adult is playing with building blocks on the living room floor, while a dog is napping in the sunbeam.",
+      "A teenager is playing with building blocks on the living room floor, while a dog is napping in the sunbeam.",
+      "A toddler is playing with a book on the living room floor, while a dog is napping in the sunbeam.",
+      "A toddler is playing with a set of keys on the living room floor, while a dog is napping in the sunbeam.",
+      "A toddler is ignoring building blocks on the living room floor, while a dog is napping in the sunbeam.",
+      "A toddler is throwing building blocks on the living room floor, while a dog is napping in the sunbeam.",
+      "A toddler is playing with building blocks on the living room floor, while a dog is barking in the sunbeam.",
+      "A dog is playing with building blocks on the living room floor, while a toddler is napping in the sunbeam."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child is wading through the shallow creek, while a dragonfly is flying nearby.",
+    "id": "0161",
+    "negative_prompt": [
+      "A dragonfly is wading through the shallow creek, while a child is flying nearby.",
+      "An adult is wading through the shallow creek, while a dragonfly is flying nearby.",
+      "An elderly person is wading through the shallow creek, while a dragonfly is flying nearby.",
+      "A child is wading through the shallow creek, while a mosquito is flying nearby.",
+      "A child is wading through the shallow creek, while a bat is flying nearby.",
+      "A child is wading through the deep ocean, while a dragonfly is flying nearby.",
+      "A child is running through the shallow creek, while a dragonfly is flying nearby.",
+      "A child is wading through the shallow creek, while a dragonfly is crawling nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man is vacuuming the living room carpet, while a dog is trotting around.",
+    "id": "0162",
+    "negative_prompt": [
+      "A woman is vacuuming the living room carpet, while a dog is trotting around.",
+      "A child is vacuuming the living room carpet, while a dog is trotting around.",
+      "A man is mopping the living room carpet, while a dog is trotting around.",
+      "A man is painting the living room carpet, while a dog is trotting around.",
+      "A man is vacuuming the living room carpet, while a dog is sleeping soundly.",
+      "A man is vacuuming the kitchen floor, while a dog is trotting around.",
+      "A man is vacuuming the bedroom wall, while a dog is trotting around.",
+      "A dog is vacuuming the living room carpet, while a man is trotting around."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A butterfly is flitting from one flower to the next, while a gardener is trimming the hedges carefully.",
+    "id": "0163",
+    "negative_prompt": [
+      "A gardener is flitting from one flower to the next, while a butterfly is trimming the hedges carefully.",
+      "A butterfly is resting from one flower to the next, while a gardener is trimming the hedges carefully.",
+      "A butterfly is flitting from one flower to the next, while a gardener is planting the hedges carefully.",
+      "A moth is flitting from one flower to the next, while a gardener is trimming the hedges carefully.",
+      "A butterfly is flitting from one rock to the next, while a gardener is trimming the hedges carefully.",
+      "A butterfly is flitting from one flower to the next, while a gardener is trimming the lawn carefully.",
+      "A butterfly is flitting from one flower to the next, while a tourist is trimming the hedges carefully.",
+      "A butterfly is crawling from one flower to the next, while a gardener is trimming the hedges carefully."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A baby is crawling on the playground, while a puppy is rolling around in the grass.",
+    "id": "0164",
+    "negative_prompt": [
+      "A puppy is crawling on the playground, while a baby is rolling around in the grass.",
+      "An adult is crawling on the playground, while a puppy is rolling around in the grass.",
+      "A baby is crawling on the playground, while a cat is rolling around in the grass.",
+      "A baby is running on the playground, while a puppy is rolling around in the grass.",
+      "A baby is crawling on the playground, while a puppy is standing in the grass.",
+      "An old man is crawling on the playground, while a puppy is rolling around in the grass.",
+      "A baby is crawling on the playground, while a bird is rolling around in the grass.",
+      "A baby is flying on the playground, while a puppy is rolling around in the grass."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A man is trekking up the mountain, while an owl is soaring in the sky.",
+    "id": "0165",
+    "negative_prompt": [
+      "An owl is trekking up the mountain, while a man is soaring in the sky.",
+      "A woman is trekking up the mountain, while an owl is soaring in the sky.",
+      "A man is trekking up the mountain, while an eagle is soaring in the sky.",
+      "A man is descending the mountain, while an owl is soaring in the sky.",
+      "A man is trekking up the mountain, while an owl is perching in the sky.",
+      "A child is trekking up the mountain, while an owl is soaring in the sky.",
+      "A man is trekking up the mountain, while a pigeon is soaring in the sky.",
+      "A man is sleeping up the mountain, while an owl is soaring in the sky."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A woman is turning pages of her favorite book, while a dog is lying on the floor.",
+    "id": "0166",
+    "negative_prompt": [
+      "A dog is turning pages of its favorite book, while a woman is lying on the floor.",
+      "A woman is closing pages of her favorite book, while a dog is lying on the floor.",
+      "A woman is scribbling on pages of her favorite book, while a dog is lying on the floor.",
+      "A woman is turning pages of her favorite book, while a dog is standing on the floor.",
+      "A woman is turning pages of her favorite magazine, while a dog is lying on the floor.",
+      "A woman is turning pages of her favorite book, while a dog is lying on the bed.",
+      "A man is turning pages of his favorite book, while a dog is lying on the floor.",
+      "A child is turning pages of their favorite book, while a dog is lying on the floor."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child is fleeing from the waves at the beach, while a seagull is swooping down to catch a fish.",
+    "id": "0167",
+    "negative_prompt": [
+      "A seagull is fleeing from the waves at the beach, while a child is swooping down to catch a fish.",
+      "An adult is fleeing from the waves at the beach, while a seagull is swooping down to catch a fish.",
+      "A child is playing with the waves at the beach, while a seagull is swooping down to catch a fish.",
+      "A child is fleeing from the waves at the beach, while a seagull is flying high to catch a fish.",
+      "A child is fleeing from the waves at the beach, while a seagull is releasing a fish.",
+      "A child is fleeing from a sandcastle at the beach, while a seagull is swooping down to catch a fish.",
+      "A child is fleeing from the waves at the forest, while a seagull is swooping down to catch a fish.",
+      "A child is fleeing from the waves at the beach, while a seagull is swooping down to catch a seashell."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dog running through a field while a bird flying across the sky.",
+    "id": "0168",
+    "negative_prompt": [
+      "A bird running through a field while a dog flying across the sky.",
+      "A cat running through a field while a bird flying across the sky.",
+      "A dog sleeping through a field while a bird flying across the sky.",
+      "A dog running through a city while a bird flying across the sky.",
+      "A dog running through a field while a plane flying across the sky.",
+      "A dog running through a field while a bird falling across the sky.",
+      "A dog running through a field while a bird flying across the ocean.",
+      "A fish running through a field while a bird flying across the sky."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A chef cooking in a bustling kitchen while a waiter carrying a tray of dishes.",
+    "id": "0169",
+    "negative_prompt": [
+      "A waiter cooking in a bustling kitchen while a chef carrying a tray of dishes.",
+      "A janitor cooking in a bustling kitchen while a waiter carrying a tray of dishes.",
+      "A chef cooking in a bustling kitchen while a customer carrying a tray of dishes.",
+      "A chef cleaning in a bustling kitchen while a waiter carrying a tray of dishes.",
+      "A chef cooking in a bustling kitchen while a waiter dropping a tray of dishes.",
+      "A chef cooking in a bustling office while a waiter carrying a tray of dishes.",
+      "A chef cooking in a bustling kitchen while a waiter carrying a pile of books.",
+      "A plumber cooking in a bustling kitchen while a waiter carrying a tray of dishes."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dancer spinning gracefully on stage while a musician playing the violin.",
+    "id": "0170",
+    "negative_prompt": [
+      "A musician spinning gracefully on stage while a dancer playing the violin.",
+      "A dancer standing still gracefully on stage while a musician playing the violin.",
+      "A dancer spinning gracefully on stage while a musician breaking the violin.",
+      "A dancer spinning gracefully on street while a musician playing the violin.",
+      "A dancer spinning gracefully on stage while a musician playing the drum.",
+      "A singer spinning gracefully on stage while a musician playing the violin.",
+      "A dancer spinning gracefully on stage while a chef playing the violin.",
+      "A dancer jumping gracefully on stage while a musician playing the violin."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child jumping in a puddle while a kite floating in the air.",
+    "id": "0171",
+    "negative_prompt": [
+      "An adult jumping in a puddle while a kite floating in the air.",
+      "A child standing in a puddle while a kite floating in the air.",
+      "A child jumping in a desert while a kite floating in the air.",
+      "A child jumping in a puddle while a plane floating in the air.",
+      "A child jumping in a puddle while a kite crashing in the air.",
+      "A child jumping in a puddle while a kite floating in the water.",
+      "A child sleeping in a puddle while a kite floating in the air.",
+      "A kite jumping in a puddle while a child floating in the air."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A lion prowling in the grass while an elephant walking nearby.",
+    "id": "0172",
+    "negative_prompt": [
+      "An elephant prowling in the grass while a lion walking nearby.",
+      "A mouse prowling in the grass while an elephant walking nearby.",
+      "A lion prowling in the grass while a giraffe walking nearby.",
+      "A lion prowling in the water while an elephant walking nearby.",
+      "A lion sleeping in the grass while an elephant walking nearby.",
+      "A lion prowling in the grass while an elephant standing still nearby.",
+      "A cat prowling in the grass while an elephant walking nearby.",
+      "A lion resting in the grass while an elephant walking nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A farmer plowing the field while a horse galloping in the pasture.",
+    "id": "0173",
+    "negative_prompt": [
+      "A horse plowing the field while a farmer galloping in the pasture.",
+      "A farmer sowing the field while a horse galloping in the pasture.",
+      "A farmer watering the field while a horse galloping in the pasture.",
+      "A farmer plowing the field while a horse grazing in the pasture.",
+      "A farmer plowing the field while a horse standing in the pasture.",
+      "A shepherd plowing the field while a horse galloping in the pasture.",
+      "A farmer plowing the field while a sheep galloping in the pasture.",
+      "A farmer plowing the field while a horse galloping in the stable."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A teacher explaining a lesson while a student taking notes.",
+    "id": "0174",
+    "negative_prompt": [
+      "A janitor explaining a lesson while a student taking notes.",
+      "A teacher explaining a lesson while a professor taking notes.",
+      "A teacher listening to a lecture while a student taking notes.",
+      "A teacher explaining a lesson while a student sleeping soundly.",
+      "A teacher explaining a joke while a student taking notes.",
+      "A teacher explaining a lesson while a student taking photographs.",
+      "A student explaining a lesson while a teacher taking notes.",
+      "A teacher playing a game while a student taking notes."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A deer grazing in a meadow while a rabbit hopping nearby.",
+    "id": "0175",
+    "negative_prompt": [
+      "A rabbit grazing in a meadow while a deer hopping nearby.",
+      "A wolf grazing in a meadow while a rabbit hopping nearby.",
+      "A deer grazing in a meadow while a snake hopping nearby.",
+      "A deer grazing in a forest while a rabbit hopping nearby.",
+      "A deer hunting in a meadow while a rabbit hopping nearby.",
+      "A deer grazing in a meadow while a rabbit flying nearby.",
+      "A cow grazing in a meadow while a rabbit hopping nearby.",
+      "A deer swimming in a meadow while a rabbit hopping nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A gardener pruning roses while a cat strolling through the garden.",
+    "id": "0176",
+    "negative_prompt": [
+      "A mechanic pruning roses while a cat strolling through the garden.",
+      "A gardener planting roses while a cat strolling through the garden.",
+      "A gardener pruning roses while a cat sleeping through the garden.",
+      "A gardener pruning iron sculptures while a cat strolling through the garden.",
+      "A gardener pruning roses while a dog strolling through the garden.",
+      "A chef pruning roses while a cat strolling through the garden.",
+      "A cat pruning roses while a gardener strolling through the garden.",
+      "A gardener watering roses while a cat strolling through the garden."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A child drawing with chalk while a butterfly fluttering around.",
+    "id": "0177",
+    "negative_prompt": [
+      "An adult drawing with chalk while a butterfly fluttering around.",
+      "A child erasing with chalk while a butterfly fluttering around.",
+      "A child drawing with paint while a butterfly fluttering around.",
+      "A child drawing with chalk while a bat fluttering around.",
+      "A child drawing with chalk while a butterfly perching around.",
+      "A cat drawing with chalk while a butterfly fluttering around.",
+      "A child drawing with a pen while a butterfly fluttering around.",
+      "A butterfly drawing with chalk while a child fluttering around."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fan spinning in a living room while a cupcake melting in the heat.",
+    "id": "0178",
+    "negative_prompt": [
+      "A cupcake spinning in a living room while a fan melting in the heat.",
+      "A fan still in a living room while a cupcake melting in the heat.",
+      "A fan spinning in a living room while a cupcake freezing in the heat.",
+      "A chair spinning in a living room while a cupcake melting in the heat.",
+      "A fan spinning in a living room while an ice sculpture melting in the heat.",
+      "A fan spinning in a desert while a cupcake melting in the heat.",
+      "A fan spinning in a living room while a cupcake melting in the freezer.",
+      "A rock spinning in a living room while a cupcake melting in the heat."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A car speeding down the highway while a painter mixing colors on a palette.",
+    "id": "0179",
+    "negative_prompt": [
+      "A car parked on the highway while a painter mixing colors on a palette.",
+      "A car speeding down the highway while a painter applying colors on a palette.",
+      "A motorcycle speeding down the highway while a painter mixing colors on a palette.",
+      "A car speeding down the dirt road while a painter mixing colors on a palette.",
+      "A car speeding down the highway while a painter mixing black ink on a palette.",
+      "A car speeding down the highway while a painter mixing colors on a canvas.",
+      "A car speeding down the highway while a sculptor mixing colors on a palette.",
+      "A painter speeding down the highway while a car mixing colors on a palette."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A frisbee spinning through the air while a raccoon climbing a fence.",
+    "id": "0180",
+    "negative_prompt": [
+      "A frisbee falling through the air while a raccoon climbing a fence.",
+      "A frisbee spinning through the air while a raccoon standing next to a fence.",
+      "A shoe spinning through the air while a raccoon climbing a fence.",
+      "A frisbee spinning through the air while a squirrel climbing a fence.",
+      "A frisbee spinning through the air while a raccoon climbing a tree.",
+      "A raccoon spinning through the air while a frisbee climbing a fence.",
+      "A frisbee lying on the ground while a raccoon climbing a fence.",
+      "A frisbee spinning through the air while a raccoon jumping off a fence."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fire hydrant spraying water while a kite dancing in the wind.",
+    "id": "0181",
+    "negative_prompt": [
+      "A kite spraying water while a fire hydrant dancing in the wind.",
+      "A mailbox spraying water while a kite dancing in the wind.",
+      "A street lamp spraying water while a kite dancing in the wind.",
+      "A fire hydrant collecting water while a kite dancing in the wind.",
+      "A fire hydrant standing idly while a kite dancing in the wind.",
+      "A fire hydrant spraying water while a boulder dancing in the wind.",
+      "A fire hydrant spraying water while a car dancing in the wind.",
+      "A fire hydrant spraying water while a kite falling rapidly."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A turtle crawls on the beach as a seagull soars overhead.",
+    "id": "0182",
+    "negative_prompt": [
+      "A seagull crawls on the beach as a turtle soars overhead.",
+      "A turtle runs on the beach as a seagull soars overhead.",
+      "A turtle crawls on the beach as a seagull lands overhead.",
+      "A crab crawls on the beach as a seagull soars overhead.",
+      "A turtle crawls on the mountain as a seagull soars overhead.",
+      "A turtle crawls on the beach as a hawk soars overhead.",
+      "A turtle swims on the beach as a seagull soars overhead.",
+      "A turtle crawls on the beach as a seagull dives overhead."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A deer drinks from a river while a canoe drifts nearby.",
+    "id": "0183",
+    "negative_prompt": [
+      "A canoe drinks from a river while a deer drifts nearby.",
+      "A wolf drinks from a river while a canoe drifts nearby.",
+      "A deer drinks from a pond while a canoe drifts nearby.",
+      "A deer drinks from a river while a log drifts nearby.",
+      "A deer drinks from a river while a canoe sinks nearby.",
+      "A deer drinks from a river while a canoe is anchored nearby.",
+      "A deer spits from a river while a canoe drifts nearby.",
+      "A fox drinks from a river while a canoe drifts nearby."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A turtle rides a skateboard while an owl reads a newspaper.",
+    "id": "0184",
+    "negative_prompt": [
+      "An owl rides a skateboard while a turtle reads a newspaper.",
+      "A turtle pushes a skateboard while an owl reads a newspaper.",
+      "A turtle carries a skateboard while an owl reads a newspaper.",
+      "A turtle rides a skateboard while an owl tears a newspaper.",
+      "A turtle rides a skateboard while an owl shreds a newspaper.",
+      "A turtle rides a scooter while an owl reads a newspaper.",
+      "A turtle rides a rollerblade while an owl reads a newspaper.",
+      "A turtle rides a skateboard while an owl reads a magazine."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A squirrel drives a car while a penguin blows bubbles.",
+    "id": "0185",
+    "negative_prompt": [
+      "A penguin drives a car while a squirrel blows bubbles.",
+      "A squirrel flies a car while a penguin blows bubbles.",
+      "A squirrel eats a car while a penguin blows bubbles.",
+      "A squirrel drives a boat while a penguin blows bubbles.",
+      "A squirrel drives a house while a penguin blows bubbles.",
+      "A squirrel drives a car while a penguin kicks bubbles.",
+      "A squirrel drives a car while a penguin catches bubbles.",
+      "A squirrel drives a car while a penguin blows fire."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kangaroo juggles oranges while a zebra uses a laptop.",
+    "id": "0186",
+    "negative_prompt": [
+      "A zebra juggles oranges while a kangaroo uses a laptop.",
+      "A kangaroo drops oranges while a zebra uses a laptop.",
+      "A kangaroo throws oranges while a zebra uses a laptop.",
+      "A kangaroo juggles oranges while a zebra ignores a laptop.",
+      "A kangaroo juggles oranges while a zebra stares at a laptop.",
+      "A kangaroo juggles rocks while a zebra uses a laptop.",
+      "A kangaroo juggles balloons while a zebra uses a laptop.",
+      "A kangaroo juggles oranges while a zebra uses a book."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A panda takes selfies while a tiger watches TV.",
+    "id": "0187",
+    "negative_prompt": [
+      "A panda sleeps while a tiger watches TV.",
+      "A panda takes notes while a tiger watches TV.",
+      "A panda takes selfies while a tiger hunts prey.",
+      "A panda takes selfies while a tiger watches a bird.",
+      "A tiger takes selfies while a panda watches TV.",
+      "A panda eats bamboo while a tiger watches TV.",
+      "A panda takes a photo of flowers while a tiger watches TV.",
+      "A panda takes selfies while a tiger runs through the jungle."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit skateboards through town while an owl watches a movie.",
+    "id": "0188",
+    "negative_prompt": [
+      "An owl skateboards through town while a rabbit watches a movie.",
+      "A dog skateboards through town while an owl watches a movie.",
+      "A rabbit skateboards through town while a chicken watches a movie.",
+      "A rabbit skateboards through town while an owl watches a play.",
+      "A rabbit sleeps through town while an owl watches a movie.",
+      "A rabbit flies through town while an owl watches a movie.",
+      "A rabbit skateboards through town while an owl makes a movie.",
+      "A rabbit skateboards through town while an owl ignores a movie."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A panda drinks tea while a penguin eats cookies.",
+    "id": "0189",
+    "negative_prompt": [
+      "A panda spills tea while a penguin eats cookies.",
+      "A panda drinks milk while a penguin eats cookies.",
+      "A panda drinks tea while a penguin steps on cookies.",
+      "A panda drinks tea while a penguin eats fish.",
+      "A penguin drinks tea while a panda eats cookies.",
+      "A panda avoids tea while a penguin eats cookies.",
+      "A panda drinks coffee while a penguin eats cookies.",
+      "A panda drinks tea while a penguin ignores cookies."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A bear brews coffee while a raccoon decorates a wedding cake.",
+    "id": "0190",
+    "negative_prompt": [
+      "A raccoon brews coffee while a bear decorates a wedding cake.",
+      "A bear drinks coffee while a raccoon decorates a wedding cake.",
+      "A bear brews tea while a raccoon decorates a wedding cake.",
+      "A bear brews coffee while a raccoon eats a wedding cake.",
+      "A bear brews coffee while a raccoon decorates a birthday cake.",
+      "A bear sells coffee while a raccoon decorates a wedding cake.",
+      "A bear brews beer while a raccoon decorates a wedding cake.",
+      "A bear brews coffee while a raccoon bakes a wedding cake."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dog plays chess and a cat rides a bike.",
+    "id": "0191",
+    "negative_prompt": [
+      "A cat plays chess and a dog rides a bike.",
+      "A dog eats chess and a cat rides a bike.",
+      "A dog sleeps and a cat rides a bike.",
+      "A dog plays frisbee and a cat rides a bike.",
+      "A dog plays the guitar and a cat rides a bike.",
+      "A dog plays chess and a cat pushes a bike.",
+      "A dog plays chess and a cat sits.",
+      "A dog plays chess and a cat rides a car."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit ice skates on a frozen lake while a chipmunk builds a snowman.",
+    "id": "0192",
+    "negative_prompt": [
+      "A chipmunk ice skates on a frozen lake while a rabbit builds a snowman.",
+      "A rabbit sleeps on a frozen lake while a chipmunk builds a snowman.",
+      "A rabbit ice skates on a frozen lake while a chipmunk destroys a snowman.",
+      "A rabbit jumps on a frozen lake while a chipmunk builds a snowman.",
+      "A rabbit ice skates on a frozen lake while a chipmunk eats a snowman.",
+      "A rabbit ice skates on a sandy desert while a chipmunk builds a snowman.",
+      "A rabbit ice skates on a frozen lake while a chipmunk builds a sandcastle.",
+      "A rabbit swims on a frozen lake while a chipmunk builds a snowman."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cat paints a canvas while a dog jumps rope.",
+    "id": "0193",
+    "negative_prompt": [
+      "A dog paints a canvas while a cat jumps rope.",
+      "A bird paints a canvas while a dog jumps rope.",
+      "A cat cleans a canvas while a dog jumps rope.",
+      "A cat paints a wall while a dog jumps rope.",
+      "A cat paints a canvas while a mouse jumps rope.",
+      "A cat paints a canvas while a dog sleeps.",
+      "A lion paints a canvas while a dog jumps rope.",
+      "A cat scratches a canvas while a dog jumps rope."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A kangaroo kicks a soccer ball while a koala hangs from a bar.",
+    "id": "0194",
+    "negative_prompt": [
+      "A koala kicks a soccer ball while a kangaroo hangs from a bar.",
+      "A kangaroo catches a soccer ball while a koala hangs from a bar.",
+      "A kangaroo kicks a soccer ball while a koala stands on a bar.",
+      "A kangaroo throws a soccer ball while a koala hangs from a bar.",
+      "A kangaroo kicks a soccer ball while a koala climbs a bar.",
+      "A kangaroo kicks a basketball while a koala hangs from a bar.",
+      "A kangaroo kicks a soccer ball while a koala hangs from a tree branch.",
+      "A kangaroo kicks a rock while a koala hangs from a bar."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A dog wears sunglasses while a cat wears a superhero cape.",
+    "id": "0195",
+    "negative_prompt": [
+      "A cat wears sunglasses while a dog wears a superhero cape.",
+      "A dog wears a hat while a cat wears a superhero cape.",
+      "A dog wears sunglasses while a cat wears a tiny bell.",
+      "A dog holds sunglasses while a cat wears a superhero cape.",
+      "A dog wears sunglasses while a cat destroys a superhero cape.",
+      "A dog wears a leash while a cat wears a superhero cape.",
+      "A dog wears sunglasses while a cat wears a harness.",
+      "A dog hides sunglasses while a cat wears a superhero cape."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A fox wears VR goggles while a raccoon rides a scooter.",
+    "id": "0196",
+    "negative_prompt": [
+      "A raccoon wears VR goggles while a fox rides a scooter.",
+      "A fox removes VR goggles while a raccoon rides a scooter.",
+      "A fox holds VR goggles while a raccoon rides a scooter.",
+      "A fox wears swim goggles while a raccoon rides a scooter.",
+      "A fox wears headphones while a raccoon rides a scooter.",
+      "A fox wears VR goggles while a raccoon pushes a scooter.",
+      "A fox wears VR goggles while a raccoon cleans a scooter.",
+      "A fox wears VR goggles while a raccoon rides a skateboard."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A panda wears a chef hat while a tiger tastes the food.",
+    "id": "0197",
+    "negative_prompt": [
+      "A tiger wears a chef hat while a panda tastes the food.",
+      "A panda removes a chef hat while a tiger tastes the food.",
+      "A panda holds a chef hat while a tiger tastes the food.",
+      "A panda wears a chef hat while a tiger cooks the food.",
+      "A panda wears a chef hat while a tiger spills the food.",
+      "A panda wears a crown while a tiger tastes the food.",
+      "A panda wears a banana while a tiger tastes the food.",
+      "A panda wears a chef hat while a tiger tastes the dirt."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A cat takes selfies while a dog rides a skateboard in the background.",
+    "id": "0198",
+    "negative_prompt": [
+      "A dog takes selfies while a cat rides a skateboard in the background.",
+      "A mouse takes selfies while a dog rides a skateboard in the background.",
+      "A cat takes selfies while a squirrel rides a skateboard in the background.",
+      "A cat avoids selfies while a dog rides a skateboard in the background.",
+      "A cat takes selfies while a dog pushes a skateboard in the background.",
+      "A cat takes books while a dog rides a skateboard in the background.",
+      "A cat takes selfies while a dog rides a bicycle in the background.",
+      "A cat destroys selfies while a dog rides a skateboard in the background."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A giraffe wears a sun hat while an elephant waters plants with its trunk.",
+    "id": "0199",
+    "negative_prompt": [
+      "A snake wears a sun hat while an elephant waters plants with its trunk.",
+      "A giraffe wears a winter scarf while an elephant waters plants with its trunk.",
+      "A giraffe eats a sun hat while an elephant waters plants with its trunk.",
+      "A giraffe wears a sun hat while a mouse waters plants with its trunk.",
+      "A giraffe wears a sun hat while an elephant burns plants with its trunk.",
+      "A giraffe wears a sun hat while an elephant waters fire with its trunk.",
+      "A giraffe wears a sun hat while an elephant waters plants with its tail.",
+      "An elephant wears a sun hat while a giraffe waters plants with its trunk."
+    ]
+  },
+  {
+    "type": "action_binding",
+    "prompt": "A rabbit wears a detective hat and a cat drives a toy car",
+    "id": "0200",
+    "negative_prompt": [
+      "A rabbit holds a detective hat and a cat drives a toy car",
+      "A rabbit wears a baseball cap and a cat drives a toy car",
+      "A rabbit wears a detective hat and a cat pushes a toy car",
+      "A rabbit wears a detective hat and a cat drives a toy boat",
+      "A cat wears a detective hat and a rabbit drives a toy car",
+      "A rabbit removes a detective hat and a cat drives a toy car",
+      "A rabbit wears a crown and a cat drives a toy car",
+      "A rabbit wears a detective hat and a cat washes a toy car"
+    ]
+  }
+]

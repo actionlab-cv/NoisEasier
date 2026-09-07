@@ -1,0 +1,2402 @@
+[
+  {
+    "type": "interaction",
+    "prompt": "Two cars collide at an intersection",
+    "id": "0001",
+    "negative_prompt": [
+      "Two cars pass at an intersection",
+      "Two bikes collide at an intersection",
+      "Two cars collide at a parking lot",
+      "Two cars park at an intersection",
+      "Two trains collide at an intersection"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Football players bump into each other during a game",
+    "id": "0002",
+    "negative_prompt": [
+      "Football players avoid each other during a game",
+      "Basketball players bump into each other during a game",
+      "Football players assist each other during a game",
+      "Football players bump into each other during a practice",
+      "Chess players bump into each other during a game"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A swimmer dives into a pool, creating ripples.",
+    "id": "0003",
+    "negative_prompt": [
+      "A swimmer floats on a pool, creating ripples.",
+      "A swimmer dives into a lake, creating ripples.",
+      "A lifeguard dives into a pool, creating ripples.",
+      "A swimmer climbs out of a pool, creating ripples.",
+      "A swimmer dives into an ocean, creating ripples."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Iron presses down on wrinkled fabric",
+    "id": "0004",
+    "negative_prompt": [
+      "Iron lifts up from wrinkled fabric",
+      "Feather presses down on wrinkled fabric",
+      "Iron presses down on smooth wood",
+      "Iron hovers above wrinkled fabric",
+      "Balloon presses down on wrinkled fabric"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Drum skin vibrates when struck by a drumstick",
+    "id": "0005",
+    "negative_prompt": [
+      "Drum skin remains still when struck by a drumstick",
+      "Drum skin vibrates when gently touched by a drumstick",
+      "Wooden board vibrates when struck by a drumstick",
+      "Drum skin vibrates when struck by a feather",
+      "Drum skin expands when struck by a drumstick"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A horse jumps over a fence",
+    "id": "0006",
+    "negative_prompt": [
+      "A horse stands near a fence",
+      "A cow jumps over a fence",
+      "A horse jumps over a wall",
+      "A horse walks past a fence",
+      "A donkey jumps over a fence"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Raindrops hit a tin roof",
+    "id": "0007",
+    "negative_prompt": [
+      "Raindrops miss a tin roof",
+      "Snowflakes hit a tin roof",
+      "Raindrops hit a glass window",
+      "Raindrops bounce off a tin roof",
+      "Hailstones hit a tin roof"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Rope tugs against a boat",
+    "id": "0008",
+    "negative_prompt": [
+      "Rope pushes against a boat",
+      "Rope slackens against a boat",
+      "Chain tugs against a boat",
+      "Rope tugs against a dock",
+      "Rope tugs against a shore"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Car brakes abruptly, stopping at a red light",
+    "id": "0009",
+    "negative_prompt": [
+      "Car accelerates smoothly, driving through a red light",
+      "Bicycle brakes abruptly, stopping at a red light",
+      "Car speeds past, ignoring a red light",
+      "Car brakes abruptly, stopping at a green light",
+      "Car rolls slowly, starting at a red light"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Bird lands on a branch causing it to dip",
+    "id": "0010",
+    "negative_prompt": [
+      "Feather lands on a branch causing it to dip",
+      "Bird lands on a cloud causing it to dip",
+      "Bird flies over a branch causing it to dip",
+      "Bird lands on a branch causing it to rise",
+      "Bird jumps off a branch causing it to dip"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Child kicks a soccer ball",
+    "id": "0011",
+    "negative_prompt": [
+      "Adult kicks a soccer ball",
+      "Child throws a soccer ball",
+      "Child kicks a basketball",
+      "Robot kicks a soccer ball",
+      "Child catches a soccer ball"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Dog snatches a rolling ball",
+    "id": "0012",
+    "negative_prompt": [
+      "Dog releases a rolling ball",
+      "Dog snatches a rolling stick",
+      "Dog ignores a rolling ball",
+      "Dog snatches a rolling frisbee",
+      "Dog watches a rolling ball"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "The golfer striking the ball forward",
+    "id": "0013",
+    "negative_prompt": [
+      "The runner striking the ball forward",
+      "The golfer catching the ball forward",
+      "The golfer striking the frisbee forward",
+      "The painter striking the ball forward",
+      "The golfer throwing the ball forward"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Basketball player dribbles",
+    "id": "0014",
+    "negative_prompt": [
+      "Basketball referee dribbles",
+      "Soccer player dribbles",
+      "Basketball player shoots",
+      "Basketball coach dribbles",
+      "Basketball player passes"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Child jumps on a trampoline, bouncing high",
+    "id": "0015",
+    "negative_prompt": [
+      "Adult jumps on a trampoline, bouncing high",
+      "Child sits on a trampoline, bouncing high",
+      "Child jumps on a bed, bouncing high",
+      "Dog jumps on a trampoline, bouncing high",
+      "Child stands on a trampoline, bouncing high"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Wave crashes into rocks, splashing water everywhere",
+    "id": "0016",
+    "negative_prompt": [
+      "Wave gently meets rocks, splashing water everywhere",
+      "Wave crashes into sandy beach, splashing water everywhere",
+      "Wave crashes into rocks, receding water everywhere",
+      "Calm current crashes into rocks, splashing water everywhere",
+      "Wave flows around rocks, splashing water everywhere"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Child pushes toy car",
+    "id": "0017",
+    "negative_prompt": [
+      "Adult pushes toy car",
+      "Child pulls toy car",
+      "Child pushes toy boat",
+      "Robot pushes toy car",
+      "Child kicks toy car"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Bowling ball strikes pins, scattering them",
+    "id": "0018",
+    "negative_prompt": [
+      "Feather strikes pins, scattering them",
+      "Bowling ball avoids pins, scattering them",
+      "Bowling ball strikes clouds, scattering them",
+      "Bubble strikes pins, scattering them",
+      "Bowling ball observes pins, scattering them"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Surfer catches a wave, riding forward",
+    "id": "0019",
+    "negative_prompt": [
+      "Surfer avoids a wave, riding forward",
+      "Surfer catches a rock, riding forward",
+      "Diver catches a wave, riding forward",
+      "Surfer catches a wave, riding backward",
+      "Surfer catches a net, riding forward"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Person slips on ice, sliding forward",
+    "id": "0020",
+    "negative_prompt": [
+      "Person slips on sand, sliding forward",
+      "Robot slips on ice, sliding forward",
+      "Person stands firm on ice, sliding forward",
+      "Person slips on ice, sliding backward",
+      "Person skates on ice, sliding forward"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A tire pump inflates a bicycle tire",
+    "id": "0021",
+    "negative_prompt": [
+      "A tire pump deflates a bicycle tire",
+      "A water pump inflates a bicycle tire",
+      "A tire pump inflates a car tire",
+      "A tire pump punctures a bicycle tire",
+      "A vacuum cleaner inflates a bicycle tire"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Cat's paw presses on a soft pillow",
+    "id": "0022",
+    "negative_prompt": [
+      "Cat's paw lifts on a soft pillow",
+      "Cat's paw scratches on a soft pillow",
+      "Cat's paw taps on a soft pillow",
+      "Cat's paw presses on a soft rock",
+      "Cat's paw presses on a soft brick"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Footsteps imprint on soft sand",
+    "id": "0023",
+    "negative_prompt": [
+      "Footsteps skip on soft sand",
+      "Tire tracks imprint on soft sand",
+      "Footsteps imprint on soft snow",
+      "Footsteps imprint on hard sand",
+      "Footsteps float on soft sand"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Fork tines press into a piece of cake",
+    "id": "0024",
+    "negative_prompt": [
+      "Fork tines pull from a piece of cake",
+      "Spoon bowl press into a piece of cake",
+      "Fork tines press into a stack of papers",
+      "Fork tines hover above a piece of cake",
+      "Knife blade press into a piece of cake"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A child's hand presses a clay ball into a flat disc",
+    "id": "0025",
+    "negative_prompt": [
+      "An adult's hand presses a clay ball into a flat disc",
+      "A child's hand lifts a clay ball into a flat disc",
+      "A child's hand presses a stone into a flat disc",
+      "A robot's hand presses a clay ball into a flat disc",
+      "A child's hand tosses a clay ball into a flat disc"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A pair of scissors cuts through fabric",
+    "id": "0026",
+    "negative_prompt": [
+      "A pair of scissors joins together fabric",
+      "A pair of scissors cuts through wood",
+      "A pair of scissors unfolds fabric",
+      "A pair of scissors cuts through steel",
+      "A pair of scissors measures fabric"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Spoon stirs cream into coffee",
+    "id": "0027",
+    "negative_prompt": [
+      "Spoon pours cream into coffee",
+      "Fork stirs cream into coffee",
+      "Spoon stirs sugar into coffee",
+      "Spoon stirs cream into tea",
+      "Spoon drops cream into coffee"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Dog's nose touches a reflective glass door",
+    "id": "0028",
+    "negative_prompt": [
+      "Dog's nose avoids a reflective glass door",
+      "Dog's nose pushes against a reflective glass door",
+      "Dog's paw touches a reflective glass door",
+      "Dog's nose touches a wooden fence",
+      "Dog's nose touches a fabric curtain"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "An eraser removes marks from paper",
+    "id": "0029",
+    "negative_prompt": [
+      "A pen removes marks from paper",
+      "An eraser adds marks from paper",
+      "A stapler removes marks from paper",
+      "An eraser creates marks from paper",
+      "A ruler removes marks from paper"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A knife slices through a ripe tomato",
+    "id": "0030",
+    "negative_prompt": [
+      "A knife rests on a ripe tomato",
+      "A spoon slices through a ripe tomato",
+      "A knife slices through a rotten tomato",
+      "A knife hovers over a ripe tomato",
+      "A fork slices through a ripe tomato"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Chef slices cucumber",
+    "id": "0031",
+    "negative_prompt": [
+      "Chef boils cucumber",
+      "Chef slices bread",
+      "Waiter slices cucumber",
+      "Chef peels cucumber",
+      "Chef slices steak"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Soccer ball strikes window, causing it to crack",
+    "id": "0032",
+    "negative_prompt": [
+      "Bowling ball strikes window, causing it to crack",
+      "Feather strikes window, causing it to crack",
+      "Soccer ball strikes mirror, causing it to crack",
+      "Soccer ball falls onto window, causing it to crack",
+      "Soccer ball presses against window, causing it to crack"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Knife sharpens pencil",
+    "id": "0033",
+    "negative_prompt": [
+      "Knife dulls pencil",
+      "Spoon sharpens pencil",
+      "Knife sharpens stone",
+      "Knife breaks pencil",
+      "Knife sharpens carrot"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Lightning strikes tree, splitting it in half",
+    "id": "0034",
+    "negative_prompt": [
+      "Lightning avoids tree, splitting it in half",
+      "Lightning strikes sky, splitting it in half",
+      "Lightning strikes tree, mending it in half",
+      "Sun strikes tree, splitting it in half",
+      "Lightning caresses tree, splitting it in half"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Glass shatters when hit by a rock",
+    "id": "0035",
+    "negative_prompt": [
+      "Glass forms when hit by a rock",
+      "Steel shatters when hit by a rock",
+      "Glass shatters when hit by a feather",
+      "Glass bounces when hit by a rock",
+      "Rubber shatters when hit by a rock"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A mirror breaks when struck by a thrown rock",
+    "id": "0036",
+    "negative_prompt": [
+      "A window breaks when struck by a thrown rock",
+      "A mirror breaks when struck by a thrown feather",
+      "A mirror mends when struck by a thrown rock",
+      "A mirror breaks when kissed by a thrown rock",
+      "A mirror breaks when struck by a rolling rock"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Firewood splits under axe's chop",
+    "id": "0037",
+    "negative_prompt": [
+      "Firewood melts under axe's chop",
+      "Firewood repairs under axe's chop",
+      "Water splits under axe's chop",
+      "Rubber splits under axe's chop",
+      "Firewood splits under hammer's chop"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Pottery shatters on the floor",
+    "id": "0038",
+    "negative_prompt": [
+      "Pottery assembles on the floor",
+      "Pottery repairs on the floor",
+      "Steel shatters on the floor",
+      "Fabric shatters on the floor",
+      "Pottery forms on the floor"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Paper burns in a fire",
+    "id": "0039",
+    "negative_prompt": [
+      "Paper freezes in a fire",
+      "Ice burns in a fire",
+      "Paper burns in a water",
+      "Paper floats in a fire",
+      "Stone burns in a fire"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Balloon pops when pricked with a needle",
+    "id": "0040",
+    "negative_prompt": [
+      "Balloon inflates when pricked with a needle",
+      "Rock pops when pricked with a needle",
+      "Balloon pops when held with a needle",
+      "Balloon pops when pricked with a feather",
+      "Balloon remains intact when pricked with a needle"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Blue ink drops into water and disperses",
+    "id": "0041",
+    "negative_prompt": [
+      "Red dye drops into water and disperses",
+      "Blue ink drops into syrup and disperses",
+      "Blue ink sprays into water and disperses",
+      "Blue ink drops into water and collects",
+      "Molten lead drops into water and disperses"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Butter melts on hot toast",
+    "id": "0042",
+    "negative_prompt": [
+      "Butter freezes on hot toast",
+      "Butter solidifies on hot toast",
+      "Butter evaporates on hot toast",
+      "Rock melts on hot toast",
+      "Butter melts on hot stone"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Mage conjures fireball in palm, controlling the flames",
+    "id": "0043",
+    "negative_prompt": [
+      "Warrior conjures fireball in palm, controlling the flames",
+      "Mage extinguishes fireball in palm, controlling the flames",
+      "Mage conjures fireball in palm, fearing the flames",
+      "Mage conjures ice orb in palm, controlling the flames",
+      "Mage conjures fireball in palm, controlling the mist"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A magician pulls a rabbit out of a hat",
+    "id": "0044",
+    "negative_prompt": [
+      "A chef pulls a rabbit out of a hat",
+      "A magician pushes a rabbit into a hat",
+      "A magician pulls a snake out of a hat",
+      "A magician pulls a rabbit out of a shoe",
+      "A teacher pulls a rabbit out of a hat"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Alice shrinks after drinking mysterious potion",
+    "id": "0045",
+    "negative_prompt": [
+      "Bob shrinks after drinking mysterious potion",
+      "Alice grows after drinking mysterious potion",
+      "Alice shrinks after drinking normal tea",
+      "Alice shrinks after spilling mysterious potion",
+      "Queen shrinks after drinking mysterious potion"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Warrior controls wind, creating a tornado",
+    "id": "0046",
+    "negative_prompt": [
+      "Wizard controls wind, creating a tornado",
+      "Warrior controls wind, destroying a tornado",
+      "Warrior controls fire, creating a tornado",
+      "Child controls wind, creating a tornado",
+      "Warrior controls wind, creating a calm"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Sorcerer summons water from thin air, flooding room",
+    "id": "0047",
+    "negative_prompt": [
+      "Warrior summons water from thin air, flooding room",
+      "Sorcerer banishes water to thin air, drying room",
+      "Sorcerer summons mud from thin air, flooding room",
+      "Child summons water from thin air, flooding room",
+      "Sorcerer erases water from thin air, purifying room"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Superhero phases through falling debris unharmed",
+    "id": "0048",
+    "negative_prompt": [
+      "Villain phases through falling debris unharmed",
+      "Superhero blocks falling debris unharmed",
+      "Superhero phases through rising debris unharmed",
+      "Superhero phases through falling flowers unharmed",
+      "Superhero destroys falling debris unharmed"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Water sprite freezes lake with a touch",
+    "id": "0049",
+    "negative_prompt": [
+      "Water sprite melts lake with a touch",
+      "Water sprite freezes desert with a touch",
+      "Water sprite boils lake with a touch",
+      "Water sprite freezes mountain with a touch",
+      "Water sprite ignites lake with a touch"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Man teaches robot to play chess",
+    "id": "0050",
+    "negative_prompt": [
+      "Woman teaches robot to play chess",
+      "Man learns from robot to play chess",
+      "Man teaches dog to play chess",
+      "Man teaches robot to play poker",
+      "Child teaches robot to play chess"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Woman discusses project with colleague over coffee",
+    "id": "0051",
+    "negative_prompt": [
+      "Woman ignores project with colleague over coffee",
+      "Woman discusses vacation with colleague over coffee",
+      "Man discusses project with colleague over coffee",
+      "Woman discusses project with stranger over coffee",
+      "Woman discusses project with colleague over beer"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Boy shares ice cream with his dog",
+    "id": "0052",
+    "negative_prompt": [
+      "Boy hides ice cream with his dog",
+      "Boy destroys ice cream with his dog",
+      "Boy shares rock with his dog",
+      "Girl shares ice cream with his dog",
+      "Boy shares ball with his dog"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Cats chase each other around the living room",
+    "id": "0053",
+    "negative_prompt": [
+      "Cats ignore each other around the living room",
+      "Dogs chase each other around the living room",
+      "Cats chase each other around the kitchen",
+      "Cats avoid each other around the living room",
+      "Mice chase each other around the living room"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Girl reads bedtime story to her stuffed bear",
+    "id": "0054",
+    "negative_prompt": [
+      "Girl sings bedtime story to her stuffed bear",
+      "Girl reads bedtime story to her monster",
+      "Man reads bedtime story to his stuffed bear",
+      "Girl shouts bedtime story to her stuffed bear",
+      "Girl reads bedtime story to her broken doll"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Business partners shake hands on a new deal",
+    "id": "0055",
+    "negative_prompt": [
+      "Business partners argue on a new deal",
+      "Rivals shake hands on a new deal",
+      "Business partners shake hands on a partnership dissolution",
+      "Business partners turn their backs on a new deal",
+      "Strangers shake hands on a new deal"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Child plays with family dog at the beach",
+    "id": "0056",
+    "negative_prompt": [
+      "Child fights with family dog at the beach",
+      "Child plays with stray cat at the beach",
+      "Adult plays with family dog at the beach",
+      "Child plays with family dog at the city park",
+      "Child watches family dog at the beach"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Old friends hug each other at a reunion",
+    "id": "0057",
+    "negative_prompt": [
+      "Old enemies hug each other at a reunion",
+      "Old friends fight each other at a reunion",
+      "Old strangers hug each other at a reunion",
+      "Old friends ignore each other at a reunion",
+      "Old colleagues hug each other at a reunion"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Couple dances closely at a dimly lit party",
+    "id": "0058",
+    "negative_prompt": [
+      "Couple stands still far apart at a dimly lit party",
+      "Couple dances closely at a brightly lit office",
+      "Single person dances closely at a dimly lit party",
+      "Couple argues loudly at a dimly lit party",
+      "Couple dances closely at a sunny beach"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Fisherman feeds seagulls at the dock",
+    "id": "0059",
+    "negative_prompt": [
+      "Fisherman ignores seagulls at the dock",
+      "Fisherman feeds pigeons at the dock",
+      "Hunter feeds seagulls at the dock",
+      "Fisherman scares seagulls at the dock",
+      "Fisherman feeds seagulls at the beach"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Mother teaches son how to tie his shoes",
+    "id": "0060",
+    "negative_prompt": [
+      "Mother punishes son how to tie his shoes",
+      "Mother teaches son how to untie his shoes",
+      "Mother teaches son how to tie his hair",
+      "Father teaches son how to tie his shoes",
+      "Mother teaches stranger how to tie his shoes"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two wolves howl together under a full moon",
+    "id": "0061",
+    "negative_prompt": [
+      "Two wolves sleep together under a full moon",
+      "Two bears howl together under a full moon",
+      "Two wolves hunt together under a full moon",
+      "Two wolves howl together under a new moon",
+      "Two coyotes howl together under a full moon"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two monkeys groom each other on a tree branch",
+    "id": "0062",
+    "negative_prompt": [
+      "Two monkeys fight each other on a tree branch",
+      "Two dogs groom each other on a tree branch",
+      "Two monkeys ignore each other on a tree branch",
+      "Two monkeys groom each other on the ground",
+      "Two cats groom each other on a tree branch"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Coach motivates athlete during a tough workout",
+    "id": "0063",
+    "negative_prompt": [
+      "Coach discourages athlete during a tough workout",
+      "Spectator motivates athlete during a tough workout",
+      "Coach motivates referee during a tough workout",
+      "Coach criticizes athlete during a tough workout",
+      "Coach motivates child during a tough workout"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Customer negotiates price with a street vendor",
+    "id": "0064",
+    "negative_prompt": [
+      "Customer demands refund with a street vendor",
+      "Seller negotiates price with a street vendor",
+      "Customer negotiates price with a store clerk",
+      "Customer exchanges pleasantries with a street vendor",
+      "Wholesaler negotiates price with a street vendor"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Rabbit in a suit negotiates carrot deal with farmer",
+    "id": "0065",
+    "negative_prompt": [
+      "Rabbit in a suit rejects carrot deal with farmer",
+      "Rabbit in a suit negotiates cabbage deal with farmer",
+      "Rabbit in a suit negotiates carrot deal with politician",
+      "Rabbit in a suit destroys carrot deal with farmer",
+      "Rabbit in a suit negotiates shoe trade with farmer"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Business cat types on laptop",
+    "id": "0066",
+    "negative_prompt": [
+      "Business cat sleeps on laptop",
+      "Business cat types on bed",
+      "Business cat eats on laptop",
+      "Business cat types on tree",
+      "Business cat watches on laptop"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Owl teacher explains math to squirrel students",
+    "id": "0067",
+    "negative_prompt": [
+      "Owl teacher ignores math to squirrel students",
+      "Owl teacher hides math to squirrel students",
+      "Fox teacher explains math to squirrel students",
+      "Wolf teacher explains math to squirrel students",
+      "Owl teacher explains math to bunny students"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Bear chef tastes honey from his gourmet kitchen",
+    "id": "0068",
+    "negative_prompt": [
+      "Bear chef spills honey from his gourmet kitchen",
+      "Bear chef tastes salt from his gourmet kitchen",
+      "Bear chef tastes honey from his dirty alley",
+      "Bear janitor tastes honey from his gourmet kitchen",
+      "Bear chef ignoring honey from his gourmet kitchen"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Dapper wolf discusses stock market trends",
+    "id": "0069",
+    "negative_prompt": [
+      "Dapper wolf ignores stock market trends",
+      "Dapper wolf avoids stock market trends",
+      "Dapper rabbit discusses stock market trends",
+      "Dapper bear discusses stock market trends",
+      "Dapper wolf discusses fashion trends"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Giraffe painter reaches high walls without a ladder",
+    "id": "0070",
+    "negative_prompt": [
+      "Giraffe painter avoids high walls without a ladder",
+      "Giraffe painter reaches high walls without a scaffolding",
+      "Giraffe sculptor reaches high walls without a ladder",
+      "Giraffe painter reaches high door without a ladder",
+      "Giraffe painter destroys high walls without a ladder"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Mouse detective investigates cheese theft",
+    "id": "0071",
+    "negative_prompt": [
+      "Mouse detective causes cheese theft",
+      "Mouse detective investigates gold theft",
+      "Mouse detective investigates cheese donation",
+      "Mouse detective ignores cheese theft",
+      "Mouse detective investigates water theft"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Duck journalist interviews a famous goose",
+    "id": "0072",
+    "negative_prompt": [
+      "Duck journalist attacks a famous goose",
+      "Cat journalist interviews a famous goose",
+      "Duck journalist interviews a famous chicken",
+      "Duck journalist ignores a famous goose",
+      "Penguin journalist interviews a famous goose"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Tiger coach whistles at soccer practice",
+    "id": "0073",
+    "negative_prompt": [
+      "Tiger player whistles at soccer practice",
+      "Tiger coach kicks at soccer practice",
+      "Tiger coach whistles at chess tournament",
+      "Lion coach whistles at soccer practice",
+      "Tiger coach sleeps at soccer practice"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Raccoon trash collector cleans up the park",
+    "id": "0074",
+    "negative_prompt": [
+      "Raccoon trash collector pollutes the park",
+      "Squirrel trash collector cleans up the park",
+      "Raccoon gardener cleans up the park",
+      "Raccoon trash collector disrupts the park",
+      "Bear trash collector cleans up the park"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Penguin waiter slides dinner to customers",
+    "id": "0075",
+    "negative_prompt": [
+      "Penguin waiter throws dinner to customers",
+      "Penguin waiter slides trash to customers",
+      "Penguin waiter slides dinner to chef",
+      "Penguin waiter drops dinner to customers",
+      "Penguin waiter slides empty plates to customers"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Rabbit tailor sews fabric into a dress",
+    "id": "0076",
+    "negative_prompt": [
+      "Rabbit tailor tears fabric into a dress",
+      "Rabbit tailor unravels fabric into a dress",
+      "Rabbit tailor burns fabric into a dress",
+      "Rabbit tailor sews wood into a dress",
+      "Rabbit tailor sews fabric into a tent"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Beaver architect designs a dam",
+    "id": "0077",
+    "negative_prompt": [
+      "Beaver architect destroys a dam",
+      "Beaver architect designs a bridge",
+      "Beaver janitor designs a dam",
+      "Beaver architect ignores a dam",
+      "Beaver architect designs a house"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Sloth librarian arranges books slowly but surely",
+    "id": "0078",
+    "negative_prompt": [
+      "Sloth librarian scatters books slowly but surely",
+      "Cheetah librarian arranges books slowly but surely",
+      "Sloth librarian arranges weapons slowly but surely",
+      "Sloth librarian burns books slowly but surely",
+      "Dragon librarian arranges books slowly but surely"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Dog firefighter rescues kittens from a tree",
+    "id": "0079",
+    "negative_prompt": [
+      "Dog firefighter harms kittens from a tree",
+      "Cat astronaut rescues kittens from a tree",
+      "Dog firefighter rescues puppies from a tree",
+      "Dog firefighter rescues kittens from a building",
+      "Human firefighter rescues kittens from a tree"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Rabbit police officer directs traffic",
+    "id": "0080",
+    "negative_prompt": [
+      "Rabbit police officer ignores traffic",
+      "Bear police officer directs traffic",
+      "Rabbit criminal directs traffic",
+      "Rabbit police officer directs a parade",
+      "Rabbit police officer obstructs traffic"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Bear journalist interviews a celebrity",
+    "id": "0081",
+    "negative_prompt": [
+      "Bear journalist ignores a celebrity",
+      "Rabbit journalist interviews a celebrity",
+      "Bear journalist interviews a criminal",
+      "Bear janitor interviews a celebrity",
+      "Bear journalist avoids a celebrity"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Friends share stories around bonfire, under starry night sky",
+    "id": "0082",
+    "negative_prompt": [
+      "Strangers share stories around bonfire, under starry night sky",
+      "Friends argue loudly around bonfire, under starry night sky",
+      "Friends share stories around fountain, under starry night sky",
+      "Enemies share stories around bonfire, under starry night sky",
+      "Friends fight angrily around bonfire, under starry night sky"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Violinist and pianist captivate with harmonious duet performance",
+    "id": "0083",
+    "negative_prompt": [
+      "Chef and waiter captivate with harmonious duet performance",
+      "Violinist and pianist bore with harmonious duet performance",
+      "Violinist and pianist captivate with discordant duet performance",
+      "Violinist and pianist captivate with harmonious solo performance",
+      "Athlete and coach captivate with harmonious duet performance"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Astronauts repair spacecraft, floating weightlessly in vastness of space",
+    "id": "0084",
+    "negative_prompt": [
+      "Astronauts damage spacecraft, floating weightlessly in vastness of space",
+      "Astronauts repair spacecraft, anchored weightlessly in vastness of space",
+      "Astronauts repair submarine, floating weightlessly in vastness of space",
+      "Robots repair spacecraft, floating weightlessly in vastness of space",
+      "Astronauts repair spacecraft, floating weightlessly in confined capsule"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Gardener tenderly prunes bonsai tree, creating natural art",
+    "id": "0085",
+    "negative_prompt": [
+      "Mechanic tenderly prunes bonsai tree, creating natural art",
+      "Gardener tenderly destroys bonsai tree, creating natural art",
+      "Gardener tenderly prunes oak tree, creating natural art",
+      "Chef tenderly prunes bonsai tree, creating natural art",
+      "Gardener tenderly plants bonsai tree, creating natural art"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Girl and grandmother bake cookies, laughter filling the kitchen",
+    "id": "0086",
+    "negative_prompt": [
+      "Boy and grandmother bake cookies, laughter filling the kitchen",
+      "Girl and grandson bake cookies, laughter filling the kitchen",
+      "Girl and grandmother eat cookies, laughter filling the kitchen",
+      "Girl and grandmother bake cake, laughter filling the kitchen",
+      "Man and grandmother bake cookies, laughter filling the kitchen"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Elderly man feeds pigeons, surrounded by fluttering wings",
+    "id": "0087",
+    "negative_prompt": [
+      "Young child feeds pigeons, surrounded by fluttering wings",
+      "Elderly man scares away pigeons, surrounded by fluttering wings",
+      "Elderly man feeds ducks, surrounded by fluttering wings",
+      "Middle-aged woman feeds pigeons, surrounded by fluttering wings",
+      "Elderly man captures pigeons, surrounded by fluttering wings"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A group of elephants playfully spray water at each other",
+    "id": "0088",
+    "negative_prompt": [
+      "A group of rhinos playfully spray water at each other",
+      "A group of elephants playfully spray paint at each other",
+      "A group of elephants playfully drip water at each other",
+      "A group of zebras playfully spray water at each other",
+      "A group of elephants playfully spray oil at each other"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A young girl and her teddy bear have a tea party",
+    "id": "0089",
+    "negative_prompt": [
+      "An old woman and her teddy bear have a tea party",
+      "A young girl and her toy robot have a tea party",
+      "A young girl and her teddy bear play soccer",
+      "An adult man and his teddy bear have a tea party",
+      "A young girl and her teddy bear have a picnic"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A child and a puppy embark on an adventure through a forest",
+    "id": "0090",
+    "negative_prompt": [
+      "An adult and a puppy embark on an adventure through a forest",
+      "A child and a kitten embark on an adventure through a forest",
+      "A child and a puppy embark on an adventure through a desert",
+      "A child and a puppy conclude an adventure through a forest",
+      "An alien and a puppy embark on an adventure through a forest"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A pack of wolves howl in harmony, their voices echoing through the night",
+    "id": "0091",
+    "negative_prompt": [
+      "A pack of dogs howl in harmony, their voices echoing through the night",
+      "A pack of wolves growl in discord, their voices echoing through the night",
+      "A pack of coyotes howl in harmony, their voices echoing through the night",
+      "A pack of wolves mutter quietly, their voices echoing through the night",
+      "A pack of foxes howl in harmony, their voices echoing through the night"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A parent and child build a sandcastle together",
+    "id": "0092",
+    "negative_prompt": [
+      "A parent and child demolish a sandcastle together",
+      "A parent and child avoid a sandcastle together",
+      "A parent and child build a snowman together",
+      "A parent and child build a bonfire together",
+      "Two strangers build a sandcastle together"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A conductor leads an orchestra, guiding the musicians to create a harmonious symphony",
+    "id": "0093",
+    "negative_prompt": [
+      "A conductor obstructs an orchestra, guiding the musicians to create a harmonious symphony",
+      "A conductor leads a choir, guiding the musicians to create a harmonious symphony",
+      "A janitor leads an orchestra, guiding the musicians to create a harmonious symphony",
+      "A conductor leads an orchestra, misguiding the musicians to create a harmonious symphony",
+      "A conductor leads an orchestra, guiding the musicians to create a harmonious cacophony"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A dog and a cat playfully chase each other",
+    "id": "0094",
+    "negative_prompt": [
+      "A mouse and a cat playfully chase each other",
+      "A dog and a squirrel playfully chase each other",
+      "A dog and a cat playfully ignore each other",
+      "A dog and a cat playfully cuddle each other",
+      "A horse and a cat playfully chase each other"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A group of children engage in a lively game of jump rope",
+    "id": "0095",
+    "negative_prompt": [
+      "A group of seniors engage in a lively game of jump rope",
+      "A group of children stare blankly at the jump rope",
+      "A group of children engage in a lively game of board game",
+      "A group of dolls engage in a lively game of jump rope",
+      "A group of children carefully put away the jump rope"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A couple dances under the moonlight, their steps perfectly in sync with the romantic melody",
+    "id": "0096",
+    "negative_prompt": [
+      "A couple stumbles under the moonlight, their steps perfectly in sync with the romantic melody",
+      "A couple dances under the sunlight, their steps perfectly in sync with the romantic melody",
+      "A group of strangers dances under the moonlight, their steps perfectly in sync with the romantic melody",
+      "A couple strolls aimlessly under the moonlight, their steps perfectly in sync with the romantic melody",
+      "A couple dances under the streetlights, their steps perfectly in sync with the romantic melody"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A group of volunteers clean up a beach, working together to protect the environment",
+    "id": "0097",
+    "negative_prompt": [
+      "A group of volunteers pollute a beach, working together to protect the environment",
+      "A group of vandals clean up a beach, working together to protect the environment",
+      "A group of volunteers clean up a landfill, working together to protect the environment",
+      "A group of volunteers clean up a beach, working together to destroy the environment",
+      "A group of mercenaries clean up a beach, working together to protect the environment"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A parent teaches a child to ride a bike",
+    "id": "0098",
+    "negative_prompt": [
+      "A parent prevents a child from riding a bike",
+      "A parent teaches a child to ride a horse",
+      "A stranger teaches a child to ride a bike",
+      "A parent teaches an adult to ride a bike",
+      "A parent watches a child ride a bike"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A group of firefighters work together, battling the flames and saving lives",
+    "id": "0099",
+    "negative_prompt": [
+      "A group of artists work together, battling the flames and saving lives",
+      "A group of firefighters work together, ignoring the flames and saving lives",
+      "A group of firefighters work together, battling the ice and saving lives",
+      "A group of bystanders work together, battling the flames and saving lives",
+      "A group of firefighters work together, battling the flames and endangering lives"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A parent and child plant a garden, nurturing plants and watching them grow",
+    "id": "0100",
+    "negative_prompt": [
+      "A stranger and dog plant a garden, nurturing plants and watching them grow",
+      "A parent and child uproot a garden, harming plants and ignoring them shrink",
+      "A parent and child plant a concrete slab, nurturing stones and watching them grow",
+      "An alien and robot plant a garden, nurturing plants and watching them grow",
+      "A parent and child demolish a garden, destroying plants and watching them die"
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A cat pouncing on a small toy, causing it to roll across the wooden floor.",
+    "id": "0101",
+    "negative_prompt": [
+      "A cat sleeping on a small toy, causing it to roll across the wooden floor.",
+      "A mouse pouncing on a small toy, causing it to roll across the wooden floor.",
+      "A cat pouncing on a large rock, causing it to roll across the wooden floor.",
+      "A cat staring at a small toy, causing it to roll across the wooden floor.",
+      "A cat pouncing on a small toy, causing it to roll across the grassy field."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A gust of wind pushing a swinging gate, making it moving open.",
+    "id": "0102",
+    "negative_prompt": [
+      "A gust of wind pulling a swinging gate, making it moving open.",
+      "A gust of wind pushing a swinging gate, making it moving closed.",
+      "A gust of wind pushing a solid wall, making it moving open.",
+      "A gust of wind preventing a swinging gate, making it moving open.",
+      "A gust of wind pushing a fixed fence, making it moving open."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A child throwing a frisbee, sending it spinning through the air towards a park bench.",
+    "id": "0103",
+    "negative_prompt": [
+      "An adult throwing a frisbee, sending it spinning through the air towards a park bench.",
+      "A child catching a frisbee, sending it spinning through the air towards a park bench.",
+      "A child throwing a ball, sending it spinning through the air towards a park bench.",
+      "A dog throwing a frisbee, sending it spinning through the air towards a park bench.",
+      "A child holding a frisbee, sending it spinning through the air towards a park bench."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A bowling ball striking a set of pins, causing them to topple in different directions.",
+    "id": "0104",
+    "negative_prompt": [
+      "A bowling ball missing a set of pins, causing them to topple in different directions.",
+      "A tennis ball striking a set of pins, causing them to topple in different directions.",
+      "A bowling ball striking a set of dominoes, causing them to topple in different directions.",
+      "A bowling ball striking a set of pins, causing them to slide in different directions.",
+      "A bowling ball gently grazing a set of pins, causing them to topple in different directions."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A skateboarder performing a trick, launching their board into the air before landing back on the pavement.",
+    "id": "0105",
+    "negative_prompt": [
+      "A skateboarder struggling to balance, launching their board into the air before landing back on the pavement.",
+      "A skateboarder performing a trick, launching their board into the air before landing back on the grass.",
+      "A beginner performing a trick, launching their board into the air before landing back on the pavement.",
+      "A skateboarder losing control, launching their board into the air before landing back on the pavement.",
+      "A skateboarder performing a trick, launching their board into the air before landing back on the water."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A strong wave crashing into a small boat, rocking it violently from side to side.",
+    "id": "0106",
+    "negative_prompt": [
+      "A strong wave gently embracing a small boat, keeping it perfectly still.",
+      "A strong wave smoothly passing by a small boat, stabilizing its position.",
+      "A strong wave calmly supporting a small boat, preventing any motion.",
+      "A strong wave crashing into a massive concrete pier, rocking it violently from side to side.",
+      "A strong wave crashing into a submerged wreck, rocking it violently from side to side."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A dog nudging a ball with its nose, making it bounce erratically on the grass.",
+    "id": "0107",
+    "negative_prompt": [
+      "A dog nudging a ball with its nose, making it roll erratically on the grass.",
+      "A dog nudging a bone with its nose, making it bounce erratically on the grass.",
+      "A dog balancing a ball with its nose, making it bounce erratically on the grass.",
+      "A dog nudging a ball with its nose, making it stop erratically on the grass.",
+      "A dog nudging a rock with its nose, making it bounce erratically on the grass."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A soccer player kicking a ball, sending it soaring towards the goalpost.",
+    "id": "0108",
+    "negative_prompt": [
+      "A soccer player catching a ball, sending it soaring towards the goalpost.",
+      "A soccer player dribbling a ball, sending it soaring towards the goalpost.",
+      "A soccer player kicking a frisbee, sending it soaring towards the goalpost.",
+      "A soccer player kicking a rock, sending it soaring towards the goalpost.",
+      "A spectator kicking a ball, sending it soaring towards the goalpost."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A swimmer diving into a pool, creating a splash that disturbs the calm water surface.",
+    "id": "0109",
+    "negative_prompt": [
+      "A **baker** diving into a pool, creating a splash that disturbs the calm water surface.",
+      "A **runner** diving into a pool, creating a splash that disturbs the calm water surface.",
+      "A swimmer **standing next to** a pool, creating a splash that disturbs the calm water surface.",
+      "A swimmer diving into a pool, creating a splash that **calms** the calm water surface.",
+      "A swimmer diving into a **road**, creating a splash that disturbs the calm water surface."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A child knocking over a tower of blocks, scattering pieces across the carpet.",
+    "id": "0110",
+    "negative_prompt": [
+      "An adult knocking over a tower of blocks, scattering pieces across the carpet.",
+      "A child building up a tower of blocks, scattering pieces across the carpet.",
+      "A child knocking over a pyramid of marbles, scattering pieces across the carpet.",
+      "A child knocking over a tower of blocks, collecting pieces across the carpet.",
+      "A child knocking over a tower of blocks, scattering pieces across the table."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A book sliding off a tilted shelf, landing with a on the floor.",
+    "id": "0111",
+    "negative_prompt": [
+      "A book rolling off a tilted shelf, landing with a on the floor.",
+      "A vase sliding off a tilted shelf, landing with a on the floor.",
+      "A book sliding off a tilted shelf, hovering above the floor.",
+      "A book sliding off a tilted table, landing with a on the floor.",
+      "A book sliding off a tilted shelf, landing with a on the bed."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A firefighter spraying a jet of water at a burning structure, causing the flames to waver and shrink.",
+    "id": "0112",
+    "negative_prompt": [
+      "A firefighter igniting a jet of water at a burning structure, causing the flames to waver and shrink.",
+      "A firefighter spraying a stream of oil at a burning structure, causing the flames to waver and shrink.",
+      "An arsonist spraying a jet of water at a burning structure, causing the flames to waver and shrink.",
+      "A firefighter spraying a jet of water at a frozen structure, causing the flames to waver and shrink.",
+      "A firefighter spraying a jet of water at a burning forest, causing the flames to waver and shrink."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A basketball player making a powerful slam dunk, sending the hoop vibrating from the impact.",
+    "id": "0113",
+    "negative_prompt": [
+      "A swimmer making a powerful slam dunk, sending the hoop vibrating from the impact.",
+      "A basketball player tying their shoelaces, sending the hoop vibrating from the impact.",
+      "A basketball player making a powerful slam dunk, sending a flagpole vibrating from the impact.",
+      "A ballet dancer making a powerful slam dunk, sending the hoop vibrating from the impact.",
+      "A basketball player gently dribbling the ball, sending the hoop vibrating from the impact."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A bird landing on a delicate flower stem, causing the blossom to sway gently.",
+    "id": "0114",
+    "negative_prompt": [
+      "A bird flying past a delicate flower stem, causing the blossom to sway gently.",
+      "A bird landing on a delicate flower stem, causing the blossom to remain motionless.",
+      "A stone landing on a delicate flower stem, causing the blossom to sway gently.",
+      "A bird landing on a delicate steel wire, causing the blossom to sway gently.",
+      "A bird landing on a delicate flower stem, causing the fruit to sway gently."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A chef tossing a pancake in the air, flipping it before it lands back on the pan.",
+    "id": "0115",
+    "negative_prompt": [
+      "A teacher tossing a pancake in the air, flipping it before it lands back on the pan.",
+      "A chef holding a pancake in the air, holding it before it lands back on the pan.",
+      "A chef tossing a brick in the air, flipping it before it lands back on the pan.",
+      "A chef tossing a pancake in the air, flipping it before it lands back on the table.",
+      "A chef dropping a pancake in the air, dropping it before it lands back on the pan."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A snowball thrown at a wall, bursting apart and scattering bits of snow.",
+    "id": "0116",
+    "negative_prompt": [
+      "A rock thrown at a wall, bursting apart and scattering bits of snow.",
+      "A snowball thrown at a spiderweb, bursting apart and scattering bits of snow.",
+      "A snowball melting at a wall, bursting apart and scattering bits of snow.",
+      "A snowball thrown at a wall, bouncing off and scattering bits of snow.",
+      "A snowball thrown at a wall, bursting apart and sticking together."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A child jumping onto a trampoline, compressing the surface and bouncing back into the air.",
+    "id": "0117",
+    "negative_prompt": [
+      "A dog jumping onto a trampoline, compressing the surface and bouncing back into the air.",
+      "A child jumping onto a bed, compressing the surface and bouncing back into the air.",
+      "A child lying on a trampoline, compressing the surface and bouncing back into the air.",
+      "A child falling off a trampoline, compressing the surface and bouncing back into the air.",
+      "A child jumping onto a wall, compressing the surface and bouncing back into the air."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A fisherman casting a line into the lake, causing ripples to form around the lure.",
+    "id": "0118",
+    "negative_prompt": [
+      "A woman casting a line into the lake, causing ripples to form around the lure.",
+      "A fisherman reeling in a line into the lake, causing ripples to form around the lure.",
+      "A fisherman casting a net into the lake, causing ripples to form around the lure.",
+      "A fisherman casting a line into the ocean, causing ripples to form around the lure.",
+      "A fisherman casting a line into the lake, preventing ripples from forming around the lure."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A dog tugging on a rope toy, pulling it and making a nearby chair wobble.",
+    "id": "0119",
+    "negative_prompt": [
+      "A dog tugging on a rope toy, pulling it and making a nearby chair stand still.",
+      "A dog tugging on a bone, pulling it and making a nearby chair wobble.",
+      "A dog tugging on a rope toy, pulling it and making a nearby bookshelf wobble.",
+      "A dog chewing on a rope toy, pulling it and making a nearby chair wobble.",
+      "A dog tugging on a rope toy, pushing it and making a nearby chair wobble."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A deer brushing past a low tree branch, setting loose a flurry of autumn leaves.",
+    "id": "0120",
+    "negative_prompt": [
+      "A deer leaping over a low tree branch, setting loose a flurry of autumn leaves.",
+      "A deer brushing past a low tree branch, collecting a flurry of autumn leaves.",
+      "A rabbit brushing past a low tree branch, setting loose a flurry of autumn leaves.",
+      "A deer brushing past a large boulder, setting loose a flurry of autumn leaves.",
+      "A deer brushing past a low tree branch, setting loose a flurry of spring blossoms."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A cat leaping onto a desk, causing a cup to tip over and spill its contents.",
+    "id": "0121",
+    "negative_prompt": [
+      "A cat walking off of a desk, causing a cup to tip over and spill its contents.",
+      "A dog leaping onto a desk, causing a cup to tip over and spill its contents.",
+      "A cat leaping onto a desk, causing a cup to tip over and retain its contents.",
+      "A cat leaping onto a desk, causing a book to tip over and spill its contents.",
+      "A cat leaping onto a desk, causing a cup to remain upright and spill its contents."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A bird pecking at a hanging lantern, making the lantern swing gently.",
+    "id": "0122",
+    "negative_prompt": [
+      "A bird resting on a hanging lantern, making the lantern swing gently.",
+      "A bird pecking at a hanging lantern, making the lantern swing wildly.",
+      "A cat pecking at a hanging lantern, making the lantern swing gently.",
+      "A bird pecking at a hanging bird feeder, making the bird feeder swing gently.",
+      "A bird pecking at a hanging lamp, making the lamp swing gently."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A bus splashing through a puddle, sending water spraying onto the sidewalk.",
+    "id": "0123",
+    "negative_prompt": [
+      "A motorcycle splashing through a puddle, sending water spraying onto the sidewalk.",
+      "A bus splashing through a bowl, sending water spraying onto the sidewalk.",
+      "A bus splashing through a puddle, sending oil spraying onto the sidewalk.",
+      "A bus splashing through a puddle, sending water spraying onto the window.",
+      "A bus slowly rolling through a puddle, sending water spraying onto the sidewalk."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A plane touching down on a runway, causing a cloud of smoke as the tires meet the asphalt.",
+    "id": "0124",
+    "negative_prompt": [
+      "A plane taking off on a runway, causing a cloud of smoke as the tires meet the asphalt.",
+      "A car touching down on a runway, causing a cloud of smoke as the tires meet the asphalt.",
+      "A plane touching down on water, causing a cloud of smoke as the tires meet the asphalt.",
+      "A plane touching down on a runway, causing no smoke as the tires meet the asphalt.",
+      "A plane touching down on a runway, causing a cloud of smoke as the tires meet the grass."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A horse brushing against a parked bike, tipping it over onto the ground.",
+    "id": "0125",
+    "negative_prompt": [
+      "A horse avoiding a parked bike, tipping it over onto the ground.",
+      "A mouse brushing against a parked bike, tipping it over onto the ground.",
+      "A horse brushing against a parked bike, stabilizing it onto the ground.",
+      "A horse brushing against a parked wall, tipping it over onto the ground.",
+      "A horse brushing against a parked bike, tipping it over onto the ceiling."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A dolphin leaping over a boat's wake, creating a splash as it re-enters the water.",
+    "id": "0126",
+    "negative_prompt": [
+      "A dolphin diving into a boat's wake, creating a splash as it re-enters the water.",
+      "A seal leaping over a boat's wake, creating a splash as it re-enters the water.",
+      "A dolphin leaping over a boat's wake, making no ripples as it re-enters the water.",
+      "A dolphin leaping over a rock, creating a splash as it re-enters the water.",
+      "A log leaping over a boat's wake, creating a splash as it re-enters the water."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A cat pawing at a fallen leaf, sending it fluttering across the yard.",
+    "id": "0127",
+    "negative_prompt": [
+      "A dog pawing at a fallen leaf, sending it fluttering across the yard.",
+      "A cat pawing at a fallen feather, sending it fluttering across the yard.",
+      "A cat pawing at a fallen leaf, sending it fluttering across the river.",
+      "A cat kicking at a fallen leaf, sending it fluttering across the yard.",
+      "A cat pawing at a fallen leaf, stopping it fluttering across the yard."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A deer running into a field of flowers, disturbing petals that float gently to the earth.",
+    "id": "0128",
+    "negative_prompt": [
+      "A deer standing into a field of flowers, disturbing petals that float gently to the earth.",
+      "A deer running into a field of flowers, leaving undisturbed petals that float gently to the earth.",
+      "A deer running into a field of flowers, disturbing petals that sink gently to the earth.",
+      "A wolf running into a field of flowers, disturbing petals that float gently to the earth.",
+      "A deer running into a dense forest, disturbing petals that float gently to the earth."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A fish splashing in a pond, making ripples that disturb a lily pad nearby.",
+    "id": "0129",
+    "negative_prompt": [
+      "A fish floating in a pond, making ripples that disturb a lily pad nearby.",
+      "A duck splashing in a pond, making ripples that disturb a lily pad nearby.",
+      "A fish splashing in a pond, making ripples that calm a lily pad nearby.",
+      "A fish splashing in an ocean, making ripples that disturb a lily pad nearby.",
+      "A fish splashing in a pond, making ripples that disturb a rock nearby."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A dog dragging a blanket off a bed, leaving it tangled on the floor.",
+    "id": "0130",
+    "negative_prompt": [
+      "A dog pushing a blanket off a bed, leaving it tangled on the floor.",
+      "A dog dragging a toy off a bed, leaving it tangled on the floor.",
+      "A dog dragging a blanket off a bed, leaving it neatly folded on the floor.",
+      "A dog dragging a blanket off a sofa, leaving it tangled on the floor.",
+      "A dog carrying a blanket off a bed, leaving it tangled on the floor."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A parrot knocking over a bottle on a counter, sending it rolling before crashing onto the floor.",
+    "id": "0131",
+    "negative_prompt": [
+      "A parrot carefully placing a bottle on a counter, sending it rolling before crashing onto the floor.",
+      "A mouse knocking over a bottle on a counter, sending it rolling before crashing onto the floor.",
+      "A parrot knocking over a brick on a counter, sending it rolling before crashing onto the floor.",
+      "A parrot knocking over a bottle on a bed, sending it rolling before crashing onto the floor.",
+      "A parrot knocking over a bottle on a counter, sending it rolling before floating onto the floor."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A child launching a kite into the air, where the wind catches and pulls it upward.",
+    "id": "0132",
+    "negative_prompt": [
+      "An adult launching a kite into the air, where the wind catches and pulls it upward.",
+      "A child launching a boulder into the air, where the wind catches and pulls it upward.",
+      "A child dropping a kite into the air, where the wind catches and pulls it upward.",
+      "A child launching a kite into the air, where the gravity catches and pulls it upward.",
+      "A child launching a kite into the air, where the wind catches and pushes it downward."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A raccoon climbing onto a fence, making it wobble from side to side.",
+    "id": "0133",
+    "negative_prompt": [
+      "A raccoon descending from a fence, making it wobble from side to side.",
+      "A squirrel climbing onto a fence, making it wobble from side to side.",
+      "A raccoon climbing onto a fence, making it remain perfectly still.",
+      "A raccoon climbing onto a tree, making it wobble from side to side.",
+      "A raccoon sleeping on a fence, making it wobble from side to side."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A jellyfish floating into a coral reef, causing the smaller fish nearby to scatter.",
+    "id": "0134",
+    "negative_prompt": [
+      "A whale floating into a coral reef, causing the smaller fish nearby to scatter.",
+      "A jellyfish floating into a shipwreck, causing the smaller fish nearby to scatter.",
+      "A jellyfish floating into a coral reef, causing the large sharks nearby to scatter.",
+      "A jellyfish swimming away from a coral reef, causing the smaller fish nearby to scatter.",
+      "A jellyfish floating into a coral reef, causing the smaller fish nearby to gather."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "An eagle swooping down to grab a fish from the river, creating ripples on the surface.",
+    "id": "0135",
+    "negative_prompt": [
+      "An eagle flying away from a fish from the river, creating ripples on the surface.",
+      "An eagle swooping down to grab a log from the river, creating ripples on the surface.",
+      "An eagle resting on the bank next to a fish from the river, creating ripples on the surface.",
+      "An eagle swooping down to grab a fish from the desert, creating ripples on the surface.",
+      "An eagle swooping down to grab a fish from the river, leaving the surface calm."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A goat butting its head against a wooden crate, causing it to slide across the barn floor.",
+    "id": "0136",
+    "negative_prompt": [
+      "A goat butting its head against a wooden crate, causing it to remain perfectly still on the barn floor.",
+      "A goat butting its head against a steel safe, causing it to slide across the barn floor.",
+      "A goat gently rubbing its face against a wooden crate, causing it to slide across the barn floor.",
+      "A cat butting its head against a wooden crate, causing it to slide across the barn floor.",
+      "A goat delicately nibbling on a wooden crate, causing it to slide across the barn floor."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A crab scuttling across a sandy beach, displacing tiny grains with its movements.",
+    "id": "0137",
+    "negative_prompt": [
+      "A crab crawling slowly across a sandy beach, displacing tiny grains with its movements.",
+      "A snail scuttling across a sandy beach, displacing tiny grains with its movements.",
+      "A crab resting motionless across a sandy beach, displacing tiny grains with its movements.",
+      "A crab scuttling across a concrete pavement, displacing tiny grains with its movements.",
+      "A crab scuttling across a sandy beach, displacing large boulders with its movements."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A horse galloping past a sleeping dog, causing the dog to wake and look around.",
+    "id": "0138",
+    "negative_prompt": [
+      "A cat galloping past a sleeping dog, causing the dog to wake and look around.",
+      "A horse galloping past a sleeping rabbit, causing the rabbit to wake and look around.",
+      "A horse grazing past a sleeping dog, causing the dog to wake and look around.",
+      "A horse galloping past a sleeping dog, causing the dog to start barking and look around.",
+      "A horse galloping past a sleeping dog, causing the dog to wake and run away."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A dolphin tossing a beach ball with its nose, sending the ball back toward a group of cheering people.",
+    "id": "0139",
+    "negative_prompt": [
+      "A dolphin catching a beach ball with its nose, sending the ball back toward a group of cheering people.",
+      "A dolphin tossing a rock with its nose, sending the rock back toward a group of cheering people.",
+      "A dolphin tossing a beach ball with its nose, sending the ball back toward a solitary fisherman.",
+      "A dolphin pushing a beach ball with its nose, sending the ball back toward a group of cheering people.",
+      "A dolphin tossing an old tire with its nose, sending the tire back toward a group of cheering people."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A soccer player kicking a pumpkin, sending it rolling down a grassy hill.",
+    "id": "0140",
+    "negative_prompt": [
+      "A chef kicking a pumpkin, sending it rolling down a grassy hill.",
+      "A soccer player kicking a rock, sending it rolling down a grassy hill.",
+      "A soccer player throwing a pumpkin, sending it rolling down a grassy hill.",
+      "An astronaut kicking a pumpkin, sending it rolling down a grassy hill.",
+      "A soccer player carrying a pumpkin, sending it rolling down a grassy hill."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A mother holding her baby, rocking gently on a rocking chair.",
+    "id": "0141",
+    "negative_prompt": [
+      "A father holding his baby, rocking gently on a rocking chair.",
+      "A mother holding her dog, rocking gently on a rocking chair.",
+      "A mother holding her baby, rocking gently on a sofa.",
+      "A mother releasing her baby, rocking gently on a rocking chair.",
+      "A mother holding her baby, sitting still on a rocking chair."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A deer stepping onto a frozen pond, causing the ice to crack slightly beneath its hooves.",
+    "id": "0142",
+    "negative_prompt": [
+      "A deer stepping onto a frozen pond, causing the ice to melt slightly beneath its hooves.",
+      "A horse stepping onto a frozen pond, causing the ice to crack slightly beneath its hooves.",
+      "A deer stepping onto a flowing river, causing the ice to crack slightly beneath its hooves.",
+      "A deer stepping onto a frozen pond, causing the ice to crack completely beneath its hooves.",
+      "A deer stepping onto a frozen pond, causing the ice to crack slightly beneath its antlers."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "An ant carrying a crumb on the table away.",
+    "id": "0143",
+    "negative_prompt": [
+      "An ant dropping a crumb on the table away.",
+      "A bear carrying a crumb on the table away.",
+      "An ant carrying a boulder on the table away.",
+      "An ant carrying a crumb on the ceiling away.",
+      "An ant carrying a crumb on the table back."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A snowball hitting a stop sign, leaving a patch of wet snow on the red surface.",
+    "id": "0144",
+    "negative_prompt": [
+      "A snowball avoiding a stop sign, leaving a patch of wet snow on the red surface.",
+      "A rock hitting a stop sign, leaving a patch of wet snow on the red surface.",
+      "A snowball hitting a tree, leaving a patch of wet snow on the red surface.",
+      "A snowball hitting a stop sign, removing a patch of wet snow on the red surface.",
+      "A snowball hitting a stop sign, leaving a patch of wet snow on the blue surface."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A frog leaping onto a wet rock, causing droplets to splash into the air.",
+    "id": "0145",
+    "negative_prompt": [
+      "A frog standing onto a wet rock, causing droplets to splash into the air.",
+      "A frog leaping onto a wet rock, causing droplets to settle into the air.",
+      "A snake leaping onto a wet rock, causing droplets to splash into the air.",
+      "A frog leaping onto a wet log, causing droplets to splash into the air.",
+      "A frog leaping onto a wet rock, causing steam to splash into the air."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A magician throwing a deck of cards into the air, causing them to flutter around a captivated audience.",
+    "id": "0146",
+    "negative_prompt": [
+      "A magician holding a deck of cards into the air, causing them to flutter around a captivated audience.",
+      "A magician throwing a set of rings into the air, causing them to flutter around a captivated audience.",
+      "A chef throwing a deck of cards into the air, causing them to flutter around a captivated audience.",
+      "A magician stacking a deck of cards into the air, causing them to flutter around a captivated audience.",
+      "A magician throwing a heavy rock into the air, causing it to flutter around a captivated audience."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A helicopter landing on a hospital helipad, making the nearby trees sway from the gust of wind.",
+    "id": "0147",
+    "negative_prompt": [
+      "A helicopter taking off on a hospital helipad, making the nearby trees sway from the gust of wind.",
+      "A helicopter crashing on a hospital helipad, making the nearby trees sway from the gust of wind.",
+      "A helicopter parked on a hospital helipad, making the nearby trees sway from the gust of wind.",
+      "An airplane landing on a hospital helipad, making the nearby trees sway from the gust of wind.",
+      "A helicopter landing on a grassy field, making the nearby trees sway from the gust of wind."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A frog jumping into a bowl of water, making droplets splash onto the surrounding grass.",
+    "id": "0148",
+    "negative_prompt": [
+      "A frog climbing out of a bowl of water, making droplets splash onto the surrounding grass.",
+      "A frog standing beside a bowl of water, making droplets splash onto the surrounding grass.",
+      "A frog jumping into a pile of leaves, making droplets splash onto the surrounding grass.",
+      "A cat jumping into a bowl of water, making droplets splash onto the surrounding grass.",
+      "A frog jumping into a bowl of water, making droplets splash onto the surrounding concrete."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A robot vacuum bumping into a wall, redirecting itself and leaving a trail of clean carpet behind.",
+    "id": "0149",
+    "negative_prompt": [
+      "A robot vacuum bumping into a wall, redirecting itself and spreading dirt on the carpet.",
+      "A manual broom bumping into a wall, redirecting itself and leaving a trail of clean carpet behind.",
+      "A robot vacuum bumping into a cushion, redirecting itself and leaving a trail of clean carpet behind.",
+      "A robot vacuum bumping into a wall, getting stuck and leaving a trail of clean carpet behind.",
+      "A robot vacuum bumping into a wall, redirecting itself and leaving a trail of dirty floor behind."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A pigeon taking off from a lamppost, causing loose feathers to float down slowly.",
+    "id": "0150",
+    "negative_prompt": [
+      "A pigeon landing on a lamppost, causing loose feathers to float down slowly.",
+      "A sparrow taking off from a lamppost, causing loose feathers to float down slowly.",
+      "A pigeon taking off from a tree, causing loose feathers to float down slowly.",
+      "A pigeon taking off from a lamppost, causing loose feathers to rush up quickly.",
+      "A pigeon taking off from a lamppost, causing loose leaves to float down slowly."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A girl turns on a hair dryer, causing her long hair to blow wildly in the air.",
+    "id": "0151",
+    "negative_prompt": [
+      "A girl turns on a hair dryer, causing her long hair to stay still in the air.",
+      "A girl turns on a fan, causing her long hair to blow wildly in the air.",
+      "A boy turns on a hair dryer, causing his long hair to blow wildly in the air.",
+      "A girl turns on a hair dryer, causing her long hair to gently sway in the air.",
+      "A girl turns on a hair dryer, causing her short hair to blow wildly in the air."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Grandpa teaches his grandson to fly a kite in the park.",
+    "id": "0152",
+    "negative_prompt": [
+      "Grandpa forbids his grandson to fly a kite in the park.",
+      "Grandpa teaches his grandson to fly a drone in the park.",
+      "Grandpa teaches his granddaughter to fly a kite in the park.",
+      "Grandpa discourages his grandson from flying a kite in the park.",
+      "Grandpa teaches his grandson to fly a ball in the park."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Friends share popcorn while watching a movie together.",
+    "id": "0153",
+    "negative_prompt": [
+      "Strangers share popcorn while watching a movie together.",
+      "Friends fight over popcorn while watching a movie together.",
+      "Friends share popcorn while ignoring a movie together.",
+      "Friends share vegetables while watching a movie together.",
+      "Friends share popcorn while watching a play together."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Dog runs alongside a boy riding his bike down the street.",
+    "id": "0154",
+    "negative_prompt": [
+      "Dog sleeps away from a boy riding his bike down the street.",
+      "Dog runs alongside a boy pushing his bike down the street.",
+      "Cat runs alongside a boy riding his bike down the street.",
+      "Dog runs alongside a man riding his bike down the street.",
+      "Dog runs alongside a boy riding his car down the street."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Chef shows his apprentice how to slice vegetables properly.",
+    "id": "0155",
+    "negative_prompt": [
+      "Chef misleads his apprentice how to slice vegetables properly.",
+      "Chef shows his apprentice how to slice meat properly.",
+      "Chef shows his master how to slice vegetables properly.",
+      "Chef shows his apprentice how to mash vegetables properly.",
+      "Janitor shows his apprentice how to slice vegetables properly."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two dogs play tug-of-war with a rope toy in the backyard.",
+    "id": "0156",
+    "negative_prompt": [
+      "Two dogs sleep with a rope toy in the backyard.",
+      "Two dogs play tug-of-war with a ball in the backyard.",
+      "Two dogs eat with a rope toy in the backyard.",
+      "Two dogs play tug-of-war with a bone in the backyard.",
+      "Two dogs chase with a rope toy in the backyard."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Father helps his daughter build a sandcastle at the beach.",
+    "id": "0157",
+    "negative_prompt": [
+      "Father hinders his daughter build a sandcastle at the beach.",
+      "Father helps his daughter build a snowman at the beach.",
+      "Father helps his son build a sandcastle at the beach.",
+      "Father helps his daughter build a sandcastle at the forest.",
+      "Father helps his daughter dismantle a sandcastle at the beach."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Young couple dances together under the moonlight at a festival.",
+    "id": "0158",
+    "negative_prompt": [
+      "Old couple dances together under the moonlight at a festival.",
+      "Young couple fights under the moonlight at a festival.",
+      "Young couple dances together under the sunlight at a festival.",
+      "Young couple dances together under the moonlight at a funeral.",
+      "Single person dances together under the moonlight at a festival."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Teenagers collaborate on a science project in the school library.",
+    "id": "0159",
+    "negative_prompt": [
+      "Children collaborate on a science project in the school library.",
+      "Teenagers compete on a science project in the school library.",
+      "Teenagers collaborate on an art project in the school library.",
+      "Teenagers collaborate on a science project in the school playground.",
+      "Teenagers individually work on a science project in the school library."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Grandmother bakes cookies with her granddaughter in the kitchen.",
+    "id": "0160",
+    "negative_prompt": [
+      "Grandmother eats cookies with her granddaughter in the kitchen.",
+      "Grandmother bakes bread with her granddaughter in the kitchen.",
+      "Stranger bakes cookies with her granddaughter in the kitchen.",
+      "Grandmother bakes cookies with her grandson in the kitchen.",
+      "Grandmother cleans cookies with her granddaughter in the kitchen."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Friends play a board game together at a cozy cafe.",
+    "id": "0161",
+    "negative_prompt": [
+      "Strangers play a board game together at a cozy cafe.",
+      "Friends watch a board game together at a cozy cafe.",
+      "Friends play a card game together at a cozy cafe.",
+      "Enemies play a board game together at a cozy cafe.",
+      "Friends pack up a board game together at a cozy cafe."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Boy draws a picture and proudly shows it to his dog, who wags his tail.",
+    "id": "0162",
+    "negative_prompt": [
+      "Boy erases a picture and proudly shows it to his dog, who wags his tail.",
+      "Boy draws a picture and proudly hides it from his dog, who wags his tail.",
+      "Boy draws a brick and proudly shows it to his dog, who wags his tail.",
+      "Boy draws a picture and proudly shows it to his cat, who wags his tail.",
+      "Girl draws a picture and proudly shows it to his dog, who wags his tail."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two kittens snuggle together on a warm windowsill.",
+    "id": "0163",
+    "negative_prompt": [
+      "Two kittens fight on a warm windowsill.",
+      "Two puppies snuggle together on a warm windowsill.",
+      "Two kittens snuggle together on a warm rock.",
+      "Two kittens ignore each other on a warm windowsill.",
+      "Two baby birds snuggle together on a warm windowsill."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A girl enjoys a picnic by the lake, feeding crumbs to the ducks.",
+    "id": "0164",
+    "negative_prompt": [
+      "A boy enjoys a picnic by the lake, feeding crumbs to the ducks.",
+      "A girl hates a picnic by the lake, feeding crumbs to the ducks.",
+      "A girl enjoys a picnic by the lake, feeding crumbs to the cats.",
+      "A girl enjoys a picnic by the lake, withholding crumbs from the ducks.",
+      "A girl enjoys a picnic by the desert, feeding crumbs to the ducks."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A woman gives an old lady a bouquet of fresh flowers.",
+    "id": "0165",
+    "negative_prompt": [
+      "A man gives an old lady a bouquet of fresh flowers.",
+      "A woman sells an old lady a bouquet of fresh flowers.",
+      "A woman gives an old lady a dead plant.",
+      "A woman gives a young boy a bouquet of fresh flowers.",
+      "A child gives an old lady a bouquet of fresh flowers."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A little girl takes pictures of a cat.",
+    "id": "0166",
+    "negative_prompt": [
+      "A little girl ignores a cat.",
+      "A little girl takes pictures of a dog.",
+      "A grown man takes pictures of a cat.",
+      "A little girl chases a cat.",
+      "A little girl takes pictures of a bird."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A father and daughter carve pumpkins together, comparing their funny designs.",
+    "id": "0167",
+    "negative_prompt": [
+      "A father and daughter paint pumpkins together, comparing their funny designs.",
+      "A father and daughter carve pumpkins together, hiding their funny designs.",
+      "A father and daughter carve logs together, comparing their funny designs.",
+      "A father and daughter carve pumpkins together, comparing their funny hats.",
+      "Two strangers carve pumpkins together, comparing their funny designs."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A little girl dresses up her teddy bear in her room.",
+    "id": "0168",
+    "negative_prompt": [
+      "A little girl throws her teddy bear in her room.",
+      "A little girl dresses up her toy car in her room.",
+      "An old man dresses up his teddy bear in her room.",
+      "A little girl kicks her teddy bear in her room.",
+      "A little girl dresses up her rock in her room."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A woman practices yoga in the park, with a puppy copying her poses.",
+    "id": "0169",
+    "negative_prompt": [
+      "A man practices yoga in the park, with a puppy copying his poses.",
+      "A woman reads a book in the park, with a puppy copying her poses.",
+      "A woman practices yoga in the park, with a puppy ignoring her poses.",
+      "A woman practices yoga in the park, with a cat copying her poses.",
+      "A woman practices yoga in the gym, with a puppy copying her poses."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A young girl teaches her puppy how to sit, rewarding it with treats.",
+    "id": "0170",
+    "negative_prompt": [
+      "An old man teaches his puppy how to sit, rewarding it with treats.",
+      "A young girl misleads her puppy how to sit, rewarding it with treats.",
+      "A young girl teaches her puppy how to stand, rewarding it with treats.",
+      "A young girl teaches her kitten how to sit, rewarding it with treats.",
+      "A young girl teaches her puppy how to sit, rewarding it with pebbles."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A grandmother reads a bedtime story to her grandchild.",
+    "id": "0171",
+    "negative_prompt": [
+      "A grandmother writes a bedtime story to her grandchild.",
+      "A grandmother sings a bedtime story to her grandchild.",
+      "A grandmother reads a textbook to her grandchild.",
+      "A teacher reads a bedtime story to her grandchild.",
+      "A grandmother reads a bedtime story to her student."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A little boy and his dad fly paper airplanes off the balcony, watching them loop and glide in the breeze.",
+    "id": "0172",
+    "negative_prompt": [
+      "A group of elderly women fly paper airplanes off the balcony, watching them loop and glide in the breeze.",
+      "A little boy and his dad catch paper airplanes off the balcony, watching them loop and glide in the breeze.",
+      "A little boy and his dad fly heavy rocks off the balcony, watching them loop and glide in the breeze.",
+      "A lone astronaut flies paper airplanes off the balcony, watching them loop and glide in the breeze.",
+      "A little boy and his dad destroy paper airplanes off the balcony, watching them loop and glide in the breeze."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A boy feeds ducks at the pond.",
+    "id": "0173",
+    "negative_prompt": [
+      "A boy starves ducks at the pond.",
+      "A boy feeds swans at the pond.",
+      "A girl feeds ducks at the pond.",
+      "A boy chases ducks at the pond.",
+      "A boy feeds ducks at the lake."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two musicians practice a duet on the piano, working to synchronize their notes and harmonies.",
+    "id": "0174",
+    "negative_prompt": [
+      "Two chefs practice a duet on the piano, working to synchronize their notes and harmonies.",
+      "Two musicians perform a duet on the piano, working to synchronize their notes and harmonies.",
+      "Two musicians practice a duet on the guitar, working to synchronize their notes and harmonies.",
+      "Two musicians practice a duet on the piano, working to scramble their notes and harmonies.",
+      "Two musicians practice a solo on the piano, working to synchronize their notes and harmonies."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A woman laughs as her friends surprise her with a birthday cake and a room full of balloons.",
+    "id": "0175",
+    "negative_prompt": [
+      "A man laughs as his friends surprise him with a birthday cake and a room full of balloons.",
+      "A woman cries as her friends surprise her with a birthday cake and a room full of balloons.",
+      "A woman laughs as her friends surprise her with a toy car and a room full of balloons.",
+      "A woman laughs as her enemies surprise her with a birthday cake and a room full of balloons.",
+      "A woman laughs as her friends surprise her with a birthday cake and a room full of bricks."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A couple watches a sunset from a rooftop, holding hands as they take in the view.",
+    "id": "0176",
+    "negative_prompt": [
+      "A couple watches a sunset from a rooftop, pushing away as they take in the view.",
+      "A couple watches a sunrise from a rooftop, holding hands as they take in the view.",
+      "A group of enemies watches a sunset from a rooftop, holding hands as they take in the view.",
+      "A couple argues about a sunset from a rooftop, holding hands as they take in the view.",
+      "A couple watches a sunset from a basement, holding hands as they take in the view."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A little boy pretends to be a doctor, using a toy stethoscope to check up on his teddy bear.",
+    "id": "0177",
+    "negative_prompt": [
+      "A grown man pretends to be a doctor, using a toy stethoscope to check up on his teddy bear.",
+      "A little boy refuses to be a doctor, using a toy stethoscope to check up on his teddy bear.",
+      "A little boy pretends to be a doctor, using a real stethoscope to check up on his teddy bear.",
+      "A little boy pretends to be a doctor, using a toy stethoscope to check up on his pet dog.",
+      "A little boy pretends to be a doctor, using a toy stethoscope to ignore his teddy bear."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two artists work on a mural together, discussing ideas and mixing colors to create a masterpiece.",
+    "id": "0178",
+    "negative_prompt": [
+      "Two chefs work on a mural together, discussing ideas and mixing colors to create a masterpiece.",
+      "Two artists rest from a mural together, discussing ideas and mixing colors to create a masterpiece.",
+      "Two artists work on a mural together, ignoring ideas and mixing colors to create a masterpiece.",
+      "Two artists work on a mural together, discussing ideas and separating colors to create a masterpiece.",
+      "Two artists work on a mural together, discussing ideas and mixing colors to ruin a masterpiece."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A girl braids her friend's hair.",
+    "id": "0179",
+    "negative_prompt": [
+      "A girl cuts her friend's hair.",
+      "A girl braids her friend's shoes.",
+      "A boy braids his friend's hair.",
+      "A girl braids a stranger's hair.",
+      "A girl washes her friend's hair."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A woman high-fives her friend after they complete a challenging hike together.",
+    "id": "0180",
+    "negative_prompt": [
+      "A woman argues with her friend after they complete a challenging hike together.",
+      "A woman high-fives her friend after they fail to complete a challenging hike together.",
+      "A man high-fives his friend after they complete a challenging hike together.",
+      "A woman high-fives her enemy after they complete a challenging hike together.",
+      "A woman high-fives her friend after they complete a challenging puzzle together."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A grandmother teaches her grandson how to bake cookies.",
+    "id": "0181",
+    "negative_prompt": [
+      "A grandmother learns from her grandson how to bake cookies.",
+      "A grandmother teaches her grandson how to bake bricks.",
+      "A stranger teaches her grandson how to bake cookies.",
+      "A grandmother teaches her grandson how to eat cookies.",
+      "A grandmother teaches her dog how to bake cookies."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A group of volunteers works together to plant trees in a local park.",
+    "id": "0182",
+    "negative_prompt": [
+      "A group of criminals works together to plant trees in a local park.",
+      "A group of volunteers works together to cut down trees in a local park.",
+      "A group of volunteers works together to plant weeds in a local park.",
+      "A group of volunteers works together to plant trees in a local desert.",
+      "A group of volunteers works together to uproot trees in a local park."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A young couple browses an art gallery, discussing their favorite pieces.",
+    "id": "0183",
+    "negative_prompt": [
+      "An old man browses an art gallery, discussing his favorite pieces.",
+      "A young couple destroys an art gallery, discussing their favorite pieces.",
+      "A young couple browses a bustling market, discussing their favorite pieces.",
+      "A young couple browses an art gallery, ignoring their favorite pieces.",
+      "A young couple browses an art gallery, discussing the blank walls."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A father and daughter race toy cars across the living room floor, cheering and laughing.",
+    "id": "0184",
+    "negative_prompt": [
+      "A father and daughter build toy cars across the living room floor, cheering and laughing.",
+      "A father and daughter race toy cars across the living room floor, silent and focused.",
+      "A father and daughter race model airplanes across the living room floor, cheering and laughing.",
+      "Two strangers race toy cars across the living room floor, cheering and laughing.",
+      "A father and daughter race toy cars across the kitchen table, cheering and laughing."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A man proposes to his partner in a flower-filled park.",
+    "id": "0185",
+    "negative_prompt": [
+      "A man argues with his partner in a flower-filled park.",
+      "A man proposes to his partner in a barren wasteland.",
+      "A man proposes to his enemy in a flower-filled park.",
+      "A man ignores his partner in a flower-filled park.",
+      "A man proposes to his partner in a crowded subway station."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two friends build a snowman together.",
+    "id": "0186",
+    "negative_prompt": [
+      "Two friends demolish a snowman together.",
+      "Two friends ignore a snowman together.",
+      "Two friends build a sandcastle together.",
+      "Two friends build a firepit together.",
+      "Two enemies build a snowman together."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A group of kids plays soccer in the street.",
+    "id": "0187",
+    "negative_prompt": [
+      "A group of adults plays soccer in the street.",
+      "A group of kids plays basketball in the street.",
+      "A group of kids reads books in the street.",
+      "A group of kids plays soccer in the park.",
+      "A group of elderly people plays soccer in the street."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A woman gives her dog a bubble bath.",
+    "id": "0188",
+    "negative_prompt": [
+      "A man gives her dog a bubble bath.",
+      "A woman scolds her dog a bubble bath.",
+      "A woman gives her cat a bubble bath.",
+      "A woman gives her dog a haircut.",
+      "A woman gives her dog a shot."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A man teaches his partner how to play a card game.",
+    "id": "0189",
+    "negative_prompt": [
+      "A man confuses his partner about how to play a card game.",
+      "A man teaches his partner how to play a board game.",
+      "A man teaches his opponent how to play a card game.",
+      "A man learns from his partner how to play a card game.",
+      "A woman teaches her partner how to play a card game."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two friends share popcorn at the movies.",
+    "id": "0190",
+    "negative_prompt": [
+      "Two enemies share popcorn at the movies.",
+      "Two friends fight over popcorn at the movies.",
+      "Two friends share soda at the movies.",
+      "Two strangers share popcorn at the movies.",
+      "Two friends hide popcorn at the movies."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A couple decorates their first Christmas tree.",
+    "id": "0191",
+    "negative_prompt": [
+      "A couple undecorates their first Christmas tree.",
+      "A couple chops down their first Christmas tree.",
+      "A couple decorates their first palm tree.",
+      "A couple decorates their first house.",
+      "A crowd decorates their first Christmas tree."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two kids build a sandcastle at the beach.",
+    "id": "0192",
+    "negative_prompt": [
+      "Two adults build a sandcastle at the beach.",
+      "Two kids destroy a sandcastle at the beach.",
+      "Two kids build a bonfire at the beach.",
+      "Two robots build a sandcastle at the beach.",
+      "Two kids ignore a sandcastle at the beach."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two hikers celebrate reaching the mountain peak.",
+    "id": "0193",
+    "negative_prompt": [
+      "Two climbers celebrate reaching the mountain peak.",
+      "Two hikers mourn reaching the mountain peak.",
+      "Two hikers celebrate reaching the valley floor.",
+      "Two skiers celebrate reaching the mountain peak.",
+      "Two hikers celebrate leaving the mountain peak."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A man teaches his friend how to surf.",
+    "id": "0194",
+    "negative_prompt": [
+      "A woman teaches her friend how to surf.",
+      "A man teaches his enemy how to surf.",
+      "A man learns from his friend how to surf.",
+      "A man teaches his friend how to code.",
+      "A child teaches their friend how to surf."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A couple plants flowers in their garden.",
+    "id": "0195",
+    "negative_prompt": [
+      "A single person plants flowers in their garden.",
+      "A couple removes flowers in their garden.",
+      "A couple plants weeds in their garden.",
+      "A crowd plants flowers in their garden.",
+      "A couple destroys flowers in their garden."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A mother teaches her son to tie his shoes.",
+    "id": "0196",
+    "negative_prompt": [
+      "A mother forbids her son to tie his shoes.",
+      "A mother teaches her son to untie his shoes.",
+      "A mother teaches her son to tie his hat.",
+      "A father teaches his son to tie his shoes.",
+      "A mother teaches her daughter to tie her shoes."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A couple goes ice skating.",
+    "id": "0197",
+    "negative_prompt": [
+      "A single person goes ice skating.",
+      "A couple goes swimming.",
+      "A crowd goes ice skating.",
+      "A couple goes running.",
+      "An animal goes ice skating."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A father pushes his daughter on a swing.",
+    "id": "0198",
+    "negative_prompt": [
+      "A father watches his daughter on a swing.",
+      "A father pushes his daughter on a slide.",
+      "A father pushes his son on a swing.",
+      "A stranger pushes his daughter on a swing.",
+      "A father pulls his daughter on a swing."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "A teacher helps a student with a science experiment.",
+    "id": "0199",
+    "negative_prompt": [
+      "A teacher hinders a student with a science experiment.",
+      "A teacher helps a student with an art project.",
+      "A robot helps a student with a science experiment.",
+      "A teacher helps a dog with a science experiment.",
+      "A teacher ignores a student with a science experiment."
+    ]
+  },
+  {
+    "type": "interaction",
+    "prompt": "Two kids have a water balloon fight on a hot day.",
+    "id": "0200",
+    "negative_prompt": [
+      "Two kids avoid a water balloon fight on a hot day.",
+      "Two kids have a snowball fight on a hot day.",
+      "Two adults have a water balloon fight on a hot day.",
+      "Two kids watch a water balloon fight on a hot day.",
+      "Two kids have a paintball fight on a hot day."
+    ]
+  }
+]

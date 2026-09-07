@@ -1,0 +1,33 @@
+# Model weights and downloaded assets
+**/checkpoints/*
+!**/checkpoints/README.md
+**/*.ckpt
+**/*.pth
+**/*.pt
+**/*.pth.tar
+**/*.safetensors
+
+# Generated/evaluation artifacts
+**/outputs/
+**/*_vbench/
+**/*_vbench_dno/
+**/*_compbench/
+**/*_compbench_dno/
+**/all_videos/
+**/metrics/
+**/logs/
+
+
+# Python/tooling
+**/__pycache__/
+**/*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+wandb/
+.idea/
+.vscode/
+
+# Local repository review utilities
+tools/
+.github/

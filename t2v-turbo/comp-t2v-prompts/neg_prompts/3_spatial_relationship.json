@@ -1,0 +1,3002 @@
+[
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog running on the left of a bicycle",
+    "id": "0001",
+    "negative_prompt": [
+      "A dog running on the right of a bicycle",
+      "A dog running in front of a bicycle",
+      "A dog running behind a bicycle",
+      "A dog running under a bicycle",
+      "A cat running on the left of a bicycle",
+      "A bird running on the left of a bicycle",
+      "A dog running on the left of a car",
+      "A dog running on the left of a rock"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sitting on the left of a fireplace",
+    "id": "0002",
+    "negative_prompt": [
+      "A cat sitting on the right of a fireplace",
+      "A cat sitting in front of a fireplace",
+      "A cat sitting behind a fireplace",
+      "A cat sitting on top of a fireplace",
+      "A cat sitting under a fireplace",
+      "A dog sitting on the left of a fireplace",
+      "A bird sitting on the left of a fireplace",
+      "A cat sitting on the left of a bookshelf"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bird flying on the left side of a hot air balloon",
+    "id": "0003",
+    "negative_prompt": [
+      "A bird flying on the right side of a hot air balloon",
+      "A bird flying above a hot air balloon",
+      "A bird flying below a hot air balloon",
+      "A bird flying behind a hot air balloon",
+      "A bird flying in front of a hot air balloon",
+      "A bird flying inside a hot air balloon",
+      "A plane flying on the left side of a hot air balloon",
+      "A bird flying on the left side of a zeppelin"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A toddler walking on the left of a dog in a park",
+    "id": "0004",
+    "negative_prompt": [
+      "An adult walking on the left of a dog in a park",
+      "A toddler walking on the right of a dog in a park",
+      "A toddler walking on the left of a cat in a park",
+      "A teenager walking on the left of a dog in a park",
+      "A toddler walking behind a dog in a park",
+      "A toddler walking on the left of a horse in a park",
+      "A man walking on the left of a dog in a park",
+      "A toddler walking in front of a dog in a park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel on the left of an old house",
+    "id": "0005",
+    "negative_prompt": [
+      "A squirrel on the right of an old house",
+      "A squirrel in front of an old house",
+      "A squirrel behind an old house",
+      "A squirrel on top of an old house",
+      "A dog on the left of an old house",
+      "A cat on the left of an old house",
+      "A squirrel on the left of an old tree",
+      "A squirrel on the left of an old car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A photographer setting up a tripod on the left of a tree",
+    "id": "0006",
+    "negative_prompt": [
+      "A photographer setting up a tripod on the right of a tree",
+      "A photographer setting up a tripod behind a tree",
+      "A photographer setting up a tripod in front of a tree",
+      "A photographer setting up a camera on the left of a tree",
+      "A photographer setting up a backpack on the left of a tree",
+      "A photographer setting up a tripod on the left of a bush",
+      "A photographer setting up a tripod on the left of a rock",
+      "A hiker setting up a tripod on the left of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A child building a sandcastle on the left of a beach umbrella",
+    "id": "0007",
+    "negative_prompt": [
+      "A adult building a sandcastle on the left of a beach umbrella",
+      "A dog building a sandcastle on the left of a beach umbrella",
+      "A child building a sandcastle on the right of a beach umbrella",
+      "A child building a sandcastle behind a beach umbrella",
+      "A child building a sandcastle in front of a beach umbrella",
+      "A child building a sandcastle above a beach umbrella",
+      "A child building a sandcastle on the left of a tree",
+      "A child building a sandcastle on the left of a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bee flying on the left of a flower",
+    "id": "0008",
+    "negative_prompt": [
+      "A bee flying on the right of a flower",
+      "A bee flying above a flower",
+      "A bee flying below a flower",
+      "A bee flying behind a flower",
+      "A spider flying on the left of a flower",
+      "A butterfly flying on the left of a flower",
+      "A bee flying on the left of a tree",
+      "A bee flying on the left of a rock"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A penguin standing on the left side of a cactus in a desert",
+    "id": "0009",
+    "negative_prompt": [
+      "A penguin standing on the right side of a cactus in a desert",
+      "A penguin standing behind a cactus in a desert",
+      "A penguin standing in front of a cactus in a desert",
+      "A penguin standing above a cactus in a desert",
+      "A polar bear standing on the left side of a cactus in a desert",
+      "A flamingo standing on the left side of a cactus in a desert",
+      "A penguin standing on the left side of an oak tree in a desert",
+      "A penguin standing on the left side of a cactus in an ocean"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A sheep grazing on the left of a surfboard on a sandy beach",
+    "id": "0010",
+    "negative_prompt": [
+      "A sheep grazing on the right of a surfboard on a sandy beach",
+      "A sheep grazing behind a surfboard on a sandy beach",
+      "A sheep grazing in front of a surfboard on a sandy beach",
+      "A sheep grazing above a surfboard on a sandy beach",
+      "A wolf grazing on the left of a surfboard on a sandy beach",
+      "A cow grazing on the left of a surfboard on a sandy beach",
+      "A sheep grazing on the left of a boat on a sandy beach",
+      "A sheep grazing on the left of a car on a sandy beach"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A gorilla sitting on the left side of a vending machine in a forest",
+    "id": "0011",
+    "negative_prompt": [
+      "A gorilla sitting on the right side of a vending machine in a forest",
+      "A gorilla sitting in front of a vending machine in a forest",
+      "A gorilla sitting behind a vending machine in a forest",
+      "A gorilla sitting on top of a vending machine in a forest",
+      "A mouse sitting on the left side of a vending machine in a forest",
+      "An elephant sitting on the left side of a vending machine in a forest",
+      "A gorilla sitting on the left side of a car in a forest",
+      "A gorilla sitting on the left side of a tree in a forest"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "An elephant standing on the left of a rowboat in a small pond",
+    "id": "0012",
+    "negative_prompt": [
+      "An elephant standing on the right of a rowboat in a small pond",
+      "An elephant standing above a rowboat in a small pond",
+      "An elephant standing below a rowboat in a small pond",
+      "An elephant standing behind a rowboat in a small pond",
+      "An elephant standing in front of a rowboat in a small pond",
+      "An elephant standing inside a rowboat in a small pond",
+      "A mouse standing on the left of a rowboat in a small pond",
+      "An elephant standing on the left of a rowboat in a vast ocean"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A llama walking on the left side of a motorcycle in a city street",
+    "id": "0013",
+    "negative_prompt": [
+      "A llama walking on the right side of a motorcycle in a city street",
+      "A llama walking behind a motorcycle in a city street",
+      "A llama walking in front of a motorcycle in a city street",
+      "A llama walking above a motorcycle in a city street",
+      "A dog walking on the left side of a motorcycle in a city street",
+      "A cat walking on the left side of a motorcycle in a city street",
+      "A llama walking on the left side of a car in a city street",
+      "A llama walking on the left side of a bicycle in a city street"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel on the left of a birthday cake at a party in the park",
+    "id": "0014",
+    "negative_prompt": [
+      "A squirrel on the right of a birthday cake at a party in the park",
+      "A squirrel above a birthday cake at a party in the park",
+      "A squirrel below a birthday cake at a party in the park",
+      "A squirrel in front of a birthday cake at a party in the park",
+      "A cat on the left of a birthday cake at a party in the park",
+      "A squirrel on the left of a sandwich at a party in the park",
+      "A squirrel on the left of a birthday cake at a funeral in the park",
+      "A squirrel on the left of a birthday cake at a party in the office"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog running on the right of a bicycle",
+    "id": "0015",
+    "negative_prompt": [
+      "A dog running on the left of a bicycle",
+      "A dog running behind a bicycle",
+      "A dog running in front of a bicycle",
+      "A dog running under a bicycle",
+      "A dog running above a bicycle",
+      "A cat running on the right of a bicycle",
+      "A bird running on the right of a bicycle",
+      "A dog running on the right of a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sitting on the right of a fireplace",
+    "id": "0016",
+    "negative_prompt": [
+      "A cat sitting on the left of a fireplace",
+      "A cat sitting in front of a fireplace",
+      "A cat sitting behind a fireplace",
+      "A cat sitting on top of a fireplace",
+      "A dog sitting on the right of a fireplace",
+      "A bird sitting on the right of a fireplace",
+      "A cat sitting on the right of a stove",
+      "A cat sitting on the right of a window"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bird flying on the right side of a hot air balloon",
+    "id": "0017",
+    "negative_prompt": [
+      "A bird flying on the left side of a hot air balloon",
+      "A bird flying above a hot air balloon",
+      "A bird flying below a hot air balloon",
+      "A bird flying in front of a hot air balloon",
+      "A fish flying on the right side of a hot air balloon",
+      "A dog flying on the right side of a hot air balloon",
+      "A bird flying on the right side of a building",
+      "A bird flying on the right side of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A toddler walking on the right of a dog in a park",
+    "id": "0018",
+    "negative_prompt": [
+      "A toddler walking on the left of a dog in a park",
+      "A toddler walking behind a dog in a park",
+      "A toddler walking in front of a dog in a park",
+      "An adult walking on the right of a dog in a park",
+      "An elderly person walking on the right of a dog in a park",
+      "A toddler walking on the right of a cat in a park",
+      "A toddler walking on the right of a horse in a park",
+      "A toddler walking under a dog in a park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel on the right of an old house",
+    "id": "0019",
+    "negative_prompt": [
+      "A squirrel on the left of an old house",
+      "A squirrel behind an old house",
+      "A squirrel in front of an old house",
+      "A squirrel under an old house",
+      "A cat on the right of an old house",
+      "A dog on the right of an old house",
+      "A bird on the right of an old house",
+      "A squirrel on the right of an old tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A photographer setting up a tripod on the right of a tree",
+    "id": "0020",
+    "negative_prompt": [
+      "A photographer setting up a tripod on the left of a tree",
+      "A photographer setting up a tripod behind a tree",
+      "A photographer setting up a tripod in front of a tree",
+      "A photographer setting up a tripod under a tree",
+      "A photographer setting up a monopod on the right of a tree",
+      "A photographer setting up an easel on the right of a tree",
+      "A photographer setting up a tripod on the right of a bush",
+      "A painter setting up a tripod on the right of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A child building a sandcastle on the right of a beach umbrella",
+    "id": "0021",
+    "negative_prompt": [
+      "An adult building a sandcastle on the right of a beach umbrella",
+      "A child building a bonfire on the right of a beach umbrella",
+      "A child building a sandcastle on the right of a tent",
+      "A child building a sandcastle on the left of a beach umbrella",
+      "A child building a sandcastle behind a beach umbrella",
+      "A child building a sandcastle in front of a beach umbrella",
+      "A child building a sandcastle next to a beach umbrella",
+      "A child building a sandcastle far from a beach umbrella"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bee flying on the right of a flower",
+    "id": "0022",
+    "negative_prompt": [
+      "A bee flying on the left of a flower",
+      "A bee flying above a flower",
+      "A bee flying below a flower",
+      "A bee flying behind a flower",
+      "A bee flying in front of a flower",
+      "A butterfly flying on the right of a flower",
+      "A wasp flying on the right of a flower",
+      "A bee flying on the right of a rock"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A penguin standing on the right side of a cactus in a desert",
+    "id": "0023",
+    "negative_prompt": [
+      "A penguin standing on the left side of a cactus in a desert",
+      "A parrot standing on the right side of a cactus in a desert",
+      "A penguin standing behind a cactus in a desert",
+      "A penguin standing on the right side of a tree in a desert",
+      "A penguin standing in front of a cactus in a desert",
+      "A penguin standing on the right side of a cactus in a forest",
+      "A penguin standing above a cactus in a desert",
+      "A lion standing on the right side of a cactus in a desert"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A sheep grazing on the right of a surfboard on a sandy beach",
+    "id": "0024",
+    "negative_prompt": [
+      "A sheep grazing on the left of a surfboard on a sandy beach",
+      "A sheep grazing behind a surfboard on a sandy beach",
+      "A sheep grazing in front of a surfboard on a sandy beach",
+      "A sheep grazing above a surfboard on a sandy beach",
+      "A cow grazing on the right of a surfboard on a sandy beach",
+      "A sheep grazing on the right of a bicycle on a sandy beach",
+      "A sheep grazing on the right of a surfboard on a forest",
+      "A sheep grazing on the right of a boat on a sandy beach"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A gorilla sitting on the right side of a vending machine in a forest",
+    "id": "0025",
+    "negative_prompt": [
+      "A gorilla sitting on the left side of a vending machine in a forest",
+      "A gorilla sitting in front of a vending machine in a forest",
+      "A gorilla sitting behind a vending machine in a forest",
+      "A gorilla sitting above a vending machine in a forest",
+      "A dog sitting on the right side of a vending machine in a forest",
+      "A cat sitting on the right side of a vending machine in a forest",
+      "A gorilla sitting on the right side of a tree in a forest",
+      "A gorilla sitting on the right side of a car in a forest"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "An elephant standing on the right of a rowboat in a small pond",
+    "id": "0026",
+    "negative_prompt": [
+      "An elephant standing on the left of a rowboat in a small pond",
+      "An elephant standing in front of a rowboat in a small pond",
+      "An elephant standing behind a rowboat in a small pond",
+      "An elephant standing on top of a rowboat in a small pond",
+      "A mouse standing on the right of a rowboat in a small pond",
+      "A lion standing on the right of a rowboat in a small pond",
+      "An elephant standing on the right of a car in a small pond",
+      "An elephant standing on the right of a ship in a small pond"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A llama walking on the right side of a motorcycle in a city street",
+    "id": "0027",
+    "negative_prompt": [
+      "A llama walking on the left side of a motorcycle in a city street",
+      "A llama walking behind a motorcycle in a city street",
+      "A llama walking in front of a motorcycle in a city street",
+      "A llama walking above a motorcycle in a city street",
+      "An elephant walking on the right side of a motorcycle in a city street",
+      "A llama walking on the right side of a bicycle in a city street",
+      "A llama walking on the right side of a motorcycle on a beach",
+      "A cat walking on the right side of a motorcycle in a city street"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel on the right of a birthday cake at a party in the park",
+    "id": "0028",
+    "negative_prompt": [
+      "A squirrel on the left of a birthday cake at a party in the park",
+      "A squirrel behind a birthday cake at a party in the park",
+      "A squirrel in front of a birthday cake at a party in the park",
+      "A squirrel under a birthday cake at a party in the park",
+      "A cat on the right of a birthday cake at a party in the park",
+      "A bird on the right of a birthday cake at a party in the park",
+      "A squirrel on the right of a pie at a party in the park",
+      "A squirrel on the right of a picnic basket at a party in the park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A traffic light suspended above a bicycle",
+    "id": "0029",
+    "negative_prompt": [
+      "A street lamp suspended above a bicycle",
+      "A billboard suspended above a bicycle",
+      "A signpost suspended above a bicycle",
+      "A traffic light suspended above a car",
+      "A traffic light suspended above a motorcycle",
+      "A traffic light suspended above a bench",
+      "A traffic light placed under a bicycle",
+      "A traffic light lying beside a bicycle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A clock mounted above an ancient door in a bustling old town",
+    "id": "0030",
+    "negative_prompt": [
+      "A clock mounted below an ancient door in a bustling old town",
+      "A clock mounted beside an ancient door in a bustling old town",
+      "A clock mounted inside an ancient door in a bustling old town",
+      "A clock mounted under an ancient door in a bustling old town",
+      "A painting mounted above an ancient door in a bustling old town",
+      "A mirror mounted above an ancient door in a bustling old town",
+      "A clock mounted above an ancient window in a bustling old town",
+      "A clock mounted above an ancient archway in a bustling old town"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A kite stuck in a tree above a boy in a park",
+    "id": "0031",
+    "negative_prompt": [
+      "A kite stuck in a tree below a boy in a park",
+      "A balloon stuck in a tree above a boy in a park",
+      "A kite stuck in a tree above a girl in a park",
+      "A kite flying over a tree above a boy in a park",
+      "A kite stuck in a building above a boy in a park",
+      "A kite stuck in a tree above a man in a park",
+      "A kite stuck in a tree beside a boy in a park",
+      "A kite stuck in a tree above a boy in a desert"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A hot air balloon floating above a sheep",
+    "id": "0032",
+    "negative_prompt": [
+      "A hot air balloon floating below a sheep",
+      "A hot air balloon floating beside a sheep",
+      "A hot air balloon floating behind a sheep",
+      "A hot air balloon floating under a sheep",
+      "An airplane floating above a sheep",
+      "A blimp floating above a sheep",
+      "A hot air balloon floating above a cow",
+      "A hot air balloon floating above a horse"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A hammock strung between two trees above a suitcase",
+    "id": "0033",
+    "negative_prompt": [
+      "A hammock strung next to two trees above a suitcase",
+      "A hammock strung outside of two trees above a suitcase",
+      "A hammock strung between two trees below a suitcase",
+      "A hammock strung between two trees under a suitcase",
+      "A tent strung between two trees above a suitcase",
+      "A swing strung between two trees above a suitcase",
+      "A hammock strung between two poles above a suitcase",
+      "A hammock strung between two trees above a backpack"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A banner fluttering above a house",
+    "id": "0034",
+    "negative_prompt": [
+      "A banner fluttering below a house",
+      "A banner fluttering beside a house",
+      "A banner fluttering on a house",
+      "A banner fluttering behind a house",
+      "A kite fluttering above a house",
+      "A sheet fluttering above a house",
+      "A banner fluttering above a tree",
+      "A banner fluttering above a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A chandelier hanging above a grand piano in a busy hotel lobby",
+    "id": "0035",
+    "negative_prompt": [
+      "A rug hanging above a grand piano in a busy hotel lobby",
+      "A chandelier hanging above a sofa in a busy hotel lobby",
+      "A chandelier hanging below a grand piano in a busy hotel lobby",
+      "A painting hanging above a grand piano in a busy hotel lobby",
+      "A chandelier hanging above a dining table in a busy hotel lobby",
+      "A chandelier hanging next to a grand piano in a busy hotel lobby",
+      "A shelf hanging above a grand piano in a busy hotel lobby",
+      "A chandelier hanging above a bookshelf in a busy hotel lobby"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A rabbit playing on a table",
+    "id": "0036",
+    "negative_prompt": [
+      "A rabbit playing under a table",
+      "A rabbit playing beside a table",
+      "A rabbit playing behind a table",
+      "A rabbit playing in front of a table",
+      "A dog playing on a table",
+      "A cat playing on a table",
+      "A rabbit playing on a chair",
+      "A rabbit playing on a floor"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A backpack placed on a table in a bustling coffee shop",
+    "id": "0037",
+    "negative_prompt": [
+      "A suitcase placed on a table in a bustling coffee shop",
+      "A briefcase placed on a table in a bustling coffee shop",
+      "A shopping bag placed on a table in a bustling coffee shop",
+      "A backpack placed on a chair in a bustling coffee shop",
+      "A backpack placed on the floor in a bustling coffee shop",
+      "A backpack placed on a table in a bustling library",
+      "A backpack placed on a table in a bustling market",
+      "A backpack placed under a table in a bustling coffee shop"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A hat left on a statue in a busy park",
+    "id": "0038",
+    "negative_prompt": [
+      "A hat under a statue in a busy park",
+      "A hat next to a statue in a busy park",
+      "A hat floating above a statue in a busy park",
+      "A hat far from a statue in a busy park",
+      "A shoe left on a statue in a busy park",
+      "A hat left on a bench in a busy park",
+      "A hat left on a statue in a busy desert",
+      "A hat left on a fountain in a busy park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A frog perched on a refrigerator in a busy kitchen",
+    "id": "0039",
+    "negative_prompt": [
+      "A frog under a refrigerator in a busy kitchen",
+      "A frog inside a refrigerator in a busy kitchen",
+      "A frog perched on a refrigerator outside a busy kitchen",
+      "A bird perched on a refrigerator in a busy kitchen",
+      "A mouse perched on a refrigerator in a busy kitchen",
+      "A frog perched on a washing machine in a busy kitchen",
+      "A frog perched on a bookshelf in a busy kitchen",
+      "A frog perched on a refrigerator in a busy living room"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat lounging on top of a television in a living room",
+    "id": "0040",
+    "negative_prompt": [
+      "A cat lounging under a television in a living room",
+      "A cat lounging beside a television in a living room",
+      "A cat lounging behind a television in a living room",
+      "A cat lounging in front of a television in a living room",
+      "A cat lounging next to a television in a living room",
+      "A dog lounging on top of a television in a living room",
+      "A cat lounging on top of a bookshelf in a living room",
+      "A cat lounging on top of a television in a kitchen"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A rabbit sitting on a drum in the middle of a rock concert",
+    "id": "0041",
+    "negative_prompt": [
+      "A rabbit standing next to a drum in the middle of a rock concert",
+      "A rabbit floating above a drum in the middle of a rock concert",
+      "A rabbit hiding behind a drum in the middle of a rock concert",
+      "A rabbit sitting on a drum outside of a rock concert",
+      "A rabbit sitting on a drum far from a rock concert",
+      "A dog sitting on a drum in the middle of a rock concert",
+      "A rabbit sitting on a piano in the middle of a rock concert",
+      "A rabbit sitting on a drum in the middle of a garden party"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog sitting atop a moving robot vacuum in a room",
+    "id": "0042",
+    "negative_prompt": [
+      "A dog sitting under a moving robot vacuum in a room",
+      "A dog sitting beside a moving robot vacuum in a room",
+      "A dog sitting behind a moving robot vacuum in a room",
+      "A cat sitting atop a moving robot vacuum in a room",
+      "A bird sitting atop a moving robot vacuum in a room",
+      "A dog sitting atop a moving chair in a room",
+      "A dog sitting atop a moving bed in a room",
+      "A dog sitting atop a moving robot vacuum in a desert"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A lizard basking on a solar panel on a hot day",
+    "id": "0043",
+    "negative_prompt": [
+      "A bird basking on a solar panel on a hot day",
+      "A lizard basking under a solar panel on a hot day",
+      "A lizard basking on a car on a hot day",
+      "A lizard basking next to a solar panel on a hot day",
+      "A cat basking on a solar panel on a hot day",
+      "A lizard basking above a solar panel on a hot day",
+      "A lizard basking on a tree branch on a hot day",
+      "A lizard basking inside a solar panel on a hot day"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A goldfish bowl set on a suitcase",
+    "id": "0044",
+    "negative_prompt": [
+      "A goldfish bowl set under a suitcase",
+      "A goldfish bowl set next to a suitcase",
+      "A goldfish bowl set inside a suitcase",
+      "A goldfish bowl set above a suitcase",
+      "A brick set on a suitcase",
+      "A coffee mug set on a suitcase",
+      "A goldfish bowl set on a chair",
+      "A goldfish bowl set on a pillow"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat hiding under a bench in a park",
+    "id": "0045",
+    "negative_prompt": [
+      "A cat hiding on a bench in a park",
+      "A cat hiding above a bench in a park",
+      "A cat hiding behind a bench in a park",
+      "A cat hiding in front of a bench in a park",
+      "A dog hiding under a bench in a park",
+      "A mouse hiding under a bench in a park",
+      "A cat hiding under a tree in a park",
+      "A cat hiding under a bench in a city"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog sitting under a umbrella on a sunny beach",
+    "id": "0046",
+    "negative_prompt": [
+      "A dog sitting above a umbrella on a sunny beach",
+      "A dog sitting next to a umbrella on a sunny beach",
+      "A dog sitting behind a umbrella on a sunny beach",
+      "A dog sitting in front of a umbrella on a sunny beach",
+      "A cat sitting under a umbrella on a sunny beach",
+      "A dog sitting under a tree on a sunny beach",
+      "A dog sitting under a umbrella on a sunny mountain",
+      "A squirrel sitting under a umbrella on a sunny beach"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel darting under a car",
+    "id": "0047",
+    "negative_prompt": [
+      "A squirrel darting over a car",
+      "A squirrel darting on a car",
+      "A squirrel darting next to a car",
+      "A squirrel darting behind a car",
+      "A squirrel darting in front of a car",
+      "A squirrel darting above a car",
+      "A cat darting under a car",
+      "A bird darting under a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A frog resting under a leaf during a rainstorm",
+    "id": "0048",
+    "negative_prompt": [
+      "A frog resting above a leaf during a rainstorm",
+      "A frog resting on a leaf during a rainstorm",
+      "A frog resting next to a leaf during a rainstorm",
+      "A frog resting in front of a leaf during a rainstorm",
+      "A dog resting under a leaf during a rainstorm",
+      "A frog resting under a rock during a rainstorm",
+      "A frog resting under a leaf during a sunny day",
+      "A cat resting under a leaf during a rainstorm"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A puppy dozing under a crowded cafe table during lunch hour",
+    "id": "0049",
+    "negative_prompt": [
+      "A puppy dozing on a crowded cafe table during lunch hour",
+      "A kitten dozing under a crowded cafe table during lunch hour",
+      "A puppy dozing under a crowded park bench during lunch hour",
+      "A puppy dozing under an empty cafe table during lunch hour",
+      "A puppy dozing above a crowded cafe table during lunch hour",
+      "An adult dog dozing under a crowded cafe table during lunch hour",
+      "A puppy dozing under a crowded office desk during lunch hour",
+      "A puppy dozing under a sparse cafe table during lunch hour"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle resting at the bottom of a garden bench",
+    "id": "0050",
+    "negative_prompt": [
+      "A turtle resting on top of a garden bench",
+      "A turtle resting next to a garden bench",
+      "A turtle resting behind a garden bench",
+      "A turtle resting in front of a garden bench",
+      "A cat resting at the bottom of a garden bench",
+      "A bird resting at the bottom of a garden bench",
+      "A turtle resting at the bottom of a tree",
+      "A turtle resting at the bottom of a rock"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A swan swimming under a bridge",
+    "id": "0051",
+    "negative_prompt": [
+      "A swan swimming above a bridge",
+      "A duck swimming under a bridge",
+      "A swan swimming next to a bridge",
+      "A swan swimming under a tree",
+      "A swan swimming far from a bridge",
+      "A fish swimming under a bridge",
+      "A swan swimming through a bridge",
+      "A swan swimming under a cliff"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A basket placed below a television",
+    "id": "0052",
+    "negative_prompt": [
+      "A basket placed above a television",
+      "A basket placed next to a television",
+      "A basket placed in front of a television",
+      "A basket placed behind a television",
+      "A table placed below a television",
+      "A basket placed below a painting",
+      "A box placed below a television",
+      "A basket placed below a window"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A toy lying under a swing in a playground",
+    "id": "0053",
+    "negative_prompt": [
+      "A toy lying over a swing in a playground",
+      "A toy lying on a swing in a playground",
+      "A toy lying beside a swing in a playground",
+      "A toy lying in front of a swing in a playground",
+      "A toy lying behind a swing in a playground",
+      "A book lying under a swing in a playground",
+      "A ball lying under a swing in a playground",
+      "A toy lying under a slide in a playground"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A horse hiding under a table",
+    "id": "0054",
+    "negative_prompt": [
+      "A horse hiding on a table",
+      "A horse hiding above a table",
+      "A horse hiding behind a table",
+      "A horse hiding in front of a table",
+      "A dog hiding under a table",
+      "A cat hiding under a table",
+      "A horse hiding under a chair",
+      "A horse hiding under a bed"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A duck waddling below a spacecraft",
+    "id": "0055",
+    "negative_prompt": [
+      "A duck waddling above a spacecraft",
+      "A duck waddling next to a spacecraft",
+      "A duck waddling inside a spacecraft",
+      "A duck waddling around a spacecraft",
+      "A chicken waddling below a spacecraft",
+      "A cat waddling below a spacecraft",
+      "A duck waddling below a car",
+      "A duck waddling below a house"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "clouds floating under a balloon",
+    "id": "0056",
+    "negative_prompt": [
+      "clouds floating above a balloon",
+      "clouds floating beside a balloon",
+      "clouds floating on a balloon",
+      "clouds floating around a balloon",
+      "mountains floating under a balloon",
+      "birds floating under a balloon",
+      "clouds floating under a kite",
+      "clouds floating under a plane"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A parrot flying under a drone",
+    "id": "0057",
+    "negative_prompt": [
+      "A parrot flying over a drone",
+      "A parrot flying next to a drone",
+      "A parrot flying in front of a drone",
+      "A parrot flying behind a drone",
+      "A dog flying under a drone",
+      "A fish flying under a drone",
+      "A parrot flying under an airplane",
+      "A parrot flying under a building"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sitting in front of a cake",
+    "id": "0058",
+    "negative_prompt": [
+      "A cat sitting behind a cake",
+      "A cat sitting on top of a cake",
+      "A cat sitting under a cake",
+      "A cat sitting next to a cake",
+      "A dog sitting in front of a cake",
+      "A bird sitting in front of a cake",
+      "A cat sitting in front of a pie",
+      "A cat sitting in front of a donut"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog waiting patiently in front of a shop",
+    "id": "0059",
+    "negative_prompt": [
+      "A dog waiting patiently behind a shop",
+      "A dog waiting patiently inside a shop",
+      "A dog waiting patiently on top of a shop",
+      "A dog waiting patiently under a shop",
+      "A cat waiting patiently in front of a shop",
+      "A bird waiting patiently in front of a shop",
+      "A dog waiting patiently in front of a house",
+      "A dog waiting patiently in front of a park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A horse standing in front of a farmhouse",
+    "id": "0060",
+    "negative_prompt": [
+      "A horse standing behind a farmhouse",
+      "A horse standing inside a farmhouse",
+      "A horse standing on top of a farmhouse",
+      "A horse standing under a farmhouse",
+      "A cow standing in front of a farmhouse",
+      "A dog standing in front of a farmhouse",
+      "A horse standing in front of a barn",
+      "A horse standing in front of a mountain"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A motorcycle driving in front of a building",
+    "id": "0061",
+    "negative_prompt": [
+      "A motorcycle driving behind a building",
+      "A motorcycle driving next to a building",
+      "A motorcycle driving on top of a building",
+      "A motorcycle driving inside a building",
+      "A car driving in front of a building",
+      "A bicycle driving in front of a building",
+      "A motorcycle driving in front of a tree",
+      "A motorcycle driving in front of a mountain"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cow walking in front of a chair",
+    "id": "0062",
+    "negative_prompt": [
+      "A cow walking behind a chair",
+      "A cow walking next to a chair",
+      "A cow walking on top of a chair",
+      "A cow walking under a chair",
+      "A cow walking around a chair",
+      "A cat walking in front of a chair",
+      "A cow walking in front of a table",
+      "A cow walking in front of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bee flying in front of a bag",
+    "id": "0063",
+    "negative_prompt": [
+      "A bee flying behind a bag",
+      "A bee flying above a bag",
+      "A bee flying under a bag",
+      "A fly flying in front of a bag",
+      "A moth flying in front of a bag",
+      "A wasp flying in front of a bag",
+      "A bee flying in front of a box",
+      "A bee flying in front of a chair"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A vase is placed in front of a window",
+    "id": "0064",
+    "negative_prompt": [
+      "A vase is placed behind a window",
+      "A vase is placed next to a window",
+      "A vase is placed above a window",
+      "A vase is placed under a window",
+      "A cup is placed in front of a window",
+      "A plant is placed in front of a window",
+      "A vase is placed in front of a wall",
+      "A vase is placed in front of a door"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bird flying in front of a tower",
+    "id": "0065",
+    "negative_prompt": [
+      "A bird flying behind a tower",
+      "A bird flying on top of a tower",
+      "A bird flying under a tower",
+      "A bird flying next to a tower",
+      "A bird flying inside a tower",
+      "A bird flying around a tower",
+      "A plane flying in front of a tower",
+      "A bird flying in front of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A child walking in front of a car",
+    "id": "0066",
+    "negative_prompt": [
+      "A child walking behind a car",
+      "A child walking next to a car",
+      "A child walking on a car",
+      "A child walking under a car",
+      "A child walking in front of a bicycle",
+      "A child walking in front of a truck",
+      "A child walking in front of a train",
+      "An adult walking in front of a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A car parked in front of a pig",
+    "id": "0067",
+    "negative_prompt": [
+      "A car parked behind a pig",
+      "A car parked next to a pig",
+      "A car parked on top of a pig",
+      "A car parked under a pig",
+      "A bicycle parked in front of a pig",
+      "A truck parked in front of a pig",
+      "A car parked in front of a cow",
+      "A car parked in front of a dog"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A balloon floating in front of an airplane",
+    "id": "0068",
+    "negative_prompt": [
+      "A balloon floating behind an airplane",
+      "A balloon floating above an airplane",
+      "A balloon floating below an airplane",
+      "A balloon floating next to an airplane",
+      "A bird floating in front of an airplane",
+      "A rock floating in front of an airplane",
+      "A balloon floating in front of a car",
+      "A balloon floating in front of a train"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cup in front of a turtle",
+    "id": "0069",
+    "negative_prompt": [
+      "A cup behind a turtle",
+      "A cup on top of a turtle",
+      "A cup under a turtle",
+      "A cup next to a turtle",
+      "A bowl in front of a turtle",
+      "A plate in front of a turtle",
+      "A cup in front of a dog",
+      "A cup in front of a rabbit"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A fish swimming in front of a suitcase",
+    "id": "0070",
+    "negative_prompt": [
+      "A fish swimming behind a suitcase",
+      "A fish swimming on top of a suitcase",
+      "A fish swimming under a suitcase",
+      "A fish swimming inside a suitcase",
+      "A bird swimming in front of a suitcase",
+      "A mouse swimming in front of a suitcase",
+      "A fish swimming in front of a tree",
+      "A fish swimming in front of a mountain"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A camel lounging in front of a snowman",
+    "id": "0071",
+    "negative_prompt": [
+      "A camel lounging behind a snowman",
+      "A camel lounging on top of a snowman",
+      "A camel lounging under a snowman",
+      "A dog lounging in front of a snowman",
+      "An elephant lounging in front of a snowman",
+      "A bear lounging in front of a snowman",
+      "A camel lounging in front of a tree",
+      "A camel lounging in front of a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sitting behind a cake",
+    "id": "0072",
+    "negative_prompt": [
+      "A cat sitting in front of a cake",
+      "A cat sitting on top of a cake",
+      "A cat sitting under a cake",
+      "A cat sitting next to a cake",
+      "A dog sitting behind a cake",
+      "A bird sitting behind a cake",
+      "A cat sitting behind a pie",
+      "A cat sitting behind a book"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog waiting patiently behind a cat",
+    "id": "0073",
+    "negative_prompt": [
+      "A dog waiting patiently in front of a cat",
+      "A dog waiting patiently next to a cat",
+      "A dog waiting patiently above a cat",
+      "A dog waiting patiently below a cat",
+      "A bird waiting patiently behind a cat",
+      "A mouse waiting patiently behind a cat",
+      "A dog waiting patiently behind a fish",
+      "A dog waiting patiently behind a snake"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A horse standing behind a man",
+    "id": "0074",
+    "negative_prompt": [
+      "A horse standing in front of a man",
+      "A horse standing next to a man",
+      "A horse standing on top of a man",
+      "A dog standing behind a man",
+      "A cat standing behind a man",
+      "An elephant standing behind a man",
+      "A horse standing behind a woman",
+      "A horse standing behind a child"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A sculpture displayed behind a candle",
+    "id": "0075",
+    "negative_prompt": [
+      "A sculpture displayed in front of a candle",
+      "A sculpture displayed next to a candle",
+      "A sculpture displayed above a candle",
+      "A sculpture displayed below a candle",
+      "A painting displayed behind a candle",
+      "A vase displayed behind a candle",
+      "A sculpture displayed behind a lamp",
+      "A sculpture displayed behind a flower"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A motorcycle parked behind a dog",
+    "id": "0076",
+    "negative_prompt": [
+      "A motorcycle parked in front of a dog",
+      "A motorcycle parked next to a dog",
+      "A motorcycle parked on top of a dog",
+      "A motorcycle parked under a dog",
+      "A bicycle parked behind a dog",
+      "A car parked behind a dog",
+      "A motorcycle parked behind a cat",
+      "A motorcycle parked behind a bird"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cow walking behind a chair",
+    "id": "0077",
+    "negative_prompt": [
+      "A cow walking in front of a chair",
+      "A cow walking on a chair",
+      "A cow walking under a chair",
+      "A cow walking next to a chair",
+      "A dog walking behind a chair",
+      "A cat walking behind a chair",
+      "A cow walking behind a table",
+      "A cow walking behind a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A sheep grazing behind a bicycle",
+    "id": "0078",
+    "negative_prompt": [
+      "A sheep grazing in front of a bicycle",
+      "A sheep grazing under a bicycle",
+      "A sheep grazing on a bicycle",
+      "A sheep grazing next to a bicycle",
+      "A cow grazing behind a bicycle",
+      "A dog grazing behind a bicycle",
+      "A sheep grazing behind a car",
+      "A sheep grazing behind a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog sitting behind a vase",
+    "id": "0079",
+    "negative_prompt": [
+      "A dog sitting in front of a vase",
+      "A dog sitting on a vase",
+      "A dog sitting under a vase",
+      "A dog sitting inside a vase",
+      "A cat sitting behind a vase",
+      "A bird sitting behind a vase",
+      "A dog sitting behind a cup",
+      "A dog sitting behind a book"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A helicopter flying behind a balloon",
+    "id": "0080",
+    "negative_prompt": [
+      "A helicopter flying in front of a balloon",
+      "A helicopter flying above a balloon",
+      "A helicopter flying below a balloon",
+      "A helicopter flying next to a balloon",
+      "An airplane flying behind a balloon",
+      "A drone flying behind a balloon",
+      "A helicopter flying behind a kite",
+      "A helicopter flying behind a bird"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A child walking behind a car",
+    "id": "0081",
+    "negative_prompt": [
+      "A child walking in front of a car",
+      "A child walking behind a bicycle",
+      "An adult walking behind a car",
+      "A child walking next to a car",
+      "A child walking behind a tree",
+      "A dog walking behind a car",
+      "A child walking on top of a car",
+      "A child walking behind a building"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A car parked behind a pig",
+    "id": "0082",
+    "negative_prompt": [
+      "A car parked in front of a pig",
+      "A car parked on a pig",
+      "A car parked under a pig",
+      "A car parked next to a pig",
+      "A bicycle parked behind a pig",
+      "A truck parked behind a pig",
+      "A car parked behind a cow",
+      "A car parked behind a dog"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A balloon floating behind a bird",
+    "id": "0083",
+    "negative_prompt": [
+      "A balloon floating in front of a bird",
+      "A balloon floating above a bird",
+      "A balloon floating below a bird",
+      "A balloon floating next to a bird",
+      "A stone floating behind a bird",
+      "A car floating behind a bird",
+      "A balloon floating behind a fish",
+      "A balloon floating behind a dog"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cup behind a turtle",
+    "id": "0084",
+    "negative_prompt": [
+      "A cup in front of a turtle",
+      "A cup on a turtle",
+      "A cup under a turtle",
+      "A cup next to a turtle",
+      "A plate behind a turtle",
+      "A bottle behind a turtle",
+      "A cup behind a rabbit",
+      "A cup behind a cat"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bus driving behind a man",
+    "id": "0085",
+    "negative_prompt": [
+      "A bus driving in front of a man",
+      "A bus driving next to a man",
+      "A bus driving above a man",
+      "A car driving behind a man",
+      "A train driving behind a man",
+      "A bicycle driving behind a man",
+      "A bus driving behind a woman",
+      "A bus driving behind a child"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A lion sitting behind a chicken",
+    "id": "0086",
+    "negative_prompt": [
+      "A lion sitting in front of a chicken",
+      "A lion sitting on top of a chicken",
+      "A lion sitting under a chicken",
+      "A lion sitting next to a chicken",
+      "A cat sitting behind a chicken",
+      "A dog sitting behind a chicken",
+      "A lion sitting behind an egg",
+      "A lion sitting behind a cow"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A camel lounging behind a snowman",
+    "id": "0087",
+    "negative_prompt": [
+      "A camel lounging in front of a snowman",
+      "A camel lounging on top of a snowman",
+      "A camel lounging under a snowman",
+      "A camel lounging beside a snowman",
+      "A cat lounging behind a snowman",
+      "A lion lounging behind a snowman",
+      "A camel lounging behind a palm tree",
+      "A camel lounging behind a sandcastle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl walking on the left of an elephant",
+    "id": "0088",
+    "negative_prompt": [
+      "A girl walking on the right of an elephant",
+      "A girl walking in front of an elephant",
+      "A girl walking behind an elephant",
+      "A girl walking above an elephant",
+      "A girl walking below an elephant",
+      "A girl walking on the left of a cat",
+      "A girl walking on the left of a car",
+      "A boy walking on the left of an elephant"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A book on the left of a bird",
+    "id": "0089",
+    "negative_prompt": [
+      "A book on the right of a bird",
+      "A book above a bird",
+      "A book below a bird",
+      "A book in front of a bird",
+      "A car on the left of a bird",
+      "A book on the left of a cat",
+      "A lamp on the left of a bird",
+      "A book on the left of a fish"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat on the left of a vase",
+    "id": "0090",
+    "negative_prompt": [
+      "A cat on the right of a vase",
+      "A cat above a vase",
+      "A cat below a vase",
+      "A cat in front of a vase",
+      "A dog on the left of a vase",
+      "A bird on the left of a vase",
+      "A cat on the left of a table",
+      "A cat on the left of a box"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog on the left of a bowl",
+    "id": "0091",
+    "negative_prompt": [
+      "A dog on the right of a bowl",
+      "A dog above a bowl",
+      "A dog below a bowl",
+      "A dog in front of a bowl",
+      "A cat on the left of a bowl",
+      "A bird on the left of a bowl",
+      "A dog on the left of a plate",
+      "A dog on the left of a cup"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl walking on the right of an elephant",
+    "id": "0092",
+    "negative_prompt": [
+      "A girl walking on the left of an elephant",
+      "A girl walking behind an elephant",
+      "A girl walking in front of an elephant",
+      "A girl walking on the right of a mouse",
+      "A girl walking on the right of a giraffe",
+      "A girl walking on the right of a car",
+      "A boy walking on the right of an elephant",
+      "A man walking on the right of an elephant"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A book on the right of a bird",
+    "id": "0093",
+    "negative_prompt": [
+      "A book on the left of a bird",
+      "A book above a bird",
+      "A book below a bird",
+      "A book in front of a bird",
+      "A hat on the right of a bird",
+      "A rock on the right of a bird",
+      "A book on the right of a cat",
+      "A book on the right of a fish"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat on the right of a vase",
+    "id": "0094",
+    "negative_prompt": [
+      "A cat on the left of a vase",
+      "A cat above a vase",
+      "A cat below a vase",
+      "A cat in front of a vase",
+      "A cat behind a vase",
+      "A dog on the right of a vase",
+      "A bird on the right of a vase",
+      "A cat on the right of a bowl"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog on the right of a bowl",
+    "id": "0095",
+    "negative_prompt": [
+      "A dog on the left of a bowl",
+      "A dog behind a bowl",
+      "A dog in front of a bowl",
+      "A dog above a bowl",
+      "A cat on the right of a bowl",
+      "A bird on the right of a bowl",
+      "A dog on the right of a plate",
+      "A dog on the right of a cup"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A raccoon foraging under a bird feeder in a backyard",
+    "id": "0096",
+    "negative_prompt": [
+      "A raccoon foraging on a bird feeder in a backyard",
+      "A raccoon foraging above a bird feeder in a backyard",
+      "A raccoon foraging next to a bird feeder in a backyard",
+      "A raccoon foraging inside a bird feeder in a backyard",
+      "A squirrel foraging under a bird feeder in a backyard",
+      "A raccoon foraging under a bird bath in a backyard",
+      "A raccoon foraging under a bird feeder in a forest",
+      "A dog foraging under a bird feeder in a backyard"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bonsai is placed under a painting in a room",
+    "id": "0097",
+    "negative_prompt": [
+      "A bonsai is placed over a painting in a room",
+      "A bonsai is placed beside a painting in a room",
+      "A cactus is placed under a painting in a room",
+      "A statue is placed under a painting in a room",
+      "A bonsai is placed under a mirror in a room",
+      "A bonsai is placed under a window in a room",
+      "A bonsai is placed under a painting in a garden",
+      "A bonsai is placed under a painting in a hallway"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A clock is placed under a book",
+    "id": "0098",
+    "negative_prompt": [
+      "A clock is placed over a book",
+      "A clock is placed on a book",
+      "A clock is placed in front of a book",
+      "A clock is placed behind a book",
+      "A phone is placed under a book",
+      "A cup is placed under a book",
+      "A clock is placed under a table",
+      "A clock is placed under a chair"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A surfboard under a horse",
+    "id": "0099",
+    "negative_prompt": [
+      "A surfboard over a horse",
+      "A surfboard beside a horse",
+      "A surfboard behind a horse",
+      "A surfboard in front of a horse",
+      "A surfboard on a horse",
+      "A surfboard next to a horse",
+      "A bicycle under a horse",
+      "A car under a horse"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A rabbit playing under a desk",
+    "id": "0100",
+    "negative_prompt": [
+      "A rabbit playing on top of a desk",
+      "A rabbit playing behind a desk",
+      "A rabbit playing in front of a desk",
+      "A rabbit playing over a desk",
+      "A bear playing under a desk",
+      "A cat playing under a desk",
+      "A rabbit playing under a tree",
+      "A rabbit playing under a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A traffic light suspended under a bicycle",
+    "id": "0101",
+    "negative_prompt": [
+      "A traffic light on top of a bicycle",
+      "A traffic light beside a bicycle",
+      "A traffic light in front of a bicycle",
+      "A traffic light behind a bicycle",
+      "A stop sign suspended under a bicycle",
+      "A street lamp suspended under a bicycle",
+      "A traffic light suspended under a car",
+      "A traffic light suspended under a truck"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A clock mounted under an ancient door in a bustling old town",
+    "id": "0102",
+    "negative_prompt": [
+      "A clock mounted above an ancient door in a bustling old town",
+      "A clock mounted on an ancient door in a bustling old town",
+      "A clock mounted next to an ancient door in a bustling old town",
+      "A lamp mounted under an ancient door in a bustling old town",
+      "A plant mounted under an ancient door in a bustling old town",
+      "A clock mounted under an ancient wall in a bustling old town",
+      "A clock mounted under an ancient roof in a bustling old town",
+      "A clock mounted in front of an ancient door in a bustling old town"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A hot air balloon floating under a sheep",
+    "id": "0103",
+    "negative_prompt": [
+      "A hot air balloon floating above a sheep",
+      "A hot air balloon floating next to a sheep",
+      "A hot air balloon floating on top of a sheep",
+      "A submarine floating under a sheep",
+      "A bicycle floating under a sheep",
+      "A hot air balloon floating under a dog",
+      "A hot air balloon floating under a cloud",
+      "A hot air balloon floating under a mountain"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A hammock strung between two trees under a suitcase",
+    "id": "0104",
+    "negative_prompt": [
+      "A banner strung between two trees under a suitcase",
+      "A hammock strung between two poles under a suitcase",
+      "A hammock strung between two trees under a cloud",
+      "A hammock strung on top of two trees under a suitcase",
+      "A hammock strung between two trees above a suitcase",
+      "A ladder strung between two trees under a suitcase",
+      "A hammock strung between two buildings under a suitcase",
+      "A hammock strung between two trees beside a suitcase"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A chandelier hanging under a grand piano in a busy hotel lobby",
+    "id": "0105",
+    "negative_prompt": [
+      "A chandelier hanging over a grand piano in a busy hotel lobby",
+      "A chandelier hanging beside a grand piano in a busy hotel lobby",
+      "A chandelier hanging above a grand piano in a busy hotel lobby",
+      "A chandelier hanging next to a grand piano in a busy hotel lobby",
+      "A sculpture hanging under a grand piano in a busy hotel lobby",
+      "A chandelier hanging under a dining table in a busy hotel lobby",
+      "A chandelier hanging under a grand piano in a busy classroom",
+      "A fluorescent light hanging under a grand piano in a busy hotel lobby"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A backpack placed under a table in a bustling coffee shop",
+    "id": "0106",
+    "negative_prompt": [
+      "A backpack placed on a table in a bustling coffee shop",
+      "A backpack placed above a table in a bustling coffee shop",
+      "A backpack placed behind a table in a bustling coffee shop",
+      "A backpack placed in front of a table in a bustling coffee shop",
+      "A backpack placed next to a table in a bustling coffee shop",
+      "A briefcase placed under a table in a bustling coffee shop",
+      "A suitcase placed under a table in a bustling coffee shop",
+      "A purse placed under a table in a bustling coffee shop"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A frog perched under a refrigerator in a busy kitchen",
+    "id": "0107",
+    "negative_prompt": [
+      "A frog perched on a refrigerator in a busy kitchen",
+      "A frog perched above a refrigerator in a busy kitchen",
+      "A frog perched behind a refrigerator in a busy kitchen",
+      "A frog perched in front of a refrigerator in a busy kitchen",
+      "A cat perched under a refrigerator in a busy kitchen",
+      "A frog perched under an oven in a busy kitchen",
+      "A frog perched under a refrigerator in a busy bathroom",
+      "A frog perched under a table in a busy kitchen"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat lounging under a television in a living room",
+    "id": "0108",
+    "negative_prompt": [
+      "A cat lounging on a television in a living room",
+      "A cat lounging above a television in a living room",
+      "A cat lounging next to a television in a living room",
+      "A cat lounging behind a television in a living room",
+      "A dog lounging under a television in a living room",
+      "A bird lounging under a television in a living room",
+      "A cat lounging under a table in a living room",
+      "A cat lounging under a television in a kitchen"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A rabbit sitting under a drum in the middle of a rock concert",
+    "id": "0109",
+    "negative_prompt": [
+      "A rabbit sitting above a drum in the middle of a rock concert",
+      "A rabbit sitting on a drum in the middle of a rock concert",
+      "A dog sitting under a drum in the middle of a rock concert",
+      "A cat sitting under a drum in the middle of a rock concert",
+      "A rabbit sitting under a guitar in the middle of a rock concert",
+      "A rabbit sitting under a piano in the middle of a rock concert",
+      "A rabbit sitting under a drum in the middle of a classical concert",
+      "A rabbit sitting under a drum in the middle of a library"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A lizard hide under a solar panel on a hot day",
+    "id": "0110",
+    "negative_prompt": [
+      "A lizard hide above a solar panel on a hot day",
+      "A lizard hide on a solar panel on a hot day",
+      "A lizard hide beside a solar panel on a hot day",
+      "A lizard hide in front of a solar panel on a hot day",
+      "A snake hide under a solar panel on a hot day",
+      "A bird hide under a solar panel on a hot day",
+      "A lizard hide under a car on a hot day",
+      "A lizard hide under a bush on a hot day"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A goldfish bowl set under a suitcase",
+    "id": "0111",
+    "negative_prompt": [
+      "A goldfish bowl set on a suitcase",
+      "A goldfish bowl set above a suitcase",
+      "A goldfish bowl set next to a suitcase",
+      "A goldfish bowl set inside a suitcase",
+      "A flower vase set under a suitcase",
+      "A ceramic pot set under a suitcase",
+      "A goldfish bowl set under a backpack",
+      "A goldfish bowl set under a box"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sitting on a bench in a park",
+    "id": "0112",
+    "negative_prompt": [
+      "A cat sitting under a bench in a park",
+      "A cat sitting beside a bench in a park",
+      "A cat sitting in front of a bench in a park",
+      "A cat sitting behind a bench in a park",
+      "A dog sitting on a bench in a park",
+      "A cat sitting on a rock in a park",
+      "A cat sitting on a bench in a city street",
+      "A squirrel sitting on a bench in a park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog sitting on a umbrella on a sunny beach",
+    "id": "0113",
+    "negative_prompt": [
+      "A dog sitting under a umbrella on a sunny beach",
+      "A dog sitting next to a umbrella on a sunny beach",
+      "A dog sitting inside a umbrella on a sunny beach",
+      "A dog sitting behind a umbrella on a sunny beach",
+      "A cat sitting on a umbrella on a sunny beach",
+      "A dog sitting on a chair on a sunny beach",
+      "A dog sitting on a umbrella on a sunny mountain",
+      "A bird sitting on a umbrella on a sunny beach"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel darting above a car",
+    "id": "0114",
+    "negative_prompt": [
+      "A squirrel darting below a car",
+      "A squirrel darting beside a car",
+      "A squirrel darting underneath a car",
+      "A squirrel darting behind a car",
+      "A cat darting above a car",
+      "A bird darting above a car",
+      "A squirrel darting above a truck",
+      "A squirrel darting above a motorcycle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A frog resting on a leaf during a rainstorm",
+    "id": "0115",
+    "negative_prompt": [
+      "A frog resting under a leaf during a rainstorm",
+      "A frog resting next to a leaf during a rainstorm",
+      "A frog resting above a leaf during a rainstorm",
+      "A bird resting on a leaf during a rainstorm",
+      "A snake resting on a leaf during a rainstorm",
+      "A frog resting on a stone during a rainstorm",
+      "A frog resting on a branch during a rainstorm",
+      "A frog resting on a leaf during a sunny day"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A puppy dozing on a crowded cafe table during lunch hour",
+    "id": "0116",
+    "negative_prompt": [
+      "A puppy dozing under a crowded cafe table during lunch hour",
+      "A puppy dozing beside a crowded cafe table during lunch hour",
+      "A puppy dozing above a crowded cafe table during lunch hour",
+      "A puppy dozing behind a crowded cafe table during lunch hour",
+      "A kitten dozing on a crowded cafe table during lunch hour",
+      "A squirrel dozing on a crowded cafe table during lunch hour",
+      "A puppy dozing on a crowded park bench during lunch hour",
+      "A puppy dozing on a crowded bed during lunch hour"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle walking on a garden bench",
+    "id": "0117",
+    "negative_prompt": [
+      "A spider walking on a garden bench",
+      "A whale walking on a garden bench",
+      "A turtle walking on a volcano",
+      "A turtle walking on a cloud",
+      "A turtle floating above a garden bench",
+      "A turtle crawling under a garden bench",
+      "A turtle leaping over a garden bench",
+      "A turtle sinking into a garden bench"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A swan landing on a bridge",
+    "id": "0118",
+    "negative_prompt": [
+      "A swan taking off from a bridge",
+      "A swan landing under a bridge",
+      "A swan landing next to a bridge",
+      "A swan flying over a bridge",
+      "A duck landing on a bridge",
+      "A plane landing on a bridge",
+      "A swan landing on a riverbank",
+      "A swan landing on a building"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A basket placed above a television",
+    "id": "0119",
+    "negative_prompt": [
+      "A basket placed below a television",
+      "A basket placed next to a television",
+      "A basket placed behind a television",
+      "A basket placed in front of a television",
+      "A vase placed above a television",
+      "A book placed above a television",
+      "A basket placed above a fireplace",
+      "A basket placed above a table"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A toy lying on a swing in a playground",
+    "id": "0120",
+    "negative_prompt": [
+      "A book lying on a swing in a playground",
+      "A rock lying on a swing in a playground",
+      "A toy lying on a bench in a playground",
+      "A toy lying on a slide in a playground",
+      "A toy lying on a swing in a house",
+      "A toy lying on a swing in a forest",
+      "A toy hanging from a swing in a playground",
+      "A toy under a swing in a playground"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A horse standing on a table",
+    "id": "0121",
+    "negative_prompt": [
+      "A horse standing under a table",
+      "A dog standing on a table",
+      "A horse standing next to a table",
+      "A horse standing on a chair",
+      "A horse standing behind a table",
+      "A cat standing on a table",
+      "A horse standing above a table",
+      "A horse standing on a bed"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A duck waddling on a spacecraft",
+    "id": "0122",
+    "negative_prompt": [
+      "A duck waddling under a spacecraft",
+      "A duck waddling inside a spacecraft",
+      "A duck waddling next to a spacecraft",
+      "A duck waddling above a spacecraft",
+      "A cat waddling on a spacecraft",
+      "A dog waddling on a spacecraft",
+      "A duck waddling on a car",
+      "A duck waddling on a boat"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "clouds floating above a balloon",
+    "id": "0123",
+    "negative_prompt": [
+      "clouds floating below a balloon",
+      "clouds floating next to a balloon",
+      "clouds floating behind a balloon",
+      "clouds floating in front of a balloon",
+      "smoke floating above a balloon",
+      "birds floating above a balloon",
+      "clouds floating above a kite",
+      "clouds floating above a plane"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A parrot flying above a drone",
+    "id": "0124",
+    "negative_prompt": [
+      "A parrot flying below a drone",
+      "A parrot flying beside a drone",
+      "A parrot flying behind a drone",
+      "A parrot flying in front of a drone",
+      "An eagle flying above a drone",
+      "A bat flying above a drone",
+      "A parrot flying above a car",
+      "A parrot flying above a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A donut placed above a handbag",
+    "id": "0125",
+    "negative_prompt": [
+      "A donut placed below a handbag",
+      "A donut placed next to a handbag",
+      "A donut placed inside a handbag",
+      "A donut placed behind a handbag",
+      "An apple placed above a handbag",
+      "A burger placed above a handbag",
+      "A donut placed above a backpack",
+      "A donut placed above a chair"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A donut placed under a handbag",
+    "id": "0126",
+    "negative_prompt": [
+      "A donut placed above a handbag",
+      "A donut placed on a handbag",
+      "A donut placed next to a handbag",
+      "A donut placed inside a handbag",
+      "A donut placed behind a handbag",
+      "An apple placed under a handbag",
+      "A book placed under a handbag",
+      "A donut placed under a backpack"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A horse galloping in front of a fence",
+    "id": "0127",
+    "negative_prompt": [
+      "A horse galloping behind a fence",
+      "A horse galloping above a fence",
+      "A horse galloping under a fence",
+      "A horse galloping next to a fence",
+      "A dog galloping in front of a fence",
+      "A person galloping in front of a fence",
+      "A horse galloping in front of a wall",
+      "A horse galloping in front of a river"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A spaceship hovering in front of a skyscraper",
+    "id": "0128",
+    "negative_prompt": [
+      "A spaceship hovering behind a skyscraper",
+      "A spaceship hovering above a skyscraper",
+      "A spaceship hovering below a skyscraper",
+      "A spaceship hovering inside a skyscraper",
+      "A tree hovering in front of a skyscraper",
+      "A car hovering in front of a skyscraper",
+      "A spaceship hovering in front of a pebble",
+      "A spaceship hovering in front of a flower"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A rabbit hopping in front of a bicycle",
+    "id": "0129",
+    "negative_prompt": [
+      "A rabbit hopping behind a bicycle",
+      "A rabbit hopping on top of a bicycle",
+      "A rabbit hopping under a bicycle",
+      "A dog hopping in front of a bicycle",
+      "A cat hopping in front of a bicycle",
+      "A rabbit hopping in front of a car",
+      "A rabbit hopping in front of a train",
+      "A rabbit hopping next to a bicycle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dolphin gliding in front of a ship",
+    "id": "0130",
+    "negative_prompt": [
+      "A dolphin gliding behind a ship",
+      "A dolphin gliding above a ship",
+      "A dolphin gliding below a ship",
+      "A dolphin gliding beside a ship",
+      "A whale gliding in front of a ship",
+      "A shark gliding in front of a ship",
+      "A dolphin gliding in front of a submarine",
+      "A dolphin gliding in front of an airplane"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A goat grazing in front of a tractor",
+    "id": "0131",
+    "negative_prompt": [
+      "A goat grazing behind a tractor",
+      "A goat grazing next to a tractor",
+      "A goat grazing on top of a tractor",
+      "A goat grazing under a tractor",
+      "A cow grazing in front of a tractor",
+      "A sheep grazing in front of a tractor",
+      "A goat grazing in front of a car",
+      "A goat grazing in front of a train"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A robot wheeling in front of a computer",
+    "id": "0132",
+    "negative_prompt": [
+      "A robot wheeling behind a computer",
+      "A robot wheeling next to a computer",
+      "A robot wheeling on top of a computer",
+      "A robot wheeling under a computer",
+      "A person wheeling in front of a computer",
+      "A cart wheeling in front of a computer",
+      "A robot wheeling in front of a book",
+      "A robot wheeling in front of a building"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sneaking in front of a window",
+    "id": "0133",
+    "negative_prompt": [
+      "A cat sneaking behind a window",
+      "A cat sneaking above a window",
+      "A cat sneaking under a window",
+      "A dog sneaking in front of a window",
+      "A bird sneaking in front of a window",
+      "A cat sneaking in front of a door",
+      "A cat sneaking in front of a wall",
+      "A cat sneaking in front of a bush"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A plane flying in front of a rainbow",
+    "id": "0134",
+    "negative_prompt": [
+      "A plane flying behind a rainbow",
+      "A plane flying above a rainbow",
+      "A plane flying below a rainbow",
+      "A car flying in front of a rainbow",
+      "A bird flying in front of a rainbow",
+      "A kite flying in front of a rainbow",
+      "A plane flying in front of a cloud",
+      "A plane flying in front of a mountain"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bear sniffing in front of a picnic table",
+    "id": "0135",
+    "negative_prompt": [
+      "A bear sniffing behind a picnic table",
+      "A bear sniffing on top of a picnic table",
+      "A bear sniffing under a picnic table",
+      "A bear sniffing next to a picnic table",
+      "A dog sniffing in front of a picnic table",
+      "A rabbit sniffing in front of a picnic table",
+      "A bear sniffing in front of a chair",
+      "A bear sniffing in front of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dog running in front of a bench",
+    "id": "0136",
+    "negative_prompt": [
+      "A dog running behind a bench",
+      "A dog running on top of a bench",
+      "A dog running under a bench",
+      "A dog running next to a bench",
+      "A cat running in front of a bench",
+      "A bird running in front of a bench",
+      "A dog running in front of a chair",
+      "A dog running in front of a table"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A teacher explaining in front of a chalkboard",
+    "id": "0137",
+    "negative_prompt": [
+      "A teacher explaining behind a chalkboard",
+      "A teacher explaining next to a chalkboard",
+      "A teacher explaining on top of a chalkboard",
+      "A teacher explaining under a chalkboard",
+      "A teacher explaining in front of a whiteboard",
+      "A teacher explaining in front of a screen",
+      "A student explaining in front of a chalkboard",
+      "A robot explaining in front of a chalkboard"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A soldier saluting in front of a flagpole",
+    "id": "0138",
+    "negative_prompt": [
+      "A child saluting in front of a flagpole",
+      "A civilian saluting in front of a flagpole",
+      "A dog saluting in front of a flagpole",
+      "A soldier saluting behind a flagpole",
+      "A soldier saluting next to a flagpole",
+      "A soldier saluting on top of a flagpole",
+      "A soldier saluting in front of a tree",
+      "A soldier saluting in front of a building"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl painting in front of an easel",
+    "id": "0139",
+    "negative_prompt": [
+      "A boy painting in front of an easel",
+      "A woman painting in front of an easel",
+      "A dog painting in front of an easel",
+      "A girl drawing in front of an easel",
+      "A girl sculpting in front of an easel",
+      "A girl painting in front of a wall",
+      "A girl painting behind an easel",
+      "A girl painting next to an easel"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A runner stretching in front of a bench in the park",
+    "id": "0140",
+    "negative_prompt": [
+      "A runner stretching behind a bench in the park",
+      "A runner stretching in front of a tree in the park",
+      "A runner stretching in front of a bench in the forest",
+      "A walker stretching in front of a bench in the park",
+      "A runner stretching next to a bench in the park",
+      "A runner stretching in front of a fountain in the park",
+      "A runner stretching in front of a bench in the city street",
+      "A cyclist stretching in front of a bench in the park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A child laughing in front of a dining table",
+    "id": "0141",
+    "negative_prompt": [
+      "A child laughing behind a dining table",
+      "A child laughing under a dining table",
+      "A child laughing next to a dining table",
+      "A child laughing in front of a car",
+      "A child laughing in front of a television",
+      "A child laughing in front of a tree",
+      "An adult laughing in front of a dining table",
+      "A baby laughing in front of a dining table"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A baby crawls in front of a dog",
+    "id": "0142",
+    "negative_prompt": [
+      "An adult crawls in front of a dog",
+      "A baby crawls behind a dog",
+      "A baby crawls in front of a cat",
+      "A child crawls in front of a dog",
+      "A baby crawls on top of a dog",
+      "A baby crawls in front of a bird",
+      "A teenager crawls in front of a dog",
+      "A baby crawls under a dog"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A horse galloping behind a fence",
+    "id": "0143",
+    "negative_prompt": [
+      "A horse galloping in front of a fence",
+      "A dog galloping behind a fence",
+      "A horse galloping on a fence",
+      "A horse galloping behind a wall",
+      "A horse galloping above a fence",
+      "A cow galloping behind a fence",
+      "A horse galloping under a fence",
+      "A horse galloping behind a river"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A spaceship hovering behind a skyscraper",
+    "id": "0144",
+    "negative_prompt": [
+      "A spaceship hovering in front of a skyscraper",
+      "A spaceship hovering above a skyscraper",
+      "A spaceship hovering below a skyscraper",
+      "A spaceship hovering next to a skyscraper",
+      "An airplane hovering behind a skyscraper",
+      "A hot air balloon hovering behind a skyscraper",
+      "A spaceship hovering behind a tree",
+      "A spaceship hovering behind a mountain"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A rabbit hopping behind a bicycle",
+    "id": "0145",
+    "negative_prompt": [
+      "A rabbit hopping in front of a bicycle",
+      "A rabbit hopping on top of a bicycle",
+      "A rabbit hopping under a bicycle",
+      "A rabbit hopping next to a bicycle",
+      "A dog hopping behind a bicycle",
+      "A cat hopping behind a bicycle",
+      "A rabbit hopping behind a car",
+      "A rabbit hopping behind a train"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dolphin gliding behind a ship",
+    "id": "0146",
+    "negative_prompt": [
+      "A dolphin gliding in front of a ship",
+      "A dolphin gliding above a ship",
+      "A dolphin gliding below a ship",
+      "A dolphin gliding next to a ship",
+      "A shark gliding behind a ship",
+      "A whale gliding behind a ship",
+      "An octopus gliding behind a ship",
+      "A dolphin gliding behind a submarine"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A goat grazing behind a tractor",
+    "id": "0147",
+    "negative_prompt": [
+      "A goat grazing in front of a tractor",
+      "A goat grazing on top of a tractor",
+      "A goat grazing under a tractor",
+      "A goat grazing next to a tractor",
+      "A goat grazing far from a tractor",
+      "A cow grazing behind a tractor",
+      "A sheep grazing behind a tractor",
+      "A goat grazing behind a car"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A robot wheeling behind a computer",
+    "id": "0148",
+    "negative_prompt": [
+      "A robot wheeling in front of a computer",
+      "A robot wheeling on top of a computer",
+      "A human wheeling behind a computer",
+      "A dog wheeling behind a computer",
+      "A robot wheeling behind a tree",
+      "A robot wheeling behind a building",
+      "A robot wheeling under a computer",
+      "A car wheeling behind a computer"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A cat sneaking behind a window",
+    "id": "0149",
+    "negative_prompt": [
+      "A cat sneaking in front of a window",
+      "A dog sneaking behind a window",
+      "A cat sneaking on top of a window",
+      "A cat sneaking behind a door",
+      "A cat sneaking inside a window",
+      "A mouse sneaking behind a window",
+      "A cat sneaking under a window",
+      "A cat sneaking behind a wall"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A plane flying behind a rainbow",
+    "id": "0150",
+    "negative_prompt": [
+      "A car flying behind a rainbow",
+      "A boat flying behind a rainbow",
+      "A plane flying behind a cloud",
+      "A plane flying behind a mountain",
+      "A plane flying in front of a rainbow",
+      "A plane flying above a rainbow",
+      "A plane flying below a rainbow",
+      "A plane flying next to a rainbow"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A bear sniffing behind a picnic table",
+    "id": "0151",
+    "negative_prompt": [
+      "A bear sniffing in front of a picnic table",
+      "A bear sniffing on top of a picnic table",
+      "A bear sniffing under a picnic table",
+      "A bear sniffing next to a picnic table",
+      "A lion sniffing behind a picnic table",
+      "A mouse sniffing behind a picnic table",
+      "A bear sniffing behind a park bench",
+      "A bear sniffing behind a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A soldier saluting behind a flagpole",
+    "id": "0152",
+    "negative_prompt": [
+      "A civilian saluting behind a flagpole",
+      "A robot saluting behind a flagpole",
+      "A soldier saluting in front of a flagpole",
+      "A soldier saluting next to a flagpole",
+      "A soldier saluting behind a tree",
+      "A soldier saluting behind a building",
+      "A child saluting behind a flagpole",
+      "A soldier saluting above a flagpole"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl painting behind an easel",
+    "id": "0153",
+    "negative_prompt": [
+      "A boy painting behind an easel",
+      "A man painting behind an easel",
+      "A woman painting behind an easel",
+      "A girl painting in front of an easel",
+      "A girl painting on top of an easel",
+      "A girl painting under an easel",
+      "A girl painting behind a table",
+      "A girl painting behind a desk"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A runner stretching behind a bench in the park",
+    "id": "0154",
+    "negative_prompt": [
+      "A swimmer stretching behind a bench in the park",
+      "A cyclist stretching behind a bench in the park",
+      "A dancer stretching behind a bench in the park",
+      "A runner stretching in front of a bench in the park",
+      "A runner stretching on top of a bench in the park",
+      "A runner stretching under a bench in the park",
+      "A runner stretching behind a tree in the park",
+      "A runner stretching behind a statue in the park"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A child laughing behind a dining table",
+    "id": "0155",
+    "negative_prompt": [
+      "An adult laughing behind a dining table",
+      "A child crying behind a dining table",
+      "A child laughing in front of a dining table",
+      "A child laughing on a dining table",
+      "A child laughing behind a bed",
+      "A child laughing behind a desk",
+      "A teenager laughing behind a dining table",
+      "A child laughing under a dining table"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A baby crawls behind a dog",
+    "id": "0156",
+    "negative_prompt": [
+      "A baby crawls in front of a dog",
+      "A baby crawls on a dog",
+      "A baby crawls under a dog",
+      "A baby crawls next to a dog",
+      "A baby crawls behind a cat",
+      "A baby crawls behind a bird",
+      "An adult crawls behind a dog",
+      "A child crawls behind a dog"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A robot dancing on the left of a backpack",
+    "id": "0157",
+    "negative_prompt": [
+      "A robot dancing on the right of a backpack",
+      "A robot dancing above a backpack",
+      "A robot dancing below a backpack",
+      "A robot dancing behind a backpack",
+      "A dog dancing on the left of a backpack",
+      "A girl dancing on the left of a backpack",
+      "A robot dancing on the left of a book",
+      "A robot dancing on the left of a chair"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A teddy bear reading on the left of the bookcase",
+    "id": "0158",
+    "negative_prompt": [
+      "A teddy bear reading on the right of the bookcase",
+      "A teddy bear reading in front of the bookcase",
+      "A teddy bear reading behind the bookcase",
+      "A teddy bear reading under the bookcase",
+      "A dog reading on the left of the bookcase",
+      "A robot reading on the left of the bookcase",
+      "A teddy bear reading on the left of the table",
+      "A teddy bear reading on the left of the chair"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel hiding on the left of a pumpkin",
+    "id": "0159",
+    "negative_prompt": [
+      "A squirrel hiding on the right of a pumpkin",
+      "A squirrel hiding behind a pumpkin",
+      "A squirrel hiding in front of a pumpkin",
+      "A squirrel hiding above a pumpkin",
+      "A squirrel hiding under a pumpkin",
+      "A cat hiding on the left of a pumpkin",
+      "A bird hiding on the left of a pumpkin",
+      "A squirrel hiding on the left of a watermelon"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A swan gliding gracefully on the left of the lily pad",
+    "id": "0160",
+    "negative_prompt": [
+      "A swan gliding gracefully on the right of the lily pad",
+      "A swan gliding gracefully above the lily pad",
+      "A swan gliding gracefully below the lily pad",
+      "A swan gliding gracefully in front of the lily pad",
+      "A swan gliding gracefully behind the lily pad",
+      "A duck gliding gracefully on the left of the lily pad",
+      "A goose gliding gracefully on the left of the lily pad",
+      "A swan gliding gracefully on the left of the rock"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A puppy playing on the left of a basket.",
+    "id": "0161",
+    "negative_prompt": [
+      "A puppy playing on the right of a basket.",
+      "A kitten playing on the left of a basket.",
+      "A puppy playing in front of a basket.",
+      "A puppy playing on the left of a box.",
+      "A puppy playing behind a basket.",
+      "A bunny playing on the left of a basket.",
+      "A puppy playing on top of a basket.",
+      "A puppy playing on the left of a crate."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle basking in the sun on the left of the potted plant",
+    "id": "0162",
+    "negative_prompt": [
+      "A turtle basking in the sun on the right of the potted plant",
+      "A turtle basking in the sun behind the potted plant",
+      "A turtle basking in the sun in front of the potted plant",
+      "A snake basking in the sun on the left of the potted plant",
+      "A frog basking in the sun on the left of the potted plant",
+      "A turtle basking in the sun on the left of the rock",
+      "A turtle basking in the sun on the left of the tree",
+      "A turtle basking in the moon on the left of the potted plant"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A tractor plowing on the left of a farmhouse",
+    "id": "0163",
+    "negative_prompt": [
+      "A tractor plowing on the right of a farmhouse",
+      "A tractor plowing in front of a farmhouse",
+      "A tractor plowing behind a farmhouse",
+      "A tractor plowing next to a farmhouse",
+      "A car plowing on the left of a farmhouse",
+      "An airplane plowing on the left of a farmhouse",
+      "A tractor plowing on the left of a skyscraper",
+      "A tractor plowing on the left of a tent"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dress hanging on the left of a mirror",
+    "id": "0164",
+    "negative_prompt": [
+      "A dress hanging on the right of a mirror",
+      "A dress hanging above a mirror",
+      "A dress hanging below a mirror",
+      "A dress hanging in front of a mirror",
+      "A shirt hanging on the left of a mirror",
+      "A dress hanging on the left of a window",
+      "A coat hanging on the left of a mirror",
+      "A dress hanging on the left of a door"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A jacket draped on the left of a chair",
+    "id": "0165",
+    "negative_prompt": [
+      "A jacket draped on the right of a chair",
+      "A jacket draped on top of a chair",
+      "A jacket draped under a chair",
+      "A jacket draped in front of a chair",
+      "A scarf draped on the left of a chair",
+      "A blanket draped on the left of a chair",
+      "A jacket draped on the left of a table",
+      "A jacket draped on the left of a bed"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A book lying open on the left of a cup",
+    "id": "0166",
+    "negative_prompt": [
+      "A book lying open on the right of a cup",
+      "A book lying open above a cup",
+      "A book lying open below a cup",
+      "A book lying open in front of a cup",
+      "A book lying open behind a cup",
+      "A magazine lying open on the left of a cup",
+      "A notebook lying open on the left of a cup",
+      "A book lying open on the left of a glass"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A flag waving proudly on the left of the historic castle",
+    "id": "0167",
+    "negative_prompt": [
+      "A flag waving proudly on the right of the historic castle",
+      "A flag waving proudly in front of the historic castle",
+      "A flag waving proudly behind the historic castle",
+      "A flag waving proudly above the historic castle",
+      "A rag waving proudly on the left of the historic castle",
+      "A sheet waving proudly on the left of the historic castle",
+      "A flag waving proudly on the left of the historic hut",
+      "A flag waving proudly on the left of the historic shed"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A baby crawling on the left of a kitten in the living room",
+    "id": "0168",
+    "negative_prompt": [
+      "A baby crawling on the right of a kitten in the living room",
+      "A baby crawling in front of a kitten in the living room",
+      "A baby crawling behind a kitten in the living room",
+      "A baby crawling on top of a kitten in the living room",
+      "A baby crawling on the left of a dog in the living room",
+      "A baby crawling on the left of a mouse in the living room",
+      "An adult crawling on the left of a kitten in the living room",
+      "An elderly person crawling on the left of a kitten in the living room"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A robot dancing on the right of a backpack",
+    "id": "0169",
+    "negative_prompt": [
+      "A robot dancing on the left of a backpack",
+      "A robot dancing in front of a backpack",
+      "A robot dancing behind a backpack",
+      "A robot dancing on top of a backpack",
+      "A cat dancing on the right of a backpack",
+      "A car dancing on the right of a backpack",
+      "A robot dancing on the right of a desk",
+      "A robot dancing on the right of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A teddy bear reading on the right of the bookcase.",
+    "id": "0170",
+    "negative_prompt": [
+      "A teddy bear reading on the left of the bookcase.",
+      "A teddy bear reading in front of the bookcase.",
+      "A teddy bear reading behind the bookcase.",
+      "A teddy bear reading above the bookcase.",
+      "A teddy bear reading below the bookcase.",
+      "A robot reading on the right of the bookcase.",
+      "A cat reading on the right of the bookcase.",
+      "A lamp reading on the right of the bookcase."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A squirrel hiding on the right of a pumpkin",
+    "id": "0171",
+    "negative_prompt": [
+      "A squirrel hiding on the left of a pumpkin",
+      "A squirrel hiding above a pumpkin",
+      "A squirrel hiding below a pumpkin",
+      "A squirrel hiding behind a pumpkin",
+      "A cat hiding on the right of a pumpkin",
+      "A dog hiding on the right of a pumpkin",
+      "A squirrel hiding on the right of an apple",
+      "A squirrel hiding on the right of a rock"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A swan gliding gracefully on the right of the lily pad",
+    "id": "0172",
+    "negative_prompt": [
+      "A swan gliding gracefully on the left of the lily pad",
+      "A swan gliding gracefully behind the lily pad",
+      "A swan gliding gracefully in front of the lily pad",
+      "A swan gliding gracefully under the lily pad",
+      "A duck gliding gracefully on the right of the lily pad",
+      "A goose gliding gracefully on the right of the lily pad",
+      "A swan gliding gracefully on the right of the rock",
+      "A swan gliding gracefully on the right of the log"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A puppy playing on the right of a basket",
+    "id": "0173",
+    "negative_prompt": [
+      "A puppy playing on the left of a basket",
+      "A puppy playing behind a basket",
+      "A puppy playing in front of a basket",
+      "A puppy playing under a basket",
+      "A puppy playing above a basket",
+      "A puppy playing inside a basket",
+      "A cat playing on the right of a basket",
+      "A puppy playing on the right of a box"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle basking in the sun on the right of the potted plant",
+    "id": "0174",
+    "negative_prompt": [
+      "A turtle basking in the sun on the left of the potted plant",
+      "A turtle basking in the sun behind the potted plant",
+      "A turtle basking in the sun in front of the potted plant",
+      "A turtle basking in the sun above the potted plant",
+      "A cat basking in the sun on the right of the potted plant",
+      "A bird basking in the sun on the right of the potted plant",
+      "A turtle basking in the sun on the right of the car",
+      "A turtle basking in the sun on the right of the tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A tractor plowing on the right of a farmhouse",
+    "id": "0175",
+    "negative_prompt": [
+      "A tractor plowing on the left of a farmhouse",
+      "A tractor plowing in front of a farmhouse",
+      "A tractor plowing behind a farmhouse",
+      "A tractor plowing above a farmhouse",
+      "A car plowing on the right of a farmhouse",
+      "A plane plowing on the right of a farmhouse",
+      "A tractor plowing on the right of a skyscraper",
+      "A tractor plowing on the right of a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A dress hanging on the right of a mirror",
+    "id": "0176",
+    "negative_prompt": [
+      "A dress hanging on the left of a mirror",
+      "A dress hanging above a mirror",
+      "A dress hanging below a mirror",
+      "A dress hanging in front of a mirror",
+      "A dress hanging behind a mirror",
+      "A dress hanging next to a mirror",
+      "A shirt hanging on the right of a mirror",
+      "A dress hanging on the right of a window"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A jacket draped on the right of a chair",
+    "id": "0177",
+    "negative_prompt": [
+      "A jacket draped on the left of a chair",
+      "A jacket draped behind a chair",
+      "A jacket draped in front of a chair",
+      "A jacket draped under a chair",
+      "A shirt draped on the right of a chair",
+      "A hat draped on the right of a chair",
+      "A jacket draped on the right of a table",
+      "A jacket draped on the right of a bed"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A book lying open on the right of a cup",
+    "id": "0178",
+    "negative_prompt": [
+      "A book lying open on the left of a cup",
+      "A book lying open behind a cup",
+      "A book lying open in front of a cup",
+      "A book lying open above a cup",
+      "A book lying open below a cup",
+      "A laptop lying open on the right of a cup",
+      "A magazine lying open on the right of a cup",
+      "A book lying open on the right of a bottle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A flag waving proudly on the right of the historic castle",
+    "id": "0179",
+    "negative_prompt": [
+      "A flag waving proudly on the left of the historic castle",
+      "A flag waving proudly above the historic castle",
+      "A flag waving proudly below the historic castle",
+      "A flag waving proudly behind the historic castle",
+      "A banner waving proudly on the right of the historic castle",
+      "A scarf waving proudly on the right of the historic castle",
+      "A flag waving proudly on the right of the historic hut",
+      "A flag waving proudly on the right of the historic skyscraper"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A baby crawling on the right of a kitten in the living room",
+    "id": "0180",
+    "negative_prompt": [
+      "An adult crawling on the right of a kitten in the living room",
+      "A baby crawling on the left of a kitten in the living room",
+      "A baby crawling on the right of a dog in the living room",
+      "A child crawling on the right of a kitten in the living room",
+      "A baby crawling behind a kitten in the living room",
+      "A baby crawling on the right of a large dog in the living room",
+      "An elderly person crawling on the right of a kitten in the living room",
+      "A baby crawling in front of a kitten in the living room"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A sheep grazing on the left of a pumpkin.",
+    "id": "0181",
+    "negative_prompt": [
+      "A sheep grazing on the right of a pumpkin.",
+      "A sheep grazing in front of a pumpkin.",
+      "A sheep grazing behind a pumpkin.",
+      "A sheep grazing above a pumpkin.",
+      "A goat grazing on the left of a pumpkin.",
+      "A lion grazing on the left of a pumpkin.",
+      "A sheep grazing on the left of a watermelon.",
+      "A sheep grazing on the left of a flower."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A penguin waddling on the left of a box.",
+    "id": "0182",
+    "negative_prompt": [
+      "A penguin waddling on the right of a box.",
+      "A penguin waddling in front of a box.",
+      "A penguin waddling behind a box.",
+      "A penguin waddling above a box.",
+      "A cat waddling on the left of a box.",
+      "An eagle waddling on the left of a box.",
+      "A penguin waddling on the left of a sphere.",
+      "A penguin waddling on the left of a tree."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle crawling on the left of a basket.",
+    "id": "0183",
+    "negative_prompt": [
+      "A turtle crawling on the right of a basket.",
+      "A rabbit crawling on the left of a basket.",
+      "A turtle crawling in front of a basket.",
+      "A turtle crawling on the left of a box.",
+      "A turtle crawling behind a basket.",
+      "A snake crawling on the left of a basket.",
+      "A turtle crawling above a basket.",
+      "A turtle crawling on the left of a table."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl reading a book on the left of a bicycle.",
+    "id": "0184",
+    "negative_prompt": [
+      "A boy reading a book on the left of a bicycle.",
+      "A girl reading a magazine on the left of a bicycle.",
+      "A girl reading a book on the left of a car.",
+      "A girl reading a book on the right of a bicycle.",
+      "A man reading a book on the left of a bicycle.",
+      "A girl reading a tablet on the left of a bicycle.",
+      "A girl reading a book on the left of a motorcycle.",
+      "A girl reading a book in front of a bicycle."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A sheep grazing on the right of a pumpkin.",
+    "id": "0185",
+    "negative_prompt": [
+      "A sheep grazing on the left of a pumpkin.",
+      "A sheep grazing behind a pumpkin.",
+      "A sheep grazing in front of a pumpkin.",
+      "A sheep grazing above a pumpkin.",
+      "A cow grazing on the right of a pumpkin.",
+      "A goat grazing on the right of a pumpkin.",
+      "A sheep grazing on the right of an apple.",
+      "A sheep grazing on the right of a watermelon."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A penguin waddling on the right of a box.",
+    "id": "0186",
+    "negative_prompt": [
+      "A penguin waddling on the left of a box.",
+      "A penguin waddling behind a box.",
+      "A penguin waddling in front of a box.",
+      "A penguin waddling above a box.",
+      "A dog waddling on the right of a box.",
+      "A cat waddling on the right of a box.",
+      "A penguin waddling on the right of a sphere.",
+      "A penguin waddling on the right of a table."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle crawling on the right of a basket.",
+    "id": "0187",
+    "negative_prompt": [
+      "A turtle crawling on the left of a basket.",
+      "A dog crawling on the right of a basket.",
+      "A turtle crawling above a basket.",
+      "A turtle crawling on the right of a chair.",
+      "A turtle crawling under a basket.",
+      "A cat crawling on the right of a basket.",
+      "A turtle crawling in front of a basket.",
+      "A turtle crawling on the right of a table."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl reading a book on the right of a bicycle.",
+    "id": "0188",
+    "negative_prompt": [
+      "A boy reading a book on the right of a bicycle.",
+      "A man reading a book on the right of a bicycle.",
+      "A woman reading a book on the right of a bicycle.",
+      "A girl reading a book on the left of a bicycle.",
+      "A girl reading a book above a bicycle.",
+      "A girl reading a book below a bicycle.",
+      "A girl reading a book on the right of a car.",
+      "A girl reading a newspaper on the right of a bicycle."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A teddy bear reading a book on top of a pillow.",
+    "id": "0189",
+    "negative_prompt": [
+      "A teddy bear reading a book under a pillow.",
+      "A teddy bear reading a book next to a pillow.",
+      "A teddy bear reading a book behind a pillow.",
+      "A teddy bear reading a book in front of a pillow.",
+      "A robot reading a book on top of a pillow.",
+      "A teddy bear reading a newspaper on top of a pillow.",
+      "A teddy bear reading a book on top of a chair.",
+      "A cat reading a book on top of a pillow."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A vase stands on top of a crawling turtle.",
+    "id": "0190",
+    "negative_prompt": [
+      "A book stands on top of a crawling turtle.",
+      "A car stands on top of a crawling turtle.",
+      "A vase stands on top of a flying bird.",
+      "A vase stands on top of a stationary rock.",
+      "A vase stands underneath a crawling turtle.",
+      "A vase stands beside a crawling turtle.",
+      "A vase stands far from a crawling turtle.",
+      "A vase stands inside a crawling turtle."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A surfboard balances on top of a running car.",
+    "id": "0191",
+    "negative_prompt": [
+      "A surfboard balances underneath a running car.",
+      "A surfboard balances beside a running car.",
+      "A surfboard balances inside a running car.",
+      "A surfboard balances behind a running car.",
+      "A bicycle balances on top of a running car.",
+      "A rock balances on top of a running car.",
+      "A surfboard balances on top of a running bicycle.",
+      "A surfboard balances on top of a running boat."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A teddy bear reading a book under a pillow.",
+    "id": "0192",
+    "negative_prompt": [
+      "A teddy bear reading a book on a pillow.",
+      "A teddy bear reading a book above a pillow.",
+      "A teddy bear reading a book behind a pillow.",
+      "A teddy bear reading a book in front of a pillow.",
+      "A robot reading a book under a pillow.",
+      "A cat reading a book under a pillow.",
+      "A teddy bear reading a magazine under a pillow.",
+      "A teddy bear reading a book under a blanket."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A vase rolling under a turtle.",
+    "id": "0193",
+    "negative_prompt": [
+      "A vase rolling above a turtle.",
+      "A vase rolling on a turtle.",
+      "A vase rolling next to a turtle.",
+      "A vase rolling behind a turtle.",
+      "A book rolling under a turtle.",
+      "A rock rolling under a turtle.",
+      "A vase rolling under a mountain.",
+      "A vase rolling under a car."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A surfboard stored beneath a parked car.",
+    "id": "0194",
+    "negative_prompt": [
+      "A surfboard stored on top of a parked car.",
+      "A surfboard stored beside a parked car.",
+      "A surfboard stored inside a parked car.",
+      "A surfboard stored above a parked car.",
+      "A bicycle stored beneath a parked car.",
+      "A ladder stored beneath a parked car.",
+      "A surfboard stored beneath a tree.",
+      "A surfboard stored beneath a truck."
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle crawling in front of a basket",
+    "id": "0195",
+    "negative_prompt": [
+      "A turtle crawling behind a basket",
+      "A cat crawling in front of a basket",
+      "A turtle crawling on top of a basket",
+      "A turtle crawling in front of a box",
+      "A turtle crawling under a basket",
+      "A dog crawling in front of a basket",
+      "A turtle crawling next to a basket",
+      "A turtle crawling in front of a table"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl walking in front of a bicycle",
+    "id": "0196",
+    "negative_prompt": [
+      "A girl walking behind a bicycle",
+      "A girl walking next to a bicycle",
+      "A girl walking away from a bicycle",
+      "A girl walking in front of a car",
+      "A girl walking in front of a tree",
+      "A girl walking in front of a house",
+      "A boy walking in front of a bicycle",
+      "A woman walking in front of a bicycle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A boy reading in front of a bench",
+    "id": "0197",
+    "negative_prompt": [
+      "A boy reading behind a bench",
+      "A boy reading on top of a bench",
+      "A boy reading under a bench",
+      "A boy reading beside a bench",
+      "A boy reading in front of a chair",
+      "A boy reading in front of a table",
+      "A girl reading in front of a bench",
+      "A man reading in front of a bench"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A turtle crawling behind a basket",
+    "id": "0198",
+    "negative_prompt": [
+      "A turtle crawling in front of a basket",
+      "A turtle crawling on top of a basket",
+      "A turtle crawling under a basket",
+      "A turtle crawling next to a basket",
+      "A cat crawling behind a basket",
+      "A spider crawling behind a basket",
+      "A turtle crawling behind a chair",
+      "A turtle crawling behind a tree"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A girl walking behind a bicycle",
+    "id": "0199",
+    "negative_prompt": [
+      "A girl walking in front of a bicycle",
+      "A girl walking on a bicycle",
+      "A girl walking under a bicycle",
+      "A girl walking behind a car",
+      "A girl walking behind a boat",
+      "A girl walking behind a dog",
+      "A boy walking behind a bicycle",
+      "A robot walking behind a bicycle"
+    ]
+  },
+  {
+    "type": "spatial_relationship",
+    "prompt": "A boy reading behind a bench",
+    "id": "0200",
+    "negative_prompt": [
+      "A boy reading in front of a bench",
+      "A boy reading on top of a bench",
+      "A boy reading under a bench",
+      "A boy reading next to a bench",
+      "A boy reading behind a table",
+      "A boy reading behind a chair",
+      "A boy reading behind a tree",
+      "A girl reading behind a bench"
+    ]
+  }
+]

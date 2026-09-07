@@ -1,0 +1,3002 @@
+[
+  {
+    "type": "numeracy",
+    "prompt": "One tree stands tall, swaying gently in the breeze.",
+    "id": "0001",
+    "negative_prompt": [
+      "Two trees stand tall, swaying gently in the breeze.",
+      "Three trees stand tall, swaying gently in the breeze.",
+      "Four trees stand tall, swaying gently in the breeze.",
+      "Five trees stand tall, swaying gently in the breeze.",
+      "Six trees stand tall, swaying gently in the breeze.",
+      "Seven trees stand tall, swaying gently in the breeze.",
+      "Eight trees stand tall, swaying gently in the breeze.",
+      "Nine trees stand tall, swaying gently in the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One flower stands in the vase, petals opening gracefully.",
+    "id": "0002",
+    "negative_prompt": [
+      "Two flower stands in the vase, petals opening gracefully.",
+      "Three flower stands in the vase, petals opening gracefully.",
+      "Four flower stands in the vase, petals opening gracefully.",
+      "Five flower stands in the vase, petals opening gracefully.",
+      "Six flower stands in the vase, petals opening gracefully.",
+      "Seven flower stands in the vase, petals opening gracefully.",
+      "Eight flower stands in the vase, petals opening gracefully.",
+      "Nine flower stands in the vase, petals opening gracefully."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One book lies open on the desk, pages curl gently in the breeze.",
+    "id": "0003",
+    "negative_prompt": [
+      "Two book lies open on the desk, pages curl gently in the breeze.",
+      "Three book lies open on the desk, pages curl gently in the breeze.",
+      "Four book lies open on the desk, pages curl gently in the breeze.",
+      "Five book lies open on the desk, pages curl gently in the breeze.",
+      "Six book lies open on the desk, pages curl gently in the breeze.",
+      "Seven book lies open on the desk, pages curl gently in the breeze.",
+      "Eight book lies open on the desk, pages curl gently in the breeze.",
+      "Nine book lies open on the desk, pages curl gently in the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One star twinkles in the dark sky.",
+    "id": "0004",
+    "negative_prompt": [
+      "Two star twinkles in the dark sky.",
+      "Three star twinkles in the dark sky.",
+      "Four star twinkles in the dark sky.",
+      "Five star twinkles in the dark sky.",
+      "Six star twinkles in the dark sky.",
+      "Seven star twinkles in the dark sky.",
+      "Eight star twinkles in the dark sky.",
+      "Nine star twinkles in the dark sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One leaf floats down a stream.",
+    "id": "0005",
+    "negative_prompt": [
+      "Two leaf floats down a stream.",
+      "Three leaf floats down a stream.",
+      "Four leaf floats down a stream.",
+      "Five leaf floats down a stream.",
+      "Six leaf floats down a stream.",
+      "Seven leaf floats down a stream.",
+      "Eight leaf floats down a stream.",
+      "Nine leaf floats down a stream."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One skyscraper pierces the sky, shimmering in the sun.",
+    "id": "0006",
+    "negative_prompt": [
+      "Two skyscraper pierces the sky, shimmering in the sun.",
+      "Three skyscraper pierces the sky, shimmering in the sun.",
+      "Four skyscraper pierces the sky, shimmering in the sun.",
+      "Five skyscraper pierces the sky, shimmering in the sun.",
+      "Six skyscraper pierces the sky, shimmering in the sun.",
+      "Seven skyscraper pierces the sky, shimmering in the sun.",
+      "Eight skyscraper pierces the sky, shimmering in the sun.",
+      "Nine skyscraper pierces the sky, shimmering in the sun."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One butterfly flutters by, wings dancing through the air.",
+    "id": "0007",
+    "negative_prompt": [
+      "Two butterflies flutters by, wings dancing through the air.",
+      "Three butterflies flutters by, wings dancing through the air.",
+      "Four butterflies flutters by, wings dancing through the air.",
+      "Five butterflies flutters by, wings dancing through the air.",
+      "Six butterflies flutters by, wings dancing through the air.",
+      "Seven butterflies flutters by, wings dancing through the air.",
+      "Eight butterflies flutters by, wings dancing through the air.",
+      "Nine butterflies flutters by, wings dancing through the air."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One bee buzzes nearby, hovering over wildflowers.",
+    "id": "0008",
+    "negative_prompt": [
+      "Two bee buzzes nearby, hovering over wildflowers.",
+      "Three bee buzzes nearby, hovering over wildflowers.",
+      "Four bee buzzes nearby, hovering over wildflowers.",
+      "Five bee buzzes nearby, hovering over wildflowers.",
+      "Six bee buzzes nearby, hovering over wildflowers.",
+      "Seven bee buzzes nearby, hovering over wildflowers.",
+      "Eight bee buzzes nearby, hovering over wildflowers.",
+      "Nine bee buzzes nearby, hovering over wildflowers."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One shoe lies on the sidewalk, laces trailing loosely.",
+    "id": "0009",
+    "negative_prompt": [
+      "Two shoes lie on the sidewalk, laces trailing loosely.",
+      "Three shoes lie on the sidewalk, laces trailing loosely.",
+      "Four shoes lie on the sidewalk, laces trailing loosely.",
+      "Five shoes lie on the sidewalk, laces trailing loosely.",
+      "Six shoes lie on the sidewalk, laces trailing loosely.",
+      "Seven shoes lie on the sidewalk, laces trailing loosely.",
+      "Eight shoes lie on the sidewalk, laces trailing loosely.",
+      "Nine shoes lie on the sidewalk, laces trailing loosely."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One bubble floats above the grass.",
+    "id": "0010",
+    "negative_prompt": [
+      "Two bubble floats above the grass.",
+      "Three bubble floats above the grass.",
+      "Four bubble floats above the grass.",
+      "Five bubble floats above the grass.",
+      "Six bubble floats above the grass.",
+      "Seven bubble floats above the grass.",
+      "Eight bubble floats above the grass.",
+      "Nine bubble floats above the grass."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One tree swaying in the breeze, and one bee flies nearby.",
+    "id": "0011",
+    "negative_prompt": [
+      "Two trees swaying in the breeze, and one bee flies nearby.",
+      "Three trees swaying in the breeze, and one bee flies nearby.",
+      "Four trees swaying in the breeze, and one bee flies nearby.",
+      "Five trees swaying in the breeze, and one bee flies nearby.",
+      "Six trees swaying in the breeze, and one bee flies nearby.",
+      "Seven trees swaying in the breeze, and one bee flies nearby.",
+      "Eight trees swaying in the breeze, and one bee flies nearby.",
+      "Nine trees swaying in the breeze, and one bee flies nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One flower in the vase and one bubble floats above.",
+    "id": "0012",
+    "negative_prompt": [
+      "Two flower in the vase and one bubble floats above.",
+      "Three flower in the vase and one bubble floats above.",
+      "Four flower in the vase and one bubble floats above.",
+      "Five flower in the vase and one bubble floats above.",
+      "One flower in the vase and Two bubble floats above.",
+      "One flower in the vase and Three bubble floats above.",
+      "One flower in the vase and Four bubble floats above.",
+      "One flower in the vase and Five bubble floats above."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One book on the bench, and one leaf falls onto its cover, landing softly.",
+    "id": "0013",
+    "negative_prompt": [
+      "Two books on the bench, and one leaf falls onto its cover, landing softly.",
+      "Three books on the bench, and one leaf falls onto its cover, landing softly.",
+      "Four books on the bench, and one leaf falls onto its cover, landing softly.",
+      "Five books on the bench, and one leaf falls onto its cover, landing softly.",
+      "One book on the bench, and two leaves fall onto its cover, landing softly.",
+      "One book on the bench, and three leaves fall onto its cover, landing softly.",
+      "One book on the bench, and four leaves fall onto its cover, landing softly.",
+      "One book on the bench, and five leaves fall onto its cover, landing softly."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One tree by the river, and one bubble rises drifting upwards.",
+    "id": "0014",
+    "negative_prompt": [
+      "Two trees by the river, and one bubble rises drifting upwards.",
+      "Three trees by the river, and one bubble rises drifting upwards.",
+      "Four trees by the river, and one bubble rises drifting upwards.",
+      "Five trees by the river, and one bubble rises drifting upwards.",
+      "One tree by the river, and two bubbles rise drifting upwards.",
+      "One tree by the river, and three bubbles rise drifting upwards.",
+      "One tree by the river, and four bubbles rise drifting upwards.",
+      "One tree by the river, and five bubbles rise drifting upwards."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One skyscraper gleams in the sun, and one butterfly flies past.",
+    "id": "0015",
+    "negative_prompt": [
+      "Two skyscraper gleams in the sun, and one butterfly flies past.",
+      "Three skyscraper gleams in the sun, and one butterfly flies past.",
+      "Four skyscraper gleams in the sun, and one butterfly flies past.",
+      "Five skyscraper gleams in the sun, and one butterfly flies past.",
+      "One skyscraper gleams in the sun, and two butterfly flies past.",
+      "One skyscraper gleams in the sun, and three butterfly flies past.",
+      "One skyscraper gleams in the sun, and four butterfly flies past.",
+      "One skyscraper gleams in the sun, and five butterfly flies past."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One star falls slowly, and one flower catches it in its petals.",
+    "id": "0016",
+    "negative_prompt": [
+      "Two stars fall slowly, and one flower catches it in its petals.",
+      "Three stars fall slowly, and one flower catches it in its petals.",
+      "Four stars fall slowly, and one flower catches it in its petals.",
+      "Five stars fall slowly, and one flower catches it in its petals.",
+      "Six stars fall slowly, and one flower catches it in its petals.",
+      "Seven stars fall slowly, and one flower catches it in its petals.",
+      "Eight stars fall slowly, and one flower catches it in its petals.",
+      "Nine stars fall slowly, and one flower catches it in its petals."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One flower floats on a cloud, and one star hovers nearby.",
+    "id": "0017",
+    "negative_prompt": [
+      "Two flowers float on a cloud, and one star hovers nearby.",
+      "Three flowers float on a cloud, and one star hovers nearby.",
+      "Four flowers float on a cloud, and one star hovers nearby.",
+      "Five flowers float on a cloud, and one star hovers nearby.",
+      "One flower floats on a cloud, and two stars hover nearby.",
+      "One flower floats on a cloud, and three stars hover nearby.",
+      "One flower floats on a cloud, and four stars hover nearby.",
+      "One flower floats on a cloud, and five stars hover nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One bee and one butterfly fly in the garden",
+    "id": "0018",
+    "negative_prompt": [
+      "Two bee and one butterfly fly in the garden",
+      "Three bee and one butterfly fly in the garden",
+      "Four bee and one butterfly fly in the garden",
+      "Five bee and one butterfly fly in the garden",
+      "One bee and Two butterfly fly in the garden",
+      "One bee and Three butterfly fly in the garden",
+      "One bee and Four butterfly fly in the garden",
+      "One bee and Five butterfly fly in the garden"
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One star hangs from a tree, twinkling softly.",
+    "id": "0019",
+    "negative_prompt": [
+      "Two stars hang from a tree, twinkling softly.",
+      "Three stars hang from a tree, twinkling softly.",
+      "Four stars hang from a tree, twinkling softly.",
+      "Five stars hang from a tree, twinkling softly.",
+      "Six stars hang from a tree, twinkling softly.",
+      "Seven stars hang from a tree, twinkling softly.",
+      "Eight stars hang from a tree, twinkling softly.",
+      "Nine stars hang from a tree, twinkling softly."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One bubble floats in front of a shoe.",
+    "id": "0020",
+    "negative_prompt": [
+      "Two bubble floats in front of a shoe.",
+      "Three bubble floats in front of a shoe.",
+      "Four bubble floats in front of a shoe.",
+      "Five bubble floats in front of a shoe.",
+      "Six bubble floats in front of a shoe.",
+      "Seven bubble floats in front of a shoe.",
+      "Eight bubble floats in front of a shoe.",
+      "Nine bubble floats in front of a shoe."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two cars speed along a road.",
+    "id": "0021",
+    "negative_prompt": [
+      "One cars speed along a road.",
+      "Three cars speed along a road.",
+      "Four cars speed along a road.",
+      "Five cars speed along a road.",
+      "Six cars speed along a road.",
+      "Seven cars speed along a road.",
+      "Eight cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two cats walking on the floor.",
+    "id": "0022",
+    "negative_prompt": [
+      "One cat walking on the floor.",
+      "Three cats walking on the floor.",
+      "Four cats walking on the floor.",
+      "Five cats walking on the floor.",
+      "Six cats walking on the floor.",
+      "Seven cats walking on the floor.",
+      "Eight cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two dogs running through a field.",
+    "id": "0023",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Three dogs running through a field.",
+      "Four dogs running through a field.",
+      "Five dogs running through a field.",
+      "Six dogs running through a field.",
+      "Seven dogs running through a field.",
+      "Eight dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two robots dance rhythmically in the lab.",
+    "id": "0024",
+    "negative_prompt": [
+      "One robot dance rhythmically in the lab.",
+      "Three robots dance rhythmically in the lab.",
+      "Four robots dance rhythmically in the lab.",
+      "Five robots dance rhythmically in the lab.",
+      "Six robots dance rhythmically in the lab.",
+      "Seven robots dance rhythmically in the lab.",
+      "Eight robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two oranges roll across the table.",
+    "id": "0025",
+    "negative_prompt": [
+      "One orange rolls across the table.",
+      "Three oranges roll across the table.",
+      "Four oranges roll across the table.",
+      "Five oranges roll across the table.",
+      "Six oranges roll across the table.",
+      "Seven oranges roll across the table.",
+      "Eight oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two birds soar through the sky.",
+    "id": "0026",
+    "negative_prompt": [
+      "One birds soar through the sky.",
+      "Three birds soar through the sky.",
+      "Four birds soar through the sky.",
+      "Five birds soar through the sky.",
+      "Six birds soar through the sky.",
+      "Seven birds soar through the sky.",
+      "Eight birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two horses gallop across the beach.",
+    "id": "0027",
+    "negative_prompt": [
+      "One horses gallop across the beach.",
+      "Three horses gallop across the beach.",
+      "Four horses gallop across the beach.",
+      "Five horses gallop across the beach.",
+      "Six horses gallop across the beach.",
+      "Seven horses gallop across the beach.",
+      "Eight horses gallop across the beach.",
+      "Nine horses gallop across the beach."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two ships drift into the harbor.",
+    "id": "0028",
+    "negative_prompt": [
+      "One ship drifts into the harbor.",
+      "Three ships drift into the harbor.",
+      "Four ships drift into the harbor.",
+      "Five ships drift into the harbor.",
+      "Six ships drift into the harbor.",
+      "Seven ships drift into the harbor.",
+      "Eight ships drift into the harbor.",
+      "Nine ships drift into the harbor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two rabbits hop through a meadow.",
+    "id": "0029",
+    "negative_prompt": [
+      "One rabbits hop through a meadow.",
+      "Three rabbits hop through a meadow.",
+      "Four rabbits hop through a meadow.",
+      "Five rabbits hop through a meadow.",
+      "Six rabbits hop through a meadow.",
+      "Seven rabbits hop through a meadow.",
+      "Eight rabbits hop through a meadow.",
+      "Nine rabbits hop through a meadow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two balls bounce across a playground.",
+    "id": "0030",
+    "negative_prompt": [
+      "One ball bounces across a playground.",
+      "Three balls bounce across a playground.",
+      "Four balls bounce across a playground.",
+      "Five balls bounce across a playground.",
+      "Six balls bounce across a playground.",
+      "Seven balls bounce across a playground.",
+      "Eight balls bounce across a playground.",
+      "Nine balls bounce across a playground."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two fish swim gracefully in the sea.",
+    "id": "0031",
+    "negative_prompt": [
+      "One fish swim gracefully in the sea.",
+      "Three fish swim gracefully in the sea.",
+      "Four fish swim gracefully in the sea.",
+      "Five fish swim gracefully in the sea.",
+      "Six fish swim gracefully in the sea.",
+      "Seven fish swim gracefully in the sea.",
+      "Eight fish swim gracefully in the sea.",
+      "Nine fish swim gracefully in the sea."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two bears lumber through the woods.",
+    "id": "0032",
+    "negative_prompt": [
+      "One bears lumber through the woods.",
+      "Three bears lumber through the woods.",
+      "Four bears lumber through the woods.",
+      "Five bears lumber through the woods.",
+      "Six bears lumber through the woods.",
+      "Seven bears lumber through the woods.",
+      "Eight bears lumber through the woods.",
+      "Nine bears lumber through the woods."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two motorcycles glide down the highway.",
+    "id": "0033",
+    "negative_prompt": [
+      "One motorcycles glide down the highway.",
+      "Three motorcycles glide down the highway.",
+      "Four motorcycles glide down the highway.",
+      "Five motorcycles glide down the highway.",
+      "Six motorcycles glide down the highway.",
+      "Seven motorcycles glide down the highway.",
+      "Eight motorcycles glide down the highway.",
+      "Nine motorcycles glide down the highway."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two chairs rock on a porch, creaking with the breeze.",
+    "id": "0034",
+    "negative_prompt": [
+      "One chairs rock on a porch, creaking with the breeze.",
+      "Three chairs rock on a porch, creaking with the breeze.",
+      "Four chairs rock on a porch, creaking with the breeze.",
+      "Five chairs rock on a porch, creaking with the breeze.",
+      "Six chairs rock on a porch, creaking with the breeze.",
+      "Seven chairs rock on a porch, creaking with the breeze.",
+      "Eight chairs rock on a porch, creaking with the breeze.",
+      "Nine chairs rock on a porch, creaking with the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two cups sit on a table, steaming with fresh coffee.",
+    "id": "0035",
+    "negative_prompt": [
+      "One cups sit on a table, steaming with fresh coffee.",
+      "Three cups sit on a table, steaming with fresh coffee.",
+      "Four cups sit on a table, steaming with fresh coffee.",
+      "Five cups sit on a table, steaming with fresh coffee.",
+      "Six cups sit on a table, steaming with fresh coffee.",
+      "Seven cups sit on a table, steaming with fresh coffee.",
+      "Eight cups sit on a table, steaming with fresh coffee.",
+      "Nine cups sit on a table, steaming with fresh coffee."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two apples rolling over the grass.",
+    "id": "0036",
+    "negative_prompt": [
+      "One apples rolling over the grass.",
+      "Three apples rolling over the grass.",
+      "Four apples rolling over the grass.",
+      "Five apples rolling over the grass.",
+      "Six apples rolling over the grass.",
+      "Seven apples rolling over the grass.",
+      "Eight apples rolling over the grass.",
+      "Nine apples rolling over the grass."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two boxes are placed on the table.",
+    "id": "0037",
+    "negative_prompt": [
+      "One boxes are placed on the table.",
+      "Three boxes are placed on the table.",
+      "Four boxes are placed on the table.",
+      "Five boxes are placed on the table.",
+      "Six boxes are placed on the table.",
+      "Seven boxes are placed on the table.",
+      "Eight boxes are placed on the table.",
+      "Nine boxes are placed on the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two pairs of sunglasses glint under the sun on a beach towel.",
+    "id": "0038",
+    "negative_prompt": [
+      "One pair of sunglasses glint under the sun on a beach towel.",
+      "Three pairs of sunglasses glint under the sun on a beach towel.",
+      "Four pairs of sunglasses glint under the sun on a beach towel.",
+      "Five pairs of sunglasses glint under the sun on a beach towel.",
+      "Six pairs of sunglasses glint under the sun on a beach towel.",
+      "Seven pairs of sunglasses glint under the sun on a beach towel.",
+      "Eight pairs of sunglasses glint under the sun on a beach towel.",
+      "Nine pairs of sunglasses glint under the sun on a beach towel."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two buses travel down the street.",
+    "id": "0039",
+    "negative_prompt": [
+      "One buses travel down the street.",
+      "Three buses travel down the street.",
+      "Four buses travel down the street.",
+      "Five buses travel down the street.",
+      "Six buses travel down the street.",
+      "Seven buses travel down the street.",
+      "Eight buses travel down the street.",
+      "Nine buses travel down the street."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two pandas munch bamboo in the garden.",
+    "id": "0040",
+    "negative_prompt": [
+      "One pandas munch bamboo in the garden.",
+      "Three pandas munch bamboo in the garden.",
+      "Four pandas munch bamboo in the garden.",
+      "Five pandas munch bamboo in the garden.",
+      "Six pandas munch bamboo in the garden.",
+      "Seven pandas munch bamboo in the garden.",
+      "Eight pandas munch bamboo in the garden.",
+      "Nine pandas munch bamboo in the garden."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two elephants splash water from a river.",
+    "id": "0041",
+    "negative_prompt": [
+      "One elephants splash water from a river.",
+      "Three elephants splash water from a river.",
+      "Four elephants splash water from a river.",
+      "Five elephants splash water from a river.",
+      "Six elephants splash water from a river.",
+      "Seven elephants splash water from a river.",
+      "Eight elephants splash water from a river.",
+      "Nine elephants splash water from a river."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two cows amble through the pasture.",
+    "id": "0042",
+    "negative_prompt": [
+      "One cows amble through the pasture.",
+      "Three cows amble through the pasture.",
+      "Four cows amble through the pasture.",
+      "Five cows amble through the pasture.",
+      "Six cows amble through the pasture.",
+      "Seven cows amble through the pasture.",
+      "Eight cows amble through the pasture.",
+      "Nine cows amble through the pasture."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two trucks move along the road",
+    "id": "0043",
+    "negative_prompt": [
+      "One truck moves along the road",
+      "Three trucks move along the road",
+      "Four trucks move along the road",
+      "Five trucks move along the road",
+      "Six trucks move along the road",
+      "Seven trucks move along the road",
+      "Eight trucks move along the road",
+      "Nine trucks move along the road"
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two airplanes fly across the sky.",
+    "id": "0044",
+    "negative_prompt": [
+      "One airplane flies across the sky.",
+      "Three airplanes fly across the sky.",
+      "Four airplanes fly across the sky.",
+      "Five airplanes fly across the sky.",
+      "Six airplanes fly across the sky.",
+      "Seven airplanes fly across the sky.",
+      "Eight airplanes fly across the sky.",
+      "Nine airplanes fly across the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two bicycles glide down a park path.",
+    "id": "0045",
+    "negative_prompt": [
+      "One bicycle glide down a park path.",
+      "Three bicycles glide down a park path.",
+      "Four bicycles glide down a park path.",
+      "Five bicycles glide down a park path.",
+      "Six bicycles glide down a park path.",
+      "Seven bicycles glide down a park path.",
+      "Eight bicycles glide down a park path.",
+      "Nine bicycles glide down a park path."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two sheep graze on a hillside.",
+    "id": "0046",
+    "negative_prompt": [
+      "One sheep graze on a hillside.",
+      "Three sheep graze on a hillside.",
+      "Four sheep graze on a hillside.",
+      "Five sheep graze on a hillside.",
+      "Six sheep graze on a hillside.",
+      "Seven sheep graze on a hillside.",
+      "Eight sheep graze on a hillside.",
+      "Nine sheep graze on a hillside."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two people sit around a table, chatting as they share their meal.",
+    "id": "0047",
+    "negative_prompt": [
+      "One people sit around a table, chatting as they share their meal.",
+      "Three people sit around a table, chatting as they share their meal.",
+      "Four people sit around a table, chatting as they share their meal.",
+      "Five people sit around a table, chatting as they share their meal.",
+      "Six people sit around a table, chatting as they share their meal.",
+      "Seven people sit around a table, chatting as they share their meal.",
+      "Eight people sit around a table, chatting as they share their meal.",
+      "Nine people sit around a table, chatting as they share their meal."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two boys play soccer on a grassy field.",
+    "id": "0048",
+    "negative_prompt": [
+      "One boy plays soccer on a grassy field.",
+      "Three boys play soccer on a grassy field.",
+      "Four boys play soccer on a grassy field.",
+      "Five boys play soccer on a grassy field.",
+      "Six boys play soccer on a grassy field.",
+      "Seven boys play soccer on a grassy field.",
+      "Eight boys play soccer on a grassy field.",
+      "Nine boys play soccer on a grassy field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two girls paint a large canvas together.",
+    "id": "0049",
+    "negative_prompt": [
+      "One girls paint a large canvas together.",
+      "Three girls paint a large canvas together.",
+      "Four girls paint a large canvas together.",
+      "Five girls paint a large canvas together.",
+      "Six girls paint a large canvas together.",
+      "Seven girls paint a large canvas together.",
+      "Eight girls paint a large canvas together.",
+      "Nine girls paint a large canvas together."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two children run along the tracks.",
+    "id": "0050",
+    "negative_prompt": [
+      "One child run along the tracks.",
+      "Three children run along the tracks.",
+      "Four children run along the tracks.",
+      "Five children run along the tracks.",
+      "Six children run along the tracks.",
+      "Seven children run along the tracks.",
+      "Eight children run along the tracks.",
+      "Nine children run along the tracks."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three cars speed along a road.",
+    "id": "0051",
+    "negative_prompt": [
+      "One cars speed along a road.",
+      "Two cars speed along a road.",
+      "Four cars speed along a road.",
+      "Five cars speed along a road.",
+      "Six cars speed along a road.",
+      "Seven cars speed along a road.",
+      "Eight cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three cats walking on the floor.",
+    "id": "0052",
+    "negative_prompt": [
+      "One cat walking on the floor.",
+      "Two cats walking on the floor.",
+      "Four cats walking on the floor.",
+      "Five cats walking on the floor.",
+      "Six cats walking on the floor.",
+      "Seven cats walking on the floor.",
+      "Eight cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three dogs running through a field.",
+    "id": "0053",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Two dogs running through a field.",
+      "Four dogs running through a field.",
+      "Five dogs running through a field.",
+      "Six dogs running through a field.",
+      "Seven dogs running through a field.",
+      "Eight dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three robots dance rhythmically in the lab.",
+    "id": "0054",
+    "negative_prompt": [
+      "One robot dances rhythmically in the lab.",
+      "Two robots dance rhythmically in the lab.",
+      "Four robots dance rhythmically in the lab.",
+      "Five robots dance rhythmically in the lab.",
+      "Six robots dance rhythmically in the lab.",
+      "Seven robots dance rhythmically in the lab.",
+      "Eight robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three oranges roll across the table.",
+    "id": "0055",
+    "negative_prompt": [
+      "One oranges roll across the table.",
+      "Two oranges roll across the table.",
+      "Four oranges roll across the table.",
+      "Five oranges roll across the table.",
+      "Six oranges roll across the table.",
+      "Seven oranges roll across the table.",
+      "Eight oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three birds soar through the sky.",
+    "id": "0056",
+    "negative_prompt": [
+      "One bird soars through the sky.",
+      "Two birds soar through the sky.",
+      "Four birds soar through the sky.",
+      "Five birds soar through the sky.",
+      "Six birds soar through the sky.",
+      "Seven birds soar through the sky.",
+      "Eight birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three horses gallop across the beach.",
+    "id": "0057",
+    "negative_prompt": [
+      "One horses gallop across the beach.",
+      "Two horses gallop across the beach.",
+      "Four horses gallop across the beach.",
+      "Five horses gallop across the beach.",
+      "Six horses gallop across the beach.",
+      "Seven horses gallop across the beach.",
+      "Eight horses gallop across the beach.",
+      "Nine horses gallop across the beach."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three ships drift into the harbor.",
+    "id": "0058",
+    "negative_prompt": [
+      "One ships drift into the harbor.",
+      "Two ships drift into the harbor.",
+      "Four ships drift into the harbor.",
+      "Five ships drift into the harbor.",
+      "Six ships drift into the harbor.",
+      "Seven ships drift into the harbor.",
+      "Eight ships drift into the harbor.",
+      "Nine ships drift into the harbor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three rabbits hop through a meadow.",
+    "id": "0059",
+    "negative_prompt": [
+      "One rabbits hop through a meadow.",
+      "Two rabbits hop through a meadow.",
+      "Four rabbits hop through a meadow.",
+      "Five rabbits hop through a meadow.",
+      "Six rabbits hop through a meadow.",
+      "Seven rabbits hop through a meadow.",
+      "Eight rabbits hop through a meadow.",
+      "Nine rabbits hop through a meadow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three balls bounce across a playground.",
+    "id": "0060",
+    "negative_prompt": [
+      "One ball bounces across a playground.",
+      "Two balls bounce across a playground.",
+      "Four balls bounce across a playground.",
+      "Five balls bounce across a playground.",
+      "Six balls bounce across a playground.",
+      "Seven balls bounce across a playground.",
+      "Eight balls bounce across a playground.",
+      "Nine balls bounce across a playground."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three fish swim gracefully in the sea.",
+    "id": "0061",
+    "negative_prompt": [
+      "One fish swim gracefully in the sea.",
+      "Two fish swim gracefully in the sea.",
+      "Four fish swim gracefully in the sea.",
+      "Five fish swim gracefully in the sea.",
+      "Six fish swim gracefully in the sea.",
+      "Seven fish swim gracefully in the sea.",
+      "Eight fish swim gracefully in the sea.",
+      "Nine fish swim gracefully in the sea."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three bears lumber through the woods.",
+    "id": "0062",
+    "negative_prompt": [
+      "One bears lumber through the woods.",
+      "Two bears lumber through the woods.",
+      "Four bears lumber through the woods.",
+      "Five bears lumber through the woods.",
+      "Six bears lumber through the woods.",
+      "Seven bears lumber through the woods.",
+      "Eight bears lumber through the woods.",
+      "Nine bears lumber through the woods."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three motorcycles glide down the highway.",
+    "id": "0063",
+    "negative_prompt": [
+      "One motorcycle glide down the highway.",
+      "Two motorcycles glide down the highway.",
+      "Four motorcycles glide down the highway.",
+      "Five motorcycles glide down the highway.",
+      "Six motorcycles glide down the highway.",
+      "Seven motorcycles glide down the highway.",
+      "Eight motorcycles glide down the highway.",
+      "Nine motorcycles glide down the highway."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three chairs rock on a porch, creaking with the breeze.",
+    "id": "0064",
+    "negative_prompt": [
+      "One chairs rock on a porch, creaking with the breeze.",
+      "Two chairs rock on a porch, creaking with the breeze.",
+      "Four chairs rock on a porch, creaking with the breeze.",
+      "Five chairs rock on a porch, creaking with the breeze.",
+      "Six chairs rock on a porch, creaking with the breeze.",
+      "Seven chairs rock on a porch, creaking with the breeze.",
+      "Eight chairs rock on a porch, creaking with the breeze.",
+      "Nine chairs rock on a porch, creaking with the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three cups sit on a table, steaming with fresh coffee.",
+    "id": "0065",
+    "negative_prompt": [
+      "One cups sit on a table, steaming with fresh coffee.",
+      "Two cups sit on a table, steaming with fresh coffee.",
+      "Four cups sit on a table, steaming with fresh coffee.",
+      "Five cups sit on a table, steaming with fresh coffee.",
+      "Six cups sit on a table, steaming with fresh coffee.",
+      "Seven cups sit on a table, steaming with fresh coffee.",
+      "Eight cups sit on a table, steaming with fresh coffee.",
+      "Nine cups sit on a table, steaming with fresh coffee."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three apples rolling over the grass.",
+    "id": "0066",
+    "negative_prompt": [
+      "One apple rolling over the grass.",
+      "Two apples rolling over the grass.",
+      "Four apples rolling over the grass.",
+      "Five apples rolling over the grass.",
+      "Six apples rolling over the grass.",
+      "Seven apples rolling over the grass.",
+      "Eight apples rolling over the grass.",
+      "Nine apples rolling over the grass."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three boxes are placed on the table.",
+    "id": "0067",
+    "negative_prompt": [
+      "One box is placed on the table.",
+      "Two boxes are placed on the table.",
+      "Four boxes are placed on the table.",
+      "Five boxes are placed on the table.",
+      "Six boxes are placed on the table.",
+      "Seven boxes are placed on the table.",
+      "Eight boxes are placed on the table.",
+      "Nine boxes are placed on the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three pairs of sunglasses glint under the sun on a beach towel.",
+    "id": "0068",
+    "negative_prompt": [
+      "One pairs of sunglasses glint under the sun on a beach towel.",
+      "Two pairs of sunglasses glint under the sun on a beach towel.",
+      "Four pairs of sunglasses glint under the sun on a beach towel.",
+      "Five pairs of sunglasses glint under the sun on a beach towel.",
+      "Six pairs of sunglasses glint under the sun on a beach towel.",
+      "Seven pairs of sunglasses glint under the sun on a beach towel.",
+      "Eight pairs of sunglasses glint under the sun on a beach towel.",
+      "Nine pairs of sunglasses glint under the sun on a beach towel."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three buses travel down the street.",
+    "id": "0069",
+    "negative_prompt": [
+      "One buses travel down the street.",
+      "Two buses travel down the street.",
+      "Four buses travel down the street.",
+      "Five buses travel down the street.",
+      "Six buses travel down the street.",
+      "Seven buses travel down the street.",
+      "Eight buses travel down the street.",
+      "Nine buses travel down the street."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three pandas munch bamboo in the garden.",
+    "id": "0070",
+    "negative_prompt": [
+      "One pandas munch bamboo in the garden.",
+      "Two pandas munch bamboo in the garden.",
+      "Four pandas munch bamboo in the garden.",
+      "Five pandas munch bamboo in the garden.",
+      "Six pandas munch bamboo in the garden.",
+      "Seven pandas munch bamboo in the garden.",
+      "Eight pandas munch bamboo in the garden.",
+      "Nine pandas munch bamboo in the garden."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three elephants splash water from a river.",
+    "id": "0071",
+    "negative_prompt": [
+      "One elephants splash water from a river.",
+      "Two elephants splash water from a river.",
+      "Four elephants splash water from a river.",
+      "Five elephants splash water from a river.",
+      "Six elephants splash water from a river.",
+      "Seven elephants splash water from a river.",
+      "Eight elephants splash water from a river.",
+      "Nine elephants splash water from a river."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three cows amble through the pasture.",
+    "id": "0072",
+    "negative_prompt": [
+      "One cows amble through the pasture.",
+      "Two cows amble through the pasture.",
+      "Four cows amble through the pasture.",
+      "Five cows amble through the pasture.",
+      "Six cows amble through the pasture.",
+      "Seven cows amble through the pasture.",
+      "Eight cows amble through the pasture.",
+      "Nine cows amble through the pasture."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three trucks move along the road",
+    "id": "0073",
+    "negative_prompt": [
+      "One trucks move along the road",
+      "Two trucks move along the road",
+      "Four trucks move along the road",
+      "Five trucks move along the road",
+      "Six trucks move along the road",
+      "Seven trucks move along the road",
+      "Eight trucks move along the road",
+      "Nine trucks move along the road"
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three airplanes fly across the sky.",
+    "id": "0074",
+    "negative_prompt": [
+      "One airplanes fly across the sky.",
+      "Two airplanes fly across the sky.",
+      "Four airplanes fly across the sky.",
+      "Five airplanes fly across the sky.",
+      "Six airplanes fly across the sky.",
+      "Seven airplanes fly across the sky.",
+      "Eight airplanes fly across the sky.",
+      "Nine airplanes fly across the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three bicycles glide down a park path.",
+    "id": "0075",
+    "negative_prompt": [
+      "One bicycles glide down a park path.",
+      "Two bicycles glide down a park path.",
+      "Four bicycles glide down a park path.",
+      "Five bicycles glide down a park path.",
+      "Six bicycles glide down a park path.",
+      "Seven bicycles glide down a park path.",
+      "Eight bicycles glide down a park path.",
+      "Nine bicycles glide down a park path."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three sheep graze on a hillside.",
+    "id": "0076",
+    "negative_prompt": [
+      "One sheep graze on a hillside.",
+      "Two sheep graze on a hillside.",
+      "Four sheep graze on a hillside.",
+      "Five sheep graze on a hillside.",
+      "Six sheep graze on a hillside.",
+      "Seven sheep graze on a hillside.",
+      "Eight sheep graze on a hillside.",
+      "Nine sheep graze on a hillside."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three people sit around a table, chatting as they share their meal.",
+    "id": "0077",
+    "negative_prompt": [
+      "One people sit around a table, chatting as they share their meal.",
+      "Two people sit around a table, chatting as they share their meal.",
+      "Four people sit around a table, chatting as they share their meal.",
+      "Five people sit around a table, chatting as they share their meal.",
+      "Six people sit around a table, chatting as they share their meal.",
+      "Seven people sit around a table, chatting as they share their meal.",
+      "Eight people sit around a table, chatting as they share their meal.",
+      "Nine people sit around a table, chatting as they share their meal."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three boys play soccer on a grassy field.",
+    "id": "0078",
+    "negative_prompt": [
+      "One boy plays soccer on a grassy field.",
+      "Two boys play soccer on a grassy field.",
+      "Four boys play soccer on a grassy field.",
+      "Five boys play soccer on a grassy field.",
+      "Six boys play soccer on a grassy field.",
+      "Seven boys play soccer on a grassy field.",
+      "Eight boys play soccer on a grassy field.",
+      "Nine boys play soccer on a grassy field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three girls paint a large canvas together.",
+    "id": "0079",
+    "negative_prompt": [
+      "One girl paints a large canvas together.",
+      "Two girls paint a large canvas together.",
+      "Four girls paint a large canvas together.",
+      "Five girls paint a large canvas together.",
+      "Six girls paint a large canvas together.",
+      "Seven girls paint a large canvas together.",
+      "Eight girls paint a large canvas together.",
+      "Nine girls paint a large canvas together."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three children run along the tracks.",
+    "id": "0080",
+    "negative_prompt": [
+      "One children run along the tracks.",
+      "Two children run along the tracks.",
+      "Four children run along the tracks.",
+      "Five children run along the tracks.",
+      "Six children run along the tracks.",
+      "Seven children run along the tracks.",
+      "Eight children run along the tracks.",
+      "Nine children run along the tracks."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cars speed along a road.",
+    "id": "0081",
+    "negative_prompt": [
+      "One cars speed along a road.",
+      "Two cars speed along a road.",
+      "Three cars speed along a road.",
+      "Five cars speed along a road.",
+      "Six cars speed along a road.",
+      "Seven cars speed along a road.",
+      "Eight cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cats walking on the floor.",
+    "id": "0082",
+    "negative_prompt": [
+      "One cats walking on the floor.",
+      "Two cats walking on the floor.",
+      "Three cats walking on the floor.",
+      "Five cats walking on the floor.",
+      "Six cats walking on the floor.",
+      "Seven cats walking on the floor.",
+      "Eight cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four dogs running through a field.",
+    "id": "0083",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Two dogs running through a field.",
+      "Three dogs running through a field.",
+      "Five dogs running through a field.",
+      "Six dogs running through a field.",
+      "Seven dogs running through a field.",
+      "Eight dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four robots dance rhythmically in the lab.",
+    "id": "0084",
+    "negative_prompt": [
+      "One robots dance rhythmically in the lab.",
+      "Two robots dance rhythmically in the lab.",
+      "Three robots dance rhythmically in the lab.",
+      "Five robots dance rhythmically in the lab.",
+      "Six robots dance rhythmically in the lab.",
+      "Seven robots dance rhythmically in the lab.",
+      "Eight robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four oranges roll across the table.",
+    "id": "0085",
+    "negative_prompt": [
+      "One oranges roll across the table.",
+      "Two oranges roll across the table.",
+      "Three oranges roll across the table.",
+      "Five oranges roll across the table.",
+      "Six oranges roll across the table.",
+      "Seven oranges roll across the table.",
+      "Eight oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four birds soar through the sky.",
+    "id": "0086",
+    "negative_prompt": [
+      "One birds soar through the sky.",
+      "Two birds soar through the sky.",
+      "Three birds soar through the sky.",
+      "Five birds soar through the sky.",
+      "Six birds soar through the sky.",
+      "Seven birds soar through the sky.",
+      "Eight birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four horses gallop across the beach.",
+    "id": "0087",
+    "negative_prompt": [
+      "One horses gallop across the beach.",
+      "Two horses gallop across the beach.",
+      "Three horses gallop across the beach.",
+      "Five horses gallop across the beach.",
+      "Six horses gallop across the beach.",
+      "Seven horses gallop across the beach.",
+      "Eight horses gallop across the beach.",
+      "Nine horses gallop across the beach."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four ships drift into the harbor.",
+    "id": "0088",
+    "negative_prompt": [
+      "One ship drifts into the harbor.",
+      "Two ships drift into the harbor.",
+      "Three ships drift into the harbor.",
+      "Five ships drift into the harbor.",
+      "Six ships drift into the harbor.",
+      "Seven ships drift into the harbor.",
+      "Eight ships drift into the harbor.",
+      "Nine ships drift into the harbor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four rabbits hop through a meadow.",
+    "id": "0089",
+    "negative_prompt": [
+      "One rabbit hops through a meadow.",
+      "Two rabbits hop through a meadow.",
+      "Three rabbits hop through a meadow.",
+      "Five rabbits hop through a meadow.",
+      "Six rabbits hop through a meadow.",
+      "Seven rabbits hop through a meadow.",
+      "Eight rabbits hop through a meadow.",
+      "Nine rabbits hop through a meadow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four balls bounce across a playground.",
+    "id": "0090",
+    "negative_prompt": [
+      "One balls bounce across a playground.",
+      "Two balls bounce across a playground.",
+      "Three balls bounce across a playground.",
+      "Five balls bounce across a playground.",
+      "Six balls bounce across a playground.",
+      "Seven balls bounce across a playground.",
+      "Eight balls bounce across a playground.",
+      "Nine balls bounce across a playground."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four fish swim gracefully in the sea.",
+    "id": "0091",
+    "negative_prompt": [
+      "One fish swim gracefully in the sea.",
+      "Two fish swim gracefully in the sea.",
+      "Three fish swim gracefully in the sea.",
+      "Five fish swim gracefully in the sea.",
+      "Six fish swim gracefully in the sea.",
+      "Seven fish swim gracefully in the sea.",
+      "Eight fish swim gracefully in the sea.",
+      "Nine fish swim gracefully in the sea."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four bears lumber through the woods.",
+    "id": "0092",
+    "negative_prompt": [
+      "One bears lumber through the woods.",
+      "Two bears lumber through the woods.",
+      "Three bears lumber through the woods.",
+      "Five bears lumber through the woods.",
+      "Six bears lumber through the woods.",
+      "Seven bears lumber through the woods.",
+      "Eight bears lumber through the woods.",
+      "Nine bears lumber through the woods."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four motorcycles glide down the highway.",
+    "id": "0093",
+    "negative_prompt": [
+      "One motorcycle glides down the highway.",
+      "Two motorcycles glide down the highway.",
+      "Three motorcycles glide down the highway.",
+      "Five motorcycles glide down the highway.",
+      "Six motorcycles glide down the highway.",
+      "Seven motorcycles glide down the highway.",
+      "Eight motorcycles glide down the highway.",
+      "Nine motorcycles glide down the highway."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four chairs rock on a porch, creaking with the breeze.",
+    "id": "0094",
+    "negative_prompt": [
+      "One chairs rock on a porch, creaking with the breeze.",
+      "Two chairs rock on a porch, creaking with the breeze.",
+      "Three chairs rock on a porch, creaking with the breeze.",
+      "Five chairs rock on a porch, creaking with the breeze.",
+      "Six chairs rock on a porch, creaking with the breeze.",
+      "Seven chairs rock on a porch, creaking with the breeze.",
+      "Eight chairs rock on a porch, creaking with the breeze.",
+      "Nine chairs rock on a porch, creaking with the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cups sit on a table, steaming with fresh coffee.",
+    "id": "0095",
+    "negative_prompt": [
+      "One cups sit on a table, steaming with fresh coffee.",
+      "Two cups sit on a table, steaming with fresh coffee.",
+      "Three cups sit on a table, steaming with fresh coffee.",
+      "Five cups sit on a table, steaming with fresh coffee.",
+      "Six cups sit on a table, steaming with fresh coffee.",
+      "Seven cups sit on a table, steaming with fresh coffee.",
+      "Eight cups sit on a table, steaming with fresh coffee.",
+      "Nine cups sit on a table, steaming with fresh coffee."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four apples rolling over the grass.",
+    "id": "0096",
+    "negative_prompt": [
+      "One apples rolling over the grass.",
+      "Two apples rolling over the grass.",
+      "Three apples rolling over the grass.",
+      "Five apples rolling over the grass.",
+      "Six apples rolling over the grass.",
+      "Seven apples rolling over the grass.",
+      "Eight apples rolling over the grass.",
+      "Nine apples rolling over the grass."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four boxes are placed on the table.",
+    "id": "0097",
+    "negative_prompt": [
+      "One boxes are placed on the table.",
+      "Two boxes are placed on the table.",
+      "Three boxes are placed on the table.",
+      "Five boxes are placed on the table.",
+      "Six boxes are placed on the table.",
+      "Seven boxes are placed on the table.",
+      "Eight boxes are placed on the table.",
+      "Nine boxes are placed on the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four pairs of sunglasses glint under the sun on a beach towel.",
+    "id": "0098",
+    "negative_prompt": [
+      "One pair of sunglasses glint under the sun on a beach towel.",
+      "Two pairs of sunglasses glint under the sun on a beach towel.",
+      "Three pairs of sunglasses glint under the sun on a beach towel.",
+      "Five pairs of sunglasses glint under the sun on a beach towel.",
+      "Six pairs of sunglasses glint under the sun on a beach towel.",
+      "Seven pairs of sunglasses glint under the sun on a beach towel.",
+      "Eight pairs of sunglasses glint under the sun on a beach towel.",
+      "Nine pairs of sunglasses glint under the sun on a beach towel."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four buses travel down the street.",
+    "id": "0099",
+    "negative_prompt": [
+      "One bus travels down the street.",
+      "Two buses travel down the street.",
+      "Three buses travel down the street.",
+      "Five buses travel down the street.",
+      "Six buses travel down the street.",
+      "Seven buses travel down the street.",
+      "Eight buses travel down the street.",
+      "Nine buses travel down the street."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four pandas munch bamboo in the garden.",
+    "id": "0100",
+    "negative_prompt": [
+      "One pandas munch bamboo in the garden.",
+      "Two pandas munch bamboo in the garden.",
+      "Three pandas munch bamboo in the garden.",
+      "Five pandas munch bamboo in the garden.",
+      "Six pandas munch bamboo in the garden.",
+      "Seven pandas munch bamboo in the garden.",
+      "Eight pandas munch bamboo in the garden.",
+      "Nine pandas munch bamboo in the garden."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four elephants splash water from a river.",
+    "id": "0101",
+    "negative_prompt": [
+      "One elephants splash water from a river.",
+      "Two elephants splash water from a river.",
+      "Three elephants splash water from a river.",
+      "Five elephants splash water from a river.",
+      "Six elephants splash water from a river.",
+      "Seven elephants splash water from a river.",
+      "Eight elephants splash water from a river.",
+      "Nine elephants splash water from a river."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cows amble through the pasture.",
+    "id": "0102",
+    "negative_prompt": [
+      "One cows amble through the pasture.",
+      "Two cows amble through the pasture.",
+      "Three cows amble through the pasture.",
+      "Five cows amble through the pasture.",
+      "Six cows amble through the pasture.",
+      "Seven cows amble through the pasture.",
+      "Eight cows amble through the pasture.",
+      "Nine cows amble through the pasture."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four trucks move along the road",
+    "id": "0103",
+    "negative_prompt": [
+      "One trucks move along the road",
+      "Two trucks move along the road",
+      "Three trucks move along the road",
+      "Five trucks move along the road",
+      "Six trucks move along the road",
+      "Seven trucks move along the road",
+      "Eight trucks move along the road",
+      "Nine trucks move along the road"
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four airplanes fly across the sky.",
+    "id": "0104",
+    "negative_prompt": [
+      "One airplanes fly across the sky.",
+      "Two airplanes fly across the sky.",
+      "Three airplanes fly across the sky.",
+      "Five airplanes fly across the sky.",
+      "Six airplanes fly across the sky.",
+      "Seven airplanes fly across the sky.",
+      "Eight airplanes fly across the sky.",
+      "Nine airplanes fly across the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four bicycles glide down a park path.",
+    "id": "0105",
+    "negative_prompt": [
+      "One bicycles glide down a park path.",
+      "Two bicycles glide down a park path.",
+      "Three bicycles glide down a park path.",
+      "Five bicycles glide down a park path.",
+      "Six bicycles glide down a park path.",
+      "Seven bicycles glide down a park path.",
+      "Eight bicycles glide down a park path.",
+      "Nine bicycles glide down a park path."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four sheep graze on a hillside.",
+    "id": "0106",
+    "negative_prompt": [
+      "One sheep graze on a hillside.",
+      "Two sheep graze on a hillside.",
+      "Three sheep graze on a hillside.",
+      "Five sheep graze on a hillside.",
+      "Six sheep graze on a hillside.",
+      "Seven sheep graze on a hillside.",
+      "Eight sheep graze on a hillside.",
+      "Nine sheep graze on a hillside."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four people sit around a table, chatting as they share their meal.",
+    "id": "0107",
+    "negative_prompt": [
+      "One people sit around a table, chatting as they share their meal.",
+      "Two people sit around a table, chatting as they share their meal.",
+      "Three people sit around a table, chatting as they share their meal.",
+      "Five people sit around a table, chatting as they share their meal.",
+      "Six people sit around a table, chatting as they share their meal.",
+      "Seven people sit around a table, chatting as they share their meal.",
+      "Eight people sit around a table, chatting as they share their meal.",
+      "Nine people sit around a table, chatting as they share their meal."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four boys play soccer on a grassy field.",
+    "id": "0108",
+    "negative_prompt": [
+      "One boy plays soccer on a grassy field.",
+      "Two boys play soccer on a grassy field.",
+      "Three boys play soccer on a grassy field.",
+      "Five boys play soccer on a grassy field.",
+      "Six boys play soccer on a grassy field.",
+      "Seven boys play soccer on a grassy field.",
+      "Eight boys play soccer on a grassy field.",
+      "Nine boys play soccer on a grassy field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four girls paint a large canvas together.",
+    "id": "0109",
+    "negative_prompt": [
+      "One girl paints a large canvas together.",
+      "Two girls paint a large canvas together.",
+      "Three girls paint a large canvas together.",
+      "Five girls paint a large canvas together.",
+      "Six girls paint a large canvas together.",
+      "Seven girls paint a large canvas together.",
+      "Eight girls paint a large canvas together.",
+      "Nine girls paint a large canvas together."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four children run along the tracks.",
+    "id": "0110",
+    "negative_prompt": [
+      "One children run along the tracks.",
+      "Two children run along the tracks.",
+      "Three children run along the tracks.",
+      "Five children run along the tracks.",
+      "Six children run along the tracks.",
+      "Seven children run along the tracks.",
+      "Eight children run along the tracks.",
+      "Nine children run along the tracks."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five cars speed along a road.",
+    "id": "0111",
+    "negative_prompt": [
+      "One car speeds along a road.",
+      "Two cars speed along a road.",
+      "Three cars speed along a road.",
+      "Four cars speed along a road.",
+      "Six cars speed along a road.",
+      "Seven cars speed along a road.",
+      "Eight cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five cats walking on the floor.",
+    "id": "0112",
+    "negative_prompt": [
+      "One cats walking on the floor.",
+      "Two cats walking on the floor.",
+      "Three cats walking on the floor.",
+      "Four cats walking on the floor.",
+      "Six cats walking on the floor.",
+      "Seven cats walking on the floor.",
+      "Eight cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five dogs running through a field.",
+    "id": "0113",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Two dogs running through a field.",
+      "Three dogs running through a field.",
+      "Four dogs running through a field.",
+      "Six dogs running through a field.",
+      "Seven dogs running through a field.",
+      "Eight dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five robots dance rhythmically in the lab.",
+    "id": "0114",
+    "negative_prompt": [
+      "One robot dances rhythmically in the lab.",
+      "Two robots dance rhythmically in the lab.",
+      "Three robots dance rhythmically in the lab.",
+      "Four robots dance rhythmically in the lab.",
+      "Six robots dance rhythmically in the lab.",
+      "Seven robots dance rhythmically in the lab.",
+      "Eight robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five oranges roll across the table.",
+    "id": "0115",
+    "negative_prompt": [
+      "One oranges roll across the table.",
+      "Two oranges roll across the table.",
+      "Three oranges roll across the table.",
+      "Four oranges roll across the table.",
+      "Six oranges roll across the table.",
+      "Seven oranges roll across the table.",
+      "Eight oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five birds soar through the sky.",
+    "id": "0116",
+    "negative_prompt": [
+      "One birds soar through the sky.",
+      "Two birds soar through the sky.",
+      "Three birds soar through the sky.",
+      "Four birds soar through the sky.",
+      "Six birds soar through the sky.",
+      "Seven birds soar through the sky.",
+      "Eight birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five horses gallop across the beach.",
+    "id": "0117",
+    "negative_prompt": [
+      "One horses gallop across the beach.",
+      "Two horses gallop across the beach.",
+      "Three horses gallop across the beach.",
+      "Four horses gallop across the beach.",
+      "Six horses gallop across the beach.",
+      "Seven horses gallop across the beach.",
+      "Eight horses gallop across the beach.",
+      "Nine horses gallop across the beach."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five ships drift into the harbor.",
+    "id": "0118",
+    "negative_prompt": [
+      "One ships drift into the harbor.",
+      "Two ships drift into the harbor.",
+      "Three ships drift into the harbor.",
+      "Four ships drift into the harbor.",
+      "Six ships drift into the harbor.",
+      "Seven ships drift into the harbor.",
+      "Eight ships drift into the harbor.",
+      "Nine ships drift into the harbor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five rabbits hop through a meadow.",
+    "id": "0119",
+    "negative_prompt": [
+      "One rabbits hop through a meadow.",
+      "Two rabbits hop through a meadow.",
+      "Three rabbits hop through a meadow.",
+      "Four rabbits hop through a meadow.",
+      "Six rabbits hop through a meadow.",
+      "Seven rabbits hop through a meadow.",
+      "Eight rabbits hop through a meadow.",
+      "Nine rabbits hop through a meadow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five balls bounce across a playground.",
+    "id": "0120",
+    "negative_prompt": [
+      "One ball bounce across a playground.",
+      "Two balls bounce across a playground.",
+      "Three balls bounce across a playground.",
+      "Four balls bounce across a playground.",
+      "Six balls bounce across a playground.",
+      "Seven balls bounce across a playground.",
+      "Eight balls bounce across a playground.",
+      "Nine balls bounce across a playground."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five fish swim gracefully in the sea.",
+    "id": "0121",
+    "negative_prompt": [
+      "One fish swim gracefully in the sea.",
+      "Two fish swim gracefully in the sea.",
+      "Three fish swim gracefully in the sea.",
+      "Four fish swim gracefully in the sea.",
+      "Six fish swim gracefully in the sea.",
+      "Seven fish swim gracefully in the sea.",
+      "Eight fish swim gracefully in the sea.",
+      "Nine fish swim gracefully in the sea."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five bears lumber through the woods.",
+    "id": "0122",
+    "negative_prompt": [
+      "One bears lumber through the woods.",
+      "Two bears lumber through the woods.",
+      "Three bears lumber through the woods.",
+      "Four bears lumber through the woods.",
+      "Six bears lumber through the woods.",
+      "Seven bears lumber through the woods.",
+      "Eight bears lumber through the woods.",
+      "Nine bears lumber through the woods."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five motorcycles glide down the highway.",
+    "id": "0123",
+    "negative_prompt": [
+      "One motorcycles glide down the highway.",
+      "Two motorcycles glide down the highway.",
+      "Three motorcycles glide down the highway.",
+      "Four motorcycles glide down the highway.",
+      "Six motorcycles glide down the highway.",
+      "Seven motorcycles glide down the highway.",
+      "Eight motorcycles glide down the highway.",
+      "Nine motorcycles glide down the highway."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five chairs rock on a porch, creaking with the breeze.",
+    "id": "0124",
+    "negative_prompt": [
+      "One chair rocks on a porch, creaking with the breeze.",
+      "Two chairs rock on a porch, creaking with the breeze.",
+      "Three chairs rock on a porch, creaking with the breeze.",
+      "Four chairs rock on a porch, creaking with the breeze.",
+      "Six chairs rock on a porch, creaking with the breeze.",
+      "Seven chairs rock on a porch, creaking with the breeze.",
+      "Eight chairs rock on a porch, creaking with the breeze.",
+      "Nine chairs rock on a porch, creaking with the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five cups sit on a table, steaming with fresh coffee.",
+    "id": "0125",
+    "negative_prompt": [
+      "One cups sit on a table, steaming with fresh coffee.",
+      "Two cups sit on a table, steaming with fresh coffee.",
+      "Three cups sit on a table, steaming with fresh coffee.",
+      "Four cups sit on a table, steaming with fresh coffee.",
+      "Six cups sit on a table, steaming with fresh coffee.",
+      "Seven cups sit on a table, steaming with fresh coffee.",
+      "Eight cups sit on a table, steaming with fresh coffee.",
+      "Nine cups sit on a table, steaming with fresh coffee."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five apples rolling over the grass.",
+    "id": "0126",
+    "negative_prompt": [
+      "One apples rolling over the grass.",
+      "Two apples rolling over the grass.",
+      "Three apples rolling over the grass.",
+      "Four apples rolling over the grass.",
+      "Six apples rolling over the grass.",
+      "Seven apples rolling over the grass.",
+      "Eight apples rolling over the grass.",
+      "Nine apples rolling over the grass."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five boxes are placed on the table.",
+    "id": "0127",
+    "negative_prompt": [
+      "One boxes are placed on the table.",
+      "Two boxes are placed on the table.",
+      "Three boxes are placed on the table.",
+      "Four boxes are placed on the table.",
+      "Six boxes are placed on the table.",
+      "Seven boxes are placed on the table.",
+      "Eight boxes are placed on the table.",
+      "Nine boxes are placed on the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five pairs of sunglasses glint under the sun on a beach towel.",
+    "id": "0128",
+    "negative_prompt": [
+      "One pair of sunglasses glint under the sun on a beach towel.",
+      "Two pairs of sunglasses glint under the sun on a beach towel.",
+      "Three pairs of sunglasses glint under the sun on a beach towel.",
+      "Four pairs of sunglasses glint under the sun on a beach towel.",
+      "Six pairs of sunglasses glint under the sun on a beach towel.",
+      "Seven pairs of sunglasses glint under the sun on a beach towel.",
+      "Eight pairs of sunglasses glint under the sun on a beach towel.",
+      "Nine pairs of sunglasses glint under the sun on a beach towel."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five buses travel down the street.",
+    "id": "0129",
+    "negative_prompt": [
+      "One buses travel down the street.",
+      "Two buses travel down the street.",
+      "Three buses travel down the street.",
+      "Four buses travel down the street.",
+      "Six buses travel down the street.",
+      "Seven buses travel down the street.",
+      "Eight buses travel down the street.",
+      "Nine buses travel down the street."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five pandas munch bamboo in the garden.",
+    "id": "0130",
+    "negative_prompt": [
+      "One pandas munch bamboo in the garden.",
+      "Two pandas munch bamboo in the garden.",
+      "Three pandas munch bamboo in the garden.",
+      "Four pandas munch bamboo in the garden.",
+      "Six pandas munch bamboo in the garden.",
+      "Seven pandas munch bamboo in the garden.",
+      "Eight pandas munch bamboo in the garden.",
+      "Nine pandas munch bamboo in the garden."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five elephants splash water from a river.",
+    "id": "0131",
+    "negative_prompt": [
+      "One elephants splash water from a river.",
+      "Two elephants splash water from a river.",
+      "Three elephants splash water from a river.",
+      "Four elephants splash water from a river.",
+      "Six elephants splash water from a river.",
+      "Seven elephants splash water from a river.",
+      "Eight elephants splash water from a river.",
+      "Nine elephants splash water from a river."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five cows amble through the pasture.",
+    "id": "0132",
+    "negative_prompt": [
+      "One cows amble through the pasture.",
+      "Two cows amble through the pasture.",
+      "Tthree cows amble through the pasture.",
+      "Four cows amble through the pasture.",
+      "Six cows amble through the pasture.",
+      "Seven cows amble through the pasture.",
+      "Eight cows amble through the pasture.",
+      "Nine cows amble through the pasture."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five trucks move along the road",
+    "id": "0133",
+    "negative_prompt": [
+      "One trucks move along the road",
+      "Two trucks move along the road",
+      "Three trucks move along the road",
+      "Four trucks move along the road",
+      "Six trucks move along the road",
+      "Seven trucks move along the road",
+      "Eight trucks move along the road",
+      "Nine trucks move along the road"
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five airplanes fly across the sky.",
+    "id": "0134",
+    "negative_prompt": [
+      "One airplane flies across the sky.",
+      "Two airplanes fly across the sky.",
+      "Three airplanes fly across the sky.",
+      "Four airplanes fly across the sky.",
+      "Six airplanes fly across the sky.",
+      "Seven airplanes fly across the sky.",
+      "Eight airplanes fly across the sky.",
+      "Nine airplanes fly across the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five bicycles glide down a park path.",
+    "id": "0135",
+    "negative_prompt": [
+      "One bicycles glide down a park path.",
+      "Two bicycles glide down a park path.",
+      "Three bicycles glide down a park path.",
+      "Four bicycles glide down a park path.",
+      "Six bicycles glide down a park path.",
+      "Seven bicycles glide down a park path.",
+      "Eight bicycles glide down a park path.",
+      "Nine bicycles glide down a park path."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five sheep graze on a hillside.",
+    "id": "0136",
+    "negative_prompt": [
+      "One sheep graze on a hillside.",
+      "Two sheep graze on a hillside.",
+      "Three sheep graze on a hillside.",
+      "Four sheep graze on a hillside.",
+      "Six sheep graze on a hillside.",
+      "Seven sheep graze on a hillside.",
+      "Eight sheep graze on a hillside.",
+      "Nine sheep graze on a hillside."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five people sit around a table, chatting as they share their meal.",
+    "id": "0137",
+    "negative_prompt": [
+      "One people sit around a table, chatting as they share their meal.",
+      "Two people sit around a table, chatting as they share their meal.",
+      "Three people sit around a table, chatting as they share their meal.",
+      "Four people sit around a table, chatting as they share their meal.",
+      "Six people sit around a table, chatting as they share their meal.",
+      "Seven people sit around a table, chatting as they share their meal.",
+      "Eight people sit around a table, chatting as they share their meal.",
+      "Nine people sit around a table, chatting as they share their meal."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five boys play soccer on a grassy field.",
+    "id": "0138",
+    "negative_prompt": [
+      "One boy plays soccer on a grassy field.",
+      "Two boys play soccer on a grassy field.",
+      "Three boys play soccer on a grassy field.",
+      "Four boys play soccer on a grassy field.",
+      "Six boys play soccer on a grassy field.",
+      "Seven boys play soccer on a grassy field.",
+      "Eight boys play soccer on a grassy field.",
+      "Nine boys play soccer on a grassy field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five girls paint a large canvas together.",
+    "id": "0139",
+    "negative_prompt": [
+      "One girls paint a large canvas together.",
+      "Two girls paint a large canvas together.",
+      "Three girls paint a large canvas together.",
+      "Four girls paint a large canvas together.",
+      "Six girls paint a large canvas together.",
+      "Seven girls paint a large canvas together.",
+      "Eight girls paint a large canvas together.",
+      "Nine girls paint a large canvas together."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five children run along the tracks.",
+    "id": "0140",
+    "negative_prompt": [
+      "One children run along the tracks.",
+      "Two children run along the tracks.",
+      "Three children run along the tracks.",
+      "Four children run along the tracks.",
+      "Six children run along the tracks.",
+      "Seven children run along the tracks.",
+      "Eight children run along the tracks.",
+      "Nine children run along the tracks."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six cars speed along a road.",
+    "id": "0141",
+    "negative_prompt": [
+      "One cars speed along a road.",
+      "Two cars speed along a road.",
+      "Three cars speed along a road.",
+      "Four cars speed along a road.",
+      "Five cars speed along a road.",
+      "Seven cars speed along a road.",
+      "Eight cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six cats walking on the floor.",
+    "id": "0142",
+    "negative_prompt": [
+      "One cats walking on the floor.",
+      "Two cats walking on the floor.",
+      "Three cats walking on the floor.",
+      "Four cats walking on the floor.",
+      "Five cats walking on the floor.",
+      "Seven cats walking on the floor.",
+      "Eight cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six dogs running through a field.",
+    "id": "0143",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Two dogs running through a field.",
+      "Three dogs running through a field.",
+      "Four dogs running through a field.",
+      "Five dogs running through a field.",
+      "Seven dogs running through a field.",
+      "Eight dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six robots dance rhythmically in the lab.",
+    "id": "0144",
+    "negative_prompt": [
+      "One robots dance rhythmically in the lab.",
+      "Two robots dance rhythmically in the lab.",
+      "Three robots dance rhythmically in the lab.",
+      "Four robots dance rhythmically in the lab.",
+      "Five robots dance rhythmically in the lab.",
+      "Seven robots dance rhythmically in the lab.",
+      "Eight robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six oranges roll across the table.",
+    "id": "0145",
+    "negative_prompt": [
+      "One oranges roll across the table.",
+      "Two oranges roll across the table.",
+      "Three oranges roll across the table.",
+      "Four oranges roll across the table.",
+      "Five oranges roll across the table.",
+      "Seven oranges roll across the table.",
+      "Eight oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six birds soar through the sky.",
+    "id": "0146",
+    "negative_prompt": [
+      "One birds soar through the sky.",
+      "Two birds soar through the sky.",
+      "Three birds soar through the sky.",
+      "Four birds soar through the sky.",
+      "Five birds soar through the sky.",
+      "Seven birds soar through the sky.",
+      "Eight birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six horses gallop across the beach.",
+    "id": "0147",
+    "negative_prompt": [
+      "One horses gallop across the beach.",
+      "Two horses gallop across the beach.",
+      "Three horses gallop across the beach.",
+      "Four horses gallop across the beach.",
+      "Five horses gallop across the beach.",
+      "Seven horses gallop across the beach.",
+      "Eight horses gallop across the beach.",
+      "Nine horses gallop across the beach."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven cars speed along a road.",
+    "id": "0148",
+    "negative_prompt": [
+      "One cars speed along a road.",
+      "Two cars speed along a road.",
+      "Three cars speed along a road.",
+      "Four cars speed along a road.",
+      "Five cars speed along a road.",
+      "Six cars speed along a road.",
+      "Eight cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven cats walking on the floor.",
+    "id": "0149",
+    "negative_prompt": [
+      "One cat walking on the floor.",
+      "Two cats walking on the floor.",
+      "Three cats walking on the floor.",
+      "Four cats walking on the floor.",
+      "Five cats walking on the floor.",
+      "Six cats walking on the floor.",
+      "Eight cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven dogs running through a field.",
+    "id": "0150",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Two dogs running through a field.",
+      "Three dogs running through a field.",
+      "Four dogs running through a field.",
+      "Five dogs running through a field.",
+      "Six dogs running through a field.",
+      "Eight dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven robots dance rhythmically in the lab.",
+    "id": "0151",
+    "negative_prompt": [
+      "One robot dances rhythmically in the lab.",
+      "Two robots dance rhythmically in the lab.",
+      "Three robots dance rhythmically in the lab.",
+      "Four robots dance rhythmically in the lab.",
+      "Five robots dance rhythmically in the lab.",
+      "Six robots dance rhythmically in the lab.",
+      "Eight robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven oranges roll across the table.",
+    "id": "0152",
+    "negative_prompt": [
+      "One oranges roll across the table.",
+      "Two oranges roll across the table.",
+      "Three oranges roll across the table.",
+      "Four oranges roll across the table.",
+      "Five oranges roll across the table.",
+      "Six oranges roll across the table.",
+      "Eight oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven birds soar through the sky.",
+    "id": "0153",
+    "negative_prompt": [
+      "One bird soars through the sky.",
+      "Two birds soar through the sky.",
+      "Three birds soar through the sky.",
+      "Four birds soar through the sky.",
+      "Five birds soar through the sky.",
+      "Six birds soar through the sky.",
+      "Eight birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven horses gallop across the beach.",
+    "id": "0154",
+    "negative_prompt": [
+      "One horses gallop across the beach.",
+      "Two horses gallop across the beach.",
+      "Three horses gallop across the beach.",
+      "Four horses gallop across the beach.",
+      "Five horses gallop across the beach.",
+      "Six horses gallop across the beach.",
+      "Eight horses gallop across the beach.",
+      "Nine horses gallop across the beach."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight cars speed along a road.",
+    "id": "0155",
+    "negative_prompt": [
+      "One car speed along a road.",
+      "Two cars speed along a road.",
+      "Three cars speed along a road.",
+      "Four cars speed along a road.",
+      "Five cars speed along a road.",
+      "Six cars speed along a road.",
+      "Seven cars speed along a road.",
+      "Nine cars speed along a road."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight cats walking on the floor.",
+    "id": "0156",
+    "negative_prompt": [
+      "One cats walking on the floor.",
+      "Two cats walking on the floor.",
+      "Three cats walking on the floor.",
+      "Four cats walking on the floor.",
+      "Five cats walking on the floor.",
+      "Six cats walking on the floor.",
+      "Seven cats walking on the floor.",
+      "Nine cats walking on the floor."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight dogs running through a field.",
+    "id": "0157",
+    "negative_prompt": [
+      "One dogs running through a field.",
+      "Two dogs running through a field.",
+      "Three dogs running through a field.",
+      "Four dogs running through a field.",
+      "Five dogs running through a field.",
+      "Six dogs running through a field.",
+      "Seven dogs running through a field.",
+      "Nine dogs running through a field."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight robots dance rhythmically in the lab.",
+    "id": "0158",
+    "negative_prompt": [
+      "One robots dance rhythmically in the lab.",
+      "Two robots dance rhythmically in the lab.",
+      "Three robots dance rhythmically in the lab.",
+      "Four robots dance rhythmically in the lab.",
+      "Five robots dance rhythmically in the lab.",
+      "Six robots dance rhythmically in the lab.",
+      "Seven robots dance rhythmically in the lab.",
+      "Nine robots dance rhythmically in the lab."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight oranges roll across the table.",
+    "id": "0159",
+    "negative_prompt": [
+      "One oranges roll across the table.",
+      "Two oranges roll across the table.",
+      "Three oranges roll across the table.",
+      "Four oranges roll across the table.",
+      "Five oranges roll across the table.",
+      "Six oranges roll across the table.",
+      "Seven oranges roll across the table.",
+      "Nine oranges roll across the table."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight birds soar through the sky.",
+    "id": "0160",
+    "negative_prompt": [
+      "One bird soars through the sky.",
+      "Two birds soar through the sky.",
+      "Three birds soar through the sky.",
+      "Four birds soar through the sky.",
+      "Five birds soar through the sky.",
+      "Six birds soar through the sky.",
+      "Seven birds soar through the sky.",
+      "Nine birds soar through the sky."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One car drives down the track, and one motorcycle follows.",
+    "id": "0161",
+    "negative_prompt": [
+      "Two cars drive down the track, and one motorcycle follows.",
+      "Three cars drive down the track, and one motorcycle follows.",
+      "Four cars drive down the track, and one motorcycle follows.",
+      "Five cars drive down the track, and one motorcycle follows.",
+      "One car drives down the track, and six motorcycles follow.",
+      "One car drives down the track, and seven motorcycles follow.",
+      "One car drives down the track, and eight motorcycles follow.",
+      "One car drives down the track, and nine motorcycles follow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One cat lounges in the garden, and two birds swoop overhead.",
+    "id": "0162",
+    "negative_prompt": [
+      "Two cat lounges in the garden, and two birds swoop overhead.",
+      "One cat lounges in the garden, and Three birds swoop overhead.",
+      "Three cat lounges in the garden, and two birds swoop overhead.",
+      "One cat lounges in the garden, and Four birds swoop overhead.",
+      "Four cat lounges in the garden, and two birds swoop overhead.",
+      "One cat lounges in the garden, and Five birds swoop overhead.",
+      "Five cat lounges in the garden, and two birds swoop overhead.",
+      "One cat lounges in the garden, and Six birds swoop overhead."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One dog races through the field, and three children run behind them.",
+    "id": "0163",
+    "negative_prompt": [
+      "Two dog races through the field, and three children run behind them.",
+      "Four dog races through the field, and three children run behind them.",
+      "Five dog races through the field, and three children run behind them.",
+      "Six dog races through the field, and three children run behind them.",
+      "One dog races through the field, and one children run behind them.",
+      "One dog races through the field, and two children run behind them.",
+      "One dog races through the field, and four children run behind them.",
+      "One dog races through the field, and five children run behind them."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two oranges roll on the counter near one cup.",
+    "id": "0164",
+    "negative_prompt": [
+      "One orange rolls on the counter near one cup.",
+      "Three oranges roll on the counter near one cup.",
+      "Four oranges roll on the counter near one cup.",
+      "Five oranges roll on the counter near one cup.",
+      "Six oranges roll on the counter near one cup.",
+      "Two oranges roll on the counter near two cups.",
+      "Two oranges roll on the counter near three cups.",
+      "Two oranges roll on the counter near four cups."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two fish swim in the pond, and two frogs sit on lily pads.",
+    "id": "0165",
+    "negative_prompt": [
+      "One fish swim in the pond, and two frogs sit on lily pads.",
+      "Three fish swim in the pond, and two frogs sit on lily pads.",
+      "Four fish swim in the pond, and two frogs sit on lily pads.",
+      "Five fish swim in the pond, and two frogs sit on lily pads.",
+      "Two fish swim in the pond, and one frog sit on lily pads.",
+      "Two fish swim in the pond, and three frogs sit on lily pads.",
+      "Two fish swim in the pond, and four frogs sit on lily pads.",
+      "Two fish swim in the pond, and five frogs sit on lily pads."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two pandas munch on bamboo, and three elephants spray water.",
+    "id": "0166",
+    "negative_prompt": [
+      "One pandas munch on bamboo, and three elephants spray water.",
+      "Four pandas munch on bamboo, and three elephants spray water.",
+      "Five pandas munch on bamboo, and three elephants spray water.",
+      "Six pandas munch on bamboo, and three elephants spray water.",
+      "Seven pandas munch on bamboo, and three elephants spray water.",
+      "Eight pandas munch on bamboo, and three elephants spray water.",
+      "Nine pandas munch on bamboo, and three elephants spray water.",
+      "Two pandas munch on bamboo, and one elephants spray water."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three cows graze in the pasture, and one sheep wanders nearby.",
+    "id": "0167",
+    "negative_prompt": [
+      "Two cows graze in the pasture, and one sheep wanders nearby.",
+      "Three cows graze in the pasture, and two sheep wanders nearby.",
+      "Four cows graze in the pasture, and one sheep wanders nearby.",
+      "Three cows graze in the pasture, and three sheep wanders nearby.",
+      "Five cows graze in the pasture, and one sheep wanders nearby.",
+      "Three cows graze in the pasture, and four sheep wanders nearby.",
+      "Six cows graze in the pasture, and one sheep wanders nearby.",
+      "Three cows graze in the pasture, and five sheep wanders nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three airplanes soar high above, and two birds circle below.",
+    "id": "0168",
+    "negative_prompt": [
+      "One airplanes soar high above, and two birds circle below.",
+      "Four airplanes soar high above, and two birds circle below.",
+      "Five airplanes soar high above, and two birds circle below.",
+      "Six airplanes soar high above, and two birds circle below.",
+      "Seven airplanes soar high above, and two birds circle below.",
+      "Eight airplanes soar high above, and two birds circle below.",
+      "Nine airplanes soar high above, and two birds circle below.",
+      "Three airplanes soar high above, and One birds circle below."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three dogs dig in the sand, and three cats walking nearby.",
+    "id": "0169",
+    "negative_prompt": [
+      "One dogs dig in the sand, and three cats walking nearby.",
+      "Two dogs dig in the sand, and three cats walking nearby.",
+      "Four dogs dig in the sand, and three cats walking nearby.",
+      "Five dogs dig in the sand, and three cats walking nearby.",
+      "Three dogs dig in the sand, and one cats walking nearby.",
+      "Three dogs dig in the sand, and two cats walking nearby.",
+      "Three dogs dig in the sand, and four cats walking nearby.",
+      "Three dogs dig in the sand, and five cats walking nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two chairs sit around a campfire, and three people roasting marshmallows.",
+    "id": "0170",
+    "negative_prompt": [
+      "One chair sits around a campfire, and three people roasting marshmallows.",
+      "Four chairs sit around a campfire, and three people roasting marshmallows.",
+      "Five chairs sit around a campfire, and three people roasting marshmallows.",
+      "Six chairs sit around a campfire, and three people roasting marshmallows.",
+      "Two chairs sit around a campfire, and one person roasting marshmallows.",
+      "Two chairs sit around a campfire, and two people roasting marshmallows.",
+      "Two chairs sit around a campfire, and four people roasting marshmallows.",
+      "Two chairs sit around a campfire, and five people roasting marshmallows."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two rabbits dash across the garden, and three butterflies flutter nearby.",
+    "id": "0171",
+    "negative_prompt": [
+      "One rabbits dash across the garden, and three butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and one butterflies flutter nearby.",
+      "Four rabbits dash across the garden, and three butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and two butterflies flutter nearby.",
+      "Five rabbits dash across the garden, and three butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and four butterflies flutter nearby.",
+      "Six rabbits dash across the garden, and three butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and five butterflies flutter nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three ships sail into the harbor, and two seagulls circle above.",
+    "id": "0172",
+    "negative_prompt": [
+      "One ships sail into the harbor, and two seagulls circle above.",
+      "Four ships sail into the harbor, and two seagulls circle above.",
+      "Seven ships sail into the harbor, and two seagulls circle above.",
+      "Nine ships sail into the harbor, and two seagulls circle above.",
+      "Three ships sail into the harbor, and one seagulls circle above.",
+      "Three ships sail into the harbor, and four seagulls circle above.",
+      "Three ships sail into the harbor, and five seagulls circle above.",
+      "Three ships sail into the harbor, and nine seagulls circle above."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two horses trot along the fence line, and two cows chewing grass nearby.",
+    "id": "0173",
+    "negative_prompt": [
+      "One horse trots along the fence line, and two cows chewing grass nearby.",
+      "Three horses trot along the fence line, and two cows chewing grass nearby.",
+      "Four horses trot along the fence line, and two cows chewing grass nearby.",
+      "Five horses trot along the fence line, and two cows chewing grass nearby.",
+      "Two horses trot along the fence line, and one cow chewing grass nearby.",
+      "Two horses trot along the fence line, and three cows chewing grass nearby.",
+      "Two horses trot along the fence line, and four cows chewing grass nearby.",
+      "Two horses trot along the fence line, and five cows chewing grass nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three apples hang heavy on the tree branch, and three birds perch nearby.",
+    "id": "0174",
+    "negative_prompt": [
+      "One apple hang heavy on the tree branch, and three birds perch nearby.",
+      "Two apples hang heavy on the tree branch, and three birds perch nearby.",
+      "Four apples hang heavy on the tree branch, and three birds perch nearby.",
+      "Five apples hang heavy on the tree branch, and three birds perch nearby.",
+      "Three apples hang heavy on the tree branch, and one bird perch nearby.",
+      "Three apples hang heavy on the tree branch, and two birds perch nearby.",
+      "Three apples hang heavy on the tree branch, and four birds perch nearby.",
+      "Three apples hang heavy on the tree branch, and five birds perch nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two kites soar high in the sky, and three balloons drift in the breeze.",
+    "id": "0175",
+    "negative_prompt": [
+      "One kite soars high in the sky, and three balloons drift in the breeze.",
+      "Four kites soar high in the sky, and three balloons drift in the breeze.",
+      "Five kites soar high in the sky, and three balloons drift in the breeze.",
+      "Six kites soar high in the sky, and three balloons drift in the breeze.",
+      "Two kites soar high in the sky, and one balloon drifts in the breeze.",
+      "Two kites soar high in the sky, and four balloons drift in the breeze.",
+      "Two kites soar high in the sky, and five balloons drift in the breeze.",
+      "Two kites soar high in the sky, and six balloons drift in the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two cars speed down the track, and five motorcycles follow.",
+    "id": "0176",
+    "negative_prompt": [
+      "One cars speed down the track, and five motorcycles follow.",
+      "Three cars speed down the track, and five motorcycles follow.",
+      "Four cars speed down the track, and five motorcycles follow.",
+      "Six cars speed down the track, and five motorcycles follow.",
+      "Two cars speed down the track, and one motorcycles follow.",
+      "Two cars speed down the track, and three motorcycles follow.",
+      "Two cars speed down the track, and Four motorcycles follow.",
+      "Two cars speed down the track, and Six motorcycles follow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three cats lounge in the garden, and seven birds swoop overhead.",
+    "id": "0177",
+    "negative_prompt": [
+      "One cats lounge in the garden, and seven birds swoop overhead.",
+      "Three cats lounge in the garden, and one birds swoop overhead.",
+      "Four cats lounge in the garden, and seven birds swoop overhead.",
+      "Three cats lounge in the garden, and two birds swoop overhead.",
+      "Nine cats lounge in the garden, and seven birds swoop overhead.",
+      "Three cats lounge in the garden, and eight birds swoop overhead.",
+      "Two cats lounge in the garden, and seven birds swoop overhead.",
+      "Three cats lounge in the garden, and nine birds swoop overhead."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight dogs race through the field, and two children run behind them.",
+    "id": "0178",
+    "negative_prompt": [
+      "One dogs race through the field, and two children run behind them.",
+      "Three dogs race through the field, and two children run behind them.",
+      "Four dogs race through the field, and two children run behind them.",
+      "Five dogs race through the field, and two children run behind them.",
+      "Eight dogs race through the field, and One children run behind them.",
+      "Eight dogs race through the field, and Three children run behind them.",
+      "Eight dogs race through the field, and Four children run behind them.",
+      "Eight dogs race through the field, and Five children run behind them."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven oranges roll on the counter near three cups.",
+    "id": "0179",
+    "negative_prompt": [
+      "One orange rolls on the counter near three cups.",
+      "Two oranges roll on the counter near three cups.",
+      "Four oranges roll on the counter near three cups.",
+      "Nine oranges roll on the counter near three cups.",
+      "Seven oranges roll on the counter near One cup.",
+      "Seven oranges roll on the counter near Two cups.",
+      "Seven oranges roll on the counter near Four cups.",
+      "Seven oranges roll on the counter near Five cups."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two fish swim in the pond, and five frogs sit on lily pads.",
+    "id": "0180",
+    "negative_prompt": [
+      "One fish swim in the pond, and five frogs sit on lily pads.",
+      "Three fish swim in the pond, and five frogs sit on lily pads.",
+      "Four fish swim in the pond, and five frogs sit on lily pads.",
+      "Six fish swim in the pond, and five frogs sit on lily pads.",
+      "Two fish swim in the pond, and one frogs sit on lily pads.",
+      "Two fish swim in the pond, and three frogs sit on lily pads.",
+      "Two fish swim in the pond, and four frogs sit on lily pads.",
+      "Two fish swim in the pond, and six frogs sit on lily pads."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three pandas munch on bamboo, and four elephants spray water.",
+    "id": "0181",
+    "negative_prompt": [
+      "One pandas munch on bamboo, and four elephants spray water.",
+      "Three pandas munch on bamboo, and One elephants spray water.",
+      "Two pandas munch on bamboo, and four elephants spray water.",
+      "Three pandas munch on bamboo, and Two elephants spray water.",
+      "Five pandas munch on bamboo, and four elephants spray water.",
+      "Three pandas munch on bamboo, and Five elephants spray water.",
+      "Six pandas munch on bamboo, and four elephants spray water.",
+      "Three pandas munch on bamboo, and Six elephants spray water."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cows graze in the pasture, and two sheep wander nearby.",
+    "id": "0182",
+    "negative_prompt": [
+      "One cows graze in the pasture, and two sheep wander nearby.",
+      "Six cows graze in the pasture, and two sheep wander nearby.",
+      "Eight cows graze in the pasture, and two sheep wander nearby.",
+      "Nine cows graze in the pasture, and two sheep wander nearby.",
+      "Four cows graze in the pasture, and one sheep wander nearby.",
+      "Four cows graze in the pasture, and three sheep wander nearby.",
+      "Four cows graze in the pasture, and five sheep wander nearby.",
+      "Four cows graze in the pasture, and seven sheep wander nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four airplanes soar high above, and three birds circle below.",
+    "id": "0183",
+    "negative_prompt": [
+      "One airplanes soar high above, and three birds circle below.",
+      "Two airplanes soar high above, and three birds circle below.",
+      "Five airplanes soar high above, and three birds circle below.",
+      "Six airplanes soar high above, and three birds circle below.",
+      "Four airplanes soar high above, and one birds circle below.",
+      "Four airplanes soar high above, and two birds circle below.",
+      "Four airplanes soar high above, and five birds circle below.",
+      "Four airplanes soar high above, and six birds circle below."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two dogs dig in the sand, and four cats walking nearby.",
+    "id": "0184",
+    "negative_prompt": [
+      "One dogs dig in the sand, and four cats walking nearby.",
+      "Two dogs dig in the sand, and Eight cats walking nearby.",
+      "Three dogs dig in the sand, and four cats walking nearby.",
+      "Two dogs dig in the sand, and One cats walking nearby.",
+      "Five dogs dig in the sand, and four cats walking nearby.",
+      "Two dogs dig in the sand, and Nine cats walking nearby.",
+      "Seven dogs dig in the sand, and four cats walking nearby.",
+      "Two dogs dig in the sand, and Three cats walking nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Three chairs sit around a campfire, and seven people roasting marshmallows.",
+    "id": "0185",
+    "negative_prompt": [
+      "One chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Three chairs sit around a campfire, and one people roasting marshmallows.",
+      "Two chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Three chairs sit around a campfire, and two people roasting marshmallows.",
+      "Four chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Three chairs sit around a campfire, and four people roasting marshmallows.",
+      "Five chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Three chairs sit around a campfire, and five people roasting marshmallows."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two rabbits dash across the garden, and eight butterflies flutter nearby.",
+    "id": "0186",
+    "negative_prompt": [
+      "One rabbit dashes across the garden, and eight butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and one butterfly flutters nearby.",
+      "Three rabbits dash across the garden, and eight butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and three butterflies flutter nearby.",
+      "Four rabbits dash across the garden, and eight butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and four butterflies flutter nearby.",
+      "Six rabbits dash across the garden, and eight butterflies flutter nearby.",
+      "Two rabbits dash across the garden, and seven butterflies flutter nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "One ship sails into the harbor, and six seagulls circle above.",
+    "id": "0187",
+    "negative_prompt": [
+      "Two ships sail into the harbor, and six seagulls circle above.",
+      "One ship sails into the harbor, and one seagull circles above.",
+      "Three ships sail into the harbor, and six seagulls circle above.",
+      "One ship sails into the harbor, and two seagulls circle above.",
+      "Four ships sail into the harbor, and six seagulls circle above.",
+      "One ship sails into the harbor, and three seagulls circle above.",
+      "Five ships sail into the harbor, and six seagulls circle above.",
+      "One ship sails into the harbor, and four seagulls circle above."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four horses trot along the fence line, and one cow chewing grass nearby.",
+    "id": "0188",
+    "negative_prompt": [
+      "Two horses trot along the fence line, and one cow chewing grass nearby.",
+      "Three horses trot along the fence line, and one cow chewing grass nearby.",
+      "Five horses trot along the fence line, and one cow chewing grass nearby.",
+      "Six horses trot along the fence line, and one cow chewing grass nearby.",
+      "Seven horses trot along the fence line, and one cow chewing grass nearby.",
+      "Four horses trot along the fence line, and two cows chewing grass nearby.",
+      "Four horses trot along the fence line, and three cows chewing grass nearby.",
+      "Four horses trot along the fence line, and four cows chewing grass nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven apples hang heavy on the tree branch, and one bird perches nearby.",
+    "id": "0189",
+    "negative_prompt": [
+      "Two apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Three apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Four apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Five apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Six apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Eight apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Nine apples hang heavy on the tree branch, and one bird perches nearby.",
+      "Seven apples hang heavy on the tree branch, and two birds perches nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Two kites soar high in the sky, and one balloon drifts in the breeze.",
+    "id": "0190",
+    "negative_prompt": [
+      "Three kites soar high in the sky, and one balloon drifts in the breeze.",
+      "Two kites soar high in the sky, and three balloons drift in the breeze.",
+      "Four kites soar high in the sky, and one balloon drifts in the breeze.",
+      "Two kites soar high in the sky, and four balloons drift in the breeze.",
+      "Five kites soar high in the sky, and one balloon drifts in the breeze.",
+      "Two kites soar high in the sky, and five balloons drift in the breeze.",
+      "Six kites soar high in the sky, and one balloon drifts in the breeze.",
+      "Two kites soar high in the sky, and six balloons drift in the breeze."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cars speed down the track, and five motorcycles follow.",
+    "id": "0191",
+    "negative_prompt": [
+      "One cars speed down the track, and five motorcycles follow.",
+      "Two cars speed down the track, and five motorcycles follow.",
+      "Three cars speed down the track, and five motorcycles follow.",
+      "Six cars speed down the track, and five motorcycles follow.",
+      "Four cars speed down the track, and one motorcycles follow.",
+      "Four cars speed down the track, and two motorcycles follow.",
+      "Four cars speed down the track, and three motorcycles follow.",
+      "Four cars speed down the track, and six motorcycles follow."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six cats lounge in the garden, and seven birds swoop overhead.",
+    "id": "0192",
+    "negative_prompt": [
+      "One cats lounge in the garden, and seven birds swoop overhead.",
+      "Two cats lounge in the garden, and seven birds swoop overhead.",
+      "Three cats lounge in the garden, and seven birds swoop overhead.",
+      "Four cats lounge in the garden, and seven birds swoop overhead.",
+      "Five cats lounge in the garden, and seven birds swoop overhead.",
+      "Eight cats lounge in the garden, and seven birds swoop overhead.",
+      "Nine cats lounge in the garden, and seven birds swoop overhead.",
+      "Six cats lounge in the garden, and one birds swoop overhead."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Eight dogs race through the field, and four children run behind them.",
+    "id": "0193",
+    "negative_prompt": [
+      "One dogs race through the field, and four children run behind them.",
+      "Two dogs race through the field, and four children run behind them.",
+      "Three dogs race through the field, and four children run behind them.",
+      "Five dogs race through the field, and four children run behind them.",
+      "Six dogs race through the field, and four children run behind them.",
+      "Seven dogs race through the field, and four children run behind them.",
+      "Nine dogs race through the field, and four children run behind them.",
+      "Eight dogs race through the field, and one children run behind them."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven oranges roll on the counter near five cups.",
+    "id": "0194",
+    "negative_prompt": [
+      "One oranges roll on the counter near five cups.",
+      "Two oranges roll on the counter near five cups.",
+      "Four oranges roll on the counter near five cups.",
+      "Nine oranges roll on the counter near five cups.",
+      "Seven oranges roll on the counter near one cups.",
+      "Seven oranges roll on the counter near two cups.",
+      "Seven oranges roll on the counter near four cups.",
+      "Seven oranges roll on the counter near nine cups."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four fish swim in the pond, and five frogs sit on lily pads.",
+    "id": "0195",
+    "negative_prompt": [
+      "One fish swim in the pond, and five frogs sit on lily pads.",
+      "Two fish swim in the pond, and five frogs sit on lily pads.",
+      "Three fish swim in the pond, and five frogs sit on lily pads.",
+      "Six fish swim in the pond, and five frogs sit on lily pads.",
+      "Four fish swim in the pond, and One frogs sit on lily pads.",
+      "Four fish swim in the pond, and Two frogs sit on lily pads.",
+      "Four fish swim in the pond, and Three frogs sit on lily pads.",
+      "Four fish swim in the pond, and Six frogs sit on lily pads."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Seven pandas munch on bamboo, and four elephants spray water.",
+    "id": "0196",
+    "negative_prompt": [
+      "One pandas munch on bamboo, and four elephants spray water.",
+      "Two pandas munch on bamboo, and four elephants spray water.",
+      "Three pandas munch on bamboo, and four elephants spray water.",
+      "Nine pandas munch on bamboo, and four elephants spray water.",
+      "Seven pandas munch on bamboo, and One elephants spray water.",
+      "Seven pandas munch on bamboo, and Two elephants spray water.",
+      "Seven pandas munch on bamboo, and Three elephants spray water.",
+      "Seven pandas munch on bamboo, and Nine elephants spray water."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four cows graze in the pasture, and seven sheep wander nearby.",
+    "id": "0197",
+    "negative_prompt": [
+      "One cows graze in the pasture, and seven sheep wander nearby.",
+      "Two cows graze in the pasture, and seven sheep wander nearby.",
+      "Five cows graze in the pasture, and seven sheep wander nearby.",
+      "Eight cows graze in the pasture, and seven sheep wander nearby.",
+      "Four cows graze in the pasture, and one sheep wander nearby.",
+      "Four cows graze in the pasture, and two sheep wander nearby.",
+      "Four cows graze in the pasture, and five sheep wander nearby.",
+      "Four cows graze in the pasture, and nine sheep wander nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Four airplanes soar high above, and six birds circle below.",
+    "id": "0198",
+    "negative_prompt": [
+      "One airplanes soar high above, and six birds circle below.",
+      "Four airplanes soar high above, and one birds circle below.",
+      "Two airplanes soar high above, and six birds circle below.",
+      "Four airplanes soar high above, and two birds circle below.",
+      "Eight airplanes soar high above, and six birds circle below.",
+      "Four airplanes soar high above, and eight birds circle below.",
+      "Nine airplanes soar high above, and six birds circle below.",
+      "Four airplanes soar high above, and nine birds circle below."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Six dogs dig in the sand, and four cats walking nearby.",
+    "id": "0199",
+    "negative_prompt": [
+      "One dogs dig in the sand, and four cats walking nearby.",
+      "Two dogs dig in the sand, and four cats walking nearby.",
+      "Nine dogs dig in the sand, and four cats walking nearby.",
+      "Five dogs dig in the sand, and four cats walking nearby.",
+      "Six dogs dig in the sand, and One cats walking nearby.",
+      "Six dogs dig in the sand, and Two cats walking nearby.",
+      "Six dogs dig in the sand, and Seven cats walking nearby.",
+      "Six dogs dig in the sand, and Three cats walking nearby."
+    ]
+  },
+  {
+    "type": "numeracy",
+    "prompt": "Five chairs sit around a campfire, and seven people roasting marshmallows.",
+    "id": "0200",
+    "negative_prompt": [
+      "One chair sits around a campfire, and seven people roasting marshmallows.",
+      "Two chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Nine chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Three chairs sit around a campfire, and seven people roasting marshmallows.",
+      "Five chairs sit around a campfire, and one person roasting marshmallows.",
+      "Five chairs sit around a campfire, and two people roasting marshmallows.",
+      "Five chairs sit around a campfire, and nine people roasting marshmallows.",
+      "Five chairs sit around a campfire, and four people roasting marshmallows."
+    ]
+  }
+]

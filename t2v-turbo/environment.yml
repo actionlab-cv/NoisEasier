@@ -1,0 +1,36 @@
+name: vturbo
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch=2.1.0
+  - torchvision=0.16.0
+  - pytorch-cuda=11.8
+  - ffmpeg
+  - pip
+  - setuptools<81
+  - pip:
+      - clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
+      - accelerate==1.3.0
+      - av==12.0.0
+      - diffusers==0.32.2
+      - einops==0.8.0
+      - hpsv2==1.2.0
+      - image-reward==1.5
+      - kornia==0.8.0
+      - loralib==0.1.2
+      - numpy==1.26.4
+      - omegaconf==2.3.0
+      - open-clip-torch==2.24.0
+      - opencv-python==4.11.0.86
+      - peft==0.10.0
+      - protobuf==3.20.3
+      - pytorch-lightning==2.5.0.post0
+      - safetensors==0.5.2
+      - scipy==1.13.1
+      - timm==0.6.13
+      - transformers==4.50.1
+      - tqdm==4.67.1
+      - wandb==0.19.6

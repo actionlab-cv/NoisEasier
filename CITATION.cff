@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation"
+message: "If you use this code, please cite the NoisEasier paper."
+type: software
+url: "https://yujiangpu20.github.io/noiseasier/"
+license: Apache-2.0
+abstract: >-
+  NoisEasier is a test-time scaling framework that improves text-to-video
+  generation by optimizing latent noise with differentiable reward feedback.
+keywords:
+  - text-to-video generation
+  - diffusion models
+  - test-time optimization
+authors:
+  - family-names: Pu
+    given-names: Yujiang
+  - family-names: Kong
+    given-names: Yu

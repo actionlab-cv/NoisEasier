@@ -1,0 +1,852 @@
+{
+  "a red bicycle": [
+    "a blue bicycle",
+    "a green bicycle",
+    "a yellow bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "an orange bicycle",
+    "a pink bicycle",
+    "a purple bicycle"
+  ],
+  "a green bicycle": [
+    "a blue bicycle",
+    "a yellow bicycle",
+    "a red bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "a purple bicycle",
+    "a pink bicycle",
+    "an orange bicycle"
+  ],
+  "a blue bicycle": [
+    "a red bicycle",
+    "a green bicycle",
+    "a yellow bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "a purple bicycle",
+    "a pink bicycle",
+    "an orange bicycle"
+  ],
+  "a yellow bicycle": [
+    "a blue bicycle",
+    "a green bicycle",
+    "a red bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "a pink bicycle",
+    "an orange bicycle",
+    "a purple bicycle"
+  ],
+  "an orange bicycle": [
+    "a blue bicycle",
+    "a green bicycle",
+    "a red bicycle",
+    "a yellow bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "a purple bicycle",
+    "a pink bicycle"
+  ],
+  "a purple bicycle": [
+    "a green bicycle",
+    "a yellow bicycle",
+    "a blue bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "an orange bicycle",
+    "a pink bicycle",
+    "a brown bicycle"
+  ],
+  "a pink bicycle": [
+    "a blue bicycle",
+    "a green bicycle",
+    "a yellow bicycle",
+    "a black bicycle",
+    "a white bicycle",
+    "a red bicycle",
+    "an orange bicycle",
+    "a purple bicycle"
+  ],
+  "a black bicycle": [
+    "a blue bicycle",
+    "a green bicycle",
+    "a red bicycle",
+    "a yellow bicycle",
+    "a white bicycle",
+    "a purple bicycle",
+    "a gray bicycle",
+    "an orange bicycle"
+  ],
+  "a white bicycle": [
+    "a black bicycle",
+    "a blue bicycle",
+    "a green bicycle",
+    "a yellow bicycle",
+    "a red bicycle",
+    "a pink bicycle",
+    "a purple bicycle",
+    "an orange bicycle"
+  ],
+  "a red car": [
+    "a blue car",
+    "a yellow car",
+    "a green car",
+    "a black car",
+    "a white car",
+    "a pink car",
+    "an orange car",
+    "a purple car"
+  ],
+  "a green car": [
+    "a blue car",
+    "a red car",
+    "a yellow car",
+    "a black car",
+    "a white car",
+    "a purple car",
+    "an orange car",
+    "a pink car"
+  ],
+  "a blue car": [
+    "a green car",
+    "a yellow car",
+    "a red car",
+    "a purple car",
+    "a black car",
+    "a white car",
+    "an orange car",
+    "a brown car"
+  ],
+  "a yellow car": [
+    "a blue car",
+    "a green car",
+    "a red car",
+    "a black car",
+    "a white car",
+    "a purple car",
+    "an orange car",
+    "a pink car"
+  ],
+  "an orange car": [
+    "a blue car",
+    "a green car",
+    "a purple car",
+    "a yellow car",
+    "a pink car",
+    "a brown car",
+    "a black car",
+    "a white car"
+  ],
+  "a purple car": [
+    "a blue car",
+    "a green car",
+    "a yellow car",
+    "a black car",
+    "a pink car",
+    "a white car",
+    "an orange car",
+    "a gray car"
+  ],
+  "a pink car": [
+    "a blue car",
+    "a green car",
+    "a yellow car",
+    "a black car",
+    "a white car",
+    "a red car",
+    "an orange car",
+    "a purple car"
+  ],
+  "a black car": [
+    "a white car",
+    "a blue car",
+    "a green car",
+    "a red car",
+    "a yellow car",
+    "a purple car",
+    "a gray car",
+    "a brown car"
+  ],
+  "a white car": [
+    "a black car",
+    "a blue car",
+    "a green car",
+    "a yellow car",
+    "a red car",
+    "a gray car",
+    "a purple car",
+    "an orange car"
+  ],
+  "a red bird": [
+    "a blue bird",
+    "a green bird",
+    "a yellow bird",
+    "a black bird",
+    "a white bird",
+    "a purple bird",
+    "an orange bird",
+    "a pink bird"
+  ],
+  "a green bird": [
+    "a blue bird",
+    "a yellow bird",
+    "a red bird",
+    "a black bird",
+    "a white bird",
+    "an orange bird",
+    "a purple bird",
+    "a pink bird"
+  ],
+  "a blue bird": [
+    "a red bird",
+    "a yellow bird",
+    "a green bird",
+    "a black bird",
+    "a white bird",
+    "an orange bird",
+    "a purple bird",
+    "a pink bird"
+  ],
+  "a yellow bird": [
+    "a blue bird",
+    "a green bird",
+    "a red bird",
+    "a black bird",
+    "a white bird",
+    "a pink bird",
+    "a purple bird",
+    "a brown bird"
+  ],
+  "an orange bird": [
+    "a blue bird",
+    "a green bird",
+    "a yellow bird",
+    "a black bird",
+    "a white bird",
+    "a purple bird",
+    "a pink bird",
+    "a brown bird"
+  ],
+  "a purple bird": [
+    "a green bird",
+    "a yellow bird",
+    "a blue bird",
+    "a red bird",
+    "a black bird",
+    "a white bird",
+    "an orange bird",
+    "a pink bird"
+  ],
+  "a pink bird": [
+    "a blue bird",
+    "a green bird",
+    "a yellow bird",
+    "a black bird",
+    "a white bird",
+    "an orange bird",
+    "a purple bird",
+    "a gray bird"
+  ],
+  "a black bird": [
+    "a white bird",
+    "a yellow bird",
+    "a blue bird",
+    "a green bird",
+    "a red bird",
+    "an orange bird",
+    "a purple bird",
+    "a gray bird"
+  ],
+  "a white bird": [
+    "a black bird",
+    "a blue bird",
+    "a green bird",
+    "a yellow bird",
+    "a red bird",
+    "a pink bird",
+    "a grey bird",
+    "an orange bird"
+  ],
+  "a black cat": [
+    "a white cat",
+    "a blue cat",
+    "a green cat",
+    "a yellow cat",
+    "a purple cat",
+    "a pink cat",
+    "a gray cat",
+    "a brown cat"
+  ],
+  "a white cat": [
+    "a black cat",
+    "a gray cat",
+    "a brown cat",
+    "an orange cat",
+    "a yellow cat",
+    "a blue cat",
+    "a pink cat",
+    "a green cat"
+  ],
+  "an orange cat": [
+    "a blue cat",
+    "a green cat",
+    "a purple cat",
+    "a yellow cat",
+    "a pink cat",
+    "a black cat",
+    "a white cat",
+    "a brown cat"
+  ],
+  "a yellow cat": [
+    "a blue cat",
+    "a green cat",
+    "a red cat",
+    "a black cat",
+    "a white cat",
+    "a purple cat",
+    "a pink cat",
+    "a brown cat"
+  ],
+  "a red umbrella": [
+    "a blue umbrella",
+    "a green umbrella",
+    "a yellow umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "an orange umbrella",
+    "a purple umbrella",
+    "a pink umbrella"
+  ],
+  "a green umbrella": [
+    "a blue umbrella",
+    "a yellow umbrella",
+    "a red umbrella",
+    "a purple umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "a pink umbrella",
+    "an orange umbrella"
+  ],
+  "a blue umbrella": [
+    "a green umbrella",
+    "a yellow umbrella",
+    "a red umbrella",
+    "a purple umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "an orange umbrella",
+    "a pink umbrella"
+  ],
+  "a yellow umbrella": [
+    "a blue umbrella",
+    "a green umbrella",
+    "a red umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "a purple umbrella",
+    "a pink umbrella",
+    "an orange umbrella"
+  ],
+  "an orange umbrella": [
+    "a blue umbrella",
+    "a green umbrella",
+    "a purple umbrella",
+    "a yellow umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "a pink umbrella",
+    "a brown umbrella"
+  ],
+  "a purple umbrella": [
+    "a yellow umbrella",
+    "a green umbrella",
+    "a blue umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "a pink umbrella",
+    "an orange umbrella",
+    "a brown umbrella"
+  ],
+  "a pink umbrella": [
+    "a blue umbrella",
+    "a green umbrella",
+    "a yellow umbrella",
+    "a black umbrella",
+    "a white umbrella",
+    "a red umbrella",
+    "a purple umbrella",
+    "an orange umbrella"
+  ],
+  "a black umbrella": [
+    "a blue umbrella",
+    "a green umbrella",
+    "a yellow umbrella",
+    "a white umbrella",
+    "a red umbrella",
+    "a purple umbrella",
+    "a gray umbrella",
+    "an orange umbrella"
+  ],
+  "a white umbrella": [
+    "a black umbrella",
+    "a green umbrella",
+    "a blue umbrella",
+    "a yellow umbrella",
+    "a purple umbrella",
+    "an orange umbrella",
+    "a pink umbrella",
+    "a brown umbrella"
+  ],
+  "a red suitcase": [
+    "a blue suitcase",
+    "a green suitcase",
+    "a yellow suitcase",
+    "a black suitcase",
+    "a white suitcase",
+    "a purple suitcase",
+    "an orange suitcase",
+    "a pink suitcase"
+  ],
+  "a green suitcase": [
+    "a blue suitcase",
+    "a red suitcase",
+    "a yellow suitcase",
+    "a black suitcase",
+    "a white suitcase",
+    "a pink suitcase",
+    "a purple suitcase",
+    "an orange suitcase"
+  ],
+  "a blue suitcase": [
+    "a green suitcase",
+    "a red suitcase",
+    "a yellow suitcase",
+    "a black suitcase",
+    "a white suitcase",
+    "a purple suitcase",
+    "an orange suitcase",
+    "a pink suitcase"
+  ],
+  "a yellow suitcase": [
+    "a blue suitcase",
+    "a green suitcase",
+    "a red suitcase",
+    "a black suitcase",
+    "a pink suitcase",
+    "a white suitcase",
+    "a purple suitcase",
+    "a brown suitcase"
+  ],
+  "an orange suitcase": [
+    "a blue suitcase",
+    "a green suitcase",
+    "a yellow suitcase",
+    "a purple suitcase",
+    "a black suitcase",
+    "a white suitcase",
+    "a pink suitcase",
+    "a brown suitcase"
+  ],
+  "a purple suitcase": [
+    "a green suitcase",
+    "a yellow suitcase",
+    "a blue suitcase",
+    "a black suitcase",
+    "a white suitcase",
+    "an orange suitcase",
+    "a pink suitcase",
+    "a brown suitcase"
+  ],
+  "a pink suitcase": [
+    "a blue suitcase",
+    "a green suitcase",
+    "a yellow suitcase",
+    "a black suitcase",
+    "a white suitcase",
+    "a purple suitcase",
+    "an orange suitcase",
+    "a grey suitcase"
+  ],
+  "a black suitcase": [
+    "a white suitcase",
+    "a red suitcase",
+    "a blue suitcase",
+    "a green suitcase",
+    "a yellow suitcase",
+    "a purple suitcase",
+    "an orange suitcase",
+    "a brown suitcase"
+  ],
+  "a white suitcase": [
+    "a black suitcase",
+    "a blue suitcase",
+    "a green suitcase",
+    "a yellow suitcase",
+    "a red suitcase",
+    "a purple suitcase",
+    "an orange suitcase",
+    "a pink suitcase"
+  ],
+  "a red bowl": [
+    "a blue bowl",
+    "a green bowl",
+    "a yellow bowl",
+    "a black bowl",
+    "a white bowl",
+    "an orange bowl",
+    "a purple bowl",
+    "a pink bowl"
+  ],
+  "a green bowl": [
+    "a blue bowl",
+    "a yellow bowl",
+    "a red bowl",
+    "a black bowl",
+    "a white bowl",
+    "a purple bowl",
+    "an orange bowl",
+    "a pink bowl"
+  ],
+  "a blue bowl": [
+    "a green bowl",
+    "a red bowl",
+    "a yellow bowl",
+    "a black bowl",
+    "a white bowl",
+    "a purple bowl",
+    "a pink bowl",
+    "an orange bowl"
+  ],
+  "a yellow bowl": [
+    "a blue bowl",
+    "a green bowl",
+    "a red bowl",
+    "a black bowl",
+    "a white bowl",
+    "a purple bowl",
+    "a pink bowl",
+    "an orange bowl"
+  ],
+  "an orange bowl": [
+    "a blue bowl",
+    "a green bowl",
+    "a yellow bowl",
+    "a purple bowl",
+    "a pink bowl",
+    "a black bowl",
+    "a white bowl",
+    "a gray bowl"
+  ],
+  "a purple bowl": [
+    "a blue bowl",
+    "a green bowl",
+    "a yellow bowl",
+    "a red bowl",
+    "a pink bowl",
+    "a black bowl",
+    "a white bowl",
+    "an orange bowl"
+  ],
+  "a pink bowl": [
+    "a blue bowl",
+    "a green bowl",
+    "a yellow bowl",
+    "a black bowl",
+    "a white bowl",
+    "a red bowl",
+    "a purple bowl",
+    "an orange bowl"
+  ],
+  "a black bowl": [
+    "a white bowl",
+    "a red bowl",
+    "a blue bowl",
+    "a green bowl",
+    "a yellow bowl",
+    "a purple bowl",
+    "an orange bowl",
+    "a pink bowl"
+  ],
+  "a white bowl": [
+    "a black bowl",
+    "a blue bowl",
+    "a green bowl",
+    "a red bowl",
+    "a yellow bowl",
+    "a purple bowl",
+    "an orange bowl",
+    "a gray bowl"
+  ],
+  "a red chair": [
+    "a blue chair",
+    "a green chair",
+    "a yellow chair",
+    "a black chair",
+    "a white chair",
+    "a purple chair",
+    "a pink chair",
+    "a brown chair"
+  ],
+  "a green chair": [
+    "a blue chair",
+    "a yellow chair",
+    "a red chair",
+    "a black chair",
+    "a white chair",
+    "a purple chair",
+    "a pink chair",
+    "a brown chair"
+  ],
+  "a blue chair": [
+    "a red chair",
+    "a green chair",
+    "a yellow chair",
+    "a black chair",
+    "a white chair",
+    "a purple chair",
+    "an orange chair",
+    "a pink chair"
+  ],
+  "a yellow chair": [
+    "a blue chair",
+    "a green chair",
+    "a red chair",
+    "a black chair",
+    "a white chair",
+    "a pink chair",
+    "a purple chair",
+    "an orange chair"
+  ],
+  "an orange chair": [
+    "a blue chair",
+    "a green chair",
+    "a yellow chair",
+    "a purple chair",
+    "a black chair",
+    "a white chair",
+    "a pink chair",
+    "a brown chair"
+  ],
+  "a purple chair": [
+    "a green chair",
+    "a yellow chair",
+    "a blue chair",
+    "a black chair",
+    "a white chair",
+    "an orange chair",
+    "a pink chair",
+    "a brown chair"
+  ],
+  "a pink chair": [
+    "a blue chair",
+    "a green chair",
+    "a yellow chair",
+    "a black chair",
+    "a white chair",
+    "a purple chair",
+    "an orange chair",
+    "a gray chair"
+  ],
+  "a black chair": [
+    "a white chair",
+    "a red chair",
+    "a blue chair",
+    "a green chair",
+    "a yellow chair",
+    "a purple chair",
+    "an orange chair",
+    "a gray chair"
+  ],
+  "a white chair": [
+    "a black chair",
+    "a blue chair",
+    "a green chair",
+    "a yellow chair",
+    "a red chair",
+    "a purple chair",
+    "a grey chair",
+    "a pink chair"
+  ],
+  "a red clock": [
+    "a blue clock",
+    "a green clock",
+    "a yellow clock",
+    "a black clock",
+    "a white clock",
+    "a purple clock",
+    "an orange clock",
+    "a pink clock"
+  ],
+  "a green clock": [
+    "a blue clock",
+    "a yellow clock",
+    "a red clock",
+    "a black clock",
+    "a white clock",
+    "a purple clock",
+    "a brown clock",
+    "an orange clock"
+  ],
+  "a blue clock": [
+    "a red clock",
+    "a green clock",
+    "a yellow clock",
+    "a purple clock",
+    "a black clock",
+    "a white clock",
+    "an orange clock",
+    "a pink clock"
+  ],
+  "a yellow clock": [
+    "a blue clock",
+    "a green clock",
+    "a red clock",
+    "a black clock",
+    "a white clock",
+    "a purple clock",
+    "an orange clock",
+    "a brown clock"
+  ],
+  "an orange clock": [
+    "a blue clock",
+    "a green clock",
+    "a red clock",
+    "a yellow clock",
+    "a purple clock",
+    "a pink clock",
+    "a black clock",
+    "a white clock"
+  ],
+  "a purple clock": [
+    "a green clock",
+    "a blue clock",
+    "a yellow clock",
+    "a red clock",
+    "a black clock",
+    "a white clock",
+    "an orange clock",
+    "a pink clock"
+  ],
+  "a pink clock": [
+    "a blue clock",
+    "a green clock",
+    "a yellow clock",
+    "a red clock",
+    "a purple clock",
+    "a black clock",
+    "a white clock",
+    "an orange clock"
+  ],
+  "a black clock": [
+    "a white clock",
+    "a red clock",
+    "a blue clock",
+    "a green clock",
+    "a yellow clock",
+    "a purple clock",
+    "an orange clock",
+    "a grey clock"
+  ],
+  "a white clock": [
+    "a black clock",
+    "a blue clock",
+    "a green clock",
+    "a yellow clock",
+    "a red clock",
+    "a purple clock",
+    "an orange clock",
+    "a pink clock"
+  ],
+  "a red vase": [
+    "a blue vase",
+    "a green vase",
+    "a yellow vase",
+    "a black vase",
+    "a white vase",
+    "a purple vase",
+    "an orange vase",
+    "a pink vase"
+  ],
+  "a green vase": [
+    "a blue vase",
+    "a yellow vase",
+    "a red vase",
+    "a purple vase",
+    "a black vase",
+    "a white vase",
+    "a pink vase",
+    "a brown vase"
+  ],
+  "a blue vase": [
+    "a green vase",
+    "a yellow vase",
+    "a red vase",
+    "a black vase",
+    "a white vase",
+    "a pink vase",
+    "a purple vase",
+    "an orange vase"
+  ],
+  "a yellow vase": [
+    "a blue vase",
+    "a green vase",
+    "a red vase",
+    "a black vase",
+    "a pink vase",
+    "a purple vase",
+    "a white vase",
+    "an orange vase"
+  ],
+  "an orange vase": [
+    "a blue vase",
+    "a green vase",
+    "a yellow vase",
+    "a purple vase",
+    "a pink vase",
+    "a black vase",
+    "a white vase",
+    "a brown vase"
+  ],
+  "a purple vase": [
+    "a green vase",
+    "a blue vase",
+    "a yellow vase",
+    "a black vase",
+    "a white vase",
+    "a pink vase",
+    "an orange vase",
+    "a brown vase"
+  ],
+  "a pink vase": [
+    "a blue vase",
+    "a green vase",
+    "a yellow vase",
+    "a black vase",
+    "a white vase",
+    "a purple vase",
+    "a red vase",
+    "an orange vase"
+  ],
+  "a black vase": [
+    "a white vase",
+    "a blue vase",
+    "a green vase",
+    "a yellow vase",
+    "a red vase",
+    "a purple vase",
+    "an orange vase",
+    "a pink vase"
+  ],
+  "a white vase": [
+    "a blue vase",
+    "a green vase",
+    "a black vase",
+    "a yellow vase",
+    "a red vase",
+    "a purple vase",
+    "a pink vase",
+    "an orange vase"
+  ]
+}

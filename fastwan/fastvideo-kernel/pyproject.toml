@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastvideo-kernel"
+version = "0.2.6"
+description = "Triton VSA kernel subset for NoisEasier FastWan inference"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = [
+    "torch>=2.5.0",
+    "triton>=2.0.0; sys_platform == 'linux'",
+]
+
+[project.urls]
+Homepage = "https://github.com/hao-ai-lab/FastVideo"
+
+[tool.setuptools.packages.find]
+where = ["python"]

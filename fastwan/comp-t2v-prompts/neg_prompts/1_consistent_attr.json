@@ -1,0 +1,3002 @@
+[
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue car drives past a white picket fence on a sunny day",
+    "id": "0001",
+    "negative_prompt": [
+      "A red car drives past a white picket fence on a sunny day",
+      "A green car drives past a white picket fence on a sunny day",
+      "A black car drives past a white picket fence on a sunny day",
+      "A yellow car drives past a white picket fence on a sunny day",
+      "A blue car drives past a black picket fence on a sunny day",
+      "A blue car drives past a brown picket fence on a sunny day",
+      "A blue car drives past a red picket fence on a sunny day",
+      "A blue car drives past a green picket fence on a sunny day"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A black dog sits beside a red vase on a table",
+    "id": "0002",
+    "negative_prompt": [
+      "A white dog sits beside a red vase on a table",
+      "A black dog sits beside a blue vase on a table",
+      "A brown dog sits beside a red vase on a table",
+      "A black dog sits beside a green vase on a table",
+      "A yellow dog sits beside a red vase on a table",
+      "A black dog sits beside a red bowl on a table",
+      "A black dog sits beside a red box on a table",
+      "A black dog sits beside a red plate on a table"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Red toaster toasting bread beside a white refrigerator",
+    "id": "0003",
+    "negative_prompt": [
+      "Green toaster toasting bread beside a white refrigerator",
+      "Blue toaster toasting bread beside a white refrigerator",
+      "Yellow toaster toasting bread beside a white refrigerator",
+      "Black toaster toasting bread beside a white refrigerator",
+      "Red toaster toasting bread beside a black refrigerator",
+      "Red toaster toasting bread beside a blue refrigerator",
+      "Red toaster toasting bread beside a green refrigerator",
+      "Red toaster toasting bread beside a pink refrigerator"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Green parrot perching on a brown chair",
+    "id": "0004",
+    "negative_prompt": [
+      "Red parrot perching on a brown chair",
+      "Blue parrot perching on a brown chair",
+      "Green parrot perching on a white chair",
+      "Green parrot perching on a black chair",
+      "Green parrot perching on a purple chair",
+      "Green parrot perching on a brown sphere",
+      "Green parrot perching on a brown pyramid",
+      "Green parrot perching on a brown cube"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Yellow rubber duck floating next to a blue bath towel",
+    "id": "0005",
+    "negative_prompt": [
+      "Red rubber duck floating next to a blue bath towel",
+      "Yellow rubber duck floating next to a red bath towel",
+      "Yellow rubber sphere floating next to a blue bath towel",
+      "Yellow rubber duck floating next to a blue bath block",
+      "Yellow wooden duck floating next to a blue bath towel",
+      "Yellow rubber duck floating next to a blue stone slab",
+      "Green rubber duck floating next to a blue bath towel",
+      "Yellow rubber duck floating next to a green bath towel"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Blue umbrella shielding a pink picnic blanket",
+    "id": "0006",
+    "negative_prompt": [
+      "Red umbrella shielding a pink picnic blanket",
+      "Blue umbrella shielding a green picnic blanket",
+      "Yellow umbrella shielding a pink picnic blanket",
+      "Blue cube shielding a pink picnic blanket",
+      "Blue pyramid shielding a pink picnic blanket",
+      "Blue umbrella shielding a pink metallic blanket",
+      "Blue umbrella shielding a pink plastic blanket",
+      "Blue umbrella shielding a pink picnic tarp"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Green tractor plowing near a white farmhouse",
+    "id": "0007",
+    "negative_prompt": [
+      "Red tractor plowing near a white farmhouse",
+      "Blue tractor plowing near a white farmhouse",
+      "Yellow tractor plowing near a white farmhouse",
+      "Black tractor plowing near a white farmhouse",
+      "Green tractor plowing near a black farmhouse",
+      "Green tractor plowing near a red farmhouse",
+      "Green tractor plowing near a blue farmhouse",
+      "Green tractor plowing near a grey farmhouse"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Orange cat sleeping on a purple cushion",
+    "id": "0008",
+    "negative_prompt": [
+      "Blue cat sleeping on a purple cushion",
+      "Green cat sleeping on a purple cushion",
+      "Black cat sleeping on a purple cushion",
+      "White cat sleeping on a purple cushion",
+      "Orange cat sleeping on a green cushion",
+      "Orange cat sleeping on a red cushion",
+      "Orange cat sleeping on a blue cushion",
+      "Orange cat sleeping on a yellow cushion"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Black swan gliding past a green lily pad",
+    "id": "0009",
+    "negative_prompt": [
+      "White swan gliding past a green lily pad",
+      "Black swan gliding past a red lily pad",
+      "Brown swan gliding past a green lily pad",
+      "Black swan gliding past a blue lily pad",
+      "Grey swan gliding past a green lily pad",
+      "Black swan gliding past a yellow lily pad",
+      "Pink swan gliding past a green lily pad",
+      "Black swan gliding past a purple lily pad"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Brown squirrel climbing a black lamp post",
+    "id": "0010",
+    "negative_prompt": [
+      "White squirrel climbing a black lamp post",
+      "Green squirrel climbing a black lamp post",
+      "Blue squirrel climbing a black lamp post",
+      "Red squirrel climbing a black lamp post",
+      "Brown squirrel climbing a white lamp post",
+      "Brown squirrel climbing a green lamp post",
+      "Brown squirrel climbing a blue lamp post",
+      "Brown squirrel climbing a red lamp post"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Green taxi drives past a yellow building",
+    "id": "0011",
+    "negative_prompt": [
+      "Red taxi drives past a yellow building",
+      "Blue taxi drives past a yellow building",
+      "Black taxi drives past a yellow building",
+      "White taxi drives past a yellow building",
+      "Green taxi drives past a red building",
+      "Green taxi drives past a blue building",
+      "Green taxi drives past a black building",
+      "Green taxi drives past a white building"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Blue jay swooping near a red maple tree",
+    "id": "0012",
+    "negative_prompt": [
+      "Yellow jay swooping near a red maple tree",
+      "Blue jay swooping near a green maple tree",
+      "Black jay swooping near a red maple tree",
+      "Blue jay swooping near a yellow maple tree",
+      "White jay swooping near a red maple tree",
+      "Blue jay swooping near a purple maple tree",
+      "Brown jay swooping near a red maple tree",
+      "Blue jay swooping near a blue maple tree"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Pink motorcycle weaving through orange traffic cones",
+    "id": "0013",
+    "negative_prompt": [
+      "Blue motorcycle weaving through orange traffic cones",
+      "Green motorcycle weaving through orange traffic cones",
+      "Yellow motorcycle weaving through orange traffic cones",
+      "Black motorcycle weaving through orange traffic cones",
+      "White motorcycle weaving through orange traffic cones",
+      "Pink motorcycle weaving through blue traffic cones",
+      "Pink motorcycle weaving through green traffic cones",
+      "Pink motorcycle weaving through black traffic cones"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Yellow curtains swaying near a blue sofa",
+    "id": "0014",
+    "negative_prompt": [
+      "Red curtains swaying near a blue sofa",
+      "Green curtains swaying near a blue sofa",
+      "Purple curtains swaying near a blue sofa",
+      "Black curtains swaying near a blue sofa",
+      "Yellow curtains swaying near a red sofa",
+      "Yellow curtains swaying near a green sofa",
+      "Yellow curtains swaying near a black sofa",
+      "Yellow curtains swaying near a white sofa"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Blue curtains swaying near a yellow sofa",
+    "id": "0015",
+    "negative_prompt": [
+      "Red curtains swaying near a yellow sofa",
+      "Green curtains swaying near a yellow sofa",
+      "Orange curtains swaying near a yellow sofa",
+      "Purple curtains swaying near a yellow sofa",
+      "Blue curtains swaying near a Red sofa",
+      "Blue curtains swaying near a Green sofa",
+      "Blue curtains swaying near an Orange sofa",
+      "Blue curtains swaying near a Purple sofa"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Yellow school bus stopping in front of a red building",
+    "id": "0016",
+    "negative_prompt": [
+      "Blue school bus stopping in front of a red building",
+      "Green school bus stopping in front of a red building",
+      "Black school bus stopping in front of a red building",
+      "White school bus stopping in front of a red building",
+      "Yellow school bus stopping in front of a blue building",
+      "Yellow school bus stopping in front of a green building",
+      "Yellow school bus stopping in front of a black building",
+      "Yellow school bus stopping in front of a white building"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "White tractor plowing near a green farmhouse",
+    "id": "0017",
+    "negative_prompt": [
+      "Black tractor plowing near a green farmhouse",
+      "Red tractor plowing near a green farmhouse",
+      "Blue tractor plowing near a green farmhouse",
+      "Yellow tractor plowing near a green farmhouse",
+      "White tractor plowing near a red farmhouse",
+      "White tractor plowing near a blue farmhouse",
+      "White tractor plowing near a yellow farmhouse",
+      "White tractor plowing near a brown farmhouse"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Man in a black suit driving a red sports car",
+    "id": "0018",
+    "negative_prompt": [
+      "Man in a white suit driving a red sports car",
+      "Man in a black suit driving a blue sports car",
+      "Woman in a black suit driving a red sports car",
+      "Man in a grey suit driving a red sports car",
+      "Man in a black suit driving a green sports car",
+      "Robot in a black suit driving a red sports car",
+      "Man in a bright orange suit driving a red sports car",
+      "Man in a black suit driving a monochrome sports car"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Girl in pink sweater holding a golden trophy",
+    "id": "0019",
+    "negative_prompt": [
+      "Boy in pink sweater holding a golden trophy",
+      "Man in pink sweater holding a golden trophy",
+      "Robot in pink sweater holding a golden trophy",
+      "Girl in blue sweater holding a golden trophy",
+      "Girl in green sweater holding a golden trophy",
+      "Girl in black sweater holding a golden trophy",
+      "Girl in pink sweater holding a silver trophy",
+      "Girl in pink sweater holding a wooden trophy"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Man in a red suit driving a black sports car",
+    "id": "0020",
+    "negative_prompt": [
+      "Woman in a red suit driving a black sports car",
+      "Child in a red suit driving a black sports car",
+      "Man in a blue suit driving a black sports car",
+      "Man in a green suit driving a black sports car",
+      "Man in a yellow suit driving a black sports car",
+      "Man in a red suit driving a white sports car",
+      "Man in a red suit driving a silver sports car",
+      "Man in a red suit driving a pink sports car"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Yellow pencil writing on a green notebook",
+    "id": "0021",
+    "negative_prompt": [
+      "Blue pencil writing on a green notebook",
+      "Red pencil writing on a green notebook",
+      "Black pencil writing on a green notebook",
+      "Purple pencil writing on a green notebook",
+      "Yellow pencil writing on a red notebook",
+      "Yellow pencil writing on a blue notebook",
+      "Yellow pencil writing on a pink notebook",
+      "Yellow pencil writing on a purple notebook"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Round soccer ball bouncing near a square scoreboard",
+    "id": "0022",
+    "negative_prompt": [
+      "Square soccer ball bouncing near a square scoreboard",
+      "Round soccer ball bouncing near a round scoreboard",
+      "Triangular soccer ball bouncing near a square scoreboard",
+      "Round soccer ball bouncing near a triangular scoreboard",
+      "Oval soccer ball bouncing near a square scoreboard",
+      "Round soccer ball bouncing near an oval scoreboard",
+      "Hexagonal soccer ball bouncing near a square scoreboard",
+      "Round soccer ball bouncing near a rectangular scoreboard"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Cylindrical thermos pouring into a conical paper cup",
+    "id": "0023",
+    "negative_prompt": [
+      "Cubic thermos pouring into a conical paper cup",
+      "Cylindrical thermos pouring into a cubic paper cup",
+      "Spherical thermos pouring into a conical paper cup",
+      "Cylindrical thermos pouring into a spherical paper cup",
+      "Rectangular thermos pouring into a conical paper cup",
+      "Cylindrical thermos pouring into a rectangular paper cup",
+      "Pyramidal thermos pouring into a conical paper cup",
+      "Cylindrical thermos pouring into a pyramidal paper cup"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Oblong canoe gliding past a circular buoy",
+    "id": "0024",
+    "negative_prompt": [
+      "Square canoe gliding past a circular buoy",
+      "Oblong canoe gliding past a square buoy",
+      "Triangular canoe gliding past a circular buoy",
+      "Oblong canoe gliding past a triangular buoy",
+      "Rectangular canoe gliding past a circular buoy",
+      "Oblong canoe gliding past a rectangular buoy",
+      "Star-shaped canoe gliding past a circular buoy",
+      "Oblong canoe gliding past a star-shaped buoy"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Pyramidal tent sheltering a round grill",
+    "id": "0025",
+    "negative_prompt": [
+      "Cylindrical tent sheltering a round grill",
+      "Pyramidal tent sheltering a square grill",
+      "Cubic tent sheltering a round grill",
+      "Pyramidal tent sheltering a rectangular grill",
+      "Dome-shaped tent sheltering a round grill",
+      "Pyramidal tent sheltering a triangular grill",
+      "Conical tent sheltering a round grill",
+      "Pyramidal tent sheltering an oval grill"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Rectangular briefcase swinging near a hexagonal fountain",
+    "id": "0026",
+    "negative_prompt": [
+      "Circular briefcase swinging near a hexagonal fountain",
+      "Rectangular briefcase swinging near a circular fountain",
+      "Triangular briefcase swinging near a hexagonal fountain",
+      "Rectangular briefcase swinging near a triangular fountain",
+      "Spherical briefcase swinging near a hexagonal fountain",
+      "Rectangular briefcase swinging near a square fountain",
+      "Oval briefcase swinging near a hexagonal fountain",
+      "Rectangular briefcase swinging near an octagonal fountain"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Conical hat spinning beside a square cake",
+    "id": "0027",
+    "negative_prompt": [
+      "Cylindrical hat spinning beside a square cake",
+      "Spherical hat spinning beside a square cake",
+      "Cuboid hat spinning beside a square cake",
+      "Pyramidal hat spinning beside a square cake",
+      "Conical hat spinning beside a circular cake",
+      "Conical hat spinning beside a triangular cake",
+      "Conical hat spinning beside a rectangular cake",
+      "Conical hat spinning beside an oval cake"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Cylindrical bin rolling towards a triangular sign",
+    "id": "0028",
+    "negative_prompt": [
+      "Spherical bin rolling towards a triangular sign",
+      "Cylindrical bin rolling towards a Rectangular sign",
+      "Cuboid bin rolling towards a triangular sign",
+      "Cylindrical bin rolling towards a Circular sign",
+      "Conical bin rolling towards a triangular sign",
+      "Cylindrical bin rolling towards a Square sign",
+      "Pyramidal bin rolling towards a triangular sign",
+      "Cylindrical bin rolling towards a Hexagonal sign"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Oval bathtub filling near a rectangular towel",
+    "id": "0029",
+    "negative_prompt": [
+      "Square bathtub filling near a rectangular towel",
+      "Oval bathtub filling near a round towel",
+      "Triangular bathtub filling near a rectangular towel",
+      "Oval bathtub filling near an oval towel",
+      "Rectangular bathtub filling near a rectangular towel",
+      "Oval bathtub filling near a square towel",
+      "Round bathtub filling near a rectangular towel",
+      "Oval bathtub filling near a triangular towel"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Spherical globe rotating next to a cube clock",
+    "id": "0030",
+    "negative_prompt": [
+      "Flat globe rotating next to a cube clock",
+      "Cylindrical globe rotating next to a cube clock",
+      "Pyramidal globe rotating next to a cube clock",
+      "Conical globe rotating next to a cube clock",
+      "Spherical globe rotating next to a cylindrical clock",
+      "Spherical globe rotating next to a pyramidal clock",
+      "Spherical globe rotating next to a triangular clock",
+      "Spherical globe rotating next to a rectangular clock"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Star-shaped cookie resting on a round coaster",
+    "id": "0031",
+    "negative_prompt": [
+      "Square-shaped cookie resting on a round coaster",
+      "Circular-shaped cookie resting on a round coaster",
+      "Triangle-shaped cookie resting on a round coaster",
+      "Hexagonal-shaped cookie resting on a round coaster",
+      "Star-shaped cookie resting on a square coaster",
+      "Star-shaped cookie resting on a triangular coaster",
+      "Star-shaped cookie resting on a rectangular coaster",
+      "Star-shaped cookie resting on a hexagonal coaster"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Spiral staircase winding beside a cubic stool",
+    "id": "0032",
+    "negative_prompt": [
+      "Straight staircase winding beside a cubic stool",
+      "Zig-zag staircase winding beside a cubic stool",
+      "Spiral staircase winding beside a spherical stool",
+      "Spiral staircase winding beside a cylindrical stool",
+      "Spiral staircase winding beside a triangular stool",
+      "Spiral staircase winding beside an amorphous stool",
+      "Linear staircase winding beside a cubic stool",
+      "Spiral staircase winding beside a pyramid-shaped stool"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Elliptical mirror hanging near a square window",
+    "id": "0033",
+    "negative_prompt": [
+      "Rectangular mirror hanging near a square window",
+      "Circular mirror hanging near a square window",
+      "Triangular mirror hanging near a square window",
+      "Hexagonal mirror hanging near a square window",
+      "Elliptical mirror hanging near a round window",
+      "Elliptical mirror hanging near a rectangular window",
+      "Elliptical mirror hanging near an arched window",
+      "Elliptical mirror hanging near a triangular window"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Diamond-shaped kite soaring above a flat roof",
+    "id": "0034",
+    "negative_prompt": [
+      "Circular-shaped kite soaring above a flat roof",
+      "Diamond-shaped kite soaring above a pitched roof",
+      "Square-shaped kite soaring above a flat roof",
+      "Diamond-shaped kite soaring above a domed roof",
+      "Triangular-shaped kite soaring above a flat roof",
+      "Diamond-shaped kite soaring above a sloping roof",
+      "Hexagonal-shaped kite soaring above a flat roof",
+      "Diamond-shaped kite soaring above a curved roof"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Heart-shaped pillow tossed onto a circular bed",
+    "id": "0035",
+    "negative_prompt": [
+      "Square-shaped pillow tossed onto a circular bed",
+      "Rectangular-shaped pillow tossed onto a circular bed",
+      "Star-shaped pillow tossed onto a circular bed",
+      "Triangular-shaped pillow tossed onto a circular bed",
+      "Heart-shaped pillow tossed onto a square bed",
+      "Heart-shaped pillow tossed onto a rectangular bed",
+      "Heart-shaped pillow tossed onto an oval bed",
+      "Heart-shaped pillow tossed onto a triangular bed"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Woolen scarf fluttering near a leather suitcase",
+    "id": "0036",
+    "negative_prompt": [
+      "Silk scarf fluttering near a leather suitcase",
+      "Cotton scarf fluttering near a leather suitcase",
+      "Woolen scarf fluttering near a fabric suitcase",
+      "Woolen scarf fluttering near a metal suitcase",
+      "Woolen blanket fluttering near a leather suitcase",
+      "Woolen flag fluttering near a leather suitcase",
+      "Woolen scarf fluttering near a leather backpack",
+      "Woolen scarf fluttering near a leather box"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Silk dress swaying beside a velvet curtain",
+    "id": "0037",
+    "negative_prompt": [
+      "Denim dress swaying beside a velvet curtain",
+      "Burlap dress swaying beside a velvet curtain",
+      "Leather dress swaying beside a velvet curtain",
+      "Wool dress swaying beside a velvet curtain",
+      "Silk dress swaying beside a burlap curtain",
+      "Silk dress swaying beside a denim curtain",
+      "Silk dress swaying beside a linen curtain",
+      "Silk dress swaying beside a plastic curtain"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Leather boots stepping on a marble floor",
+    "id": "0038",
+    "negative_prompt": [
+      "Furry boots stepping on a marble floor",
+      "Rubber boots stepping on a marble floor",
+      "Leather boots stepping on a wooden floor",
+      "Leather boots stepping on a sandy floor",
+      "Leather sandals stepping on a marble floor",
+      "Leather slippers stepping on a marble floor",
+      "Leather boots stepping on a marble staircase",
+      "Leather boots stepping on a marble hill"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Wooden chair sliding across a slate tile",
+    "id": "0039",
+    "negative_prompt": [
+      "Metallic chair sliding across a slate tile",
+      "Wooden chair sliding across a carpet tile",
+      "Wooden stool sliding across a slate tile",
+      "Wooden chair sliding across a slate plank",
+      "White chair sliding across a slate tile",
+      "Wooden chair sliding across a red tile",
+      "Glass chair sliding across a slate tile",
+      "Wooden chair sliding across a velvet tile"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Ceramic vase rotating on a copper table",
+    "id": "0040",
+    "negative_prompt": [
+      "Glass vase rotating on a copper table",
+      "Wooden vase rotating on a copper table",
+      "Ceramic vase rotating on a velvet table",
+      "Ceramic vase rotating on a marble table",
+      "Ceramic bowl rotating on a copper table",
+      "Ceramic statue rotating on a copper table",
+      "Ceramic vase rotating on a black table",
+      "Ceramic vase rotating on a silver table"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Denim jacket hanging on a metal coat rack",
+    "id": "0041",
+    "negative_prompt": [
+      "Leather jacket hanging on a metal coat rack",
+      "Wool jacket hanging on a metal coat rack",
+      "Denim jacket hanging on a wooden coat rack",
+      "Denim jacket hanging on a plastic coat rack",
+      "Denim skirt hanging on a metal coat rack",
+      "Denim dress hanging on a metal coat rack",
+      "Denim jacket hanging on a metal chair",
+      "Denim jacket hanging on a metal hook"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Crystal chandelier swinging above a wooden table",
+    "id": "0042",
+    "negative_prompt": [
+      "Fabric chandelier swinging above a wooden table",
+      "Steel chandelier swinging above a wooden table",
+      "Ceramic chandelier swinging above a wooden table",
+      "Plastic chandelier swinging above a wooden table",
+      "Crystal chandelier swinging above a glass table",
+      "Crystal chandelier swinging above a metal table",
+      "Crystal chandelier swinging above a stone table",
+      "Crystal chandelier swinging above a fabric table"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Corduroy cloth brushing against a glass table",
+    "id": "0043",
+    "negative_prompt": [
+      "Silk cloth brushing against a glass table",
+      "Burlap cloth brushing against a glass table",
+      "Wet cloth brushing against a glass table",
+      "Rubber cloth brushing against a glass table",
+      "Corduroy cloth brushing against a wooden table",
+      "Corduroy cloth brushing against a velvet table",
+      "Corduroy cloth brushing against a concrete table",
+      "Corduroy cloth brushing against a metallic table"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Velvet ribbon tied on an iron fence",
+    "id": "0044",
+    "negative_prompt": [
+      "Burlap ribbon tied on an iron fence",
+      "Wire ribbon tied on an iron fence",
+      "Sandpaper ribbon tied on an iron fence",
+      "Plastic ribbon tied on an iron fence",
+      "Velvet ribbon tied on a wooden fence",
+      "Velvet ribbon tied on a fabric fence",
+      "Velvet ribbon tied on a glass fence",
+      "Velvet ribbon tied on a rubber fence"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Linen curtains blowing beside a bamboo wall",
+    "id": "0045",
+    "negative_prompt": [
+      "Metal curtains blowing beside a bamboo wall",
+      "Stone curtains blowing beside a bamboo wall",
+      "Wool curtains blowing beside a bamboo wall",
+      "Plastic curtains blowing beside a bamboo wall",
+      "Linen curtains blowing beside a brick wall",
+      "Linen curtains blowing beside a glass wall",
+      "Linen curtains blowing beside a concrete wall",
+      "Linen curtains blowing beside a fabric wall"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Plush teddy bear tumbling next to a leather couch",
+    "id": "0046",
+    "negative_prompt": [
+      "Metallic teddy bear tumbling next to a leather couch",
+      "Wooden teddy bear tumbling next to a leather couch",
+      "Glassy teddy bear tumbling next to a leather couch",
+      "Rough teddy bear tumbling next to a leather couch",
+      "Plush teddy bear tumbling next to a fabric couch",
+      "Plush teddy bear tumbling next to a wooden couch",
+      "Plush teddy bear tumbling next to a metallic couch",
+      "Plush teddy bear tumbling next to a velvet couch"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Furry dog fetching a rubber ball",
+    "id": "0047",
+    "negative_prompt": [
+      "Furry dog fetching a rubber cube",
+      "Furry dog fetching a rubber stick",
+      "Furry dog fetching a rubber disc",
+      "Furry dog fetching a rubber pyramid",
+      "Smooth dog fetching a rubber ball",
+      "Bald dog fetching a rubber ball",
+      "Furry dog fetching a metallic ball",
+      "Furry dog fetching a wooden ball"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Slick seal sliding near a rubber mat",
+    "id": "0048",
+    "negative_prompt": [
+      "Rough seal sliding near a rubber mat",
+      "Slick seal sliding near a wooden mat",
+      "Gritty seal sliding near a rubber mat",
+      "Slick seal sliding near a metallic mat",
+      "Bumpy seal sliding near a rubber mat",
+      "Slick seal sliding near a fabric mat",
+      "Dry seal sliding near a rubber mat",
+      "Slick seal sliding near a stone mat"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Silver-haired woman admiring a black grand piano",
+    "id": "0049",
+    "negative_prompt": [
+      "Blonde-haired woman admiring a black grand piano",
+      "Silver-haired man admiring a black grand piano",
+      "Silver-haired woman admiring a white grand piano",
+      "Silver-haired woman admiring a black upright piano",
+      "Brown-haired woman admiring a black grand piano",
+      "Silver-haired child admiring a black grand piano",
+      "Silver-haired woman admiring a brown grand piano",
+      "Silver-haired woman admiring a black harpsichord"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Young boy tossing a leather baseball glove",
+    "id": "0050",
+    "negative_prompt": [
+      "Old man tossing a leather baseball glove",
+      "Young girl tossing a leather baseball glove",
+      "Robot tossing a leather baseball glove",
+      "Young boy tossing a metal baseball glove",
+      "Young boy tossing a fabric baseball glove",
+      "Young boy tossing a wooden baseball glove",
+      "Young boy tossing a leather baseball bat",
+      "Young boy tossing a leather football"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Muscular man wielding an iron sword",
+    "id": "0051",
+    "negative_prompt": [
+      "Muscular woman wielding an iron sword",
+      "Muscular child wielding an iron sword",
+      "Muscular robot wielding an iron sword",
+      "Muscular animal wielding an iron sword",
+      "Muscular man wielding a wooden sword",
+      "Muscular man wielding a stone sword",
+      "Muscular man wielding a glass sword",
+      "Muscular man wielding a plastic sword"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Elderly artist with a white beard painting on a white canvas",
+    "id": "0052",
+    "negative_prompt": [
+      "Young artist with a white beard painting on a white canvas",
+      "Child artist with a white beard painting on a white canvas",
+      "Elderly writer with a white beard painting on a white canvas",
+      "Elderly athlete with a white beard painting on a white canvas",
+      "Elderly artist with a black beard painting on a white canvas",
+      "Elderly artist with a brown beard painting on a white canvas",
+      "Elderly artist with a white beard painting on a black canvas",
+      "Elderly artist with a white beard painting on a green canvas"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Girl with braids feeding a spotted deer",
+    "id": "0053",
+    "negative_prompt": [
+      "Boy with braids feeding a spotted deer",
+      "Man with braids feeding a spotted deer",
+      "Girl with short hair feeding a spotted deer",
+      "Girl with curly hair feeding a spotted deer",
+      "Girl with straight hair feeding a spotted deer",
+      "Girl with braids feeding a striped deer",
+      "Girl with braids feeding a plain deer",
+      "Girl with braids feeding a smooth deer"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Boy in a blue shirt playing chess with a bearded man",
+    "id": "0054",
+    "negative_prompt": [
+      "Boy in a red shirt playing chess with a bearded man",
+      "Boy in a green shirt playing chess with a bearded man",
+      "Boy in a white shirt playing chess with a bearded man",
+      "Girl in a blue shirt playing chess with a bearded man",
+      "Woman in a blue shirt playing chess with a bearded man",
+      "Robot in a blue shirt playing chess with a bearded man",
+      "Boy in a blue shirt playing chess with a clean-shaven man",
+      "Boy in a blue shirt playing chess with a bearded woman"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Tall woman discussing plans with a short woman",
+    "id": "0055",
+    "negative_prompt": [
+      "Petite woman discussing plans with a short woman",
+      "Stocky woman discussing plans with a short woman",
+      "Tall woman discussing plans with a lanky woman",
+      "Tall woman discussing plans with an obese woman",
+      "Tall man discussing plans with a short woman",
+      "Tall woman discussing plans with a short man",
+      "Tall child discussing plans with a short woman",
+      "Tall woman discussing plans with a short child"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Girl with curly hair riding a red bike",
+    "id": "0056",
+    "negative_prompt": [
+      "Boy with curly hair riding a red bike",
+      "Man with curly hair riding a red bike",
+      "Girl with straight hair riding a red bike",
+      "Girl with wavy hair riding a red bike",
+      "Girl with curly hair riding a blue bike",
+      "Girl with curly hair riding a green bike",
+      "Girl with curly hair riding a black bike",
+      "Girl with curly hair riding a yellow bike"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Woman in red dress painting with a man in a green shirt",
+    "id": "0057",
+    "negative_prompt": [
+      "Woman in blue dress painting with a man in a green shirt",
+      "Woman in black dress painting with a man in a green shirt",
+      "Woman in red dress painting with a man in a blue shirt",
+      "Woman in red dress painting with a man in a black shirt",
+      "Child in red dress painting with a man in a green shirt",
+      "Robot in red dress painting with a man in a green shirt",
+      "Woman in red dress painting with a dog in a green shirt",
+      "Woman in red dress painting with a statue in a green shirt"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Golden retriever chasing a yellow frisbee in the park",
+    "id": "0058",
+    "negative_prompt": [
+      "Black retriever chasing a yellow frisbee in the park",
+      "Brown retriever chasing a yellow frisbee in the park",
+      "Golden retriever chasing a blue frisbee in the park",
+      "Golden retriever chasing a red frisbee in the park",
+      "Golden retriever chasing a yellow ball in the park",
+      "Golden retriever chasing a yellow stick in the park",
+      "Golden retriever chasing a yellow cube in the park",
+      "Golden retriever chasing a yellow bone in the park"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Red car racing past an old church",
+    "id": "0059",
+    "negative_prompt": [
+      "Blue car racing past an old church",
+      "Green car racing past an old church",
+      "Yellow car racing past an old church",
+      "Black car racing past an old church",
+      "White car racing past an old church",
+      "Purple car racing past an old church",
+      "Orange car racing past an old church",
+      "Brown car racing past an old church"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Green tree shedding leaves near a wooden cabin",
+    "id": "0060",
+    "negative_prompt": [
+      "Red tree shedding leaves near a wooden cabin",
+      "Blue tree shedding leaves near a wooden cabin",
+      "Yellow tree shedding leaves near a wooden cabin",
+      "Brown tree shedding leaves near a wooden cabin",
+      "Green tree shedding leaves near a stone cabin",
+      "Green tree shedding leaves near a metal cabin",
+      "Green tree shedding leaves near a glass cabin",
+      "Green tree shedding leaves near a brick cabin"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Fresh sushi served on a slate plate",
+    "id": "0061",
+    "negative_prompt": [
+      "Fresh sushi served on a white plate",
+      "Fresh sushi served on a red plate",
+      "Fresh sushi served on a green plate",
+      "Fresh sushi served in a slate bowl",
+      "Fresh sushi served on a slate platter",
+      "Fresh sushi served on a slate stand",
+      "Fresh sushi served on a smooth dark grey plate",
+      "Fresh sushi served on a polished stone plate"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Striped cat lounging on a velvet pillow",
+    "id": "0062",
+    "negative_prompt": [
+      "Striped cat lounging on a rough pillow",
+      "Striped cat lounging on a coarse pillow",
+      "Striped cat lounging on a burlap pillow",
+      "Striped cat lounging on a spiky pillow",
+      "Striped cat lounging on a metallic pillow",
+      "Striped cat lounging on a wooden pillow",
+      "Striped cat lounging on a sandy pillow",
+      "Striped cat lounging on a concrete pillow"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Blue truck hauling a load of orange pumpkins",
+    "id": "0063",
+    "negative_prompt": [
+      "Red truck hauling a load of orange pumpkins",
+      "Green truck hauling a load of orange pumpkins",
+      "Blue truck hauling a load of green pumpkins",
+      "Blue truck hauling a load of purple pumpkins",
+      "Blue car hauling a load of orange pumpkins",
+      "Blue truck hauling a load of orange bricks",
+      "Blue truck hauling a load of orange fuzzy pumpkins",
+      "Blue rusty truck hauling a load of orange pumpkins"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Woman with glasses reading to a little girl",
+    "id": "0064",
+    "negative_prompt": [
+      "Man with glasses reading to a little girl",
+      "Robot with glasses reading to a little girl",
+      "Woman with glasses reading to an old man",
+      "Woman with glasses reading to a dog",
+      "Woman with glasses reading to a plant",
+      "Alien with glasses reading to a little girl",
+      "Woman with glasses reading to a statue",
+      "Chimpanzee with glasses reading to a little girl"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "man in a white vest fixing a red bike",
+    "id": "0065",
+    "negative_prompt": [
+      "man in a black vest fixing a red bike",
+      "man in a blue vest fixing a red bike",
+      "man in a green vest fixing a red bike",
+      "man in a white vest fixing a blue bike",
+      "man in a white vest fixing a green bike",
+      "man in a white vest fixing a black bike",
+      "woman in a white vest fixing a red bike",
+      "child in a white vest fixing a red bike"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Elderly woman watering red rose",
+    "id": "0066",
+    "negative_prompt": [
+      "Young man watering red rose",
+      "Child watering red rose",
+      "Teenager watering red rose",
+      "Robot watering red rose",
+      "Elderly woman watering blue rose",
+      "Elderly woman watering yellow rose",
+      "Elderly woman watering white rose",
+      "Elderly woman watering green rose"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Boy with a cap playing soccer with a girl wearing a red shirt",
+    "id": "0067",
+    "negative_prompt": [
+      "Boy with a cap playing soccer with a girl wearing a blue shirt",
+      "Boy with a cap playing soccer with a girl wearing a green shirt",
+      "Boy with a cap playing soccer with a girl wearing a yellow shirt",
+      "Boy with a cap playing soccer with a girl wearing a black shirt",
+      "Girl with a cap playing soccer with a girl wearing a red shirt",
+      "Boy with a cap playing soccer with a boy wearing a red shirt",
+      "Man with a cap playing soccer with a girl wearing a red shirt",
+      "Boy with a cap playing soccer with a woman wearing a red shirt"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Green beetle crawling on a gray rock",
+    "id": "0068",
+    "negative_prompt": [
+      "Red beetle crawling on a gray rock",
+      "Blue beetle crawling on a gray rock",
+      "Green beetle crawling on a brown rock",
+      "Green beetle crawling on a white rock",
+      "Green spider crawling on a gray rock",
+      "Green cube crawling on a gray rock",
+      "Green beetle crawling on a gray sphere",
+      "Green beetle crawling on a gray log"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Fluffy squirrel playing on a metal bench",
+    "id": "0069",
+    "negative_prompt": [
+      "Scaly squirrel playing on a metal bench",
+      "Smooth squirrel playing on a metal bench",
+      "Spiky squirrel playing on a metal bench",
+      "Sleek squirrel playing on a metal bench",
+      "Fluffy squirrel playing on a wooden bench",
+      "Fluffy squirrel playing on a stone bench",
+      "Fluffy squirrel playing on a plastic bench",
+      "Fluffy squirrel playing on a fabric bench"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Orange truck hauling a load of blue pumpkins",
+    "id": "0070",
+    "negative_prompt": [
+      "Green truck hauling a load of blue pumpkins",
+      "Orange truck hauling a load of red pumpkins",
+      "Orange car hauling a load of blue pumpkins",
+      "Orange truck hauling a load of blue cubes",
+      "White truck hauling a load of blue pumpkins",
+      "Orange truck hauling a load of purple pumpkins",
+      "Orange bicycle hauling a load of blue pumpkins",
+      "Orange truck hauling a load of blue pyramids"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Golden sunlight piercing through dark clouds",
+    "id": "0071",
+    "negative_prompt": [
+      "Silver sunlight piercing through dark clouds",
+      "Blue sunlight piercing through dark clouds",
+      "Green sunlight piercing through dark clouds",
+      "Purple sunlight piercing through dark clouds",
+      "Golden sunlight piercing through bright clouds",
+      "Golden sunlight piercing through light clouds",
+      "Golden sunlight piercing through white clouds",
+      "Golden sunlight piercing through clear clouds"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Fluffy clouds drifting over a jagged mountain peak",
+    "id": "0072",
+    "negative_prompt": [
+      "Dense clouds drifting over a jagged mountain peak",
+      "Thin clouds drifting over a jagged mountain peak",
+      "Solid clouds drifting over a jagged mountain peak",
+      "Fluffy clouds drifting over a smooth mountain peak",
+      "Fluffy clouds drifting over a rounded mountain peak",
+      "Fluffy clouds drifting over a flat mountain peak",
+      "Fluffy clouds drifting over a jagged mountain plateau",
+      "Fluffy clouds drifting over a jagged mountain valley"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Murky water swirling around a shiny anchor",
+    "id": "0073",
+    "negative_prompt": [
+      "Clear water swirling around a shiny anchor",
+      "Pristine water swirling around a shiny anchor",
+      "Transparent water swirling around a shiny anchor",
+      "Murky water swirling around a dull anchor",
+      "Murky water swirling around a rusty anchor",
+      "Murky water swirling around a matte anchor",
+      "Murky water swirling around a shiny buoy",
+      "Murky water swirling around a shiny log"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Glistening waves crashing against a rugged cliffside",
+    "id": "0074",
+    "negative_prompt": [
+      "Dull waves crashing against a rugged cliffside",
+      "Matte waves crashing against a rugged cliffside",
+      "Glistening waves crashing against a smooth cliffside",
+      "Glistening waves crashing against a polished cliffside",
+      "Glistening ripples crashing against a rugged cliffside",
+      "Glistening still water crashing against a rugged cliffside",
+      "Glistening waves crashing against a rugged flatland",
+      "Glistening waves crashing against a rugged gentle slope"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Bioluminescent jellyfish floating near red corals",
+    "id": "0075",
+    "negative_prompt": [
+      "Dull jellyfish floating near red corals",
+      "Bioluminescent jellyfish floating near blue corals",
+      "Bioluminescent sharks floating near red corals",
+      "Bioluminescent jellyfish floating near red kelp",
+      "Bioluminescent jellyfish floating near red smooth corals",
+      "Opaque jellyfish floating near red corals",
+      "Bioluminescent jellyfish floating near green corals",
+      "Bioluminescent starfish floating near red corals"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Blue apple bouncing near a pink tree",
+    "id": "0076",
+    "negative_prompt": [
+      "Red apple bouncing near a pink tree",
+      "Green apple bouncing near a pink tree",
+      "Blue cube bouncing near a pink tree",
+      "Blue banana bouncing near a pink tree",
+      "Blue apple bouncing near a Yellow tree",
+      "Blue apple bouncing near a Purple tree",
+      "Blue apple bouncing near a pink bush",
+      "Blue apple bouncing near a pink rock"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Green cat chasing a purple mouse",
+    "id": "0077",
+    "negative_prompt": [
+      "Red cat chasing a purple mouse",
+      "Blue cat chasing a purple mouse",
+      "Yellow cat chasing a purple mouse",
+      "Orange cat chasing a purple mouse",
+      "Green cat chasing a red mouse",
+      "Green cat chasing a blue mouse",
+      "Green cat chasing a yellow mouse",
+      "Green cat chasing an orange mouse"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Purple banana hanging from a green vine",
+    "id": "0078",
+    "negative_prompt": [
+      "Orange banana hanging from a green vine",
+      "Red banana hanging from a green vine",
+      "Blue banana hanging from a green vine",
+      "Yellow banana hanging from a green vine",
+      "Purple banana hanging from a red vine",
+      "Purple banana hanging from a brown vine",
+      "Purple banana hanging from a blue vine",
+      "Purple banana hanging from a yellow vine"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Orange elephant standing on a blue ball",
+    "id": "0079",
+    "negative_prompt": [
+      "Green elephant standing on a blue ball",
+      "Orange elephant standing on a red ball",
+      "Orange elephant standing on a blue cube",
+      "Yellow elephant standing on a blue ball",
+      "Orange elephant standing on a green ball",
+      "Orange elephant standing on a blue pyramid",
+      "Purple elephant standing on a blue ball",
+      "Orange elephant standing on a yellow ball"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red dog chasing a green horse",
+    "id": "0080",
+    "negative_prompt": [
+      "A blue dog chasing a green horse",
+      "A yellow dog chasing a green horse",
+      "A black dog chasing a green horse",
+      "A white dog chasing a green horse",
+      "A red dog chasing a blue horse",
+      "A red dog chasing a yellow horse",
+      "A red dog chasing a black horse",
+      "A red dog chasing a white horse"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Pink giraffe eating from a brown bush",
+    "id": "0081",
+    "negative_prompt": [
+      "Blue giraffe eating from a brown bush",
+      "Green giraffe eating from a brown bush",
+      "Yellow giraffe eating from a brown bush",
+      "Orange giraffe eating from a brown bush",
+      "Pink giraffe eating from a green bush",
+      "Pink giraffe eating from a red bush",
+      "Pink giraffe eating from a black bush",
+      "Pink giraffe eating from a white bush"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Ancient vase displayed next to a glass sculpture",
+    "id": "0082",
+    "negative_prompt": [
+      "Ancient pyramid displayed next to a glass sculpture",
+      "Ancient vase displayed next to a glass panel",
+      "New vase displayed next to a glass sculpture",
+      "Ancient vase displayed next to a concrete sculpture",
+      "Ancient block displayed next to a glass sculpture",
+      "Ancient vase displayed next to a glass drawing",
+      "Modern vase displayed next to a glass sculpture",
+      "Ancient vase displayed next to a fabric sculpture"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Chef in white apron slicing green cucumbers",
+    "id": "0083",
+    "negative_prompt": [
+      "Chef in black apron slicing green cucumbers",
+      "Chef in white apron slicing red cucumbers",
+      "Chef in white apron peeling green cucumbers",
+      "Baker in white apron slicing green cucumbers",
+      "Chef in blue apron slicing green cucumbers",
+      "Chef in white apron dicing green cucumbers",
+      "Chef in white apron slicing purple cucumbers",
+      "Robot in white apron slicing green cucumbers"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Star-shaped mirror reflecting a square moon",
+    "id": "0084",
+    "negative_prompt": [
+      "Circular mirror reflecting a square moon",
+      "Triangular mirror reflecting a square moon",
+      "Rectangular mirror reflecting a square moon",
+      "Oval mirror reflecting a square moon",
+      "Star-shaped mirror reflecting a round moon",
+      "Star-shaped mirror reflecting a triangular moon",
+      "Star-shaped mirror reflecting an oval moon",
+      "Star-shaped mirror reflecting a crescent moon"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Heart-shaped book opening next to a circular lamp",
+    "id": "0085",
+    "negative_prompt": [
+      "Square-shaped book opening next to a circular lamp",
+      "Heart-shaped book opening next to a triangular lamp",
+      "Rectangular book opening next to a circular lamp",
+      "Heart-shaped book opening next to a square lamp",
+      "Star-shaped book opening next to a circular lamp",
+      "Heart-shaped book opening next to a hexagonal lamp",
+      "Triangular book opening next to a circular lamp",
+      "Heart-shaped book opening next to an oval lamp"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Triangular pizza slicing next to a round plate",
+    "id": "0086",
+    "negative_prompt": [
+      "Square pizza slicing next to a round plate",
+      "Rectangular pizza slicing next to a round plate",
+      "Circular pizza slicing next to a round plate",
+      "Oval pizza slicing next to a round plate",
+      "Triangular pizza slicing next to a square plate",
+      "Triangular pizza slicing next to a rectangular plate",
+      "Triangular pizza slicing next to an oval plate",
+      "Triangular pizza slicing next to a triangular plate"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "L-shaped sofa placed next to a round window",
+    "id": "0087",
+    "negative_prompt": [
+      "U-shaped sofa placed next to a round window",
+      "Rectangular sofa placed next to a round window",
+      "Curved sofa placed next to a round window",
+      "Straight sofa placed next to a round window",
+      "L-shaped sofa placed next to a square window",
+      "L-shaped sofa placed next to a rectangular window",
+      "L-shaped sofa placed next to a triangular window",
+      "L-shaped sofa placed next to an arched window"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Crystal cake shimmering beside a metal apple",
+    "id": "0088",
+    "negative_prompt": [
+      "Crystal loaf shimmering beside a metal apple",
+      "Crystal pyramid shimmering beside a metal apple",
+      "Crystal cake shimmering beside a metal banana",
+      "Crystal cake shimmering beside a metal cube",
+      "Wooden cake shimmering beside a metal apple",
+      "Fabric cake shimmering beside a metal apple",
+      "Crystal cake shimmering beside a paper apple",
+      "Crystal cake shimmering beside a plastic apple"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Metallic tree rustling near a paper bench",
+    "id": "0089",
+    "negative_prompt": [
+      "Wooden tree rustling near a paper bench",
+      "Glass tree rustling near a paper bench",
+      "Stone tree rustling near a paper bench",
+      "Fabric tree rustling near a paper bench",
+      "Metallic tree rustling near a stone bench",
+      "Metallic tree rustling near a wooden bench",
+      "Metallic tree rustling near a glass bench",
+      "Metallic tree rustling near a plastic bench"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A paper plane flying above a knitted vase",
+    "id": "0090",
+    "negative_prompt": [
+      "A metal plane flying above a knitted vase",
+      "A wooden plane flying above a knitted vase",
+      "A paper kite flying above a knitted vase",
+      "A paper bird flying above a knitted vase",
+      "A paper plane flying above a glass vase",
+      "A paper plane flying above a ceramic vase",
+      "A paper plane flying above a knitted bowl",
+      "A paper plane flying above a knitted jar"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Wooden car speeding past a porcelain tree",
+    "id": "0091",
+    "negative_prompt": [
+      "Metallic car speeding past a porcelain tree",
+      "Glass car speeding past a porcelain tree",
+      "Wooden car speeding past a furry tree",
+      "Wooden car speeding past a rough tree",
+      "Wooden boat speeding past a porcelain tree",
+      "Wooden plane speeding past a porcelain tree",
+      "Wooden car speeding past a porcelain bush",
+      "Wooden car speeding past a porcelain building"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Man with a balloon head juggling transparent apples",
+    "id": "0092",
+    "negative_prompt": [
+      "Woman with a balloon head juggling transparent apples",
+      "Robot with a balloon head juggling transparent apples",
+      "Man with a cube head juggling transparent apples",
+      "Man with a balloon head juggling transparent cubes",
+      "Man with a balloon head juggling opaque apples",
+      "Man with a balloon head juggling red apples",
+      "Man with a balloon head juggling transparent rough apples",
+      "Man with a balloon head juggling transparent spiky apples"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Dancer with metallic skin twirling near a glowing tree",
+    "id": "0093",
+    "negative_prompt": [
+      "Statue with metallic skin twirling near a glowing tree",
+      "Dancer with wooden skin twirling near a glowing tree",
+      "Robot with metallic skin twirling near a glowing tree",
+      "Dancer with fabric skin twirling near a glowing tree",
+      "Ghost with metallic skin twirling near a glowing tree",
+      "Dancer with fleshy skin twirling near a glowing tree",
+      "Creature with metallic skin twirling near a glowing tree",
+      "Dancer with stony skin twirling near a glowing tree"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Pig with wings flying above a diamond mountain",
+    "id": "0094",
+    "negative_prompt": [
+      "Pig with wings flying above a square mountain",
+      "Pig with wings flying above a round mountain",
+      "Pig with wings flying above a pyramid mountain",
+      "Pig with wings flying above a flat mountain",
+      "Pig with wings flying above a cuboid mountain",
+      "Pig with wings flying above a circular mountain",
+      "Pig with wings flying above an oval mountain",
+      "Pig with wings flying above a triangular mountain"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Cubic watermelon rolling towards a rainbow river",
+    "id": "0095",
+    "negative_prompt": [
+      "Spherical watermelon rolling towards a rainbow river",
+      "Pyramidal watermelon rolling towards a rainbow river",
+      "Cylindrical watermelon rolling towards a rainbow river",
+      "Irregular watermelon rolling towards a rainbow river",
+      "Cubic watermelon rolling towards a monochrome river",
+      "Cubic watermelon rolling towards a colorless river",
+      "Cubic watermelon rolling towards a black river",
+      "Cubic watermelon rolling towards a brown river"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Paper car racing a crystal snail",
+    "id": "0096",
+    "negative_prompt": [
+      "Metal car racing a crystal snail",
+      "Wooden car racing a crystal snail",
+      "Glass car racing a crystal snail",
+      "Stone car racing a crystal snail",
+      "Paper car racing a muddy snail",
+      "Paper car racing a fluffy snail",
+      "Paper car racing a metallic snail",
+      "Paper car racing a rubber snail"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Porcelain rabbit hopping by a golden cactus",
+    "id": "0097",
+    "negative_prompt": [
+      "Porcelain rabbit hopping by a silver cactus",
+      "Porcelain rabbit hopping by a black cactus",
+      "Porcelain rabbit hopping by a green cactus",
+      "Porcelain rabbit hopping by a blue cactus",
+      "Furry rabbit hopping by a golden cactus",
+      "Wooden rabbit hopping by a golden cactus",
+      "Stone rabbit hopping by a golden cactus",
+      "Fluffy rabbit hopping by a golden cactus"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Purple ballon floating near a yellow car",
+    "id": "0098",
+    "negative_prompt": [
+      "Green ballon floating near a yellow car",
+      "Red ballon floating near a yellow car",
+      "Blue ballon floating near a yellow car",
+      "Purple ballon floating near a green car",
+      "Purple ballon floating near a red car",
+      "Purple cube floating near a yellow car",
+      "Purple star floating near a yellow car",
+      "Purple box floating near a yellow car"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Yellow rose swaying near a green bench",
+    "id": "0099",
+    "negative_prompt": [
+      "Red rose swaying near a green bench",
+      "Blue rose swaying near a green bench",
+      "Thorn bush swaying near a green bench",
+      "Sunflower swaying near a green bench",
+      "Yellow rose swaying near a brown bench",
+      "Yellow rose swaying near a red bench",
+      "Yellow rose swaying near a green table",
+      "Yellow rose swaying near a green wall"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "Big hearts and small stars floating upwards",
+    "id": "0100",
+    "negative_prompt": [
+      "Big squares and small stars floating upwards",
+      "Big circles and small stars floating upwards",
+      "Big triangles and small stars floating upwards",
+      "Big ovals and small stars floating upwards",
+      "Big hearts and small dots floating upwards",
+      "Big hearts and small lines floating upwards",
+      "Big hearts and small rectangles floating upwards",
+      "Big hearts and small crosses floating upwards"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red bicycle races alongside a yellow taxi through the bustling streets",
+    "id": "0101",
+    "negative_prompt": [
+      "A blue bicycle races alongside a yellow taxi through the bustling streets",
+      "A green bicycle races alongside a yellow taxi through the bustling streets",
+      "A white bicycle races alongside a yellow taxi through the bustling streets",
+      "A black bicycle races alongside a yellow taxi through the bustling streets",
+      "A red bicycle races alongside a blue taxi through the bustling streets",
+      "A red bicycle races alongside a green taxi through the bustling streets",
+      "A red bicycle races alongside a white taxi through the bustling streets",
+      "A red bicycle races alongside a black taxi through the bustling streets"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A silver rocket launches past a blue skyscraper under a bright sky",
+    "id": "0102",
+    "negative_prompt": [
+      "A golden rocket launches past a blue skyscraper under a bright sky",
+      "A silver rocket launches past a red skyscraper under a bright sky",
+      "A silver rocket launches past a blue skyscraper under a dark sky",
+      "A bronze rocket launches past a blue skyscraper under a bright sky",
+      "A silver plane launches past a blue skyscraper under a bright sky",
+      "A silver UFO launches past a blue skyscraper under a bright sky",
+      "A silver rocket launches past a blue pyramid under a bright sky",
+      "A silver rocket launches past a blue lighthouse under a bright sky"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A green bird flutters near a blue window on a sunny day",
+    "id": "0103",
+    "negative_prompt": [
+      "A red bird flutters near a blue window on a sunny day",
+      "A yellow bird flutters near a blue window on a sunny day",
+      "A black bird flutters near a blue window on a sunny day",
+      "A purple bird flutters near a blue window on a sunny day",
+      "A green bird flutters near a red window on a sunny day",
+      "A green bird flutters near a yellow window on a sunny day",
+      "A green bird flutters near a black window on a sunny day",
+      "A green bird flutters near a white window on a sunny day"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A pink balloon drifts past a green traffic light on the street",
+    "id": "0104",
+    "negative_prompt": [
+      "A red balloon drifts past a green traffic light on the street",
+      "A blue balloon drifts past a green traffic light on the street",
+      "A yellow balloon drifts past a green traffic light on the street",
+      "A pink balloon drifts past a red traffic light on the street",
+      "A pink balloon drifts past a blue traffic light on the street",
+      "A pink cube drifts past a green traffic light on the street",
+      "A pink pyramid drifts past a green traffic light on the street",
+      "A pink star drifts past a green traffic light on the street"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A black motorcycle zooms alongside a green bus on a busy road",
+    "id": "0105",
+    "negative_prompt": [
+      "A white motorcycle zooms alongside a green bus on a busy road",
+      "A red motorcycle zooms alongside a green bus on a busy road",
+      "A blue motorcycle zooms alongside a green bus on a busy road",
+      "A yellow motorcycle zooms alongside a green bus on a busy road",
+      "A black motorcycle zooms alongside a red bus on a busy road",
+      "A black motorcycle zooms alongside a blue bus on a busy road",
+      "A black motorcycle zooms alongside a yellow bus on a busy road",
+      "A black motorcycle zooms alongside a purple bus on a busy road"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A white horse gallops past a brown fence, kicking up dust",
+    "id": "0106",
+    "negative_prompt": [
+      "A black horse gallops past a brown fence, kicking up dust",
+      "A white horse gallops past a green fence, kicking up dust",
+      "A red horse gallops past a brown fence, kicking up dust",
+      "A white horse gallops past a blue fence, kicking up dust",
+      "A white dog gallops past a brown fence, kicking up dust",
+      "A white horse gallops past a brown wall, kicking up dust",
+      "A white cow gallops past a brown fence, kicking up dust",
+      "A white horse gallops past a brown river, kicking up dust"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A white pigeon circles above a blue suitcase, preparing to land",
+    "id": "0107",
+    "negative_prompt": [
+      "A black pigeon circles above a blue suitcase, preparing to land",
+      "A white pigeon circles above a red suitcase, preparing to land",
+      "A green pigeon circles above a blue suitcase, preparing to land",
+      "A white pigeon circles above a yellow suitcase, preparing to land",
+      "A red pigeon circles above a blue suitcase, preparing to land",
+      "A white pigeon circles above a green suitcase, preparing to land",
+      "A brown pigeon circles above a blue suitcase, preparing to land",
+      "A white pigeon circles above a purple suitcase, preparing to land"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue boat sails past a white lighthouse, waves crashing around it",
+    "id": "0108",
+    "negative_prompt": [
+      "A red boat sails past a white lighthouse, waves crashing around it",
+      "A green boat sails past a white lighthouse, waves crashing around it",
+      "A yellow boat sails past a white lighthouse, waves crashing around it",
+      "A black boat sails past a white lighthouse, waves crashing around it",
+      "A blue boat sails past a black lighthouse, waves crashing around it",
+      "A blue boat sails past a red lighthouse, waves crashing around it",
+      "A blue boat sails past a green lighthouse, waves crashing around it",
+      "A blue boat sails past a yellow lighthouse, waves crashing around it"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A green soccer ball bounces near a yellow bench in the playground",
+    "id": "0109",
+    "negative_prompt": [
+      "A purple soccer ball bounces near a yellow bench in the playground",
+      "A green soccer ball bounces near a red bench in the playground",
+      "A green soccer pyramid bounces near a yellow bench in the playground",
+      "A green soccer ball bounces near a yellow fountain in the playground",
+      "A black soccer ball bounces near a yellow bench in the playground",
+      "A green soccer ball bounces near a blue bench in the playground",
+      "A green soccer cube bounces near a yellow bench in the playground",
+      "A green soccer ball bounces near a yellow slide in the playground"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red fox sneaks past a green statue in the garden",
+    "id": "0110",
+    "negative_prompt": [
+      "A blue fox sneaks past a green statue in the garden",
+      "A red fox sneaks past a yellow statue in the garden",
+      "A purple fox sneaks past a green statue in the garden",
+      "A red fox sneaks past a black statue in the garden",
+      "A white fox sneaks past a green statue in the garden",
+      "A red fox sneaks past a brown statue in the garden",
+      "A black fox sneaks past a green statue in the garden",
+      "A red fox sneaks past a pink statue in the garden"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow car passed by a red stop sign on a street",
+    "id": "0111",
+    "negative_prompt": [
+      "A blue car passed by a red stop sign on a street",
+      "A green car passed by a red stop sign on a street",
+      "A yellow car passed by a blue stop sign on a street",
+      "A yellow car passed by a green stop sign on a street",
+      "A yellow car passed by a red circular sign on a street",
+      "A yellow car passed by a red square sign on a street",
+      "A black car passed by a red stop sign on a street",
+      "A yellow car passed by a black stop sign on a street"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue ladder leans against a red farmhouse, feet stomping up each rung",
+    "id": "0112",
+    "negative_prompt": [
+      "A yellow ladder leans against a red farmhouse, feet stomping up each rung",
+      "A blue ladder leans against a green farmhouse, feet stomping up each rung",
+      "A black ladder leans against a red farmhouse, feet stomping up each rung",
+      "A blue ladder leans against a white farmhouse, feet stomping up each rung",
+      "A blue scaffold leans against a red farmhouse, feet stomping up each rung",
+      "A blue ladder leans against a red skyscraper, feet stomping up each rung",
+      "A blue ladder leans against a red farmhouse, feet gently placed on each rung",
+      "A blue ladder leans against a red farmhouse, feet dangling from each rung"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow pencil rolls off a purple notebook on the desk",
+    "id": "0113",
+    "negative_prompt": [
+      "A blue pencil rolls off a purple notebook on the desk",
+      "A red pencil rolls off a purple notebook on the desk",
+      "A yellow pencil rolls off a green notebook on the desk",
+      "A yellow pencil rolls off a orange notebook on the desk",
+      "A yellow pen rolls off a purple notebook on the desk",
+      "A yellow ruler rolls off a purple notebook on the desk",
+      "A yellow pencil rolls off a purple book on the desk",
+      "A yellow pencil rolls off a purple tablet on the desk"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A pink basket tumbles away from a blue picnic blanket, blown by a strong wind",
+    "id": "0114",
+    "negative_prompt": [
+      "A green basket tumbles away from a blue picnic blanket, blown by a strong wind",
+      "A pink basket tumbles away from an orange picnic blanket, blown by a strong wind",
+      "A black basket tumbles away from a blue picnic blanket, blown by a strong wind",
+      "A pink basket tumbles away from a red picnic blanket, blown by a strong wind",
+      "A pink sphere tumbles away from a blue picnic blanket, blown by a strong wind",
+      "A pink basket tumbles away from a blue wooden board, blown by a strong wind",
+      "A pink pyramid tumbles away from a blue picnic blanket, blown by a strong wind",
+      "A pink basket tumbles away from a blue metal sheet, blown by a strong wind"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue umbrella spins near a green door, rain splattering all around",
+    "id": "0115",
+    "negative_prompt": [
+      "A red umbrella spins near a green door, rain splattering all around",
+      "A blue umbrella spins near a red door, rain splattering all around",
+      "A blue box spins near a green door, rain splattering all around",
+      "A blue umbrella spins near a green wall, rain splattering all around",
+      "A yellow umbrella spins near a green door, rain splattering all around",
+      "A blue umbrella spins near a yellow door, rain splattering all around",
+      "A blue pyramid spins near a green door, rain splattering all around",
+      "A blue umbrella spins near a green window, rain splattering all around"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow hair drier blasts air onto a purple towel, making the fabric ripple gracefully",
+    "id": "0116",
+    "negative_prompt": [
+      "A blue hair drier blasts air onto a purple towel, making the fabric ripple gracefully",
+      "A black hair drier blasts air onto a purple towel, making the fabric ripple gracefully",
+      "A yellow hair drier blasts air onto a red towel, making the fabric ripple gracefully",
+      "A yellow hair drier blasts air onto a green towel, making the fabric ripple gracefully",
+      "A yellow hair drier blasts air onto a brown towel, making the fabric ripple gracefully",
+      "A yellow hair drier blasts air onto a purple towel, making the fabric remain rigid",
+      "A yellow hair drier blasts air onto a purple towel, making the fabric stay still",
+      "A yellow hair drier blasts air onto a purple towel, making the fabric become stiff"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red cushion flies through the air as a gray cat leaps to catch it",
+    "id": "0117",
+    "negative_prompt": [
+      "A blue cushion flies through the air as a gray cat leaps to catch it",
+      "A red cushion flies through the air as an orange cat leaps to catch it",
+      "A green cushion flies through the air as a gray cat leaps to catch it",
+      "A red cushion flies through the air as a black cat leaps to catch it",
+      "A red brick flies through the air as a gray cat leaps to catch it",
+      "A red ball flies through the air as a gray cat leaps to catch it",
+      "A red rock flies through the air as a gray cat leaps to catch it",
+      "A red metal plate flies through the air as a gray cat leaps to catch it"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A brown raccoon tips over a yellow bin, scavenging for snacks",
+    "id": "0118",
+    "negative_prompt": [
+      "A white raccoon tips over a yellow bin, scavenging for snacks",
+      "A brown raccoon tips over a blue bin, scavenging for snacks",
+      "A black raccoon tips over a yellow bin, scavenging for snacks",
+      "A brown raccoon tips over a red bin, scavenging for snacks",
+      "A green raccoon tips over a yellow bin, scavenging for snacks",
+      "A brown raccoon tips over a purple bin, scavenging for snacks",
+      "A blue raccoon tips over a yellow bin, scavenging for snacks",
+      "A brown raccoon tips over a black bin, scavenging for snacks"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A gray squirrel climbs onto a black remote, accidentally changing the channel",
+    "id": "0119",
+    "negative_prompt": [
+      "A red squirrel climbs onto a black remote, accidentally changing the channel",
+      "A blue squirrel climbs onto a black remote, accidentally changing the channel",
+      "A green squirrel climbs onto a black remote, accidentally changing the channel",
+      "A white squirrel climbs onto a black remote, accidentally changing the channel",
+      "A gray squirrel climbs onto a white remote, accidentally changing the channel",
+      "A gray squirrel climbs onto a silver remote, accidentally changing the channel",
+      "A gray squirrel climbs onto a red remote, accidentally changing the channel",
+      "A gray squirrel climbs onto a blue remote, accidentally changing the channel"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A golden monkey plays tennis with a blue tennis racket",
+    "id": "0120",
+    "negative_prompt": [
+      "A silver monkey plays tennis with a blue tennis racket",
+      "A black monkey plays tennis with a blue tennis racket",
+      "A red monkey plays tennis with a blue tennis racket",
+      "A green monkey plays tennis with a blue tennis racket",
+      "A golden monkey plays tennis with a red tennis racket",
+      "A golden monkey plays tennis with a green tennis racket",
+      "A golden monkey plays tennis with a yellow tennis racket",
+      "A golden monkey plays tennis with a black tennis racket"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A white rabbit hops across a red carpet in a living room",
+    "id": "0121",
+    "negative_prompt": [
+      "A black rabbit hops across a red carpet in a living room",
+      "A white rabbit hops across a blue carpet in a living room",
+      "A brown rabbit hops across a red carpet in a living room",
+      "A white rabbit hops across a green carpet in a living room",
+      "A grey rabbit hops across a red carpet in a living room",
+      "A white rabbit hops across a yellow carpet in a living room",
+      "A blue rabbit hops across a red carpet in a living room",
+      "A white rabbit hops across a black carpet in a living room"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow teddy bear has breakfast from a blue bowl, sitting on the dining table",
+    "id": "0122",
+    "negative_prompt": [
+      "A red teddy bear has breakfast from a blue bowl, sitting on the dining table",
+      "A green teddy bear has breakfast from a blue bowl, sitting on the dining table",
+      "A purple teddy bear has breakfast from a blue bowl, sitting on the dining table",
+      "A black teddy bear has breakfast from a blue bowl, sitting on the dining table",
+      "A yellow teddy bear has breakfast from a red bowl, sitting on the dining table",
+      "A yellow teddy bear has breakfast from a green bowl, sitting on the dining table",
+      "A yellow teddy bear has breakfast from a purple bowl, sitting on the dining table",
+      "A yellow teddy bear has breakfast from a black bowl, sitting on the dining table"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A green spaceship zooms past a purple airplane in the sky",
+    "id": "0123",
+    "negative_prompt": [
+      "A red spaceship zooms past a purple airplane in the sky",
+      "A blue spaceship zooms past a purple airplane in the sky",
+      "A yellow spaceship zooms past a purple airplane in the sky",
+      "A black spaceship zooms past a purple airplane in the sky",
+      "A green spaceship zooms past a red airplane in the sky",
+      "A green spaceship zooms past a blue airplane in the sky",
+      "A green spaceship zooms past a yellow airplane in the sky",
+      "A green spaceship zooms past an orange airplane in the sky"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A pink teddy bear sits on a black oven in the kitchen",
+    "id": "0124",
+    "negative_prompt": [
+      "A blue teddy bear sits on a black oven in the kitchen",
+      "A green teddy bear sits on a black oven in the kitchen",
+      "A yellow teddy bear sits on a black oven in the kitchen",
+      "A purple teddy bear sits on a black oven in the kitchen",
+      "A pink teddy bear sits on a white oven in the kitchen",
+      "A pink teddy bear sits on a silver oven in the kitchen",
+      "A pink teddy bear sits on a red oven in the kitchen",
+      "A pink teddy bear sits on a brown oven in the kitchen"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A white kitten naps in a purple bathtub, paws stretched out as it dreams peacefully",
+    "id": "0125",
+    "negative_prompt": [
+      "A black kitten naps in a purple bathtub, paws stretched out as it dreams peacefully",
+      "A brown kitten naps in a purple bathtub, paws stretched out as it dreams peacefully",
+      "A ginger kitten naps in a purple bathtub, paws stretched out as it dreams peacefully",
+      "A grey kitten naps in a purple bathtub, paws stretched out as it dreams peacefully",
+      "A white kitten naps in a green bathtub, paws stretched out as it dreams peacefully",
+      "A white kitten naps in a red bathtub, paws stretched out as it dreams peacefully",
+      "A white kitten naps in a blue bathtub, paws stretched out as it dreams peacefully",
+      "A white kitten naps in a yellow bathtub, paws stretched out as it dreams peacefully"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl in a red dress rides a blue bicycle in the park",
+    "id": "0126",
+    "negative_prompt": [
+      "A girl in a green dress rides a blue bicycle in the park",
+      "A girl in a yellow dress rides a blue bicycle in the park",
+      "A girl in a black dress rides a blue bicycle in the park",
+      "A girl in a red dress rides a green bicycle in the park",
+      "A girl in a red dress rides a yellow bicycle in the park",
+      "A girl in a red dress rides a black bicycle in the park",
+      "A boy in a red dress rides a blue bicycle in the park",
+      "A dog in a red dress rides a blue bicycle in the park"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A little boy wearing a green jacket have a meal with a red spoon",
+    "id": "0127",
+    "negative_prompt": [
+      "A little boy wearing a yellow jacket have a meal with a red spoon",
+      "A little girl wearing a green jacket have a meal with a red spoon",
+      "A little boy wearing a green jacket have a meal with a blue spoon",
+      "A little dog wearing a green jacket have a meal with a red spoon",
+      "A little boy wearing a black jacket have a meal with a red spoon",
+      "A little man wearing a green jacket have a meal with a red spoon",
+      "A little boy wearing a green jacket have a meal with a white spoon",
+      "A little robot wearing a green jacket have a meal with a red spoon"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A lady wearing a pink dress holds a green umbrella, twirling it as she dances in the rain",
+    "id": "0128",
+    "negative_prompt": [
+      "A lady wearing a black dress holds a green umbrella, twirling it as she dances in the rain",
+      "A lady wearing a yellow dress holds a green umbrella, twirling it as she dances in the rain",
+      "A lady wearing a pink dress holds a red umbrella, twirling it as she dances in the rain",
+      "A lady wearing a pink dress holds a blue umbrella, twirling it as she dances in the rain",
+      "A man wearing a pink dress holds a green umbrella, twirling it as he dances in the rain",
+      "A child wearing a pink dress holds a green umbrella, twirling it as they dance in the rain",
+      "A lady wearing a white dress holds a green umbrella, twirling it as she dances in the rain",
+      "A lady wearing a pink dress holds an orange umbrella, twirling it as she dances in the rain"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A grandmother in a purple shawl knits beside a golden fireplace",
+    "id": "0129",
+    "negative_prompt": [
+      "A grandmother in a green shawl knits beside a golden fireplace",
+      "A grandmother in a red shawl knits beside a golden fireplace",
+      "A grandmother in a purple shawl knits beside a silver fireplace",
+      "A grandmother in a purple shawl knits beside a concrete fireplace",
+      "A baby in a purple shawl knits beside a golden fireplace",
+      "A young woman in a purple shawl knits beside a golden fireplace",
+      "A grandfather in a purple shawl knits beside a golden fireplace",
+      "A dog in a purple shawl knits beside a golden fireplace"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A father in a green vest pitches a yellow tent, securing each peg with careful precision",
+    "id": "0130",
+    "negative_prompt": [
+      "A father in a red vest pitches a yellow tent, securing each peg with careful precision",
+      "A father in a green vest pitches a blue tent, securing each peg with careful precision",
+      "A father in a purple vest pitches a yellow tent, securing each peg with careful precision",
+      "A father in a green vest pitches a black tent, securing each peg with careful precision",
+      "A mother in a green vest pitches a yellow tent, securing each peg with careful precision",
+      "A child in a green vest pitches a yellow tent, securing each peg with careful precision",
+      "A stranger in a green vest pitches a yellow tent, securing each peg with careful precision",
+      "A woman in a green vest pitches a yellow tent, securing each peg with careful precision"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A mother in a pink blouse pushes a brown stroller in a park",
+    "id": "0131",
+    "negative_prompt": [
+      "A mother in a blue blouse pushes a brown stroller in a park",
+      "A mother in a green blouse pushes a brown stroller in a park",
+      "A mother in a black blouse pushes a brown stroller in a park",
+      "A mother in a pink blouse pushes a white stroller in a park",
+      "A mother in a pink blouse pushes a red stroller in a park",
+      "A mother in a pink blouse pushes a yellow stroller in a park",
+      "A father in a pink blouse pushes a brown stroller in a park",
+      "A man in a pink blouse pushes a brown stroller in a park"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A king dressed in gold swings a blue sword in the palace",
+    "id": "0132",
+    "negative_prompt": [
+      "A peasant dressed in gold swings a blue sword in the palace",
+      "A robot dressed in gold swings a blue sword in the palace",
+      "A king dressed in silver swings a blue sword in the palace",
+      "A king dressed in black swings a blue sword in the palace",
+      "A king dressed in gold swings a red sword in the palace",
+      "A king dressed in gold swings a green sword in the palace",
+      "A child dressed in gold swings a blue sword in the palace",
+      "A king dressed in purple swings a blue sword in the palace"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cowboy in a white hat lassos a black bull on a sunny day",
+    "id": "0133",
+    "negative_prompt": [
+      "A cowboy in a black hat lassos a black bull on a sunny day",
+      "A cowboy in a red hat lassos a black bull on a sunny day",
+      "A cowboy in a white hat lassos a white bull on a sunny day",
+      "A cowboy in a white hat lassos a brown bull on a sunny day",
+      "A cowboy in a white hat lassos a black bull on a cloudy day",
+      "A cowboy in a white hat lassos a black bull on a rainy day",
+      "An astronaut in a white hat lassos a black bull on a sunny day",
+      "A robot in a white hat lassos a black bull on a sunny day"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl in a black dress watering a green rose in the garden",
+    "id": "0134",
+    "negative_prompt": [
+      "A boy in a black dress watering a green rose in the garden",
+      "A robot in a black dress watering a green rose in the garden",
+      "A cat in a black dress watering a green rose in the garden",
+      "A girl in a white dress watering a green rose in the garden",
+      "A girl in a red dress watering a green rose in the garden",
+      "A girl in a black dress watering a red rose in the garden",
+      "A girl in a black dress watering a blue rose in the garden",
+      "A girl in a black dress watering a yellow rose in the garden"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A baby in a yellow onesie claps happily as a blue robot dances in front of them",
+    "id": "0135",
+    "negative_prompt": [
+      "A baby in a green onesie claps happily as a blue robot dances in front of them",
+      "A baby in a yellow onesie claps happily as a red robot dances in front of them",
+      "A baby in a purple onesie claps happily as a blue robot dances in front of them",
+      "A baby in a yellow onesie claps happily as a orange robot dances in front of them",
+      "An adult in a yellow onesie claps happily as a blue robot dances in front of them",
+      "A dog in a yellow onesie claps happily as a blue robot dances in front of them",
+      "A cat in a yellow onesie claps happily as a blue robot dances in front of them",
+      "A doll in a yellow onesie claps happily as a blue robot dances in front of them"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl in a pink hat chases a white kitten, her laughter filling the garden",
+    "id": "0136",
+    "negative_prompt": [
+      "A girl in a blue hat chases a white kitten, her laughter filling the garden",
+      "A girl in a pink hat chases a black kitten, her laughter filling the garden",
+      "A boy in a pink hat chases a white kitten, his laughter filling the garden",
+      "A girl in a red hat chases a white kitten, her laughter filling the garden",
+      "A girl in a pink hat chases an orange kitten, her laughter filling the garden",
+      "A man in a pink hat chases a white kitten, his laughter filling the garden",
+      "A girl in a black hat chases a white kitten, her laughter filling the garden",
+      "An old woman in a pink hat chases a white kitten, her laughter filling the garden"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A toddler in a red onesie hugs a white teddy bear, snuggling it tightly",
+    "id": "0137",
+    "negative_prompt": [
+      "A toddler in a blue onesie hugs a white teddy bear, snuggling it tightly",
+      "A toddler in a black onesie hugs a white teddy bear, snuggling it tightly",
+      "A toddler in a green onesie hugs a white teddy bear, snuggling it tightly",
+      "A toddler in a red onesie hugs a black teddy bear, snuggling it tightly",
+      "A toddler in a red onesie hugs a brown teddy bear, snuggling it tightly",
+      "A toddler in a red onesie hugs a yellow teddy bear, snuggling it tightly",
+      "An adult in a red onesie hugs a white teddy bear, snuggling it tightly",
+      "An elderly person in a red onesie hugs a white teddy bear, snuggling it tightly"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A DJ in a purple hoodie adjusts a green turntable, music echoing through the venue",
+    "id": "0138",
+    "negative_prompt": [
+      "A DJ in an orange hoodie adjusts a green turntable, music echoing through the venue",
+      "A DJ in a white hoodie adjusts a green turntable, music echoing through the venue",
+      "A DJ in a purple hoodie adjusts a red turntable, music echoing through the venue",
+      "A DJ in a purple hoodie adjusts a yellow turntable, music echoing through the venue",
+      "A robot in a purple hoodie adjusts a green turntable, music echoing through the venue",
+      "A cat in a purple hoodie adjusts a green turntable, music echoing through the venue",
+      "An alien in a purple hoodie adjusts a green turntable, music echoing through the venue",
+      "A ghost in a purple hoodie adjusts a green turntable, music echoing through the venue"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl in a yellow dress races a boy in a blue hoodie, both laughing as they run through the park",
+    "id": "0139",
+    "negative_prompt": [
+      "A girl in a red dress races a boy in a blue hoodie, both laughing as they run through the park",
+      "A girl in a yellow dress races a boy in a green hoodie, both laughing as they run through the park",
+      "A girl in a black dress races a boy in a blue hoodie, both laughing as they run through the park",
+      "A girl in a yellow dress races a boy in a white hoodie, both laughing as they run through the park",
+      "A man in a yellow dress races a boy in a blue hoodie, both laughing as they run through the park",
+      "A girl in a yellow dress races a woman in a blue hoodie, both laughing as they run through the park",
+      "A robot in a yellow dress races a boy in a blue hoodie, both laughing as they run through the park",
+      "A girl in a yellow dress races a dog in a blue hoodie, both laughing as they run through the park"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A boy in a yellow shirt tosses a football to a girl in a blue shirt, both focused on the game",
+    "id": "0140",
+    "negative_prompt": [
+      "A boy in a red shirt tosses a football to a girl in a blue shirt, both focused on the game",
+      "A boy in a yellow shirt tosses a football to a girl in a green shirt, both focused on the game",
+      "A boy in a yellow shirt tosses a brick to a girl in a blue shirt, both focused on the game",
+      "A man in a yellow shirt tosses a football to a girl in a blue shirt, both focused on the game",
+      "A boy in a yellow shirt tosses a football to a woman in a blue shirt, both focused on the game",
+      "A boy in a black shirt tosses a football to a girl in a blue shirt, both focused on the game",
+      "A boy in a yellow shirt tosses a football to a girl in a purple shirt, both focused on the game",
+      "A boy in a yellow shirt tosses a ball of yarn to a girl in a blue shirt, both focused on the game"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue scarf flutters away from a yellow handbag, carried by the wind",
+    "id": "0141",
+    "negative_prompt": [
+      "A red scarf flutters away from a yellow handbag, carried by the wind",
+      "A green scarf flutters away from a yellow handbag, carried by the wind",
+      "A blue scarf flutters away from a black handbag, carried by the wind",
+      "A blue scarf flutters away from a white handbag, carried by the wind",
+      "A blue flag flutters away from a yellow handbag, carried by the wind",
+      "A blue leaf flutters away from a yellow handbag, carried by the wind",
+      "A blue scarf flutters away from a yellow backpack, carried by the wind",
+      "A blue scarf flutters away from a yellow basket, carried by the wind"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow scarf flutters away from a blue handbag, carried by the wind",
+    "id": "0142",
+    "negative_prompt": [
+      "A red scarf flutters away from a blue handbag, carried by the wind",
+      "A green scarf flutters away from a blue handbag, carried by the wind",
+      "A black scarf flutters away from a blue handbag, carried by the wind",
+      "A white scarf flutters away from a blue handbag, carried by the wind",
+      "A yellow scarf flutters away from a red handbag, carried by the wind",
+      "A yellow scarf flutters away from a green handbag, carried by the wind",
+      "A yellow scarf flutters away from a black handbag, carried by the wind",
+      "A yellow scarf flutters away from a white handbag, carried by the wind"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue ball rolls near a red backpack on the playground field",
+    "id": "0143",
+    "negative_prompt": [
+      "A yellow ball rolls near a red backpack on the playground field",
+      "A blue ball rolls near a green backpack on the playground field",
+      "A black ball rolls near a red backpack on the playground field",
+      "A blue ball rolls near a white backpack on the playground field",
+      "A blue cube rolls near a red backpack on the playground field",
+      "A blue ball rolls near a red pyramid on the playground field",
+      "A blue cone rolls near a red backpack on the playground field",
+      "A blue ball rolls near a red box on the playground field"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red ball rolls near a blue backpack on the playground field",
+    "id": "0144",
+    "negative_prompt": [
+      "A green ball rolls near a blue backpack on the playground field",
+      "A red ball rolls near a yellow backpack on the playground field",
+      "A red cube rolls near a blue backpack on the playground field",
+      "A black ball rolls near a blue backpack on the playground field",
+      "A red ball rolls near a purple backpack on the playground field",
+      "A red pyramid rolls near a blue backpack on the playground field",
+      "A white ball rolls near a blue backpack on the playground field",
+      "A red ball rolls near an orange backpack on the playground field"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow frisbee spins away from a blue dog, the dog leaping to catch it mid-air",
+    "id": "0145",
+    "negative_prompt": [
+      "A red frisbee spins away from a blue dog, the dog leaping to catch it mid-air",
+      "A yellow frisbee spins away from a green dog, the dog leaping to catch it mid-air",
+      "A yellow cube spins away from a blue dog, the dog leaping to catch it mid-air",
+      "A black frisbee spins away from a blue dog, the dog leaping to catch it mid-air",
+      "A yellow frisbee spins away from an orange dog, the dog leaping to catch it mid-air",
+      "A yellow pyramid spins away from a blue dog, the dog leaping to catch it mid-air",
+      "A purple frisbee spins away from a blue dog, the dog leaping to catch it mid-air",
+      "A yellow sphere spins away from a blue dog, the dog leaping to catch it mid-air"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue frisbee spins away from a yellow dog, the dog leaping to catch it mid-air",
+    "id": "0146",
+    "negative_prompt": [
+      "A red frisbee spins away from a yellow dog, the dog leaping to catch it mid-air",
+      "A green frisbee spins away from a yellow dog, the dog leaping to catch it mid-air",
+      "A blue frisbee spins away from a black dog, the dog leaping to catch it mid-air",
+      "A blue frisbee spins away from a white dog, the dog leaping to catch it mid-air",
+      "A blue ball spins away from a yellow dog, the dog leaping to catch it mid-air",
+      "A blue stick spins away from a yellow dog, the dog leaping to catch it mid-air",
+      "A blue cube spins away from a yellow dog, the dog leaping to catch it mid-air",
+      "A blue boomerang spins away from a yellow dog, the dog leaping to catch it mid-air"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A green potted plant sways as an orange cat darts by, leaves rustling in the sudden movement",
+    "id": "0147",
+    "negative_prompt": [
+      "A red potted plant sways as an orange cat darts by, leaves rustling in the sudden movement",
+      "A green potted plant sways as a blue cat darts by, leaves rustling in the sudden movement",
+      "A green sprawling plant sways as an orange cat darts by, leaves rustling in the sudden movement",
+      "A green potted plant sways as an orange cat darts by, leaves cracking in the sudden movement",
+      "A purple potted plant sways as an orange cat darts by, leaves rustling in the sudden movement",
+      "A green potted plant sways as a white cat darts by, leaves rustling in the sudden movement",
+      "A green hanging plant sways as an orange cat darts by, leaves rustling in the sudden movement",
+      "A green potted plant sways as an orange cat darts by, leaves stiffening in the sudden movement"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "An orange potted plant sways as a green cat darts by, leaves rustling in the sudden movement",
+    "id": "0148",
+    "negative_prompt": [
+      "An blue potted plant sways as a green cat darts by, leaves rustling in the sudden movement",
+      "An orange potted plant sways as a red cat darts by, leaves rustling in the sudden movement",
+      "An grey potted plant sways as a green cat darts by, leaves rustling in the sudden movement",
+      "An orange potted plant sways as a white cat darts by, leaves rustling in the sudden movement",
+      "An invisible potted plant sways as a green cat darts by, leaves rustling in the sudden movement",
+      "An orange potted plant sways as a green cat darts by, leaves stiff in the sudden movement",
+      "An orange potted plant sways as a green cat darts by, leaves motionless in the sudden movement",
+      "An orange potted plant sways as a green cat darts by, leaves silent in the sudden movement"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A green parrot perches atop a red fire hydrant, fluttering its wings to stay balanced",
+    "id": "0149",
+    "negative_prompt": [
+      "A blue parrot perches atop a red fire hydrant, fluttering its wings to stay balanced",
+      "A yellow parrot perches atop a red fire hydrant, fluttering its wings to stay balanced",
+      "A brown parrot perches atop a red fire hydrant, fluttering its wings to stay balanced",
+      "A black parrot perches atop a red fire hydrant, fluttering its wings to stay balanced",
+      "A green parrot perches atop a blue fire hydrant, fluttering its wings to stay balanced",
+      "A green parrot perches atop a yellow fire hydrant, fluttering its wings to stay balanced",
+      "A green parrot perches atop a brown fire hydrant, fluttering its wings to stay balanced",
+      "A green parrot perches atop a black fire hydrant, fluttering its wings to stay balanced"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red parrot perches atop a green fire hydrant, fluttering its wings to stay balanced",
+    "id": "0150",
+    "negative_prompt": [
+      "A blue parrot perches atop a green fire hydrant, fluttering its wings to stay balanced",
+      "A red parrot perches atop a yellow fire hydrant, fluttering its wings to stay balanced",
+      "A purple parrot perches atop a green fire hydrant, fluttering its wings to stay balanced",
+      "A red parrot perches atop a orange fire hydrant, fluttering its wings to stay balanced",
+      "A white parrot perches atop a green fire hydrant, fluttering its wings to stay balanced",
+      "A red parrot perches atop a black fire hydrant, fluttering its wings to stay balanced",
+      "A brown parrot perches atop a green fire hydrant, fluttering its wings to stay balanced",
+      "A red parrot perches atop a pink fire hydrant, fluttering its wings to stay balanced"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A bride in a white gown holds a blue bouquet, petals fluttering as she walks down the aisle",
+    "id": "0151",
+    "negative_prompt": [
+      "A bride in a black gown holds a blue bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a white gown holds a yellow bouquet, petals fluttering as she walks down the aisle",
+      "A groom in a white gown holds a blue bouquet, petals fluttering as he walks down the aisle",
+      "A monster in a white gown holds a blue bouquet, petals fluttering as it walks down the aisle",
+      "A bride in white trousers holds a blue bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a white gown holds a blue single flower, petals fluttering as she walks down the aisle",
+      "A bride in a white gown holds a blue bouquet, rigid leaves as she walks down the aisle",
+      "A bride in a white metal gown holds a blue bouquet, petals fluttering as she walks down the aisle"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A bride in a blue gown holds a white bouquet, petals fluttering as she walks down the aisle",
+    "id": "0152",
+    "negative_prompt": [
+      "A child in a blue gown holds a white bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a red gown holds a white bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a blue gown holds a black bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a blue gown holds a white bouquet, petals rigid as she walks down the aisle",
+      "A mannequin in a blue gown holds a white bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a green gown holds a white bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a blue gown holds a red bouquet, petals fluttering as she walks down the aisle",
+      "A bride in a blue gown holds a white bouquet, petals motionless as she walks down the aisle"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A blue dolphin leaping over a pink sailboat, splashing sparkling droplets everywhere",
+    "id": "0153",
+    "negative_prompt": [
+      "A red dolphin leaping over a pink sailboat, splashing sparkling droplets everywhere",
+      "A blue dolphin leaping over a green sailboat, splashing sparkling droplets everywhere",
+      "A blue dolphin leaping over a black sailboat, splashing sparkling droplets everywhere",
+      "A yellow dolphin leaping over a pink sailboat, splashing sparkling droplets everywhere",
+      "A blue dolphin leaping over a pink sailboat, splashing muddy droplets everywhere",
+      "A blue dolphin leaping over a pink sailboat, splashing dull droplets everywhere",
+      "A blue dolphin leaping over a pink sailboat, splashing oily droplets everywhere",
+      "A blue dolphin leaping over a pink sailboat, splashing sticky droplets everywhere"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A pink dolphin leaping over a blue sailboat, splashing sparkling droplets everywhere",
+    "id": "0154",
+    "negative_prompt": [
+      "A grey dolphin leaping over a blue sailboat, splashing sparkling droplets everywhere",
+      "A pink dolphin leaping over a red sailboat, splashing sparkling droplets everywhere",
+      "A transparent dolphin leaping over a blue sailboat, splashing sparkling droplets everywhere",
+      "A pink dolphin leaping over a green sailboat, splashing sparkling droplets everywhere",
+      "A pink block leaping over a blue sailboat, splashing sparkling droplets everywhere",
+      "A pink dolphin leaping over a blue pyramid, splashing sparkling droplets everywhere",
+      "A pink octopus leaping over a blue sailboat, splashing sparkling droplets everywhere",
+      "A pink dolphin leaping over a blue sailboat, splashing sticky droplets everywhere"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A yellow crab scuttling beside a red surfboard on the sandy shore",
+    "id": "0155",
+    "negative_prompt": [
+      "A blue crab scuttling beside a red surfboard on the sandy shore",
+      "A green crab scuttling beside a red surfboard on the sandy shore",
+      "A yellow crab scuttling beside a blue surfboard on the sandy shore",
+      "A yellow crab scuttling beside a green surfboard on the sandy shore",
+      "A yellow crab scuttling beside a black surfboard on the sandy shore",
+      "A yellow crab scuttling beside a red surfboard on the rocky shore",
+      "A yellow crab scuttling beside a red surfboard on the muddy shore",
+      "A yellow crab scuttling beside a red surfboard on the icy shore"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A red crab scuttling beside a yellow surfboard on the sandy shore",
+    "id": "0156",
+    "negative_prompt": [
+      "A blue crab scuttling beside a yellow surfboard on the sandy shore",
+      "A green crab scuttling beside a yellow surfboard on the sandy shore",
+      "A red crab scuttling beside a purple surfboard on the sandy shore",
+      "A red crab scuttling beside an orange surfboard on the sandy shore",
+      "A red crab scuttling beside a yellow surfboard on the rocky shore",
+      "A red crab scuttling beside a yellow surfboard on the grassy shore",
+      "A red crab scuttling beside a yellow surfboard on the muddy shore",
+      "A red crab scuttling beside a yellow surfboard on the pebbly shore"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A purple tractor pulling a cart of orange carrots",
+    "id": "0157",
+    "negative_prompt": [
+      "A green tractor pulling a cart of orange carrots",
+      "A red tractor pulling a cart of orange carrots",
+      "A purple tractor pulling a cart of blue carrots",
+      "A purple tractor pulling a cart of yellow carrots",
+      "A purple car pulling a cart of orange carrots",
+      "A purple tractor pulling a basket of orange carrots",
+      "A purple tractor pulling a cart of orange apples",
+      "A purple tractor pulling a cart of orange cotton"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "An orange tractor pulling a cart of purple carrots",
+    "id": "0158",
+    "negative_prompt": [
+      "A blue tractor pulling a cart of purple carrots",
+      "A green tractor pulling a cart of purple carrots",
+      "A black tractor pulling a cart of purple carrots",
+      "A white tractor pulling a cart of purple carrots",
+      "An orange tractor pulling a cart of yellow carrots",
+      "An orange tractor pulling a cart of red carrots",
+      "An orange tractor pulling a cart of green carrots",
+      "An orange tractor pulling a cart of blue carrots"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl in green dress playing a black piano",
+    "id": "0159",
+    "negative_prompt": [
+      "A girl in red dress playing a black piano",
+      "A girl in blue dress playing a black piano",
+      "A girl in white dress playing a black piano",
+      "A girl in green dress playing a white piano",
+      "A girl in green dress playing a red piano",
+      "A girl in green dress playing a brown piano",
+      "A boy in green dress playing a black piano",
+      "A robot in green dress playing a black piano"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl in black dress playing a green piano",
+    "id": "0160",
+    "negative_prompt": [
+      "A girl in white dress playing a green piano",
+      "A girl in black dress playing a red piano",
+      "A boy in black dress playing a green piano",
+      "A girl in blue dress playing a green piano",
+      "A girl in black dress playing a silver piano",
+      "A robot in black dress playing a green piano",
+      "A girl in striped dress playing a green piano",
+      "A girl in black dress playing an uncolored piano"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A heart-shaped balloon floats near an oblong bench, tugging at its string with the breeze",
+    "id": "0161",
+    "negative_prompt": [
+      "A square-shaped balloon floats near an oblong bench, tugging at its string with the breeze",
+      "A circular balloon floats near an oblong bench, tugging at its string with the breeze",
+      "A triangular balloon floats near an oblong bench, tugging at its string with the breeze",
+      "A star-shaped balloon floats near an oblong bench, tugging at its string with the breeze",
+      "A heart-shaped balloon floats near a round bench, tugging at its string with the breeze",
+      "A heart-shaped balloon floats near a square bench, tugging at its string with the breeze",
+      "A heart-shaped balloon floats near an L-shaped bench, tugging at its string with the breeze",
+      "A heart-shaped balloon floats near a pyramid-shaped bench, tugging at its string with the breeze"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A star-shaped lantern glows over a rectangular table, casting intricate patterns on the surface",
+    "id": "0162",
+    "negative_prompt": [
+      "A circular-shaped lantern glows over a rectangular table, casting intricate patterns on the surface",
+      "A square-shaped lantern glows over a rectangular table, casting intricate patterns on the surface",
+      "A triangular-shaped lantern glows over a rectangular table, casting intricate patterns on the surface",
+      "A cylindrical-shaped lantern glows over a rectangular table, casting intricate patterns on the surface",
+      "A star-shaped lantern glows over a round table, casting intricate patterns on the surface",
+      "A star-shaped lantern glows over a square table, casting intricate patterns on the surface",
+      "A star-shaped lantern glows over an oval table, casting intricate patterns on the surface",
+      "A star-shaped lantern glows over a triangular table, casting intricate patterns on the surface"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A bell-shaped glass covers a triangular cake",
+    "id": "0163",
+    "negative_prompt": [
+      "A cube-shaped glass covers a triangular cake",
+      "A bell-shaped glass covers a round cake",
+      "A pyramid-shaped glass covers a triangular cake",
+      "A bell-shaped glass covers a square cake",
+      "A sphere-shaped glass covers a triangular cake",
+      "A bell-shaped glass covers a rectangular cake",
+      "A cylinder-shaped glass covers a triangular cake",
+      "A bell-shaped glass covers a star cake"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A spherical drone hovers around a circular monument, scanning each detail with a soft hum",
+    "id": "0164",
+    "negative_prompt": [
+      "A cubic drone hovers around a circular monument, scanning each detail with a soft hum",
+      "A triangular drone hovers around a circular monument, scanning each detail with a soft hum",
+      "A rectangular drone hovers around a circular monument, scanning each detail with a soft hum",
+      "A cylindrical drone hovers around a circular monument, scanning each detail with a soft hum",
+      "A spherical drone hovers around a square monument, scanning each detail with a soft hum",
+      "A spherical drone hovers around a polygonal monument, scanning each detail with a soft hum",
+      "A spherical drone hovers around an elliptical monument, scanning each detail with a soft hum",
+      "A spherical drone hovers around a jagged monument, scanning each detail with a soft hum"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A triangular leaf flutters down, landing softly next onto an L-shaped sofa in the living room",
+    "id": "0165",
+    "negative_prompt": [
+      "A circular leaf flutters down, landing softly next onto an L-shaped sofa in the living room",
+      "A rectangular leaf flutters down, landing softly next onto an L-shaped sofa in the living room",
+      "A star-shaped leaf flutters down, landing softly next onto an L-shaped sofa in the living room",
+      "A heart-shaped leaf flutters down, landing softly next onto an L-shaped sofa in the living room",
+      "A triangular leaf flutters down, landing softly next onto a round sofa in the living room",
+      "A triangular leaf flutters down, landing softly next onto a straight sofa in the living room",
+      "A triangular leaf flutters down, landing softly next onto a U-shaped sofa in the living room",
+      "A triangular leaf flutters down, landing softly next onto a cuboid sofa in the living room"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A spherical cow grazes near a triangular hut",
+    "id": "0166",
+    "negative_prompt": [
+      "A cubic cow grazes near a triangular hut",
+      "A cylindrical cow grazes near a triangular hut",
+      "An oval cow grazes near a triangular hut",
+      "A flat cow grazes near a triangular hut",
+      "A spherical cow grazes near a square hut",
+      "A spherical cow grazes near a circular hut",
+      "A spherical cow grazes near a rectangular hut",
+      "A spherical cow grazes near a dome-shaped hut"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cube-shaped planet drifts near a cylindrical space station, orbiting with a mysterious grace",
+    "id": "0167",
+    "negative_prompt": [
+      "A spherical planet drifts near a cylindrical space station, orbiting with a mysterious grace",
+      "A pyramidal planet drifts near a cylindrical space station, orbiting with a mysterious grace",
+      "A conical planet drifts near a cylindrical space station, orbiting with a mysterious grace",
+      "A disk-shaped planet drifts near a cylindrical space station, orbiting with a mysterious grace",
+      "A cube-shaped planet drifts near a spherical space station, orbiting with a mysterious grace",
+      "A cube-shaped planet drifts near a cuboid space station, orbiting with a mysterious grace",
+      "A cube-shaped planet drifts near a pyramidal space station, orbiting with a mysterious grace",
+      "A cube-shaped planet drifts near a ring-shaped space station, orbiting with a mysterious grace"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cube-shaped ice block slides across a round plate",
+    "id": "0168",
+    "negative_prompt": [
+      "A pyramid-shaped ice block slides across a round plate",
+      "A cube-shaped ice block slides across a square plate",
+      "A cube-shaped sand block slides across a round plate",
+      "A spherical ice block slides across a round plate",
+      "A cube-shaped ice block slides across a triangular plate",
+      "A cube-shaped wooden block slides across a round plate",
+      "A star-shaped ice block slides across a round plate",
+      "A cube-shaped metal block slides across a round plate"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "An S-shaped logo spins above a cube-shaped building",
+    "id": "0169",
+    "negative_prompt": [
+      "An circular-shaped logo spins above a cube-shaped building",
+      "An S-shaped logo spins above a pyramid-shaped building",
+      "An triangular-shaped logo spins above a cube-shaped building",
+      "An S-shaped logo spins above a sphere-shaped building",
+      "An star-shaped logo spins above a cube-shaped building",
+      "An S-shaped logo spins above a cylindrical-shaped building",
+      "An oval-shaped logo spins above a cube-shaped building",
+      "An S-shaped logo spins above a dome-shaped building"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A circular mirror reflects a cat lounging on a square cushion",
+    "id": "0170",
+    "negative_prompt": [
+      "A square mirror reflects a cat lounging on a square cushion",
+      "A rectangular mirror reflects a cat lounging on a square cushion",
+      "An oval mirror reflects a cat lounging on a square cushion",
+      "A triangular mirror reflects a cat lounging on a square cushion",
+      "A circular mirror reflects a cat lounging on a circular cushion",
+      "A circular mirror reflects a cat lounging on a rectangular cushion",
+      "A circular mirror reflects a cat lounging on an oval cushion",
+      "A circular mirror reflects a cat lounging on a triangular cushion"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cylindrical vase tips over as a playful kitten with a triangular hat pounces on it",
+    "id": "0171",
+    "negative_prompt": [
+      "A cuboid vase tips over as a playful kitten with a triangular hat pounces on it",
+      "A spherical vase tips over as a playful kitten with a triangular hat pounces on it",
+      "A conical vase tips over as a playful kitten with a triangular hat pounces on it",
+      "A pyramidal vase tips over as a playful kitten with a triangular hat pounces on it",
+      "A cylindrical vase tips over as a playful kitten with a circular hat pounces on it",
+      "A cylindrical vase tips over as a playful kitten with a square hat pounces on it",
+      "A cylindrical vase tips over as a playful kitten with a rectangular hat pounces on it",
+      "A cylindrical vase tips over as a playful kitten with an octagonal hat pounces on it"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A round Rubik's cube spins beside a heart-shaped alarm clock",
+    "id": "0172",
+    "negative_prompt": [
+      "A square Rubik's cube spins beside a heart-shaped alarm clock",
+      "A triangular Rubik's cube spins beside a heart-shaped alarm clock",
+      "A hexagonal Rubik's cube spins beside a heart-shaped alarm clock",
+      "A rectangular Rubik's cube spins beside a heart-shaped alarm clock",
+      "A round Rubik's cube spins beside a square-shaped alarm clock",
+      "A round Rubik's cube spins beside a star-shaped alarm clock",
+      "A round Rubik's cube spins beside an oval-shaped alarm clock",
+      "A round Rubik's cube spins beside a pyramidal alarm clock"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A fan-shaped window casts light onto a star-shaped bottle",
+    "id": "0173",
+    "negative_prompt": [
+      "A square-shaped window casts light onto a star-shaped bottle",
+      "A fan-shaped window casts light onto a round-shaped bottle",
+      "A round-shaped window casts light onto a star-shaped bottle",
+      "A fan-shaped window casts light onto a square-shaped bottle",
+      "A rectangular-shaped window casts light onto a star-shaped bottle",
+      "A fan-shaped window casts light onto a cylindrical-shaped bottle",
+      "A triangular-shaped window casts light onto a star-shaped bottle",
+      "A fan-shaped window casts light onto a pyramid-shaped bottle"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A square watermelon and a heart-shaped peach balance carefully on a stool, wobbling with each movement",
+    "id": "0174",
+    "negative_prompt": [
+      "A round watermelon and a heart-shaped peach balance carefully on a stool, wobbling with each movement",
+      "A square watermelon and a circular peach balance carefully on a stool, wobbling with each movement",
+      "A triangular watermelon and a heart-shaped peach balance carefully on a stool, wobbling with each movement",
+      "A square watermelon and a square peach balance carefully on a stool, wobbling with each movement",
+      "A cylindrical watermelon and a heart-shaped peach balance carefully on a stool, wobbling with each movement",
+      "A square watermelon and a star-shaped peach balance carefully on a stool, wobbling with each movement",
+      "A oblong watermelon and a heart-shaped peach balance carefully on a stool, wobbling with each movement",
+      "A square watermelon and a rectangular peach balance carefully on a stool, wobbling with each movement"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cuboid balloon drifts past a circular window, sunlight streaming through the glass panes",
+    "id": "0175",
+    "negative_prompt": [
+      "A spherical balloon drifts past a circular window, sunlight streaming through the glass panes",
+      "A cuboid balloon drifts past a square window, sunlight streaming through the glass panes",
+      "A triangular balloon drifts past a circular window, sunlight streaming through the glass panes",
+      "A cuboid balloon drifts past a rectangular window, sunlight streaming through the glass panes",
+      "A conical balloon drifts past a circular window, sunlight streaming through the glass panes",
+      "A cuboid balloon drifts past a hexagonal window, sunlight streaming through the glass panes",
+      "A pyramidal balloon drifts past a circular window, sunlight streaming through the glass panes",
+      "A cuboid balloon drifts past an oval window, sunlight streaming through the glass panes"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A metallic apple rolls across a woven picnic blanket in a garden",
+    "id": "0176",
+    "negative_prompt": [
+      "A metallic box rolls across a woven picnic blanket in a garden",
+      "A metallic banana rolls across a woven picnic blanket in a garden",
+      "A metallic pyramid rolls across a woven picnic blanket in a garden",
+      "A metallic star rolls across a woven picnic blanket in a garden",
+      "A wooden apple rolls across a woven picnic blanket in a garden",
+      "A furry apple rolls across a woven picnic blanket in a garden",
+      "A glass apple rolls across a woven picnic blanket in a garden",
+      "A metallic apple rolls across a plastic picnic blanket in a garden"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A spongy ball bounces near a marble bench",
+    "id": "0177",
+    "negative_prompt": [
+      "A spongy cube bounces near a marble bench",
+      "A spongy pyramid bounces near a marble bench",
+      "A spongy disc bounces near a marble bench",
+      "A spongy star bounces near a marble bench",
+      "A metallic ball bounces near a marble bench",
+      "A glassy ball bounces near a marble bench",
+      "A spongy ball bounces near a wooden bench",
+      "A spongy ball bounces near a fabric bench"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A marble teapot pours tea into a parchment cup, steam rising into the crisp morning air",
+    "id": "0178",
+    "negative_prompt": [
+      "A marble jug pours tea into a parchment cup, steam rising into the crisp morning air",
+      "A marble teapot pours tea into a parchment bowl, steam rising into the crisp morning air",
+      "A marble kettle pours tea into a parchment cup, steam rising into the crisp morning air",
+      "A woolen teapot pours tea into a parchment cup, steam rising into the crisp morning air",
+      "A marble teapot pours tea into a metallic cup, steam rising into the crisp morning air",
+      "A marble teapot pours tea into a parchment cup, steam rising into the humid morning air",
+      "A sandy teapot pours tea into a parchment cup, steam rising into the crisp morning air",
+      "A marble teapot pours tea into a plastic cup, steam rising into the crisp morning air"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A leathery umbrella spins beside a bamboo bridge",
+    "id": "0179",
+    "negative_prompt": [
+      "A silky umbrella spins beside a bamboo bridge",
+      "A spongy umbrella spins beside a bamboo bridge",
+      "A metallic umbrella spins beside a bamboo bridge",
+      "A woolen umbrella spins beside a bamboo bridge",
+      "A leathery umbrella spins beside a steel bridge",
+      "A leathery umbrella spins beside a glass bridge",
+      "A leathery umbrella spins beside a fabric bridge",
+      "A leathery umbrella spins beside a rock bridge"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A feathered pillow floats beside a clay sculpture, drifting peacefully in the gentle breeze",
+    "id": "0180",
+    "negative_prompt": [
+      "A spiky pillow floats beside a clay sculpture, drifting peacefully in the gentle breeze",
+      "A feathered pillow floats beside a glass sculpture, drifting peacefully in the gentle breeze",
+      "A metallic pillow floats beside a clay sculpture, drifting peacefully in the gentle breeze",
+      "A feathered pillow floats beside a wooden sculpture, drifting peacefully in the gentle breeze",
+      "A stone pillow floats beside a clay sculpture, drifting peacefully in the gentle breeze",
+      "A feathered pillow floats beside a fabric sculpture, drifting peacefully in the gentle breeze",
+      "A plastic pillow floats beside a clay sculpture, drifting peacefully in the gentle breeze",
+      "A feathered pillow floats beside an ice sculpture, drifting peacefully in the gentle breeze"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A lacy curtain billows beside a wooden vase, catching the breeze from the open window",
+    "id": "0181",
+    "negative_prompt": [
+      "A coarse curtain billows beside a wooden vase, catching the breeze from the open window",
+      "A smooth curtain billows beside a wooden vase, catching the breeze from the open window",
+      "A solid curtain billows beside a wooden vase, catching the breeze from the open window",
+      "A burlap curtain billows beside a wooden vase, catching the breeze from the open window",
+      "A velvet curtain billows beside a wooden vase, catching the breeze from the open window",
+      "A lacy curtain billows beside a glass vase, catching the breeze from the open window",
+      "A lacy curtain billows beside a metal vase, catching the breeze from the open window",
+      "A lacy curtain billows beside a ceramic vase, catching the breeze from the open window"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cardboard plane glides over a woven rug",
+    "id": "0182",
+    "negative_prompt": [
+      "A cardboard sphere glides over a woven rug",
+      "A cardboard cube glides over a woven rug",
+      "A cardboard plane glides over a woven column",
+      "A cardboard plane glides over a woven pyramid",
+      "A metallic plane glides over a woven rug",
+      "A glass plane glides over a woven rug",
+      "A cardboard plane glides over a polished rug",
+      "A cardboard plane glides over a concrete rug"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A glass apple tumbles from a wicker basket",
+    "id": "0183",
+    "negative_prompt": [
+      "A glass cube tumbles from a wicker basket",
+      "A glass banana tumbles from a wicker basket",
+      "A glass apple tumbles from a wicker box",
+      "A glass apple tumbles from a wicker tray",
+      "A stone apple tumbles from a wicker basket",
+      "A wooden apple tumbles from a wicker basket",
+      "A glass apple tumbles from a metal basket",
+      "A glass apple tumbles from a plastic basket"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A woolen hat flies off a wooden bench, carried away by a sudden gust of wind",
+    "id": "0184",
+    "negative_prompt": [
+      "A metallic hat flies off a wooden bench, carried away by a sudden gust of wind",
+      "A plastic hat flies off a wooden bench, carried away by a sudden gust of wind",
+      "A silken hat flies off a wooden bench, carried away by a sudden gust of wind",
+      "A papery hat flies off a wooden bench, carried away by a sudden gust of wind",
+      "A woolen hat flies off a metallic bench, carried away by a sudden gust of wind",
+      "A woolen hat flies off a stone bench, carried away by a sudden gust of wind",
+      "A woolen hat flies off a fabric bench, carried away by a sudden gust of wind",
+      "A woolen hat flies off a plastic bench, carried away by a sudden gust of wind"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A rubbery duck swims in a marble pool",
+    "id": "0185",
+    "negative_prompt": [
+      "A metallic duck swims in a marble pool",
+      "A rubbery duck swims in a wooden pool",
+      "A glass duck swims in a marble pool",
+      "A rubbery duck swims in a concrete pool",
+      "A brittle duck swims in a marble pool",
+      "A rubbery duck swims in a sandy pool",
+      "A fluffy duck swims in a marble pool",
+      "A rubbery duck swims in an ice pool"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A wooden ladder tips over beside a clay statue",
+    "id": "0186",
+    "negative_prompt": [
+      "A metal ladder tips over beside a clay statue",
+      "A plastic ladder tips over beside a clay statue",
+      "A wooden ladder tips over beside a stone statue",
+      "A wooden ladder tips over beside a bronze statue",
+      "A wooden stool tips over beside a clay statue",
+      "A wooden ramp tips over beside a clay statue",
+      "A wooden ladder tips over beside a clay cube",
+      "A wooden ladder tips over beside a clay vase"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A cardboard castle collapses as a rubbery ball crashes into it",
+    "id": "0187",
+    "negative_prompt": [
+      "A metallic castle collapses as a rubbery ball crashes into it",
+      "A cardboard castle collapses as a glassy ball crashes into it",
+      "A cardboard pyramid collapses as a rubbery ball crashes into it",
+      "A cardboard castle collapses as a rubbery cube crashes into it",
+      "A stone castle collapses as a rubbery ball crashes into it",
+      "A cardboard castle collapses as a wooden ball crashes into it",
+      "A cardboard tower collapses as a rubbery ball crashes into it",
+      "A cardboard castle collapses as a rubbery disc crashes into it"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A man in the leather jacket pours coffee into a ceramic mug, steam rising in gentle curls",
+    "id": "0188",
+    "negative_prompt": [
+      "A woman in the leather jacket pours coffee into a ceramic mug, steam rising in gentle curls",
+      "A robot in the leather jacket pours coffee into a ceramic mug, steam rising in gentle curls",
+      "A man in the denim jacket pours coffee into a ceramic mug, steam rising in gentle curls",
+      "A man in the fur jacket pours coffee into a ceramic mug, steam rising in gentle curls",
+      "A man in the leather jacket pours coffee into a glass mug, steam rising in gentle curls",
+      "A man in the leather jacket pours coffee into a metal mug, steam rising in gentle curls",
+      "A man in the leather jacket pours coffee into a ceramic mug, steam rising in straight lines",
+      "A man in the leather jacket pours coffee into a ceramic mug, steam rising in dense clouds"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A glass teapot pours tea into a ceramic teacup",
+    "id": "0189",
+    "negative_prompt": [
+      "A wooden teapot pours tea into a ceramic teacup",
+      "A metal teapot pours tea into a ceramic teacup",
+      "A glass teapot pours tea into a plastic teacup",
+      "A glass teapot pours tea into a stone teacup",
+      "A glass pitcher pours tea into a ceramic teacup",
+      "A glass kettle pours tea into a ceramic teacup",
+      "A glass teapot pours tea into a ceramic bowl",
+      "A glass teapot pours tea into a ceramic mug"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A paper cup pours milk into a glass vase, the liquid swirling and splashing inside",
+    "id": "0190",
+    "negative_prompt": [
+      "A paper box pours milk into a glass vase, the liquid swirling and splashing inside",
+      "A paper cup pours milk into a glass bottle, the liquid swirling and splashing inside",
+      "A paper bowl pours milk into a glass vase, the liquid swirling and splashing inside",
+      "A paper cup pours milk into a glass basin, the liquid swirling and splashing inside",
+      "A metal cup pours milk into a glass vase, the liquid swirling and splashing inside",
+      "A paper cup pours milk into a wooden vase, the liquid swirling and splashing inside",
+      "A ceramic cup pours milk into a glass vase, the liquid swirling and splashing inside",
+      "A paper cup pours milk into a plastic vase, the liquid swirling and splashing inside"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A grandmother wearing pearl earrings next to her granddaughter in a colorful sweater, sharing family stories",
+    "id": "0191",
+    "negative_prompt": [
+      "A statue wearing pearl earrings next to her granddaughter in a colorful sweater, sharing family stories",
+      "A grandmother wearing pearl earrings next to her dog in a colorful sweater, sharing family stories",
+      "A grandmother wearing pearl earrings next to her granddaughter in a black-and-white sweater, sharing family stories",
+      "A grandmother wearing cube earrings next to her granddaughter in a colorful sweater, sharing family stories",
+      "A grandmother wearing bumpy earrings next to her granddaughter in a colorful sweater, sharing family stories",
+      "A robot wearing pearl earrings next to her granddaughter in a colorful sweater, sharing family stories",
+      "A grandmother wearing pearl earrings next to her granddaughter in a single-hued sweater, sharing family stories",
+      "A grandmother wearing jagged earrings next to her granddaughter in a colorful sweater, sharing family stories"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A man in a suit and tie talks with a woman in a blouse and trousers at a networking event",
+    "id": "0192",
+    "negative_prompt": [
+      "A child in a suit and tie talks with a woman in a blouse and trousers at a networking event",
+      "A robot in a suit and tie talks with a woman in a blouse and trousers at a networking event",
+      "An animal in a suit and tie talks with a woman in a blouse and trousers at a networking event",
+      "A ghost in a suit and tie talks with a woman in a blouse and trousers at a networking event",
+      "A man in a suit and tie talks with a man in a blouse and trousers at a networking event",
+      "A man in a suit and tie talks with a child in a blouse and trousers at a networking event",
+      "A man in a suit and tie talks with a robot in a blouse and trousers at a networking event",
+      "A man in a suit and tie talks with an animal in a blouse and trousers at a networking event"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl wearing a colorful scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+    "id": "0193",
+    "negative_prompt": [
+      "A girl wearing a monochromatic scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+      "A girl wearing a plain scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+      "A girl wearing a dull scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+      "A girl wearing a colorless scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+      "A woman wearing a colorful scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+      "A girl wearing a colorful scarf giggles with a man in a cute hat as they play with a puppy in the park",
+      "An elderly woman wearing a colorful scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+      "A girl wearing a colorful scarf giggles with an elderly man in a cute hat as they play with a puppy in the park"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A boy in a superhero costume jumps excitedly next to a girl with long braids",
+    "id": "0194",
+    "negative_prompt": [
+      "A man in a superhero costume jumps excitedly next to a girl with long braids",
+      "A dog in a superhero costume jumps excitedly next to a girl with long braids",
+      "A statue in a superhero costume jumps excitedly next to a girl with long braids",
+      "A boy in a superhero costume jumps excitedly next to a woman with long braids",
+      "A boy in a superhero costume jumps excitedly next to a cat with long braids",
+      "A boy in a superhero costume jumps excitedly next to a robot with long braids",
+      "A boy in a superhero costume jumps excitedly next to a girl with short hair",
+      "A boy in a superhero costume jumps excitedly next to a girl with a bald head"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A grandmother wearing a cozy sweater shares cookies with her grandson in pajamas, both enjoying a quiet afternoon at home",
+    "id": "0195",
+    "negative_prompt": [
+      "A grandmother wearing a rough sweater shares cookies with her grandson in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing a scratchy sweater shares cookies with her grandson in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing a stiff sweater shares cookies with her grandson in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing an uncomfortable sweater shares cookies with her grandson in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing a cozy sweater shares cookies with a complete stranger in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing a cozy sweater shares cookies with her opponent in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing a cozy sweater shares cookies with her rival in pajamas, both enjoying a quiet afternoon at home",
+      "A grandmother wearing a cozy sweater shares cookies with a captive in pajamas, both enjoying a quiet afternoon at home"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A girl wearing sunglasses plays a guitar next to a boy in tank top, strumming along in the summer breeze",
+    "id": "0196",
+    "negative_prompt": [
+      "A man wearing sunglasses plays a guitar next to a boy in tank top, strumming along in the summer breeze",
+      "A woman wearing sunglasses plays a guitar next to a boy in tank top, strumming along in the summer breeze",
+      "A robot wearing sunglasses plays a guitar next to a boy in tank top, strumming along in the summer breeze",
+      "A dog wearing sunglasses plays a guitar next to a boy in tank top, strumming along in the summer breeze",
+      "A girl wearing sunglasses plays a guitar next to a man in tank top, strumming along in the summer breeze",
+      "A girl wearing sunglasses plays a guitar next to a woman in tank top, strumming along in the summer breeze",
+      "A girl wearing sunglasses plays a guitar next to a robot in tank top, strumming along in the summer breeze",
+      "A girl wearing sunglasses plays a guitar next to a cat in tank top, strumming along in the summer breeze"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A woman with curly hair helps a toddler in a cute onesie pick flowers in a sunny garden",
+    "id": "0197",
+    "negative_prompt": [
+      "A man with curly hair helps a toddler in a cute onesie pick flowers in a sunny garden",
+      "A woman with curly hair helps an elderly person in a cute onesie pick flowers in a sunny garden",
+      "A woman with straight hair helps a toddler in a cute onesie pick flowers in a sunny garden",
+      "A bald woman helps a toddler in a cute onesie pick flowers in a sunny garden",
+      "A woman with curly hair helps a toddler in a cute onesie pick square flowers in a sunny garden",
+      "A woman with curly hair helps a toddler in a cute onesie pick triangular flowers in a sunny garden",
+      "A woman with curly hair helps a toddler in a cute onesie pick flowers in a dark garden",
+      "A woman with curly hair helps a toddler in a cute onesie pick flowers in a gloomy garden"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A prince in formal attire greets a princess in a beautiful gown, both smiling at the royal ball",
+    "id": "0198",
+    "negative_prompt": [
+      "A robot in formal attire greets a princess in a beautiful gown, both smiling at the royal ball",
+      "A prince in formal attire greets a dog in a beautiful gown, both smiling at the royal ball",
+      "A statue in formal attire greets a princess in a beautiful gown, both smiling at the royal ball",
+      "A prince in formal attire greets a monster in a beautiful gown, both smiling at the royal ball",
+      "An alien in formal attire greets a princess in a beautiful gown, both smiling at the royal ball",
+      "A prince in formal attire greets a mannequin in a beautiful gown, both smiling at the royal ball",
+      "A gargoyle in formal attire greets a princess in a beautiful gown, both smiling at the royal ball",
+      "A prince in formal attire greets a ghost in a beautiful gown, both smiling at the royal ball"
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "An artist in a paint-splattered apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+    "id": "0199",
+    "negative_prompt": [
+      "An artist in a clean apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+      "An artist in a pristine apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+      "A chef in a paint-splattered apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+      "A teacher in a paint-splattered apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+      "A scientist in a paint-splattered apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+      "An artist in a paint-splattered apron demonstrates techniques to a girl in a t-shirt and jeans, both engaged in a creative workshop.",
+      "An artist in a paint-splattered apron demonstrates techniques to an elderly man in a t-shirt and jeans, both engaged in a creative workshop.",
+      "An artist in a paint-splattered apron demonstrates techniques to a dog in a t-shirt and jeans, both engaged in a creative workshop."
+    ]
+  },
+  {
+    "type": "consistent_attr",
+    "prompt": "A scientist in safety goggles examines a sample next to a girl in a scrub top, both working diligently in a laboratory",
+    "id": "0200",
+    "negative_prompt": [
+      "A robot in safety goggles examines a sample next to a girl in a scrub top, both working diligently in a laboratory",
+      "A scientist in safety goggles examines a sample next to a dog in a scrub top, both working diligently in a laboratory",
+      "An alien in safety goggles examines a sample next to a girl in a scrub top, both working diligently in a laboratory",
+      "A scientist in safety goggles examines a sample next to a mannequin in a scrub top, both working diligently in a laboratory",
+      "An ape in safety goggles examines a sample next to a girl in a scrub top, both working diligently in a laboratory",
+      "A scientist in safety goggles examines a sample next to a plant in a scrub top, both working diligently in a laboratory",
+      "A ghost in safety goggles examines a sample next to a girl in a scrub top, both working diligently in a laboratory",
+      "A scientist in safety goggles examines a sample next to a statue in a scrub top, both working diligently in a laboratory"
+    ]
+  }
+]

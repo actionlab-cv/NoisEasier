@@ -1,0 +1,722 @@
+{
+  "a person swimming in ocean": [
+    "a dog sitting on land",
+    "a cat running on grass",
+    "a child flying a kite in the park",
+    "a fish swimming in a lake",
+    "a woman dancing in the desert",
+    "a man sailing on a river",
+    "a teenager diving in a pool",
+    "a baby crawling on the sand"
+  ],
+  "a person giving a presentation to a room full of colleagues": [
+    "a cat delivering a speech to a group of friends",
+    "a teacher providing a lecture to a hall full of students",
+    "a child reciting a poem to an audience of parents",
+    "an artist showcasing a painting to a crowd of admirers",
+    "an athlete demonstrating a technique to a team of competitors",
+    "a chef cooking a meal for a gathering of diners",
+    "a musician performing a song for a theater full of fans",
+    "a scientist explaining a theory to a lab full of researchers"
+  ],
+  "a person washing the dishes": [
+    "a cat washing the dishes",
+    "a person drying the dishes",
+    "a child washing the clothes",
+    "a person cleaning the table",
+    "a dog washing the dishes",
+    "a person washing the car",
+    "an artist washing the dishes",
+    "a person washing the floor"
+  ],
+  "a person eating a burger": [
+    "a dog playing with a ball",
+    "a child reading a book",
+    "a woman painting a canvas",
+    "a chef slicing a vegetable",
+    "a cat sleeping on a couch",
+    "a teacher explaining a lesson",
+    "a man running a marathon",
+    "a group dancing at a party"
+  ],
+  "a person walking in the snowstorm": [
+    "a dog running in the rain",
+    "a child playing in the sand",
+    "a cat sleeping on the couch",
+    "a man biking in the sunlight",
+    "a bird flying through the fog",
+    "a woman jogging in the desert",
+    "a group of people hiking in the forest",
+    "a robot dancing in the gallery"
+  ],
+  "a person drinking coffee in a cafe": [
+    "a cat sleeping on a sofa",
+    "an artist painting a mural on a wall",
+    "a child eating ice cream at a park",
+    "a dog running through a field",
+    "a teacher grading papers in a classroom",
+    "a driver parking a car in a garage",
+    "a chef preparing dinner in a restaurant",
+    "a swimmer diving into a pool"
+  ],
+  "a person playing guitar": [
+    "a child riding a bicycle",
+    "a musician singing opera",
+    "an artist painting a mural",
+    "a teacher explaining grammar",
+    "an athlete running track",
+    "a chef cooking pasta",
+    "a dancer performing ballet",
+    "a woman knitting a scarf"
+  ],
+  "a bicycle leaning against a tree": [
+    "a car parked near a building",
+    "a motorcycle resting by a fence",
+    "a skateboard placed on a bench",
+    "a scooter lying on the grass",
+    "a tricycle supported by a wall",
+    "a unicycle propped up beside a mailbox",
+    "a carriage standing in front of a house",
+    "a quad bike positioned next to a rock"
+  ],
+  "a bicycle gliding through a snowy field": [
+    "a skateboard rolling on a sandy beach",
+    "a motorcycle speeding down a rocky road",
+    "a tricycle floating over a grassy hill",
+    "a scooter bouncing across an icy lake",
+    "a car drifting along a muddy track",
+    "a hoverboard sliding past a dry desert",
+    "a unicycle crawling through a misty valley",
+    "a rollerblader racing along a damp sidewalk"
+  ],
+  "a bicycle slowing down to stop": [
+    "a car speeding up to begin",
+    "a skateboard rolling faster to park",
+    "a train coming to a halt quickly",
+    "a scooter moving away to accelerate",
+    "a motorcycle drifting to fly",
+    "a bus racing ahead to skip",
+    "a tricycle halting abruptly to exit",
+    "an airplane descending rapidly to land"
+  ],
+  "a bicycle accelerating to gain speed": [
+    "a car slowing down to lose speed",
+    "a train moving slowly to come to a stop",
+    "a motorcycle decelerating to reduce speed",
+    "a plane landing to touch down safely",
+    "a skateboard gliding to maintain balance",
+    "a scooter stopping abruptly to avoid obstacles",
+    "a bus cruising to maintain a steady pace",
+    "a horse trotting to prepare for a jump"
+  ],
+  "a car stuck in traffic during rush hour": [
+    "a bicycle parked on the sidewalk at dawn",
+    "a bus moving smoothly during off-peak hours",
+    "a motorcycle racing through the countryside on a sunny day",
+    "a truck loaded with groceries in a parking lot at night",
+    "a train delayed at the station during the morning",
+    "a van blocked by construction on a quiet street",
+    "a scooter abandoned in the rain at midday",
+    "a pickup accelerating down an empty road at twilight"
+  ],
+  "a car turning a corner": [
+    "a bicycle going straight",
+    "a truck reversing a hill",
+    "a plane flying above",
+    "a bus stopping in traffic",
+    "a motorcycle speeding on a highway",
+    "a scooter swerving in a parking lot",
+    "a train arriving at a station",
+    "a van drifting onto a path"
+  ],
+  "a car slowing down to stop": [
+    "a bicycle speeding up to continue",
+    "a truck racing forward to collide",
+    "a train coming to a halt",
+    "a scooter reversing to park",
+    "a motorcycle accelerating to swerve",
+    "a van coasting to drift",
+    "a bus braking to pick up passengers",
+    "a skateboard gliding to a halt"
+  ],
+  "a car accelerating to gain speed": [
+    "a bicycle slowing down to lose momentum",
+    "a train decelerating to reduce velocity",
+    "a truck reversing to decrease pace",
+    "a motorcycle cruising to maintain alignment",
+    "a plane flying to reach altitude",
+    "a bus stopping to pick up passengers",
+    "a van skidding to avoid an obstacle",
+    "a scooter drifting to break free"
+  ],
+  "a motorcycle cruising along a coastal highway": [
+    "a bicycle racing through a mountain road",
+    "a car drifting past a city skyline",
+    "a scooter zooming across a meadow trail",
+    "a truck idling in a desert wasteland",
+    "a skateboard sliding down an urban sidewalk",
+    "a bus stopping at a rural crossroad",
+    "a three-wheeler bouncing over a sandy beach",
+    "an electric bike pedaling past a riverbank"
+  ],
+  "a motorcycle turning a corner": [
+    "a bicycle crossing a street",
+    "a car stopping at a light",
+    "a scooter speeding on a road",
+    "a truck drifting around a bend",
+    "a bus navigating a roundabout",
+    "a skateboard sliding down a hill",
+    "a van reversing into a driveway",
+    "a moped veering off a path"
+  ],
+  "a motorcycle slowing down to stop": [
+    "a bicycle speeding up to continue",
+    "a car turning left to park",
+    "a truck accelerating past the intersection",
+    "a scooter halting to observe",
+    "a bus merging right to turn",
+    "a skateboard rolling backwards to rest",
+    "a moped decreasing speed to swerve",
+    "a train expanding its pace to depart"
+  ],
+  "a motorcycle gliding through a snowy field": [
+    "a bicycle racing across a sandy beach",
+    "a car speeding over a rocky terrain",
+    "a helicopter hovering above a grassy valley",
+    "a truck crawling through a muddy swamp",
+    "a skateboard sliding down a steep hill",
+    "a scooter zooming on a dusty road",
+    "a rollerblader gliding by a sunny park",
+    "a bus driving through a crowded street"
+  ],
+  "a motorcycle accelerating to gain speed": [
+    "a bicycle slowing to lose momentum",
+    "a car decelerating to reduce velocity",
+    "a truck stopping to check its load",
+    "a scooter drifting to maintain balance",
+    "a van turning to change direction",
+    "a bus idling to wait for passengers",
+    "a skateboard rolling to pick up pace",
+    "a hoverboard reversing to backtrack"
+  ],
+  "an airplane soaring through a clear blue sky": [
+    "a bird gliding above a stormy gray sea",
+    "a helicopter hovering over a crowded city",
+    "a balloon drifting across a cloudy white skyline",
+    "a kite floating alongside a sunset orange horizon",
+    "a drone darting beneath a foggy green canopy",
+    "a rocket blasting through a starry black void",
+    "a glider descending over a snowy white mountain",
+    "a jet flying under a polluted brown atmosphere"
+  ],
+  "an airplane taking off": [
+    "a bird flying away",
+    "a helicopter landing",
+    "a car speeding down",
+    "a train departing",
+    "a rocket launching",
+    "a bicycle parked",
+    "a boat arriving",
+    "a drone hovering"
+  ],
+  "an airplane landing smoothly on a runway": [
+    "a train departing quickly from a station",
+    "a bicycle crashing abruptly on a path",
+    "a helicopter hovering clumsily above a field",
+    "a boat racing aggressively toward a dock",
+    "a car stopping abruptly on a highway",
+    "a spaceship launching awkwardly off a platform",
+    "a drone circling erratically over a city",
+    "a sailboat drifting slowly into a harbor"
+  ],
+  "an airplane accelerating to gain speed": [
+    "a train decelerating to lose momentum",
+    "a bicycle gliding to reduce its pace",
+    "a car speeding up to maintain control",
+    "a rocket ascending to reach altitude",
+    "a boat drifting to decrease its velocity",
+    "a helicopter landing to touch down gently",
+    "a scooter halting to stop completely",
+    "a bus idling to conserve fuel"
+  ],
+  "a bus turning a corner": [
+    "a car parking in a lot",
+    "a train crossing a bridge",
+    "a bicycle riding down a hill",
+    "a truck reversing into a driveway",
+    "a motorcycle speeding along a straight road",
+    "a helicopter hovering above a city",
+    "a van maneuvering through a narrow alley",
+    "a scooter drifting on a sidewalk"
+  ],
+  "a bus stuck in traffic during rush hour": [
+    "a bicycle parked on the sidewalk at midnight",
+    "a train speeding through the countryside at dawn",
+    "a car abandoned in a parking lot on a holiday",
+    "a truck driving smoothly on an open highway at noon",
+    "a motorcycle lost in the woods at sunrise",
+    "a tram moving fast through the city at dusk",
+    "a taxi idling at a gas station in the morning",
+    "a van racing down a deserted street at twilight"
+  ],
+  "a bus accelerating to gain speed": [
+    "a bicycle slowing down to lose momentum",
+    "a car coming to a complete stop",
+    "a train decelerating to reduce speed",
+    "a truck reversing to change direction",
+    "a motorcycle speeding up to race ahead",
+    "a skateboard gliding smoothly to maintain pace",
+    "a plane taking off to ascend swiftly",
+    "a boat drifting aimlessly to float along"
+  ],
+  "a train speeding down the tracks": [
+    "a car parked beside the road",
+    "a plane landing on the runway",
+    "a bike slowly moving through the park",
+    "a bus standing still at the station",
+    "a boat drifting across the lake",
+    "a motorcycle revving on the street",
+    "a scooter gliding on the sidewalk",
+    "a tram crawling through the city"
+  ],
+  "a train crossing over a tall bridge": [
+    "a car driving under a small tunnel",
+    "an airplane flying beneath a low overpass",
+    "a boat sailing across a wide river",
+    "a bus stopping in front of a giant statue",
+    "a motorcycle racing along a narrow path",
+    "a bicycle parked beside a busy street",
+    "a truck reversing into a deep garage",
+    "a scooter zooming past a crowded sidewalk"
+  ],
+  "a train accelerating to gain speed": [
+    "a bicycle slowing down to lose momentum",
+    "a car decelerating to reduce velocity",
+    "a plane landing to decrease altitude",
+    "a rocket launching to increase power",
+    "a bus stopping to pick up passengers",
+    "a boat drifting to lose direction",
+    "a truck parked to unload cargo",
+    "a scooter moving forward to gain distance"
+  ],
+  "a truck turning a corner": [
+    "a bicycle going straight",
+    "a car stopping at a signal",
+    "a bus speeding down the highway",
+    "a motorcycle skidding on ice",
+    "a van reversing out of a driveway",
+    "a train departing from the station",
+    "a scooter merging into traffic",
+    "a pedestrian jaywalking across the street"
+  ],
+  "a truck anchored in a tranquil bay": [
+    "a bicycle floating in a stormy ocean",
+    "a car docked in a bustling harbor",
+    "a boat moored in a peaceful lake",
+    "a plane parked in a busy airport",
+    "a bus stranded in a calm river",
+    "a van secured in a lively creek",
+    "a motorcycle tied in a serene inlet",
+    "a scooter secured in a chaotic lagoon"
+  ],
+  "a truck stuck in traffic during rush hour": [
+    "a bicycle parked on a sidewalk at midnight",
+    "a car racing down a highway during a storm",
+    "a bus breaking down on a deserted road at dawn",
+    "a motorcycle weaving through pedestrians in the evening",
+    "a van idling at a red light in the afternoon",
+    "a train stalled on the tracks during a snowstorm",
+    "a scooter speeding past cars on an open road during sunset",
+    "an ambulance maneuvering through an empty street at night"
+  ],
+  "a truck slowing down to stop": [
+    "a bicycle speeding up to accelerate",
+    "a car parking in a garage",
+    "a plane taking off to soar",
+    "a ship drifting away to sail",
+    "a motorcycle halting suddenly to brake",
+    "a bus leaving to travel",
+    "a helicopter hovering above to land",
+    "a van reversing quickly to park"
+  ],
+  "a truck accelerating to gain speed": [
+    "a bicycle slowing down to lose speed",
+    "a car decelerating to reduce velocity",
+    "a motorcycle speeding up to increase pace",
+    "a bus halting to lower momentum",
+    "a scooter revving to boost speed",
+    "a van merging to adjust position",
+    "a train drifting to maintain distance",
+    "a skateboard gliding to keep pace"
+  ],
+  "a boat sailing smoothly on a calm lake": [
+    "a car driving quickly on a busy street",
+    "a bird flying gracefully in a windy sky",
+    "a train moving steadily on a rough track",
+    "a plane landing softly on a turbulent runway",
+    "a bicycle racing fast on a dry road",
+    "a motorcycle accelerating slowly on a crowded highway",
+    "a ship drifting gently in a stormy ocean",
+    "a bus stopping abruptly on a deserted highway"
+  ],
+  "a boat slowing down to stop": [
+    "a car accelerating away from a barrier",
+    "a plane taking off to soar",
+    "a train speeding up to depart",
+    "a bicycle coasting to a start",
+    "a truck reversing quickly past a signal",
+    "a motorcycle halting abruptly at a curb",
+    "a ship drifting away from the dock",
+    "a jet skiing racing towards the shore"
+  ],
+  "a boat accelerating to gain speed": [
+    "a car decelerating to lose momentum",
+    "a plane gliding to reduce altitude",
+    "a bicycle stopping to rest",
+    "a train slowing down to come to a halt",
+    "a skateboard rotating to perform tricks",
+    "a horse trotting to maintain pace",
+    "a drone hovering to capture images",
+    "a bus reversing to find a spot"
+  ],
+  "a bird soaring gracefully in the sky": [
+    "a fish swimming swiftly in the ocean",
+    "a plane diving aggressively in the clouds",
+    "a cat jumping playfully on the ground",
+    "a dog running energetically in the park",
+    "a butterfly fluttering delicately in the garden",
+    "a kite drifting smoothly in the breeze",
+    "a squirrel climbing nimbly on the tree",
+    "a fox trotting confidently on the path"
+  ],
+  "a bird building a nest from twigs and leaves": [
+    "a cat chasing a mouse through the grass",
+    "a fish hiding in a coral reef",
+    "a dog digging a hole in the sand",
+    "a squirrel gathering acorns for winter",
+    "an elephant trumpeting in the savannah",
+    "a rabbit hopping across a field of flowers",
+    "a turtle swimming in a lake",
+    "a monkey swinging from branches in a jungle"
+  ],
+  "a bird flying over a snowy forest": [
+    "a fish swimming under a sandy beach",
+    "a cat jumping across a vibrant meadow",
+    "a plane soaring above a bustling city",
+    "a dog running through a tropical jungle",
+    "a butterfly hovering near a rocky cliff",
+    "a drone racing in a sunny park",
+    "a squirrel climbing up a tall mountain",
+    "a horse trotting along a misty riverbank"
+  ],
+  "a cat grooming itself meticulously with its tongue": [
+    "a dog playing happily with a ball",
+    "a bird preening its feathers casually with its beak",
+    "a rabbit eating a carrot quickly with its teeth",
+    "a horse galloping swiftly across the field",
+    "a lion resting lazily under a tree",
+    "a fish swimming gracefully in the aquarium",
+    "a monkey swinging playfully from a branch",
+    "a turtle basking peacefully on a rock"
+  ],
+  "a cat playing in park": [
+    "a dog sleeping on beach",
+    "a bird flying over mountain",
+    "a rabbit hopping through forest",
+    "a child drawing at home",
+    "a monkey swinging in jungle",
+    "a fox running in desert",
+    "a fish swimming in river",
+    "a turtle sunbathing on rock"
+  ],
+  "a cat drinking water": [
+    "a dog eating food",
+    "a bird flying in the air",
+    "a rabbit hopping on the ground",
+    "a mouse hiding in the grass",
+    "a fish swimming in the ocean",
+    "a horse galloping through a field",
+    "a turtle sunbathing on a rock",
+    "a lizard climbing a tree"
+  ],
+  "a cat running happily": [
+    "a dog sleeping quietly",
+    "a rabbit hopping nervously",
+    "a bird flying slowly",
+    "a turtle crawling swiftly",
+    "a mouse sitting still",
+    "a horse trotting playfully",
+    "a fox pouncing angrily",
+    "a lion lounging menacingly"
+  ],
+  "a dog enjoying a peaceful walk": [
+    "a cat struggling in a chaotic run",
+    "a bird observing a loud flight",
+    "a rabbit ignoring a busy jog",
+    "a horse relaxing on a tense sprint",
+    "a turtle embarking on a swift race",
+    "a fish celebrating a turbulent swim",
+    "a monkey contemplating a frantic chase",
+    "a lizard rushing through a serene crawl"
+  ],
+  "a dog playing in park": [
+    "a cat sleeping on a sofa",
+    "a rabbit hopping across a field",
+    "a horse trotting in a stable",
+    "a bird singing in a tree",
+    "a child running through a playground",
+    "a fish swimming in a pond",
+    "a tortoise crawling in the garden",
+    "a monkey swinging in the jungle"
+  ],
+  "a dog drinking water": [
+    "a cat playing with yarn",
+    "a bird singing in a tree",
+    "a rabbit eating carrots",
+    "a horse galloping on a field",
+    "a fish swimming in the ocean",
+    "a monkey climbing a vine",
+    "a turtle basking in the sun",
+    "a lizard hiding in the grass"
+  ],
+  "a dog running happily": [
+    "a cat sleeping peacefully",
+    "a bird flying stressed",
+    "a horse trotting joyfully",
+    "a rabbit jumping nervously",
+    "a fish swimming cautiously",
+    "a turtle crawling slowly",
+    "a monkey swinging angrily",
+    "a goat climbing reluctantly"
+  ],
+  "a horse bending down to drink water from a river": [
+    "a cat climbing up to play with a ball in a park",
+    "a dog jumping over to fetch a stick from a lake",
+    "an elephant standing still to eat grass in a field",
+    "a goat running away from chasing a butterfly on a road",
+    "a bird flying down to catch insects from a tree",
+    "a cow laying down to rest in a barn",
+    "a rabbit hopping across to nibble on a carrot in a garden",
+    "a lion crouching low to stalk a gazelle on a savannah"
+  ],
+  "a horse galloping across an open field": [
+    "a cat sleeping on a crowded street",
+    "a bird flying over a closed park",
+    "a dog walking through a dense forest",
+    "a rabbit hopping around a busy market",
+    "a cow resting beside a flowing river",
+    "a deer trotting along a narrow path",
+    "a fox sprinting through a quiet village",
+    "a turtle crawling over a sandy beach"
+  ],
+  "a horse taking a peaceful walk": [
+    "a dog running a restless sprint",
+    "a cat lounging a tense nap",
+    "a rabbit jumping an anxious race",
+    "a cow grazing a hurried meal",
+    "a turtle swimming a chaotic dash",
+    "a bird flying a frantic escape",
+    "a monkey climbing an agitated tree",
+    "a deer trotting a worried dash"
+  ],
+  "a horse running to join a herd of its kind": [
+    "a dog sleeping next to a pack of its breed",
+    "a cat jumping to catch a group of its prey",
+    "a cow wandering away from a flock of its peers",
+    "a bird flying to meet a colony of its species",
+    "a rabbit hopping to escape a group of its predators",
+    "a turtle crawling to follow a line of its kind",
+    "a lion chasing to confront a pride of its kind",
+    "a fish swimming to explore a school of its relatives"
+  ],
+  "a sheep bending down to drink water from a river": [
+    "a cat standing up to eat food from a bowl",
+    "a horse jumping over to play in a field",
+    "a dog lying down to rest on the grass",
+    "a goat climbing up to reach fruit from a tree",
+    "a cow walking away to search for shelter in a barn",
+    "a rabbit hopping around to sniff flowers in a garden",
+    "a deer grazing slowly to observe the surroundings in a forest",
+    "a bird flapping its wings to catch insects in the air"
+  ],
+  "a sheep taking a peaceful walk": [
+    "a cat chasing a playful butterfly",
+    "a dog running a hectic race",
+    "a rabbit enjoying a relaxing nap",
+    "a horse galloping a frantic journey",
+    "a bird building a noisy nest",
+    "a cow grazing a chaotic field",
+    "a fox sneaking a careful approach",
+    "a turtle swimming a swift current"
+  ],
+  "a sheep running to join a herd of its kind": [
+    "a dog walking away from a pack of its species",
+    "a horse galloping to chase a group of its mates",
+    "a cat sitting to observe a flock of its friends",
+    "a goat jumping to meet a crowd of its relatives",
+    "a rabbit hiding from a bunch of its peers",
+    "a cow strolling to greet a gang of its companions",
+    "a pig sprinting toward a family of its kind",
+    "a chicken creeping to follow a squad of its flock"
+  ],
+  "a cow bending down to drink water from a river": [
+    "a horse standing up to eat grass from a field",
+    "a dog leaping up to fetch a ball from the ground",
+    "a cat sitting still to observe birds in a tree",
+    "a goat climbing rocks to find food on a mountain",
+    "a sheep lying down to rest on a farm",
+    "a pig running fast to find shelter from rain",
+    "a deer jumping high to catch leaves from a bush",
+    "a chicken pecking slowly to find seeds on the soil"
+  ],
+  "a cow chewing cud while resting in a tranquil barn": [
+    "a horse galloping wildly in a bustling city",
+    "a dog barking viciously while playing in a noisy park",
+    "a cat sleeping peacefully on a vibrant sofa",
+    "a sheep grazing grass while standing in a crowded field",
+    "a goat climbing rocks while running through a chaotic market",
+    "a pig rolling in mud while wandering in a busy street",
+    "a rabbit nibbling carrots while hiding in a sunny garden",
+    "a chicken flapping wings while flying over a serene lake"
+  ],
+  "a cow running to join a herd of its kind": [
+    "a horse galloping to leave a pack of its kind",
+    "a dog walking to meet a group of its species",
+    "a cat jumping to follow a family of its type",
+    "a sheep trotting to connect with a flock of its breed",
+    "a pig crawling to escape a bunch of its kind",
+    "a goat climbing to find a clan of its species",
+    "a deer hopping to approach a gathering of its fellow",
+    "a chicken waddling to join a gathering of its kind"
+  ],
+  "an elephant spraying itself with water using its trunk to cool down": [
+    "a lion drinking from a river with its paw to quench its thirst",
+    "a dog rolling in the grass with its body to relax",
+    "a parrot flying above a lake using its wings to explore",
+    "a cat scratching a tree with its claws to sharpen them",
+    "a monkey climbing a tree using its arms to reach higher",
+    "a horse walking in a meadow with its legs to graze peacefully",
+    "a fish swimming through coral using its fins to navigate",
+    "a rabbit digging a hole with its paws to create a burrow"
+  ],
+  "an elephant taking a peaceful walk": [
+    "a cheetah sprinting in a chaotic race",
+    "a giraffe munching on a juicy leaf",
+    "a lion resting in a sunny spot",
+    "a kangaroo hopping energetically",
+    "a zebra standing still in a vibrant field",
+    "a hippo swimming in a tranquil river",
+    "a rabbit exploring a busy garden",
+    "a fox prowling stealthily through a forest"
+  ],
+  "an elephant running to join a herd of its kind": [
+    "a lion walking away from a pride of its kind",
+    "a zebra standing still near a waterhole",
+    "a tiger jumping towards a pack of wolves",
+    "a giraffe grazing under a tree with its mate",
+    "a monkey climbing up a hill to find its group",
+    "a cheetah sprinting past a flock of birds",
+    "a horse trotting along a path to meet a gang of its species",
+    "a bear wandering to find a den of its family"
+  ],
+  "a bear catching a salmon in its powerful jaws": [
+    "a tiger chasing a rabbit with its sharp claws",
+    "a wolf stalking a deer in its keen gaze",
+    "a hawk diving for a rabbit in its swift talons",
+    "a lion hunting an antelope in its fierce grip",
+    "a cat pouncing on a mouse with its agile paws",
+    "a fox sneaking up on a chicken using its stealthy approach",
+    "an eagle swooping down for a fish in its soaring wings",
+    "a crocodile ambushing a bird in its strong jaws"
+  ],
+  "a bear sniffing the air for scents of food": [
+    "a rabbit digging in the ground for hints of danger",
+    "a lion stalking the grass for signs of prey",
+    "a cat lounging on the couch for warmth from the sun",
+    "a dog barking at the door for visitors from afar",
+    "a fox wandering through the forest for traces of water",
+    "a bird flying above the trees for views of the sky",
+    "a turtle crawling along the beach for finds of seashells",
+    "a fish swimming in the ocean for schools of smaller fish"
+  ],
+  "a bear climbing a tree": [
+    "a bird flying a mountain",
+    "a cat jumping a fence",
+    "a dog digging a hole",
+    "a lion running a path",
+    "a turtle sliding a rock",
+    "a fish swimming an ocean",
+    "a fox leaping a hill",
+    "a rabbit hopping a bush"
+  ],
+  "a bear hunting for prey": [
+    "a fox searching for berries",
+    "a deer grazing on grass",
+    "a lion prowling for food",
+    "an eagle scouting for fish",
+    "a rabbit collecting herbs",
+    "a cat stalking a mouse",
+    "a wolf chasing a rabbit",
+    "a shark lurking for seals"
+  ],
+  "a zebra bending down to drink water from a river": [
+    "a lion standing up to eat meat on a mountain",
+    "a giraffe reaching up to sip nectar from a flower",
+    "an elephant squatting down to splash mud in a puddle",
+    "a horse jumping over to graze grass in a field",
+    "a frog sitting still to catch flies from a pond",
+    "a rabbit hopping away to nibble carrots from a garden",
+    "a dog lying down to play fetch with a ball",
+    "a cat climbing up to watch birds from a tree"
+  ],
+  "a zebra running to join a herd of its kind": [
+    "a lion sleeping in a den of its kind",
+    "a rabbit hopping to greet a group of its kind",
+    "a cheetah sprinting away from a pack of its kind",
+    "a whale diving to meet a school of its kind",
+    "a monkey swinging to avoid a troop of its kind",
+    "an elephant charging to confront a clan of its kind",
+    "a fox creeping to stalk a family of its kind",
+    "a shark swimming to attack a pod of its kind"
+  ],
+  "a zebra taking a peaceful walk": [
+    "a lion running a fierce race",
+    "a cheetah lounging in a busy park",
+    "an elephant dancing a joyful jig",
+    "a giraffe sprinting in a crowded field",
+    "a tiger leaping a playful jump",
+    "a bear wandering a tranquil path",
+    "a monkey climbing a tall tree",
+    "a penguin sliding a swift slope"
+  ],
+  "a giraffe bending down to drink water from a river": [
+    "a lion standing tall to drink juice from a lake",
+    "a turtle crawling up to eat food from a pond",
+    "a zebra leaping high to catch a bird from a tree",
+    "an elephant lifting up to spray sand from a desert",
+    "a monkey swinging across to grab fruit from a bush",
+    "a horse trotting slowly to sniff grass from a field",
+    "a crocodile creeping low to search prey from a swamp",
+    "a rabbit hopping quickly to nibble carrots from a garden"
+  ],
+  "a giraffe taking a peaceful walk": [
+    "a lion running a chaotic sprint",
+    "an elephant standing in a noisy crowd",
+    "a zebra jumping a hectic hurdle",
+    "a monkey climbing a rough tree",
+    "a cheetah resting beside a bustling road",
+    "a rabbit hopping through a crowded market",
+    "a bear swimming in a turbulent river",
+    "a kangaroo sitting in a loud park"
+  ],
+  "a giraffe running to join a herd of its kind": [
+    "a lion walking away from a pack of its species",
+    "an elephant galloping to meet a group of its relatives",
+    "a zebra jogging towards a family of its variety",
+    "a cheetah leaping to greet a flock of its peers",
+    "a kangaroo hopping to disperse from a crowd of its kind",
+    "a monkey climbing to escape a troop of its kind",
+    "a bear trudging to leave a colony of its counterparts",
+    "a rabbit scurrying to avoid a warren of its breed"
+  ]
+}
